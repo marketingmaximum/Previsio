@@ -207,6 +207,12 @@ h1,h2,h3,h4{margin:0 0 .4em;font-family:var(--slab);line-height:1.15;color:var(-
 .hero__badge .ico{color:var(--green)}
 .checklist--rich li{align-items:flex-start;line-height:1.45}
 .checklist--rich .ico{margin-top:3px}
+/* "o que você recebe": rótulo forte + descrição curta (escaneável) */
+.recebe li{align-items:flex-start}
+.recebe li>div{display:flex;flex-direction:column;gap:1px}
+.recebe strong{color:#fff;font-weight:700;font-size:1rem}
+.recebe span{color:#c4d2dd;font-size:.9rem;line-height:1.4;font-weight:400}
+.recebe .ico{margin-top:2px}
 .selos{list-style:none;display:flex;flex-wrap:wrap;gap:10px;padding:0;margin:4px 0 24px}
 .selos li{display:flex;align-items:center;gap:8px;font-size:.88rem;font-weight:600;color:#dbe7ef;
   background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.15);padding:8px 13px;border-radius:10px}

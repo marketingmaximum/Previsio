@@ -4,6 +4,8 @@
 > Cliente: Previsio Engenharia · Foco do projeto: **Landing Pages para campanhas** · Data de referência: 31/05/2026
 > Status: versão finalizada. Itens marcados **(a confirmar)** dependem de validação direta com o cliente antes de virarem copy publicada.
 
+> **Atualização 01/06/2026 — validação por reuniões com o cliente (Rodrigo Roveré).** Duas transcrições de reunião comercial (`Lead Conectado - Coda Automação — Reunião 01/02.txt`) confirmaram as decisões centrais deste briefing e da LP-01 (foco NR-12 industrial, posicionamento fim a fim, gatilho de fiscalização, SEO **não** fraco). Ajustes derivados das reuniões estão sinalizados ao longo do texto como **[Reunião 06/2026]**. Pontos-chave novos consolidados na **Seção 15**.
+
 ---
 
 ## 1. Identificação da Empresa
@@ -29,7 +31,9 @@
 
 ## 2. Resumo do Negócio e Modelo
 
-A Previsio é uma empresa de **engenharia** sediada em São Leopoldo/RS que reúne, sob o mesmo fornecedor, três frentes que o mercado costuma vender separadamente: **Segurança do Trabalho (SST)**, **adequação de máquinas (NR-12)** e **automação industrial** (mais NR-10 em instalações elétricas). Equipe multidisciplinar, parcerias estratégicas e atuação em empresas de diversos segmentos no Brasil e no exterior.
+A Previsio é uma empresa de **engenharia de Segurança do Trabalho** sediada em São Leopoldo/RS, cujas frentes são **SST** (PGR, laudos, ergonomia, NR-10, NR-35, NR-33 etc.) e, como carro-chefe comercial, a **adequação de máquinas (NR-12)** — projeto, execução e laudo.
+
+> **[Reunião 06/2026] Correção de posicionamento — automação industrial é da CODA, não da Previsio.** O dono (Rodrigo Roveré) descreve a Previsio como **"empresa de segurança do trabalho"** e a **CODA Automação** (mesmo grupo/mesmo dono) como o braço de **automação industrial e software para indústria**. A NR-12 nasceu *dentro* da CODA em 2010 e foi spin-off para a Previsio (CNPJ em 2016). Implicações: (a) **NÃO** rotular a *empresa* Previsio como "de Automação Industrial" em copy pública; (b) o argumento "execução **com automação de segurança**" (intertravamentos, sensores, CLP de segurança) na adequação NR-12 **continua válido e honesto**; (c) o "sob o mesmo teto / fim a fim com automação" é verdadeiro **no nível de grupo (Previsio + CODA)** — usar cross-branding com CODA na LP só **após autorização do cliente**. A LP-01 já foi ajustada (rótulo de empresa removido; mantido "automação de segurança" no escopo).
 
 **Modelo de receita (interpretação a confirmar):** projetos B2B de ticket variável — desde documentos/laudos obrigatórios (recorrência ligada a eSocial e validade legal) até projetos de engenharia de adequação e automação (CAPEX pontual), com potencial de pós-venda recorrente (manutenção de proteções, contratos de manutenção preventiva/corretiva, novas máquinas).
 
@@ -203,7 +207,12 @@ São Leopoldo (~230 mil hab., 9º PIB do RS) é um dos maiores polos metalmecân
 | Qualidade do lead | % de leads que viram diagnóstico/visita | Definir com o cliente |
 | SEO | evolução de ranqueamento por serviço+cidade | Relatório mensal contratado |
 
-> Metas numéricas de CPL, volume mensal de leads e ROI **(a confirmar)** — dependem de verba, ticket médio e taxa de fechamento informados pelo cliente.
+> **[Reunião 06/2026] Metas e números informados pelo cliente:**
+> - **Faturamento NR-12 hoje:** ~**R$ 200 mil/mês** → **meta R$ 500–600 mil/mês** (≈ dobrar/triplicar). Esta é a meta-norte da campanha de NR-12.
+> - **Demanda atual (orgânico + indicação):** ~5–6 contatos/dia no orgânico entre as duas empresas (**maioria pela Previsio**) + 2–3/dia por indicação/recorrência.
+> - **Taxa de fechamento atual: ~74–75%** — alta **porque o lead orgânico/indicação já chega quente e qualificado** ("não preciso provocar o desejo").
+> - **Implicação para a LP de tráfego pago:** o lead pago chega **mais frio** → esperar **volume maior, mas taxa de fechamento menor** que os 75% do orgânico, exigindo nutrição/follow-up. Calibrar a expectativa do cliente: o objetivo é **escalar volume qualificado**, não replicar os 75%.
+> - CPL, verba e ROI ainda **(a confirmar)** — dependem do investimento definido no onboarding.
 
 ---
 
@@ -277,7 +286,8 @@ As LPs são o destino dos anúncios (Google/Meta) e dos CTAs de e-mail marketing
 
 | # | Pendência | Por que importa | Ação |
 |---|---|---|---|
-| 1 | **Subtítulo da marca**: "Segurança do Trabalho e Meio Ambiente" (guia/site) **vs** "Segurança do Trabalho e Automação Industrial" (APT) | Define o posicionamento e o H1 das LPs. **Escolher entre as DUAS strings exatas existentes — não criar uma terceira** | Decisão do cliente |
+| 1 | **Subtítulo da marca**: "Segurança do Trabalho e Meio Ambiente" (guia/site) **vs** "Segurança do Trabalho e Automação Industrial" (APT). **[Reunião 06/2026]** o dono descreve a Previsio só como **"Segurança do Trabalho"** (automação = CODA) → a string com "Automação Industrial" provavelmente está **errada** para a Previsio. Hipótese principal: subtítulo = "Segurança do Trabalho" (e talvez "e Meio Ambiente") | Define o posicionamento e o H1 das LPs | **Confirmar com o cliente** — LP-01 já está com rodapé só "Segurança do Trabalho" até a resposta |
+| 1b | **Cross-branding Previsio + CODA** na LP (usar "grupo" / citar CODA como braço de automação) | Sustentaria o "fim a fim com automação" de forma honesta | **DECIDIDO 01/06/2026 — NÃO juntar as duas empresas por enquanto.** A LP-01 não cita a CODA em nenhum ponto (nem em comentário do código-fonte). Posicionamento da Previsio = só Segurança do Trabalho; "automação" sempre qualificada como "**automação de segurança**" (intertravamento/sensor/CLP da própria NR-12). Reavaliar só se o cliente pedir |
 | 2 | **Endereço de Porto Alegre** (cartão) é escritório ativo? | Afeta SEO local e rodapé das LPs | Confirmar |
 | 3 | **RT/ART nomeado** para usar em copy | Gatilho de confiança e diferencial vs "só papel" | Confirmar nome/registro |
 | 4 | **Autorização de uso de logos** de clientes | Risco jurídico em faixa de prova social | Confirmar quais marcas podem aparecer |
@@ -296,6 +306,35 @@ As LPs são o destino dos anúncios (Google/Meta) e dos CTAs de e-mail marketing
 - **Dependência de gatilho de compra** (acidente, notificação, auditoria) torna a LP sozinha insuficiente — exige remarketing/PMax e nutrição para capturar quem ainda não foi "gatilhado".
 - **Concorrência de SEO local** já madura (SISTRA e Global com dezenas de LPs por serviço+cidade) — exige consistência de conteúdo técnico para alcançar.
 - **Janela do PGR/NR-1** mudou de natureza: deixou de ser "antecipação ao prazo" e virou "regularização sob fiscalização ativa" — ajustar todo o messaging.
+
+---
+
+## 15. Consolidação das Reuniões com o Cliente (06/2026)
+
+Fatos extraídos das duas transcrições (`Lead Conectado - Coda Automação — Reunião 01/02.txt`) que **complementam ou corrigem** o briefing. Fonte primária = fala do próprio dono (Rodrigo Roveré).
+
+**Estrutura societária (esclarecida):**
+- **CODA Automação** (codrs.com.br — "codrs" = CODA + RS) — 22 anos; automação industrial + **software** (MES, supervisório, rastreabilidade) e **softwares comerciais** novos (Taskflow ~R$ 20/lic./mês; Inventory/gestão de estoque ~R$ 80). A NR-12 nasceu aqui em 2010.
+- **Previsio Engenharia** — spin-off de segurança do trabalho (CNPJ 2016); **carro-chefe = NR-12**. Tem portal de **cursos** (loja, compra no cartão) e **ferramentas.previsio** (calculadoras NR-04/05 grátis).
+- Mesmo dono/grupo. **Automação industrial = CODA. Previsio = segurança do trabalho.** (Ver correção na Seção 2.)
+
+**Foco confirmado da Previsio:** *"tem um monte de soluções, mas a gente vai sempre focar na NR-12"*; PGR/ergonomia explicitamente em **2º plano**. Valida a LP-01 ser 100% NR-12.
+
+**Metas e operação:** ver bloco atualizado na Seção 11 (R$ 200 mil → 500–600 mil/mês; ~5–6 leads/dia orgânicos; fechamento ~75% no orgânico/indicação).
+
+**Geografia da demanda:** o cliente citou fiscalização forte **"principalmente em São Paulo"**. Embora a âncora de marca seja Vale do Sinos/RS, atendem **Brasil inteiro e exterior** → a **mídia paga de NR-12 deve considerar SP** (e não só RS). A LP-01 já diz "atendimento em todo o Brasil".
+
+**Clientes citados (novo):** **Fiat** (somar a Klabin, GM, Honda etc. da lista do APT).
+
+**SEO (reforço da correção):** Ideal Marketing trabalha SEO há ~2 anos; **Previsio ~50% das keywords na 1ª página** (CODA ~83%), inclusive aparecendo em IA/ChatGPT. Confirma que **NÃO era "SEO fraco"**. Site reconhecidamente **poluído/mal estruturado** (concorda com `05-revisao-site`); último blogpost 28/03/2025.
+
+**Infra / hospedagem (impacto operacional):**
+- Sites hoje **hospedados no servidor da Ideal Marketing**; contrato encerra **nov/2026**. Migração planejada para o **HostGator do cliente** mantendo URLs (sem perda de SEO).
+- A LP de campanha entra como **subdomínio próprio** (combinado: `lp.previsio…` / hospedagem própria), **sem depender da Ideal**. → Coerente com a LP-01 já publicada no servidor da Maximum (`agenciamaximum.com/clientes/previsio/lp-01`).
+- **CRM:** cliente sem CRM eficaz ("déficit grande", interno lento) → abre espaço para o **FunnelsFlow** (já há o bloco de config `FORM_ENDPOINT` na LP).
+- **`ferramentas.previsio`** (calculadoras com AdSense) → recomendado converter em **lead magnet** (captura CNPJ+e-mail) — reforça a oferta secundária (Checklist NR-12) da LP-01.
+
+**Subtítulo da marca:** ver Pendência #1 — o dono trata a Previsio como **"Segurança do Trabalho"**; a string "...e Automação Industrial" provavelmente é incorreta para a Previsio. **Evidência adicional:** o próprio arquivo de logotipo usado na LP (`logo-previsio.png`) traz o tagline **"SEGURANÇA DO TRABALHO E MEIO AMBIENTE"** — forte indício de que este é o subtítulo oficial. Confirmar com o cliente mesmo assim.
 
 ---
 

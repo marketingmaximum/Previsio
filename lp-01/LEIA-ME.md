@@ -21,6 +21,9 @@ Agência Maximum · Cliente: Previsio Engenharia.
 ## Como abrir
 Duplo clique em `index.html` (não precisa de servidor).
 
+## ⚠️ Cache ao republicar (servidor LiteSpeed/Hostinger)
+O servidor faz cache agressivo de CSS/JS. **Ao alterar `style.css` ou `main.js`, incremente a versão no `index.html`** (`?v=AAAAMMDD` nos links de `style.css` e `main.js`) — senão o visitante continua recebendo a versão antiga em cache. Versão atual: `?v=20260601`.
+
 ## Assets Freepik (licenciamento)
 - **Foto do hero:** Freepik ID **24332460** (engenheiro + máquina). 
 - **Ícones:** IDs em `assets/icons/_manifest.json`.
