@@ -1,0 +1,21 @@
+# Temporários de verificação/deploy (Playwright, scripts de automação)
+_live/
+_verify/
+_tooling/
+_pdfimg/
+_pdfwork/
+_deploy_*.py
+_*.py
+_*.png
+_*.txt
+
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# SO / editores
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp

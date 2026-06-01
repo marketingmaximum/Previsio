@@ -1,0 +1,58 @@
+{
+ "inventario": [
+  11753244,
+  "Checklist"
+ ],
+ "risco": [
+  16588125,
+  "Exclamation mark"
+ ],
+ "projeto": [
+  885125,
+  "File"
+ ],
+ "execucao": [
+  18942054,
+  "Service"
+ ],
+ "laudo": [
+  13465958,
+  "Award"
+ ],
+ "documentacao": [
+  3397163,
+  "Document"
+ ],
+ "humano": [
+  17242675,
+  "Helmet"
+ ],
+ "financeiro": [
+  4783347,
+  "Coins"
+ ],
+ "juridico": [
+  8798638,
+  "Balance scale"
+ ],
+ "escudo": [
+  6049630,
+  "Check"
+ ],
+ "fabrica": [
+  9092307,
+  "Factory"
+ ],
+ "suporte": [
+  3382321,
+  "Support"
+ ],
+ "relogio": [
+  15723526,
+  "Time"
+ ],
+ "engrenagem": [
+  3222611,
+  "Autonomous"
+ ]
+}
