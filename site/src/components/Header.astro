@@ -1,18 +1,23 @@
 ---
-import { EMPRESA, MENU_PRINCIPAL } from '../config.mjs';
+import { EMPRESA, TEMAS_MENU } from '../config.mjs';
 import { clustersComContagem } from '../lib/conteudo.mjs';
+import { ROTULOS } from '../../tools/extract/taxonomia.mjs';
 
-// Os 6 primeiros clusters ocupam o mega-menu; o restante entra em "Mais".
-const todos = clustersComContagem(MENU_PRINCIPAL);
-const destaque = todos.slice(0, 6);
-const resto = todos.slice(6);
+// Resumo por cluster (pilar + rótulo), para o menu apontar ao hub certo.
+const info = Object.fromEntries(
+  clustersComContagem(TEMAS_MENU.flatMap((t) => t.clusters)).map((c) => [c.id, c]),
+);
+
+// Monta os temas com os clusters que de fato existem, já resolvidos.
+const temas = TEMAS_MENU.map((t) => ({
+  titulo: t.titulo,
+  itens: t.clusters.map((id) => info[id]).filter(Boolean),
+})).filter((t) => t.itens.length);
 ---
 
 <header class="hdr">
   <div class="container hdr__in">
     <a href="/" class="hdr__logo" aria-label="Previsio Engenharia — página inicial">
-      {/* 150x56 respeita a proporção real do arquivo (571x213 = 2,68:1).
-          Antes estava 180x44 (~4:1), que distorcia a marca. */}
       <img src="/img/logo-previsio.png" alt="Previsio Engenharia" width="150" height="56" />
     </a>
 
@@ -24,24 +29,17 @@ const resto = todos.slice(6);
             <svg width="10" height="6" viewBox="0 0 10 6" aria-hidden="true"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.6" fill="none" stroke-linecap="round"/></svg>
           </a>
           <div class="mega__panel">
-            {destaque.map((c) => (
-              <div class="mega__col">
-                <a href={c.pilar} class="mega__ttl">{c.rotulo}</a>
-                <div class="mega__links">
-                  {c.paginas.filter((p) => p.path !== c.pilar).slice(0, 5).map((p) => (
-                    <a href={p.path}>{p.h1}</a>
-                  ))}
+            <div class="mega__grid">
+              {temas.map((t) => (
+                <div class="mega__tema">
+                  <span class="mega__tttl">{t.titulo}</span>
+                  <div class="mega__links">
+                    {t.itens.map((c) => <a href={c.pilar}>{c.rotulo}</a>)}
+                  </div>
                 </div>
-              </div>
-            ))}
-            <div class="mega__col">
-              <span class="mega__ttl">Mais soluções</span>
-              <div class="mega__links">
-                {resto.map((c) => (
-                  <a href={c.pilar}>{c.rotulo}</a>
-                ))}
-              </div>
+              ))}
             </div>
+            <a href="/servicos" class="mega__todas">Ver todas as soluções →</a>
           </div>
         </li>
         <li><a href="/quem-somos">Quem somos</a></li>
@@ -64,29 +62,34 @@ const resto = todos.slice(6);
   </div>
 </header>
 
-{/* Menu mobile off-canvas — a nav do topo desaparece abaixo de 980px */}
+{/* Menu mobile off-canvas — mesmos temas, em acordeão para não virar uma lista gigante */}
 <div class="mnav" id="mnav" hidden>
   <div class="mnav__head">
     <span>Menu</span>
     <button class="mnav__x" type="button" aria-label="Fechar menu">&times;</button>
   </div>
   <nav class="mnav__body" aria-label="Menu mobile">
-    <span class="mnav__grp">Soluções</span>
-    {todos.map((c) => <a href={c.pilar}>{c.rotulo}</a>)}
-    <span class="mnav__grp">Institucional</span>
+    <details class="mnav__sol">
+      <summary>Soluções<span class="mnav__chev" aria-hidden="true"></span></summary>
+      {temas.map((t) => (
+        <div class="mnav__tema">
+          <span class="mnav__grp">{t.titulo}</span>
+          {t.itens.map((c) => <a href={c.pilar}>{c.rotulo}</a>)}
+        </div>
+      ))}
+      <a href="/servicos" class="mnav__todas">Ver todas as soluções →</a>
+    </details>
     <a href="/quem-somos">Quem somos</a>
-    <a href="/servicos">Serviços</a>
     <a href="/artigos">Artigos</a>
-    <a href="/download">Downloads</a>
-    <a href="/contato">Contato</a>
     <a href="https://ferramentas.previsio.com.br" rel="noopener">Ferramentas</a>
+    <a href="/contato">Contato</a>
     <a href="/contato" class="btn btn--green btn--block" style="margin-top:18px">Solicitar orçamento</a>
     <a href={`tel:${EMPRESA.telefoneLink}`} class="mnav__phone" data-evento="click_telefone">{EMPRESA.telefone}</a>
   </nav>
 </div>
 
 <script>
-  // Único JS do header. Toggle do menu mobile + trava de scroll + ESC.
+  // Toggle do menu mobile + trava de scroll + ESC.
   const burger = document.querySelector('.hdr__burger');
   const mnav = document.getElementById('mnav');
   const fechar = () => {

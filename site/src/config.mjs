@@ -36,8 +36,7 @@ export const waLink = (msg = WHATSAPP_MSG) =>
 
 /**
  * Clusters do mega-menu, na ordem de exibição.
- * Os 6 primeiros são o menu principal (§5 do plano); o resto vive em
- * "Mais soluções" e no índice /informacoes.
+ * Usado onde é preciso a lista achatada (rodapé, mapa do site).
  */
 export const MENU_PRINCIPAL = [
   'nr-12',
@@ -58,6 +57,39 @@ export const MENU_PRINCIPAL = [
   'ppramp',
   'cipa-sesmt',
   'treinamentos',
+];
+
+/**
+ * Temas do mega-menu — agrupam os clusters em linguagem simples, pensando no
+ * gestor industrial leigo em siglas de norma. Cada tema mostra poucos itens que
+ * levam ao pilar do cluster; o detalhe fino fica dentro do pilar. Isso troca um
+ * painel de ~35 links por um menu escaneável em segundos.
+ */
+export const TEMAS_MENU = [
+  {
+    titulo: 'Máquinas e movimentação',
+    clusters: ['nr-12', 'loto', 'nr-11'],
+  },
+  {
+    titulo: 'Elétrica e para-raios',
+    clusters: ['nr-10', 'spda'],
+  },
+  {
+    titulo: 'Altura, espaços e emergência',
+    clusters: ['nr-35', 'nr-33', 'emergencia'],
+  },
+  {
+    titulo: 'Saúde e higiene ocupacional',
+    clusters: ['insalubridade', 'higiene', 'respiratoria', 'ergonomia', 'quimicos'],
+  },
+  {
+    titulo: 'Gestão, documentos e eSocial',
+    clusters: ['pgr', 'esocial', 'cipa-sesmt', 'ppramp', 'manutencao'],
+  },
+  {
+    titulo: 'Treinamentos',
+    clusters: ['treinamentos'],
+  },
 ];
 
 /** Descrição curta por cluster — usada nos cards da home e nos pilares. */
