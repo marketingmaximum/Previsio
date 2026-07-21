@@ -1,0 +1,19 @@
+---
+// FAQ acessível (<details> nativo). O rich result de FAQ foi descontinuado
+// pelo Google em 05/2026 (§10 do plano), mas o formato segue valioso para
+// featured snippet e para extração por IA (GEO) — por isso o conteúdo fica no
+// HTML e emitimos o FAQPage como sinal semântico, sem esperar rich result.
+const { itens } = Astro.props;
+---
+
+{itens && itens.length > 0 && (
+  <section class="faq">
+    <h2 class="faq__ttl">Perguntas frequentes</h2>
+    {itens.map((it) => (
+      <details class="faq__i">
+        <summary>{it.q}<span class="faq__toggle" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>{it.a}</p></div>
+      </details>
+    ))}
+  </section>
+)}

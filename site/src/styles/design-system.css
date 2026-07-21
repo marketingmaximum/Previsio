@@ -327,6 +327,44 @@ h1, h2, h3, h4 {
 .trilho__lista a:hover { color: var(--green-d); }
 .trilho__lista a[aria-current='page'] { color: var(--navy); font-weight: 700; }
 
+/* resposta direta — bloco de topo, otimizado para featured snippet e IA */
+.resposta {
+  border-left: 4px solid var(--green);
+  background: var(--soft);
+  border-radius: 0 var(--r-sm) var(--r-sm) 0;
+  padding: 18px 22px;
+  margin-bottom: 30px;
+}
+.resposta p { margin: 0; font-size: 1.08rem; line-height: 1.6; color: var(--ink); }
+
+/* FAQ */
+.faq { margin-top: 44px; }
+.faq__ttl { font-size: 1.4rem; margin-bottom: 16px; }
+.faq__i { border-bottom: 1px solid var(--line); }
+.faq__i:first-of-type { border-top: 1px solid var(--line); }
+.faq__i > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 18px 2px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  font-family: var(--slab);
+  font-weight: 700;
+  color: var(--navy);
+  font-size: 1.04rem;
+}
+.faq__i > summary::-webkit-details-marker { display: none; }
+.faq__toggle { flex: 0 0 auto; width: 13px; height: 13px; position: relative; }
+.faq__toggle::before,
+.faq__toggle::after { content: ''; position: absolute; background: var(--green-d); transition: transform 0.2s; }
+.faq__toggle::before { top: 5.5px; left: 0; width: 13px; height: 2px; }
+.faq__toggle::after { top: 0; left: 5.5px; width: 2px; height: 13px; }
+.faq__i[open] .faq__toggle::after { transform: scaleY(0); }
+.faq__a { padding: 0 2px 18px; }
+.faq__a p { margin: 0; color: var(--muted); }
+
 /* hub de pilar — grade das páginas do cluster */
 .hub { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
 .hub__i {

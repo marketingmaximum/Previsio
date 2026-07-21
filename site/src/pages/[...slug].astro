@@ -1,8 +1,10 @@
 ---
 import Base from '../layouts/Base.astro';
 import Cidades from '../components/Cidades.astro';
+import FAQ from '../components/FAQ.astro';
 import { EMPRESA, waLink } from '../config.mjs';
 import { PAGINAS, porCluster, trilha } from '../lib/conteudo.mjs';
+import { conteudoEnriquecido } from '../conteudo/index.mjs';
 import { ROTULOS } from '../../tools/extract/taxonomia.mjs';
 
 /**
@@ -27,9 +29,16 @@ const { pagina } = Astro.props;
 const caminho = trilha(pagina);
 const irmas = pagina.cluster ? porCluster(pagina.cluster) : [];
 
+// Conteúdo novo, quando existe, tem prioridade sobre o corpo extraído. Sem
+// entrada, cai no original — a migração de copy é incremental, página a página.
+const enriquecido = conteudoEnriquecido(pagina.path);
+
 // As URLs de imagem são preservadas (§3.5 do plano) — só deixo relativas para
 // não apontar ao domínio antigo durante o desenvolvimento.
-const corpo = (pagina.bodyHtml ?? '').replaceAll('https://www.previsio.com.br', '');
+const corpo = (enriquecido?.corpo ?? pagina.bodyHtml ?? '').replaceAll(
+  'https://www.previsio.com.br',
+  '',
+);
 
 const ehArtigo = pagina.tipo === 'artigo';
 const ehPilar = pagina.tipo === 'pilar';
@@ -40,7 +49,7 @@ const rotuloCluster = pagina.cluster ? ROTULOS[pagina.cluster] : null;
 // e cobertura de tópico — SEO e GEO — sem inventar copy.
 const filhas = ehPilar ? irmas.filter((p) => p.path !== pagina.path) : [];
 
-const schema = {
+const breadcrumb = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: caminho.map((c, i) => ({
@@ -50,6 +59,26 @@ const schema = {
     ...(c.href ? { item: `https://www.previsio.com.br${c.href}` } : {}),
   })),
 };
+
+// Com conteúdo enriquecido, um @graph: Breadcrumb + FAQPage (sinal semântico
+// para GEO — o rich result de FAQ acabou, o valor de extração por IA não).
+const schema =
+  enriquecido?.faq?.length
+    ? {
+        '@context': 'https://schema.org',
+        '@graph': [
+          breadcrumb,
+          {
+            '@type': 'FAQPage',
+            mainEntity: enriquecido.faq.map((it) => ({
+              '@type': 'Question',
+              name: it.q,
+              acceptedAnswer: { '@type': 'Answer', text: it.a },
+            })),
+          },
+        ],
+      }
+    : breadcrumb;
 ---
 
 <Base
@@ -91,6 +120,12 @@ const schema = {
             </div>
           )}
 
+          {enriquecido?.resposta && (
+            <div class="resposta">
+              <p>{enriquecido.resposta}</p>
+            </div>
+          )}
+
           <div class="prose" set:html={corpo} />
 
           {ehPilar && filhas.length > 0 && (
@@ -103,6 +138,8 @@ const schema = {
               ))}
             </div>
           )}
+
+          {enriquecido?.faq && <FAQ itens={enriquecido.faq} />}
 
           {pagina.temCidades && <Cidades termo={pagina.h1} />}
 
