@@ -3,7 +3,7 @@ import Base from '../layouts/Base.astro';
 import Cidades from '../components/Cidades.astro';
 import FAQ from '../components/FAQ.astro';
 import { EMPRESA, waLink } from '../config.mjs';
-import { PAGINAS, porCluster, trilha } from '../lib/conteudo.mjs';
+import { PAGINAS, porCluster, trilha, heroDe } from '../lib/conteudo.mjs';
 import { conteudoEnriquecido } from '../conteudo/index.mjs';
 import { ROTULOS } from '../../tools/extract/taxonomia.mjs';
 
@@ -89,7 +89,7 @@ const schema =
 >
   <section class="hero hero--page">
     <div class="hero__media">
-      <img src="/img/hero-interno.jpg" alt="" width="1600" height="1064" />
+      <img src={heroDe(pagina)} alt="" width="1600" height="1064" />
     </div>
     <div class="hero__scrim"></div>
 

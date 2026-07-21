@@ -8,6 +8,21 @@
 
 import { PILARES, ROTULOS } from '../../tools/extract/taxonomia.mjs';
 
+// Heros disponíveis por cluster (public/img/hero/*.jpg). O glob confirma quais
+// existem no build; se um cluster não tiver hero próprio, cai no institucional.
+const HEROS = new Set(
+  Object.keys(import.meta.glob('../../public/img/hero/*.jpg')).map((p) =>
+    p.split('/').pop().replace('.jpg', ''),
+  ),
+);
+
+/** Imagem de hero para uma página, variando por cluster. */
+export function heroDe(pagina) {
+  const c = pagina?.cluster;
+  if (c && HEROS.has(c)) return `/img/hero/${c}.jpg`;
+  return '/img/hero/institucional.jpg';
+}
+
 // import.meta.glob (não fs.readdir): o Vite resolve isso em tempo de build e
 // embute os dados no bundle. Com fs, o módulo empacotado procuraria os JSON
 // dentro de dist/ e o build quebra.
