@@ -1,0 +1,48 @@
+---
+import Base from '../layouts/Base.astro';
+import { porPath } from '../lib/conteudo.mjs';
+
+const pagina = porPath('/download');
+
+// eBooks reais do site atual — links preservados (os PDFs vivem em /pdf/).
+const EBOOKS = [
+  { txt: 'Cartilha SST eSocial', href: '/pdf/Cartilha-SST-e-social.pdf' },
+  { txt: 'O Impacto do Ruído no Ambiente de Trabalho: Danos à Saúde, Legislação e Soluções Práticas', href: '/pdf/ebook-Burnout-correto.pdf' },
+  { txt: 'Guia Prático de Prevenção ao Burnout', href: '/pdf/ebook-ruidos.pdf' },
+];
+---
+
+<Base
+  title={pagina?.title ?? 'Downloads - Previsio Engenharia'}
+  description={pagina?.descriptionCorrigida ?? pagina?.description}
+  canonical="https://www.previsio.com.br/download"
+>
+  <section class="hero hero--page">
+    <div class="hero__media"><img src="/img/hero-interno.jpg" alt="" width="1600" height="1064" /></div>
+    <div class="hero__scrim"></div>
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb"><li><a href="/">Home</a></li><li>Downloads</li></ol>
+        <h1 class="hero__title">Downloads</h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container container--narrow">
+      <div class="sec__head">
+        <span class="eyebrow">Materiais</span>
+        <h2 class="sec__title">Faça download de nossos eBooks</h2>
+      </div>
+      <div class="grid" style="gap:16px">
+        {EBOOKS.map((e) => (
+          <a class="ebook" href={e.href} target="_blank" rel="noopener nofollow">
+            <span class="ebook__ico" aria-hidden="true">↓</span>
+            <span class="ebook__txt">{e.txt}</span>
+            <span class="ebook__pdf">PDF</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>

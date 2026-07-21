@@ -13,7 +13,11 @@ import { ROTULOS } from '../../tools/extract/taxonomia.mjs';
  * prova de que nenhuma URL se perdeu.
  */
 export function getStaticPaths() {
-  return PAGINAS.filter((p) => p.path !== '/').map((p) => ({
+  // Home, institucionais e o índice de artigos têm páginas dedicadas em
+  // src/pages/*.astro — este catch-all cobre só serviços, pilares e posts.
+  // Definido aqui dentro: getStaticPaths roda em escopo isolado no Astro.
+  const DEDICADAS = new Set(['home', 'institucional', 'indice-artigos']);
+  return PAGINAS.filter((p) => !DEDICADAS.has(p.tipo)).map((p) => ({
     params: { slug: p.path.replace(/^\//, '') },
     props: { pagina: p },
   }));
@@ -28,7 +32,13 @@ const irmas = pagina.cluster ? porCluster(pagina.cluster) : [];
 const corpo = (pagina.bodyHtml ?? '').replaceAll('https://www.previsio.com.br', '');
 
 const ehArtigo = pagina.tipo === 'artigo';
+const ehPilar = pagina.tipo === 'pilar';
 const rotuloCluster = pagina.cluster ? ROTULOS[pagina.cluster] : null;
+
+// Pilar = hub do cluster: todas as páginas-irmãs (menos o próprio pilar),
+// que hoje ficam soltas na raiz, viram uma grade navegável. É malha interna
+// e cobertura de tópico — SEO e GEO — sem inventar copy.
+const filhas = ehPilar ? irmas.filter((p) => p.path !== pagina.path) : [];
 
 const schema = {
   '@context': 'https://schema.org',
@@ -73,7 +83,7 @@ const schema = {
     <div class="container">
       <div class="pagina">
         <div>
-          {pagina.imagens.length > 0 && !ehArtigo && (
+          {pagina.imagens.length > 0 && !ehArtigo && !ehPilar && (
             <div class="galeria">
               {pagina.imagens.slice(0, 3).map((img) => (
                 <img src={img.src} alt={img.alt ?? pagina.h1} width={img.width} height={img.height} loading="lazy" />
@@ -82,6 +92,17 @@ const schema = {
           )}
 
           <div class="prose" set:html={corpo} />
+
+          {ehPilar && filhas.length > 0 && (
+            <div class="hub" style="margin-top:28px">
+              {filhas.map((p) => (
+                <a class="hub__i" href={p.path}>
+                  <strong>{p.h1}</strong>
+                  <span aria-hidden="true">→</span>
+                </a>
+              ))}
+            </div>
+          )}
 
           {pagina.temCidades && <Cidades termo={pagina.h1} />}
 
@@ -108,7 +129,8 @@ const schema = {
             </a>
           </div>
 
-          {irmas.length > 1 && (
+          {/* No pilar o hub principal já lista as irmãs — não repetir aqui. */}
+          {!ehPilar && irmas.length > 1 && (
             <div class="trilho__box">
               <h3>{rotuloCluster}</h3>
               <ul class="trilho__lista">

@@ -1,0 +1,62 @@
+---
+import Base from '../layouts/Base.astro';
+import { MENU_PRINCIPAL } from '../config.mjs';
+import { porPath, clustersComContagem, ARTIGOS } from '../lib/conteudo.mjs';
+
+// Mapa HTML — regenerado da lista real, agrupado por cluster. Papel de
+// crawlability (§5). Substitui o sitemap estático quebrado do site atual.
+const pagina = porPath('/mapa-site');
+const clusters = clustersComContagem(MENU_PRINCIPAL);
+---
+
+<Base
+  title={pagina?.title ?? 'Mapa do site - Previsio Engenharia'}
+  description={pagina?.descriptionCorrigida ?? pagina?.description}
+  canonical="https://www.previsio.com.br/mapa-site"
+>
+  <section class="hero hero--page">
+    <div class="hero__media"><img src="/img/hero-interno.jpg" alt="" width="1600" height="1064" /></div>
+    <div class="hero__scrim"></div>
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb"><li><a href="/">Home</a></li><li>Mapa do site</li></ol>
+        <h1 class="hero__title">Mapa do site</h1>
+        <p class="hero__sub" style="margin-bottom:0">Navegue por todo o site da Previsio Engenharia.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container">
+      <div class="mapa">
+        <div class="mapa__col">
+          <h2>Institucional</h2>
+          <ul>
+            <li><a href="/quem-somos">Quem somos</a></li>
+            <li><a href="/servicos">Serviços</a></li>
+            <li><a href="/artigos">Artigos</a></li>
+            <li><a href="/download">Downloads</a></li>
+            <li><a href="/informacoes">Informações</a></li>
+            <li><a href="/contato">Contato</a></li>
+          </ul>
+        </div>
+
+        {clusters.map((c) => (
+          <div class="mapa__col">
+            <h2><a href={c.pilar}>{c.rotulo}</a></h2>
+            <ul>
+              {c.paginas.filter((p) => p.path !== c.pilar).map((p) => (
+                <li><a href={p.path}>{p.h1}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+
+        <div class="mapa__col">
+          <h2><a href="/artigos">Artigos</a></h2>
+          <ul>{ARTIGOS.map((p) => <li><a href={p.path}>{p.h1}</a></li>)}</ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

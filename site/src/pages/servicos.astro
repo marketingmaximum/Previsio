@@ -1,0 +1,50 @@
+---
+import Base from '../layouts/Base.astro';
+import { MENU_PRINCIPAL, DESCRICAO_CLUSTER } from '../config.mjs';
+import { porPath, clustersComContagem } from '../lib/conteudo.mjs';
+
+const pagina = porPath('/servicos');
+const clusters = clustersComContagem(MENU_PRINCIPAL);
+---
+
+<Base
+  title={pagina?.title ?? 'Serviços - Previsio Engenharia'}
+  description={pagina?.descriptionCorrigida ?? pagina?.description}
+  canonical="https://www.previsio.com.br/servicos"
+>
+  <section class="hero hero--page">
+    <div class="hero__media"><img src="/img/hero-interno.jpg" alt="" width="1600" height="1064" /></div>
+    <div class="hero__scrim"></div>
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb"><li><a href="/">Home</a></li><li>Serviços</li></ol>
+        <h1 class="hero__title">Serviços</h1>
+        <p class="hero__sub" style="margin-bottom:0">Soluções de engenharia de segurança do trabalho organizadas por norma.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container">
+      {clusters.map((c) => (
+        <div class="cluster-bloco">
+          <div class="cluster-bloco__head">
+            <div>
+              <h2>{c.rotulo}</h2>
+              <p>{DESCRICAO_CLUSTER[c.id]}</p>
+            </div>
+            <a href={c.pilar} class="btn btn--outline btn--sm">Ver visão geral</a>
+          </div>
+          <div class="hub">
+            {c.paginas.filter((p) => p.path !== c.pilar).map((p) => (
+              <a class="hub__i" href={p.path}>
+                <strong>{p.h1}</strong>
+                <span aria-hidden="true">→</span>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+</Base>

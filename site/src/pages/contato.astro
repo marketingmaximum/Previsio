@@ -1,0 +1,144 @@
+---
+import Base from '../layouts/Base.astro';
+import { EMPRESA, waLink } from '../config.mjs';
+import { porPath } from '../lib/conteudo.mjs';
+
+const pagina = porPath('/contato');
+const e = EMPRESA.endereco;
+
+// LocalBusiness fica na /contato (§10 do plano — o site atual não tem).
+// Sem subtipo: ProfessionalService está deprecado no schema.org.
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'LocalBusiness',
+  name: EMPRESA.nome,
+  url: 'https://www.previsio.com.br/contato',
+  telephone: EMPRESA.telefone,
+  email: EMPRESA.email,
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: `${e.rua} - ${e.bairro}`,
+    addressLocality: e.cidade,
+    addressRegion: e.uf,
+    postalCode: e.cep,
+    addressCountry: 'BR',
+  },
+  areaServed: 'BR',
+};
+
+// Opções preservadas do form atual — "Links patrocinados" é usado pela
+// atribuição de campanha, não remover.
+const ORIGENS = [
+  'Busca do Google', 'Outros Buscadores', 'Links patrocinados', 'Outros Anúncios',
+  'Facebook', 'Twitter', 'Indicação', 'Outros',
+];
+---
+
+<Base
+  title={pagina?.title ?? 'Contato - Previsio Engenharia'}
+  description={pagina?.descriptionCorrigida ?? pagina?.description}
+  canonical="https://www.previsio.com.br/contato"
+  schema={schema}
+>
+  <section class="hero hero--page">
+    <div class="hero__media"><img src="/img/hero-interno.jpg" alt="" width="1600" height="1064" /></div>
+    <div class="hero__scrim"></div>
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb"><li><a href="/">Home</a></li><li>Contato</li></ol>
+        <h1 class="hero__title">Contato</h1>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container">
+      <div class="split" style="align-items:start">
+        <div>
+          <h2 class="sec__title">Tire suas dúvidas e solicite um orçamento</h2>
+          <p style="color:var(--muted)">Entre em contato conosco! Nossos especialistas irão retornar o mais breve possível.</p>
+
+          <ul class="contato__lista">
+            <li>
+              <span class="contato__k">Endereço</span>
+              {e.rua} — {e.bairro}<br />{e.cidade}/{e.uf} · CEP {e.cep}
+            </li>
+            <li>
+              <span class="contato__k">Telefone</span>
+              <a href={`tel:${EMPRESA.telefoneLink}`} data-evento="click_telefone">{EMPRESA.telefone}</a>
+            </li>
+            <li>
+              <span class="contato__k">E-mail</span>
+              <a href={`mailto:${EMPRESA.email}`}>{EMPRESA.email}</a>
+            </li>
+            <li>
+              <span class="contato__k">WhatsApp</span>
+              <a href={waLink()} target="_blank" rel="noopener" data-evento="whatsapp_contato">{EMPRESA.telefone}</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="form-card">
+          <form id="lead-form" novalidate>
+            <div class="campo">
+              <label for="nome">Nome completo *</label>
+              <input id="nome" name="nome" type="text" required />
+            </div>
+            <div class="campo">
+              <label for="telefone">DDD + Celular *</label>
+              <input id="telefone" name="telefone" type="tel" required />
+            </div>
+            <div class="campo">
+              <label for="email">E-mail</label>
+              <input id="email" name="email" type="email" />
+            </div>
+            <div class="campo">
+              <label for="como_nos_conheceu">Como nos conheceu?</label>
+              <select id="como_nos_conheceu" name="como_nos_conheceu">
+                <option value="">Selecione</option>
+                {ORIGENS.map((o) => <option value={o}>{o}</option>)}
+              </select>
+            </div>
+            <div class="campo">
+              <label for="mensagem">Mensagem</label>
+              <textarea id="mensagem" name="mensagem" rows="4"></textarea>
+            </div>
+            <button type="submit" class="btn btn--green btn--block btn--lg">Solicitar orçamento</button>
+            <p class="form-card__nota" hidden data-erro>Não foi possível enviar agora. Fale conosco no WhatsApp.</p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script define:vars={{ endpoint: 'https://n8n.srv981504.hstgr.cloud/webhook/541d74f5-8247-43b8-911f-a55340132a0d' }}>
+    // Envio ao webhook n8n + evento generate_lead no dataLayer (mesma
+    // arquitetura da LP-01: a página só alimenta o dataLayer, o GTM dispara).
+    const form = document.getElementById('lead-form');
+    form?.addEventListener('submit', async (ev) => {
+      ev.preventDefault();
+      const btn = form.querySelector('button[type=submit]');
+      const dados = Object.fromEntries(new FormData(form).entries());
+      btn.disabled = true;
+      btn.setAttribute('aria-busy', 'true');
+      window.dataLayer = window.dataLayer || [];
+      try {
+        const ctrl = new AbortController();
+        const t = setTimeout(() => ctrl.abort(), 9000);
+        await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ...dados, form_id: 'contato', canal: 'form_orcamento' }),
+          signal: ctrl.signal,
+        });
+        clearTimeout(t);
+        window.dataLayer.push({ event: 'generate_lead', canal: 'form_orcamento', form_id: 'contato' });
+        form.innerHTML = '<p class="form-card__ok">Recebemos seu contato. Nossos especialistas retornarão em breve.</p>';
+      } catch {
+        form.querySelector('[data-erro]').hidden = false;
+        btn.disabled = false;
+        btn.removeAttribute('aria-busy');
+      }
+    });
+  </script>
+</Base>

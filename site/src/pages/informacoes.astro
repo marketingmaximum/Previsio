@@ -1,0 +1,38 @@
+---
+import Base from '../layouts/Base.astro';
+import { PAGINAS, porPath } from '../lib/conteudo.mjs';
+
+// Diretório A–Z de todas as páginas de serviço — regenerado da lista real,
+// não copiado. Papel: índice de navegação profunda (§5 do plano).
+const pagina = porPath('/informacoes');
+const servicos = PAGINAS
+  .filter((p) => p.tipo === 'servico' || p.tipo === 'pilar')
+  .sort((a, b) => (a.h1 ?? '').localeCompare(b.h1 ?? '', 'pt-BR'));
+---
+
+<Base
+  title={pagina?.title ?? 'Informações - Previsio Engenharia'}
+  description={pagina?.descriptionCorrigida ?? pagina?.description}
+  canonical="https://www.previsio.com.br/informacoes"
+>
+  <section class="hero hero--page">
+    <div class="hero__media"><img src="/img/hero-interno.jpg" alt="" width="1600" height="1064" /></div>
+    <div class="hero__scrim"></div>
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb"><li><a href="/">Home</a></li><li>Informações</li></ol>
+        <h1 class="hero__title">Informações</h1>
+        <p class="hero__sub" style="margin-bottom:0">Conheça todas as informações da Previsio Engenharia.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container">
+      <p style="color:var(--muted);margin-bottom:22px">{servicos.length} páginas de serviço e informação:</p>
+      <div class="az">
+        {servicos.map((p) => <a href={p.path}>{p.h1}</a>)}
+      </div>
+    </div>
+  </section>
+</Base>

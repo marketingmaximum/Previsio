@@ -327,6 +327,76 @@ h1, h2, h3, h4 {
 .trilho__lista a:hover { color: var(--green-d); }
 .trilho__lista a[aria-current='page'] { color: var(--navy); font-weight: 700; }
 
+/* hub de pilar — grade das páginas do cluster */
+.hub { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+.hub__i {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 18px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--green);
+  border-radius: var(--r-sm);
+  transition: transform 0.14s, box-shadow 0.14s;
+}
+.hub__i:hover { transform: translateY(-2px); box-shadow: var(--sh); }
+.hub__i strong { font-family: var(--slab); color: var(--navy); font-size: 0.98rem; font-weight: 700; }
+.hub__i span { color: var(--green); flex: 0 0 auto; }
+@media (max-width: 680px) { .hub { grid-template-columns: 1fr; } }
+
+/* blocos de cluster na página /servicos */
+.cluster-bloco { padding: 32px 0; border-top: 1px solid var(--line); }
+.cluster-bloco:first-child { padding-top: 0; border-top: 0; }
+.cluster-bloco__head { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; margin-bottom: 20px; }
+.cluster-bloco__head h2 { font-size: 1.4rem; margin-bottom: 4px; }
+.cluster-bloco__head p { margin: 0; color: var(--muted); font-size: 0.95rem; }
+
+/* eBooks (download) */
+.ebook {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 20px 22px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--green);
+  border-radius: var(--r-sm);
+  transition: transform 0.14s, box-shadow 0.14s;
+}
+.ebook:hover { transform: translateY(-2px); box-shadow: var(--sh); }
+.ebook__ico { width: 40px; height: 40px; flex: 0 0 auto; border-radius: 50%; background: rgba(68,180,74,0.12); color: var(--green-d); display: grid; place-items: center; font-size: 1.2rem; font-weight: 700; }
+.ebook__txt { flex: 1; font-weight: 500; color: var(--navy); }
+.ebook__pdf { font-size: 0.72rem; font-weight: 700; color: var(--muted); border: 1px solid var(--line); border-radius: 4px; padding: 3px 7px; }
+
+/* índice A–Z (informações) */
+.az { columns: 3; column-gap: 34px; }
+.az a { display: block; padding: 7px 0; font-size: 0.93rem; color: var(--ink); border-bottom: 1px solid var(--line); break-inside: avoid; }
+.az a:hover { color: var(--green-d); }
+@media (max-width: 900px) { .az { columns: 2; } }
+@media (max-width: 560px) { .az { columns: 1; } }
+
+/* mapa do site */
+.mapa { display: grid; grid-template-columns: repeat(3, 1fr); gap: 34px 40px; }
+.mapa__col h2 { font-size: 1.05rem; margin-bottom: 12px; padding-bottom: 8px; border-bottom: 2px solid var(--green); }
+.mapa__col h2 a { color: var(--navy); }
+.mapa__col ul { list-style: none; margin: 0; padding: 0; }
+.mapa__col li { margin-bottom: 7px; }
+.mapa__col a { font-size: 0.9rem; color: var(--muted); }
+.mapa__col a:hover { color: var(--green-d); }
+@media (max-width: 900px) { .mapa { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .mapa { grid-template-columns: 1fr; } }
+
+/* cards de post (índice de artigos) */
+.post { display: flex; flex-direction: column; background: #fff; border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; box-shadow: var(--sh); transition: transform 0.15s, box-shadow 0.15s; }
+.post:hover { transform: translateY(-3px); box-shadow: var(--sh-lg); }
+.post__capa { aspect-ratio: 16 / 9; background: var(--navy); display: grid; place-items: center; overflow: hidden; }
+.post__capa img { width: 100%; height: 100%; object-fit: cover; }
+.post__ph { color: var(--on-navy-dim); font-family: var(--slab); font-weight: 700; letter-spacing: 0.1em; }
+.post h3 { font-size: 1.08rem; margin: 20px 22px 10px; }
+.post__link { margin: auto 22px 22px; color: var(--green-d); font-weight: 700; font-size: 0.9rem; }
+
 /* bloco de cidades — preservado, recolhido */
 .cidades { margin-top: 40px; border: 1px solid var(--line); border-radius: var(--r); background: var(--soft); }
 .cidades > summary {
@@ -479,6 +549,48 @@ h1, h2, h3, h4 {
   background: linear-gradient(90deg, rgba(6, 24, 40, 0.95), rgba(6, 24, 40, 0.78));
 }
 .cta-foto h2 { color: #fff; }
+
+/* ---------- página de contato ---------- */
+.contato__lista { list-style: none; margin: 28px 0 0; padding: 0; }
+.contato__lista li { padding: 16px 0; border-top: 1px solid var(--line); color: var(--ink); }
+.contato__k { display: block; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--green-d); margin-bottom: 4px; }
+
+.form-card { background: var(--soft); border: 1px solid var(--line); border-radius: var(--r); padding: 30px; }
+.campo { margin-bottom: 16px; }
+.campo label { display: block; font-size: 0.88rem; font-weight: 500; color: var(--navy); margin-bottom: 6px; }
+.campo input, .campo select, .campo textarea {
+  width: 100%;
+  padding: 13px 14px;
+  border: 1.5px solid var(--line);
+  border-radius: var(--r-sm);
+  font-family: var(--f);
+  font-size: 1rem;
+  color: var(--ink);
+  background: #fff;
+}
+.campo input:focus, .campo select:focus, .campo textarea:focus {
+  outline: 0;
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(68, 180, 74, 0.18);
+}
+.form-card__nota { color: var(--risk); font-size: 0.9rem; margin: 14px 0 0; }
+.form-card__ok { color: var(--green-d); font-weight: 500; text-align: center; padding: 30px 0; }
+
+/* ---------- grade de logos de clientes ---------- */
+.logos { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; }
+.logos__i {
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: var(--r-sm);
+  aspect-ratio: 3 / 2;
+  display: grid;
+  place-items: center;
+  padding: 14px;
+}
+.logos__i img { max-height: 100%; max-width: 100%; width: auto; object-fit: contain; filter: grayscale(1); opacity: 0.72; transition: filter 0.2s, opacity 0.2s; }
+.logos__i:hover img { filter: grayscale(0); opacity: 1; }
+@media (max-width: 980px) { .logos { grid-template-columns: repeat(4, 1fr); } }
+@media (max-width: 560px) { .logos { grid-template-columns: repeat(3, 1fr); } }
 
 /* ---------- faixa de prova ---------- */
 .trust { background: var(--navy); color: #fff; }
