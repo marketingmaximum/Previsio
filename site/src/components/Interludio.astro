@@ -1,0 +1,42 @@
+---
+import { EMPRESA, waLink } from '../config.mjs';
+
+// Bloco visual inserido no meio do texto das páginas internas, para quebrar o
+// "muro de texto". A variante é escolhida pelo slug (no template), então
+// páginas diferentes recebem blocos diferentes — variação sem aleatoriedade.
+const { variante = 0, titulo, contexto } = Astro.props;
+---
+
+{variante === 0 && (
+  <aside class="interludio interludio--navy patterned">
+    <div>
+      <h3>Do laudo à obra, com um só fornecedor</h3>
+      <p>Projetamos, executamos e emitimos o laudo — sem repassar a responsabilidade a terceiros.</p>
+    </div>
+    <a href="/contato" class="btn btn--green">Solicitar orçamento</a>
+  </aside>
+)}
+
+{variante === 1 && (
+  <aside class="interludio interludio--chips">
+    <span class="interludio__k">Por que a Previsio</span>
+    <div class="interludio__chips">
+      <span><strong>Laudo com ART</strong>engenheiro responsável</span>
+      <span><strong>Projeto + execução</strong>no mesmo fornecedor</span>
+      <span><strong>Desde {EMPRESA.desde}</strong>atendimento nacional</span>
+    </div>
+  </aside>
+)}
+
+{variante === 2 && (
+  <aside class="interludio interludio--cta">
+    <div>
+      <h3>Precisa de {contexto ?? titulo}?</h3>
+      <p>Nossos especialistas respondem no mesmo dia útil.</p>
+    </div>
+    <div class="interludio__acoes">
+      <a href={`tel:${EMPRESA.telefoneLink}`} class="btn btn--green" data-evento="click_telefone">{EMPRESA.telefone}</a>
+      <a href={waLink(`Olá, gostaria de saber mais sobre ${titulo}.`)} class="btn btn--outline" target="_blank" rel="noopener" data-evento="whatsapp_interludio">WhatsApp</a>
+    </div>
+  </aside>
+)}

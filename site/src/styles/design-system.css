@@ -358,6 +358,62 @@ h1, h2, h3, h4 {
 .trilho__lista a:hover { color: var(--green-d); }
 .trilho__lista a[aria-current='page'] { color: var(--navy); font-weight: 700; }
 
+/* interlúdio — bloco visual no meio do texto das páginas internas */
+.interludio { margin: 34px 0; border-radius: var(--r); overflow: hidden; }
+
+.interludio--navy {
+  background: var(--navy);
+  color: var(--on-navy);
+  padding: 28px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.interludio--navy h3 { color: #fff; font-size: 1.25rem; margin-bottom: 6px; }
+.interludio--navy p { margin: 0; color: var(--on-navy); font-size: 0.97rem; }
+.interludio--navy .btn { flex: 0 0 auto; }
+
+.interludio--cta {
+  background: var(--navy);
+  color: var(--on-navy);
+  padding: 28px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+.interludio--cta h3 { color: #fff; font-size: 1.25rem; margin-bottom: 6px; }
+.interludio--cta p { margin: 0; color: var(--on-navy); font-size: 0.97rem; }
+.interludio__acoes { display: flex; gap: 12px; flex-wrap: wrap; }
+.interludio--cta .btn--outline { background: transparent; color: #fff; border-color: rgba(255,255,255,.5); }
+.interludio--cta .btn--outline:hover { background: rgba(255,255,255,.12); }
+
+.interludio--chips {
+  background: var(--soft);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--green);
+  padding: 24px 28px;
+}
+.interludio__k {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--green-d);
+  margin-bottom: 14px;
+}
+.interludio__chips { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+.interludio__chips span { display: flex; flex-direction: column; font-size: 0.85rem; color: var(--muted); }
+.interludio__chips strong { font-family: var(--slab); color: var(--navy); font-size: 1.02rem; margin-bottom: 2px; }
+@media (max-width: 560px) {
+  .interludio__chips { grid-template-columns: 1fr; gap: 12px; }
+  .interludio--navy, .interludio--cta { padding: 22px; }
+}
+
 /* resposta direta — bloco de topo, otimizado para featured snippet e IA */
 .resposta {
   border-left: 4px solid var(--green);

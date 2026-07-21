@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import Cidades from '../components/Cidades.astro';
 import FAQ from '../components/FAQ.astro';
+import Interludio from '../components/Interludio.astro';
 import { EMPRESA, waLink } from '../config.mjs';
 import { PAGINAS, porCluster, trilha, heroDe } from '../lib/conteudo.mjs';
 import { conteudoEnriquecido } from '../conteudo/index.mjs';
@@ -39,6 +40,21 @@ const corpo = (enriquecido?.corpo ?? pagina.bodyHtml ?? '').replaceAll(
   'https://www.previsio.com.br',
   '',
 );
+
+// Quebra o corpo num <h2> próximo do meio, para inserir um bloco visual entre
+// as duas metades — evita o "muro de texto" das páginas internas.
+function dividirCorpo(html) {
+  const idxs = [...html.matchAll(/<h2[\s>]/g)].map((m) => m.index).filter((i) => i > 40);
+  if (idxs.length < 2) return [html, ''];
+  const meio = html.length / 2;
+  const corte = idxs.reduce((b, i) => (Math.abs(i - meio) < Math.abs(b - meio) ? i : b));
+  return [html.slice(0, corte), html.slice(corte)];
+}
+const [corpoA, corpoB] = dividirCorpo(corpo);
+
+// Estilo do interlúdio escolhido pelo slug — determinístico e estável, mas
+// varia entre páginas para o site não ficar monótono.
+const hashSlug = [...pagina.slug].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
 
 const ehArtigo = pagina.tipo === 'artigo';
 const ehPilar = pagina.tipo === 'pilar';
@@ -126,7 +142,15 @@ const schema =
             </div>
           )}
 
-          <div class="prose" set:html={corpo} />
+          {corpoB && !ehPilar ? (
+            <>
+              <div class="prose" set:html={corpoA} />
+              <Interludio variante={hashSlug % 3} titulo={pagina.h1} contexto={rotuloCluster} />
+              <div class="prose" set:html={corpoB} />
+            </>
+          ) : (
+            <div class="prose" set:html={corpo} />
+          )}
 
           {ehPilar && filhas.length > 0 && (
             <div class="hub" style="margin-top:28px">
