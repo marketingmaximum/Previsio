@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/manutencao",
+  "slug": "servicos/manutencao",
+  "tipo": "pilar",
+  "cluster": "manutencao",
+  "temCidades": false,
+  "pilar": "/servicos/manutencao",
+  "title": "Manutenção - Previsio Engenharia",
+  "h1": "Manutenção​",
+  "breadcrumb": null,
+  "description": "Manutenção​ - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/manutencao",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "",
+  "conteinerUsado": null,
+  "metricas": {
+    "palavras": 0,
+    "caracteres": 0,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468699
+  }
+}

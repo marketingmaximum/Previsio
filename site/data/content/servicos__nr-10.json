@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/nr-10",
+  "slug": "servicos/nr-10",
+  "tipo": "pilar",
+  "cluster": "nr-10",
+  "temCidades": false,
+  "pilar": "/servicos/nr-10",
+  "title": "NR-10 - Previsio Engenharia",
+  "h1": "NR-10​",
+  "breadcrumb": null,
+  "description": "NR-10​ - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de profi...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/nr-10",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">NR-10​</span></p>\n\t\t\t\t\t\t<ul class=\"list\">\n<li>documentação NR-10;</li>\n<li>Montagem e Instalação Elétrica NR-10;</li>\n<li>Projetos Elétricos NR-10;</li>\n<li>Relatório Técnico de Inspeção de NR-10;</li>\n<li>Sistema de Aterramento NR-10;</li>\n<li>Sistema de Proteção Contra Descargas Atmosféricas NR-10;</li>\n<li>Prontuário de Instalações Elétricas NR-10 Travamento de Energias Perigosas (LOTO).</li>\n</ul>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 41,
+    "caracteres": 317,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468845
+  }
+}

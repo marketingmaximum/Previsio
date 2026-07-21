@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/projetos-eletricos-nr-10",
+  "slug": "servicos/projetos-eletricos-nr-10",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": false,
+  "pilar": "/servicos/nr-10",
+  "title": "Projetos Elétricos NR-10 - Previsio Engenharia",
+  "h1": "Projetos Elétricos NR-10",
+  "breadcrumb": null,
+  "description": "Projetos Elétricos NR-10 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidi...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/projetos-eletricos-nr-10",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Projetos Elétricos NR-10</span></p>\n\t\t\t\t\t\t<p>Elaboramos projetos elétricos unifilares e multifilares com memorial técnico descri-tivo conforme as premissas da NR-10 e das demais normas técnicas da ABNT.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 28,
+    "caracteres": 199,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468944
+  }
+}

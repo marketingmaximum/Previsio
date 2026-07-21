@@ -1,0 +1,69 @@
+{
+  "path": "/plano-gerenciamento-riscos-construcao-civil",
+  "slug": "plano-gerenciamento-riscos-construcao-civil",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Plano de gerenciamento de riscos construção civil - Previsio Engenharia",
+  "h1": "Plano de gerenciamento de riscos construção civil",
+  "breadcrumb": "Plano de gerenciamento de riscos construção civil",
+  "description": "Plano de gerenciamento de riscos construção civil é um documento essencial para empresas do setor da construção. ele consiste em um conjunto de medidas...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/plano-gerenciamento-riscos-construcao-civil",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/plano-gerenciamento-riscos-construcao-civil-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-gerenciamento-riscos-construcao-civil-02.webp",
+      "width": "600",
+      "height": "379",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-gerenciamento-riscos-construcao-civil-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o plano de gerenciamento de riscos construção civil"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do plano de gerenciamento de riscos construção civil"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de contar com um plano de gerenciamento de riscos construção civil"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode ajudar na implementação do plano de gerenciamento de riscos construção civil"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para garantir a segurança e o sucesso de sua obra"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o plano de gerenciamento de riscos construção civil</h2>\n\n                        <p>O plano de gerenciamento de riscos construção civil é um documento essencial para empresas do setor da construção. Ele consiste em um conjunto de medidas e ações preventivas e corretivas que visam identificar, avaliar e controlar os riscos presentes nas atividades realizadas em canteiros de obra. A implementação desse plano é fundamental para garantir a segurança dos trabalhadores, cumprir as normas legais vigentes e evitar acidentes que possam comprometer a integridade física e a saúde dos colaboradores.</p>\n\n                        <h2>Importância do plano de gerenciamento de riscos construção civil</h2>\n\n                        <p>O setor da construção civil é reconhecido por ser um ambiente de trabalho com diversos riscos, como quedas, choques elétricos, soterramentos, entre outros. Nesse contexto, o plano de gerenciamento de riscos construção civil se destaca como uma ferramenta fundamental para identificar e mitigar tais riscos, promovendo um ambiente de trabalho mais seguro e saudável para todos os envolvidos. Além disso, a implementação desse plano contribui para o cumprimento das legislações trabalhistas e previdenciárias, evitando multas e penalidades para a empresa.</p>\n\n                        <h2>Vantagens de contar com um plano de gerenciamento de riscos construção civil</h2>\n\n                        <p>A adoção do plano de gerenciamento de riscos construção civil traz inúmeros benefícios para as empresas do ramo. Dentre as vantagens mais significativas, destacam-se a redução de acidentes de trabalho, a prevenção de doenças ocupacionais, o aumento da produtividade, a melhoria do clima organizacional, a valorização da imagem da empresa perante clientes e colaboradores e, consequentemente, a redução de custos com indenizações e despesas médicas.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode ajudar na implementação do plano de gerenciamento de riscos construção civil</h2>\n\n                        <p>A PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho, destaca-se pela expertise na elaboração e execução de planos de gerenciamento de riscos construção civil. Com uma equipe técnica altamente qualificada e vasta experiência no setor, a empresa oferece soluções personalizadas, adequadas às necessidades de cada cliente, visando sempre a segurança, a eficiência e a excelência nos serviços prestados. Além disso, a PREVISIO ENGENHARIA atua em conformidade com as normas e regulamentos vigentes, assegurando a máxima segurança e conformidade legal em todos os projetos desenvolvidos.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para garantir a segurança e o sucesso de sua obra</h2>\n\n                        <p>Com a equipe da PREVISIO ENGENHARIA ao seu lado, você terá a tranquilidade de contar com profissionais altamente qualificados e comprometidos com a segurança e o bem-estar de todos os envolvidos em sua obra. Entre em contato conosco e conheça todas as soluções que podemos oferecer para a implementação do plano de gerenciamento de riscos construção civil. Garanta um ambiente de trabalho seguro, em conformidade com a legislação e livre de incidentes prejudiciais à sua empresa e aos seus colaboradores.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 450,
+    "caracteres": 3017,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 792546
+  }
+}

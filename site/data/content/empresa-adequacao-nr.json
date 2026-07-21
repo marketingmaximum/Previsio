@@ -1,0 +1,65 @@
+{
+  "path": "/empresa-adequacao-nr",
+  "slug": "empresa-adequacao-nr",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Empresa de adequação nr - Previsio Engenharia",
+  "h1": "Empresa de adequação nr",
+  "breadcrumb": "Empresa de adequação nr",
+  "description": "Empresa de adequação nr, você veio ao lugar certo! a é especializada em empresa de adequação nr e oferece uma ampla gama de serviços... Saiba mais.",
+  "descriptionCorrigida": "Empresa de adequação nr, você veio ao lugar certo! A Previsio Engenharia é especializada em empresa de adequação nr e oferece uma ampla gama de serviços... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/empresa-adequacao-nr",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/empresa-adequacao-nr-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/empresa-adequacao-nr-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/empresa-adequacao-nr-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "empresa de adequação nr: Garantindo a Segurança no Ambiente de Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços Oferecidos pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância da Adequação NR nas Empresas"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato e Garanta a Segurança de sua Empresa"
+    }
+  ],
+  "bodyHtml": "<h2>empresa de adequação nr: Garantindo a Segurança no Ambiente de Trabalho</h2>\n\n                        <p>A empresa de adequação nr PREVISIO ENGENHARIA, sediada em São Leopoldo - RS, é referência no ramo de engenharia de segurança do trabalho e atua no mercado desde 2016. Com vasta experiência e mais de mil clientes atendidos, a empresa se destaca pela qualidade de seus serviços e pela expertise técnica na condução de projetos de grande porte em todo o território nacional e no exterior.</p>\n\n                        <h2>Serviços Oferecidos pela PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA oferece uma ampla gama de serviços especializados em engenharia de segurança do trabalho e automação industrial. Dentre os principais serviços prestados pela empresa estão:</p>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Reformas de atualização de máquinas e painéis elétricos</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Realização de Projeto de Instalação Elétrica (PIE)</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                SPDA e aterramento</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Laudos e adequações em eletricidade conforme a NR10</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Assessoria e consultoria em segurança do trabalho</li>\n\n                        </ul>\n\n                        <p>A empresa também oferece serviços de projetos, documentações e adequações à NR-12, manutenção em CLP e IHMs, treinamentos de segurança do trabalho, fornecimento de documentação referente à segurança do trabalho, regularização do e-social e consultoria para proteção jurídica da empresa, entre outros.</p>\n\n                        <h2>Importância da Adequação NR nas Empresas</h2>\n\n                        <p>A adequação às Normas Regulamentadoras (NRs) de segurança e saúde no trabalho é fundamental para garantir um ambiente laboral seguro e em conformidade com as exigências legais. Empresas que investem na contratação de uma empresa de adequação nr asseguram não apenas a segurança de seus colaboradores, mas também evitam possíveis penalidades e multas decorrentes do descumprimento das normas vigentes.</p>\n\n                        <h2>Entre em Contato e Garanta a Segurança de sua Empresa</h2>\n\n                        <p>Se sua empresa busca por soluções em segurança do trabalho e adequação às normas regulamentadoras, não hesite em contatar a PREVISIO ENGENHARIA. Com uma equipe altamente qualificada e especializada, a empresa está pronta para oferecer as melhores soluções para o seu negócio. Proteja seus colaboradores e esteja em conformidade com a legislação vigente. Entre em contato conosco e saiba como podemos ajudar a sua empresa a se destacar no mercado.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 329,
+    "caracteres": 2169,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791312
+  }
+}

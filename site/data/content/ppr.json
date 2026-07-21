@@ -1,0 +1,69 @@
+{
+  "path": "/ppr",
+  "slug": "ppr",
+  "tipo": "servico",
+  "cluster": "respiratoria",
+  "temCidades": true,
+  "pilar": "/servicos/plano-de-protecao-respiratorio",
+  "title": "PPR - Previsio Engenharia",
+  "h1": "PPR",
+  "breadcrumb": "PPR",
+  "description": "Ppr e deseja contar com uma equipe especializada e dedicada, entre em contato com a previsio engenharia. estamos à disposição para oferecer as melhores...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/ppr",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/ppr-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/ppr-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/ppr-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o ppr?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do ppr para as empresas"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode ajudar?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de contar com a PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o ppr?</h2>\n\n                        <p>O ppr (Plano de Proteção Respiratória) é um conjunto de medidas adotadas pelas empresas para proteger os trabalhadores contra a exposição a agentes prejudiciais à saúde respiratória, como poeiras, fumos ou gases tóxicos. A implementação do <strong>ppr</strong> é essencial para garantir a saúde dos colaboradores, cumprir as normas de segurança do trabalho e proporcionar condições laborais adequadas e seguras.</p>\n\n                        <h2>Importância do ppr para as empresas</h2>\n\n                        <p>Empresas que adotam o ppr demonstram comprometimento com a segurança e saúde de seus funcionários. Além disso, a implementação desse plano contribui para a redução de riscos de doenças respiratórias ocupacionais, evita acidentes de trabalho e garante o cumprimento das normas regulamentadoras vigentes, como a NR-6 e a NR-9.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode ajudar?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, com sede em São Leopoldo - RS, é especializada em Engenharia de Segurança do Trabalho e oferece soluções completas para empresas que buscam implementar o ppr de forma eficiente e segura. Com vasta experiência no setor, a empresa conta com uma equipe de profissionais altamente qualificados e capacitados para realizar diagnósticos, elaborar planos de proteção respiratória, fornecer equipamentos de proteção individual adequados e oferecer todo o suporte necessário para garantir a segurança e saúde dos trabalhadores.</p>\n\n                        <h2>Vantagens de contar com a PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA possui mais de cinco anos de experiência no mercado, atendendo a mais de mil clientes em todo o Brasil e no exterior. Além disso, a empresa preza pela qualidade, eficiência e comprometimento em todos os projetos que realiza, garantindo a satisfação de seus clientes e o cumprimento rigoroso das normas e legislações vigentes.</p>\n\n                        <h2>Entre em contato conosco</h2>\n\n                        <p>Se a sua empresa busca implementar o ppr e deseja contar com uma equipe especializada e dedicada, entre em contato com a PREVISIO ENGENHARIA. Estamos à disposição para oferecer as melhores soluções em Engenharia de Segurança do Trabalho e contribuir para um ambiente laboral mais seguro, saudável e em conformidade com as normas vigentes. Proteja a saúde de seus colaboradores e promova um ambiente de trabalho seguro com a nossa expertise e profissionalismo!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 344,
+    "caracteres": 2231,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790485
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/treinamento-frio",
+  "slug": "treinamento-frio",
+  "tipo": "servico",
+  "cluster": "higiene",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-conservacao-auditiva-pca",
+  "title": "Treinamento frio - Previsio Engenharia",
+  "h1": "Treinamento frio",
+  "breadcrumb": "Treinamento frio",
+  "description": "Treinamento frio não só capacita os trabalhadores a identificar os sinais de alerta de problemas relacionados ao frio, mas também ensina medidas...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/treinamento-frio",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-frio-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-frio-02.webp",
+      "width": "600",
+      "height": "316",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-frio-03.webp",
+      "width": "600",
+      "height": "462",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do treinamento frio para a segurança do trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como o treinamento frio pode prevenir acidentes e doenças ocupacionais"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de investir no treinamento frio com a PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA para treinamento frio?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato e garanta a segurança dos seus colaboradores"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do treinamento frio para a segurança do trabalho</h2>\n\n                        <p>O treinamento frio é essencial para garantir a segurança dos trabalhadores que atuam em ambientes com temperaturas baixas. Em locais como câmaras frigoríficas ou áreas externas durante o inverno, os riscos de doenças relacionadas ao frio, como hipotermia e congelamento, podem ser significativos. Por isso, as empresas devem investir em treinamentos especializados para orientar seus colaboradores sobre os cuidados necessários nesse tipo de situação.</p>\n\n                        <h2>Como o treinamento frio pode prevenir acidentes e doenças ocupacionais</h2>\n\n                        <p>O treinamento frio não só capacita os trabalhadores a identificar os sinais de alerta de problemas relacionados ao frio, mas também ensina medidas preventivas para evitar acidentes e doenças ocupacionais. Com orientações claras sobre o uso adequado de equipamentos de proteção térmica, a importância da hidratação e da alimentação adequada, além de estratégias para manter a temperatura corporal estável, os colaboradores se tornam mais preparados para lidar com ambientes de baixas temperaturas.</p>\n\n                        <h2>Vantagens de investir no treinamento frio com a PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA é uma empresa especializada em Engenharia de Segurança do Trabalho que oferece serviços abrangentes para garantir a proteção e o bem-estar dos trabalhadores. Com mais de mil clientes atendidos e uma sólida experiência técnica, a empresa se destaca pela qualidade de seus serviços e pelo compromisso com a segurança no ambiente de trabalho.</p>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Reformas e atualizações de máquinas e painéis elétricos;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Realização de Projetos de Instalações Elétricas (PIE), SPDA e aterramento;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Adequações à NR10 e NR12;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Manutenção em todas as famílias de CLP e IHMs;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Treinamentos de segurança do trabalho;</li>\n\n                        </ul>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA para treinamento frio?</h2>\n\n                        <p>Além de sua expertise em segurança do trabalho, a PREVISIO ENGENHARIA se destaca por oferecer treinamentos personalizados e adaptados às necessidades específicas de cada cliente. Com uma equipe de profissionais altamente qualificados e uma abordagem customizada, a empresa garante que os colaboradores estejam devidamente preparados para lidar com os desafios de trabalhar em ambientes de baixas temperaturas.</p>\n\n                        <h2>Entre em contato e garanta a segurança dos seus colaboradores</h2>\n\n                        <p>Se você busca um parceiro confiável para fornecer treinamentos de segurança do trabalho, incluindo o treinamento frio, a PREVISIO ENGENHARIA é a escolha certa. Entre em contato conosco e saiba mais sobre nossos serviços e como podemos ajudar a proteger a saúde e a integridade dos trabalhadores da sua empresa.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 385,
+    "caracteres": 2601,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791764
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/lancamento-esocial-2240",
+  "slug": "lancamento-esocial-2240",
+  "tipo": "servico",
+  "cluster": "esocial",
+  "temCidades": true,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "Lançamento esocial 2240 - Previsio Engenharia",
+  "h1": "Lançamento esocial 2240",
+  "breadcrumb": "Lançamento esocial 2240",
+  "description": "Lançamento esocial 2240, você veio ao lugar certo! a é especializada em lançamento esocial 2240 e oferece uma ampla gama de serviços... Saiba mais.",
+  "descriptionCorrigida": "Lançamento esocial 2240, você veio ao lugar certo! A Previsio Engenharia é especializada em lançamento esocial 2240 e oferece uma ampla gama de serviços... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/lancamento-esocial-2240",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/lancamento-esocial-2240-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/lancamento-esocial-2240-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/lancamento-esocial-2240-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o lançamento esocial 2240?"
+    },
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Especialista em Segurança do Trabalho"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens do lançamento esocial 2240 com a PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA para o lançamento esocial 2240?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o lançamento esocial 2240?</h2>\n\n                        <p>O lançamento esocial 2240 refere-se ao envio de informações sobre os trabalhadores que exercem atividades insalubres ou perigosas, conforme a legislação.</p>\n\n                        <p>Esse lançamento inclui dados sobre as condições de trabalho, agentes de risco e os exames médicos realizados.</p>\n\n                        <p>Empresas que realizam esse lançamento corretamente, garantem o cumprimento das obrigações trabalhistas, asseguram a segurança dos trabalhadores e evitam penalidades.</p>\n\n                        <p>Além disso, promovem um ambiente mais seguro e saudável, garantindo que os direitos dos trabalhadores sejam respeitados.</p>\n\n                        <h2>PREVISIO ENGENHARIA: Especialista em Segurança do Trabalho</h2>\n\n                        <p>A PREVISIO ENGENHARIA, localizada em São Leopoldo–RS, é uma empresa que atua com Engenharia de Segurança do Trabalho e Automação Industrial desde 2016.</p>\n\n                        <p>Com mais de mil clientes atendidos e experiência técnica na condução de grandes projetos em todo território nacional e no exterior, a empresa se destaca pela excelência em seus serviços.</p>\n\n                        <p>Entre os serviços oferecidos pela PREVISIO ENGENHARIA, estão: reformas de atualização de máquinas e painéis elétricos; realização de PIE; SPDA; aterramento e outros projetos; laudos e adequações em eletricidade segundo a NR10, entre outros.</p>\n\n                        <h3>Vantagens do lançamento esocial 2240 com a PREVISIO ENGENHARIA</h3>\n\n                        <p>A PREVISIO ENGENHARIA oferece um serviço completo e eficiente para o lançamento esocial 2240.</p>\n\n                        <p>Com uma equipe de profissionais altamente qualificados e experientes, a empresa garante a correta transmissão das informações necessárias, assegurando o cumprimento das normas trabalhistas e a segurança dos trabalhadores.</p>\n\n                        <p>Além disso, ao contar com os serviços da PREVISIO ENGENHARIA, as empresas evitam possíveis penalidades e multas, promovendo um ambiente de trabalho seguro e saudável para todos os colaboradores.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA para o lançamento esocial 2240?</h2>\n\n                        <p>A PREVISIO ENGENHARIA se destaca no mercado pela sua expertise em engenharia de segurança do trabalho e pela qualidade dos serviços prestados.</p>\n\n                        <p>A empresa investe constantemente em inovação e tecnologia, buscando sempre as melhores soluções para seus clientes.</p>\n\n                        <p>Com um atendimento personalizado e focado nas necessidades de cada empresa, a PREVISIO ENGENHARIA se torna a escolha ideal para realizar o lançamento do eSocial 2240 de forma eficiente e segura.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>Se você deseja garantir o cumprimento das obrigações trabalhistas, assegurar a segurança dos trabalhadores e evitar penalidades, conte com a PREVISIO ENGENHARIA para realizar o lançamento do eSocial 2240 em sua empresa.</p>\n\n                        <p>Entre em contato conosco e conheça todas as soluções que temos a oferecer para tornar o ambiente de trabalho mais seguro e saudável.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 396,
+    "caracteres": 2702,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791563
+  }
+}

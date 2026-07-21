@@ -1,0 +1,69 @@
+{
+  "path": "/spda-raios",
+  "slug": "spda-raios",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Spda para raios - Previsio Engenharia",
+  "h1": "Spda para raios",
+  "breadcrumb": "Spda para raios",
+  "description": "Spda para raios, você veio ao lugar certo! a é especializada em spda para raios e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Spda para raios, você veio ao lugar certo! A Previsio Engenharia é especializada em spda para raios e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/spda-raios",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/spda-raios-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/spda-raios-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/spda-raios-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é spda para raios?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como funciona o spda para raios?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens do spda para raios"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA para instalar seu spda para raios?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco para saber mais sobre o spda para raios!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é spda para raios?</h2>\n\n                        <p>O spda para raios, conhecido como Sistema de Proteção contra Descargas Atmosféricas, é um sistema fundamental para proteger construções e pessoas dos danos causados por raios. Ele funciona direcionando a corrente elétrica decorrente das descargas atmosféricas para a terra, evitando assim prejuízos e garantindo a segurança de todos.</p>\n\n                        <h2>Como funciona o spda para raios?</h2>\n\n                        <p>O spda para raios é composto por para-raios, cabos condutores e dispositivos de aterramento. O para-raios, ou captor, é responsável por atrair a descarga atmosférica, os cabos condutores conduzem a corrente elétrica até o solo de forma segura, e os dispositivos de aterramento garantem a dissipação da energia no solo, evitando danos às estruturas e equipamentos.</p>\n\n                        <h2>Vantagens do spda para raios</h2>\n\n                        <p>A utilização do spda para raios traz inúmeras vantagens para as empresas, tais como a proteção eficaz de instalações e equipamentos, a prevenção de acidentes de trabalho relacionados a descargas atmosféricas, a conformidade com as normas de segurança e a redução de prejuízos materiais decorrentes de raios.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA para instalar seu spda para raios?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo - RS, é especializada em Engenharia de Segurança do Trabalho e Automação Industrial. Com mais de cinco anos de experiência no mercado, a empresa conta com profissionais altamente qualificados e comprometidos em garantir a segurança e a eficiência dos projetos realizados.</p>\n\n                        <p>A PREVISIO ENGENHARIA oferece serviços especializados em SPDA, incluindo projeto, instalação e manutenção do sistema. Com foco na excelência e na segurança, a empresa garante soluções sob medida para cada cliente, atendendo às normas vigentes e proporcionando tranquilidade e proteção contra descargas atmosféricas.</p>\n\n                        <h2>Entre em contato conosco para saber mais sobre o spda para raios!</h2>\n\n                        <p>Se você busca proteger sua empresa, colaboradores e patrimônio contra os riscos de descargas atmosféricas, conte com a expertise da PREVISIO ENGENHARIA. Nossos profissionais estão à disposição para esclarecer suas dúvidas, apresentar soluções personalizadas e garantir a segurança que sua empresa merece. Não hesite em nos contatar e agende uma consulta sem compromisso. Proteja-se com a qualidade e o profissionalismo que só a PREVISIO ENGENHARIA pode oferecer!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 350,
+    "caracteres": 2330,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790481
+  }
+}

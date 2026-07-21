@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/programa-de-conservacao-auditiva-pca",
+  "slug": "servicos/programa-de-conservacao-auditiva-pca",
+  "tipo": "pilar",
+  "cluster": "higiene",
+  "temCidades": false,
+  "pilar": "/servicos/programa-de-conservacao-auditiva-pca",
+  "title": "Programa de Conservação Auditiva - PCA - Previsio Engenharia",
+  "h1": "Programa de Conservação Auditiva - PCA",
+  "breadcrumb": null,
+  "description": "Programa de Conservação Auditiva - PCA - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/programa-de-conservacao-auditiva-pca",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Programa de Conservação Auditiva - PCA</span></p>\n\t\t\t\t\t\t<p>Desenvolvemos trata-se de um programa essencial para monitorar a saúde do trabalhador, prevenindo o PAIR (Perda Auditiva Induzida pelo Ruído). Esse acom-panhamento identifica perdas auditivas proporcionando ao empregador adotar medidas adicionais, bem como, deter um histórico blindando futuras demandas trabalhistas ou previdenciárias.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 51,
+    "caracteres": 392,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469385
+  }
+}

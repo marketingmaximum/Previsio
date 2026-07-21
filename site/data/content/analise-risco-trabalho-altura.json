@@ -1,0 +1,65 @@
+{
+  "path": "/analise-risco-trabalho-altura",
+  "slug": "analise-risco-trabalho-altura",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": true,
+  "pilar": "/servicos/nr-35",
+  "title": "Análise de risco trabalho em altura - Previsio Engenharia",
+  "h1": "Análise de risco trabalho em altura",
+  "breadcrumb": "Análise de risco trabalho em altura",
+  "description": "Análise de risco trabalho em altura, você veio ao lugar certo! a é especializada em análise de risco trabalho em altura e oferece uma... Saiba mais.",
+  "descriptionCorrigida": "Análise de risco trabalho em altura, você veio ao lugar certo! A Previsio Engenharia é especializada em análise de risco trabalho em altura e oferece uma... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/analise-risco-trabalho-altura",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/analise-risco-trabalho-altura-01.webp",
+      "width": "600",
+      "height": "351",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/analise-risco-trabalho-altura-02.webp",
+      "width": "600",
+      "height": "370",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/analise-risco-trabalho-altura-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "análise de risco trabalho em altura: Proteção e Conformidade"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da análise de risco trabalho em altura"
+    },
+    {
+      "nivel": 2,
+      "texto": "Previsio Engenharia: Excelência em Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Solicite sua análise de risco trabalho em altura!"
+    }
+  ],
+  "bodyHtml": "<h2>análise de risco trabalho em altura: Proteção e Conformidade</h2>\n\n                        <p>A análise de risco trabalho em altura é um processo fundamental para garantir a segurança dos trabalhadores que executam atividades acima de dois metros do solo.</p>\n\n                        <p>Essa avaliação minuciosa identifica os perigos envolvidos nesse tipo de trabalho, como o risco de quedas, utilização inadequada de equipamentos de proteção individual (EPIs) e condições inseguras no ambiente laboral.</p>\n\n                        <p>Com base nessa análise, são desenvolvidas medidas preventivas essenciais para prevenir acidentes, assegurar a conformidade com as normas regulamentadoras e proteger a integridade física dos colaboradores.</p>\n\n                        <p>Treinamentos específicos, adoção de EPIs adequados e estabelecimento de procedimentos de emergência são exemplos de ações decorrentes desse estudo de risco em altura.</p>\n\n                        <h3>Benefícios da análise de risco trabalho em altura</h3>\n\n                        <p>A realização da análise de risco trabalho em altura proporciona diversos benefícios tanto para os trabalhadores quanto para as empresas. Entre os principais estão:</p>\n\n                        <ul class=\"list\">\n\n                            <li>Prevenção de acidentes graves;</li>\n\n                            <li>Cumprimento das normas de segurança do trabalho;</li>\n\n                            <li>Redução de custos com afastamentos;</li>\n\n                            <li>Promoção de um ambiente de trabalho mais seguro;</li>\n\n                            <li>Aumento da produtividade e qualidade dos serviços prestados.</li>\n\n                        </ul>\n\n                        <h2>Previsio Engenharia: Excelência em Segurança do Trabalho</h2>\n\n                        <p>A Previsio Engenharia, sediada em São Leopoldo–RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial desde 2016.</p>\n\n                        <p>Com vasta experiência técnica e mais de mil clientes atendidos, a Previsio Engenharia se destaca na condução de grandes projetos em todo o território nacional e no exterior.</p>\n\n                        <p>Os serviços oferecidos pela Previsio Engenharia abrangem desde reformas de máquinas e painéis elétricos até treinamentos de segurança do trabalho, passando por laudos, adequações segundo as normas regulamentadoras, consultoria e regularização do e-social.</p>\n\n                        <h2>Solicite sua análise de risco trabalho em altura!</h2>\n\n                        <p>Se sua empresa necessita de uma análise de risco trabalho em altura eficiente e completa, conte com a expertise da Previsio Engenharia. Proteja seus colaboradores, evite acidentes e esteja em conformidade com a legislação vigente.</p>\n\n                        <p>Entre em contato conosco e descubra como podemos ajudar a promover um ambiente de trabalho mais seguro e produtivo.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 330,
+    "caracteres": 2288,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791625
+  }
+}

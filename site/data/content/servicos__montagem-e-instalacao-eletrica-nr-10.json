@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/montagem-e-instalacao-eletrica-nr-10",
+  "slug": "servicos/montagem-e-instalacao-eletrica-nr-10",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": false,
+  "pilar": "/servicos/nr-10",
+  "title": "Montagem e Instalação Elétrica NR-10 - Previsio Engenharia",
+  "h1": "Montagem e Instalação Elétrica NR-10",
+  "breadcrumb": null,
+  "description": "Montagem e Instalação Elétrica NR-10 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma eq...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/montagem-e-instalacao-eletrica-nr-10",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Montagem e Instalação Elétrica NR-10</span></p>\n\t\t\t\t\t\t<p>Realizamos montagens e instalações elétricas novas, ou ainda, reformamos sistemas existentes. Adequamos comandos elétricos para extra-baixa tensão. Esses processos são executados em conformidade com as normas existentes.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 35,
+    "caracteres": 274,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469264
+  }
+}

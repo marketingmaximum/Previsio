@@ -1,0 +1,69 @@
+{
+  "path": "/treinamento-cipa",
+  "slug": "treinamento-cipa",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Treinamento CIPA - Previsio Engenharia",
+  "h1": "Treinamento CIPA",
+  "breadcrumb": "Treinamento CIPA",
+  "description": "Treinamento cipa, você veio ao lugar certo! a é especializada em treinamento cipa e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Treinamento cipa, você veio ao lugar certo! A Previsio Engenharia é especializada em treinamento cipa e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/treinamento-cipa",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-cipa-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-cipa-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-cipa-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o treinamento cipa?"
+    },
+    {
+      "nivel": 2,
+      "texto": "A importância do treinamento cipa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios do treinamento cipa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia pode ajudar com o treinamento cipa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Previsio Engenharia para garantir a segurança do trabalho"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o treinamento cipa?</h2>\n\n                        <p>treinamento cipa (Comissão Interna de Prevenção de Acidentes) é fundamental para capacitar os membros da comissão a identificar e eliminar riscos no ambiente de trabalho. A CIPA tem como principal objetivo promover a segurança e a saúde ocupacional, contribuindo para um ambiente laboral mais seguro e saudável.</p>\n\n                        <h2>A importância do treinamento cipa</h2>\n\n                        <p>O treinamento cipa é essencial para garantir a prevenção de acidentes e o cumprimento das normas regulamentadoras. Ao investir nesse tipo de capacitação, as empresas demonstram seu compromisso com a segurança dos colaboradores, além de estarem em conformidade com as exigências legais vigentes.</p>\n\n                        <h2>Benefícios do treinamento cipa</h2>\n\n                        <p>O treinamento cipa traz diversos benefícios para as organizações, tais como a redução do número de acidentes de trabalho, o aumento da produtividade, a melhoria do clima organizacional, a valorização dos colaboradores e a diminuição de custos com afastamentos e processos trabalhistas.</p>\n\n                        <h2>Como a Previsio Engenharia pode ajudar com o treinamento cipa</h2>\n\n                        <p>A Previsio Engenharia, empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece um serviço completo de treinamento cipa. Com mais de cinco anos de experiência e mil clientes atendidos, a Previsio Engenharia conta com uma equipe de profissionais altamente qualificados para fornecer treinamentos personalizados e adequados às necessidades de cada empresa.</p>\n\n                        <p>Além do treinamento cipa, a Previsio Engenharia oferece uma ampla gama de serviços voltados para a segurança do trabalho, como reformas de máquinas e painéis elétricos, laudos e adequações segundo a NR10 e NR12, manutenção em CLPs e IHMs, regularização do e-Social, consultoria jurídica, entre outros.</p>\n\n                        <h2>Conte com a Previsio Engenharia para garantir a segurança do trabalho</h2>\n\n                        <p>Se a sua empresa busca por soluções eficientes e especializadas em segurança do trabalho, conte com a expertise da Previsio Engenharia. Entre em contato conosco e saiba como podemos ajudar a sua organização a garantir um ambiente de trabalho mais seguro, produtivo e em conformidade com as normas vigentes.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 317,
+    "caracteres": 2117,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790580
+  }
+}

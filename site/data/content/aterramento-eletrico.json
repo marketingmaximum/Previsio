@@ -1,0 +1,69 @@
+{
+  "path": "/aterramento-eletrico",
+  "slug": "aterramento-eletrico",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Aterramento elétrico - Previsio Engenharia",
+  "h1": "Aterramento elétrico",
+  "breadcrumb": "Aterramento elétrico",
+  "description": "Aterramento elétrico, você veio ao lugar certo! a é especializada em aterramento elétrico e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Aterramento elétrico, você veio ao lugar certo! A Previsio Engenharia é especializada em aterramento elétrico e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/aterramento-eletrico",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/aterramento-eletrico-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/aterramento-eletrico-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/aterramento-eletrico-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Sua melhor opção em aterramento elétrico"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens do aterramento elétrico"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do aterramento em instalações elétricas"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços de Engenharia de Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Proteção jurídica e regularização!"
+    }
+  ],
+  "bodyHtml": "<h2>PREVISIO ENGENHARIA: Sua melhor opção em aterramento elétrico</h2>\n\n                        <p>O aterramento elétrico é um sistema de segurança fundamental em instalações elétricas, que tem como principal função direcionar as descargas elétricas para o solo.</p>\n\n                        <p>Esse procedimento é essencial para prevenir choques elétricos, proteger equipamentos e garantir a segurança de trabalhadores em indústrias, comércios e residências.</p>\n\n                        <h3>Vantagens do aterramento elétrico</h3>\n\n                        <p>Além de atender a requisitos normativos, o aterramento elétrico proporciona diversas vantagens. Entre elas, destaca-se a melhoria da eficiência dos sistemas elétricos, a redução de riscos de incêndios e a proteção contra surtos elétricos e falhas de isolamento.</p>\n\n                        <p>Empresas que investem em aterramento garantem ambientes mais seguros e evitam prejuízos financeiros e estruturais.</p>\n\n                        <h2>Importância do aterramento em instalações elétricas</h2>\n\n                        <p>A correta implementação do aterramento elétrico em instalações industriais, comerciais e residenciais é essencial para garantir a segurança de pessoas e equipamentos.</p>\n\n                        <p>Além de prevenir acidentes graves, o aterramento contribui para o bom funcionamento dos sistemas elétricos, evitando danos e interferências.</p>\n\n                        <h2>Serviços de Engenharia de Segurança do Trabalho</h2>\n\n                        <p>A PREVISIO ENGENHARIA, empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece serviços completos para garantir a segurança e a conformidade de instalações elétricas.</p>\n\n                        <p>Com experiência técnica e mais de mil clientes atendidos, a empresa realiza reformas, laudos, treinamentos, documentações e adequações conforme as normas regulamentadoras.</p>\n\n                        <h2>Proteção jurídica e regularização!</h2>\n\n                        <p>Além de oferecer serviços de aterramento elétrico, a PREVISIO ENGENHARIA realiza consultorias para proteção jurídica das empresas, auxiliando na regularização do e-Social e na adequação às normas vigentes.</p>\n\n                        <p>Com um amplo portfólio de soluções em segurança do trabalho, a empresa se destaca pela qualidade e comprometimento com a segurança e o bem-estar dos colaboradores.</p>\n\n                        <p>Se você busca por soluções em aterramento elétrico e segurança do trabalho, entre em contato com a PREVISIO ENGENHARIA e garanta ambientes mais seguros, eficientes e em conformidade com a legislação vigente.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 303,
+    "caracteres": 2198,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790620
+  }
+}

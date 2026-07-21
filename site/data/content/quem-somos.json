@@ -1,0 +1,371 @@
+{
+  "path": "/quem-somos",
+  "slug": "quem-somos",
+  "tipo": "institucional",
+  "cluster": "institucional",
+  "temCidades": false,
+  "pilar": null,
+  "title": "Quem Somos - Previsio Engenharia",
+  "h1": "Quem Somos",
+  "breadcrumb": "Quem Somos",
+  "description": "Quem Somos - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/quem-somos",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/empresa/img-empresa.webp",
+      "width": null,
+      "height": null,
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/icones/icon-01.png",
+      "width": null,
+      "height": null,
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": false
+    },
+    {
+      "src": "/imagens/icones/icon-02.png",
+      "width": null,
+      "height": null,
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": false
+    },
+    {
+      "src": "/imagens/clientes/01.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/02.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/03.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/04.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/05.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/06.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/07.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/08.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/09.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/10.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/11.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/12.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/13.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/14.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/15.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/16.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/17.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/18.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/19.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/20.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/21.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/22.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/23.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/24.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/25.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/26.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/27.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/28.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/29.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/30.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/33.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/34.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/35.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/36.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/37.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/clientes/38.webp",
+      "width": null,
+      "height": null,
+      "alt": "Clientes Previsio",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "doutor/uploads/6/blog/2025/03/0.webp",
+      "width": null,
+      "height": null,
+      "alt": "Imagem ilustrativa",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "doutor/uploads/6/blog/2025/03/1.webp",
+      "width": null,
+      "height": null,
+      "alt": "Imagem ilustrativa",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "doutor/uploads/6/blog/2025/03/2.webp",
+      "width": null,
+      "height": null,
+      "alt": "Imagem ilustrativa",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "doutor/uploads/6/blog/2025/03/3.webp",
+      "width": null,
+      "height": null,
+      "alt": "Imagem ilustrativa",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "doutor/uploads/6/blog/2025/03/4.webp",
+      "width": null,
+      "height": null,
+      "alt": "Imagem ilustrativa",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "doutor/uploads/6/blog/2025/03/5.webp",
+      "width": null,
+      "height": null,
+      "alt": "Imagem ilustrativa",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Nós Somos a Previsio Engenharia"
+    },
+    {
+      "nivel": 3,
+      "texto": "Diferenciais"
+    },
+    {
+      "nivel": 3,
+      "texto": "Foco"
+    },
+    {
+      "nivel": 3,
+      "texto": "9 anos de atuaçãO"
+    },
+    {
+      "nivel": 3,
+      "texto": "+ 1000 Clientes atendidos"
+    },
+    {
+      "nivel": 3,
+      "texto": "Tudo para sua empresa, do projeto à execução"
+    },
+    {
+      "nivel": 3,
+      "texto": "Alguns de nossos Clientes"
+    }
+  ],
+  "bodyHtml": "<section>\n\t\t\t\t\n\t\t\t\t<!--STARTCOMPONENTS-->\n\t\t\t\t<div class=\"container quem--somos\">\n\t\t\t\t\t<div class=\"row gap-50 align-items-center\">\n\t\t\t\t\t\t<div class=\"col-6 col-xl-12 text__left\">\n\t\t\t\t\t\t\t<p class=\"sub-title-01\">Quem somos</p>\n\t\t\t\t\t\t\t<h2 class=\"light my-2\">Nós Somos a Previsio Engenharia</h2>\n\t\t\t\t\t\t\t<p>Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de profissionais com ampla experiência técnica na condução de grandes projetos em todo território nacional e no exterior.</p>\n\t\t\t\t\t\t\t<p>A Previsio possui mão de obra técnica para atender todas as necessidades da sua empresa: </p>\n\t\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t\t<li>Documentações de segurança do trabalho;</li>\n\t\t\t\t\t\t\t\t<li>Projeto;</li>\n\t\t\t\t\t\t\t\t<li>Execução Manutenção;</li>\n\t\t\t\t\t\t\t\t<li>Reforma;</li>\n\t\t\t\t\t\t\t\t<li>Treinamentos.</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-6 col-xl-12\">\n\t\t\t\t\t\t\t<img class=\"w-100 object-fit-cover\" src=\"https://www.previsio.com.br/imagens/empresa/img-empresa.webp\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!--  -->\n\t\t\t\t<!--  -->\n\t\t\t\t<div class=\"container\">\n\t\t\t\t\t<div class=\"wrapper\">\n\t\t\t\t\t\t<div class=\"row gap-30\">\n\t\t\t\t\t\t\t<div class=\"col-6\">\n\t\t\t\t\t\t\t\t<div class=\"card--box\">\n\t\t\t\t\t\t\t\t\t<img class=\"box__icon\" src=\"https://www.previsio.com.br/imagens/icones/icon-01.png\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t\t\t\t<h3 class=\"box__title light\">Diferenciais</h3>\n\t\t\t\t\t\t\t\t\t<p class=\"box__desc\">Buscamos sempre assessorar nossos clientes com um olhar atento sobre os processos produtivos, entregando soluções técnicas valorizando a produção, minimizando custos e evitando multas e interdições. Nossos projetos são personalizados, integrados ao fluxo do cliente e atualizados em termos de normatização.</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-6\">\n\t\t\t\t\t\t\t\t<div class=\"card--box\">\n\t\t\t\t\t\t\t\t\t<img class=\"box__icon\" src=\"https://www.previsio.com.br/imagens/icones/icon-02.png\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t\t\t\t<h3 class=\"box__title light\">Foco</h3>\n\t\t\t\t\t\t\t\t\t<p class=\"box__desc\">Trabalhar com foco nas reais necessidades dos clientes para conquistar resultados positivos aos acionistas, sempre fundamentados na valorização contínua dos colaboradores, no respeito e admiração aos nossos fornecedores, no comprometimento e respeito com a sociedade e nos cuidados com o meio ambiente.</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<br>\n\t\t\t\t\t\t<div class=\"row gap-30\">\n\t\t\t\t\t\t\t<div class=\"col-4\">\n\t\t\t\t\t\t\t\t<div class=\"text-center\">\n\t\t\t\t\t\t\t\t\t<h3 class=\"box__title light\">9 anos <br> de atuaçãO</h3>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-4\">\n\t\t\t\t\t\t\t\t<div class=\"text-center\">\n\t\t\t\t\t\t\t\t\t<h3 class=\"box__title light\">+ 1000 <br> Clientes atendidos</h3>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-4\">\n\t\t\t\t\t\t\t\t<div class=\"text-center\">\n\t\t\t\t\t\t\t\t\t<h3 class=\"box__title light\">Tudo para sua <br> empresa, do projeto <br> à execução</h3>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<h3 class=\"box__title light\">Alguns de nossos Clientes</h3>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"parent\">\n\t\t\t\t\t\t\t<div class=\"card-client card-client-01\"><img src=\"https://www.previsio.com.br/imagens/clientes/01.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-02\"><img src=\"https://www.previsio.com.br/imagens/clientes/02.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-03\"><img src=\"https://www.previsio.com.br/imagens/clientes/03.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-04\"><img src=\"https://www.previsio.com.br/imagens/clientes/04.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-05\"><img src=\"https://www.previsio.com.br/imagens/clientes/05.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-06\"><img src=\"https://www.previsio.com.br/imagens/clientes/06.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-07\"><img src=\"https://www.previsio.com.br/imagens/clientes/07.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-08\"><img src=\"https://www.previsio.com.br/imagens/clientes/08.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-09\"><img src=\"https://www.previsio.com.br/imagens/clientes/09.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-10\"><img src=\"https://www.previsio.com.br/imagens/clientes/10.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-11\"><img src=\"https://www.previsio.com.br/imagens/clientes/11.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-12\"><img src=\"https://www.previsio.com.br/imagens/clientes/12.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-13\"><img src=\"https://www.previsio.com.br/imagens/clientes/13.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-14\"><img src=\"https://www.previsio.com.br/imagens/clientes/14.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-15\"><img src=\"https://www.previsio.com.br/imagens/clientes/15.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-16\"><img src=\"https://www.previsio.com.br/imagens/clientes/16.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-17\"><img src=\"https://www.previsio.com.br/imagens/clientes/17.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-18\"><img src=\"https://www.previsio.com.br/imagens/clientes/18.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-19\"><img src=\"https://www.previsio.com.br/imagens/clientes/19.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-20\"><img src=\"https://www.previsio.com.br/imagens/clientes/20.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-21\"><img src=\"https://www.previsio.com.br/imagens/clientes/21.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-22\"><img src=\"https://www.previsio.com.br/imagens/clientes/22.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-23\"><img src=\"https://www.previsio.com.br/imagens/clientes/23.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-24\"><img src=\"https://www.previsio.com.br/imagens/clientes/24.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-25\"><img src=\"https://www.previsio.com.br/imagens/clientes/25.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-26\"><img src=\"https://www.previsio.com.br/imagens/clientes/26.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-27\"><img src=\"https://www.previsio.com.br/imagens/clientes/27.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-28\"><img src=\"https://www.previsio.com.br/imagens/clientes/28.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-29\"><img src=\"https://www.previsio.com.br/imagens/clientes/29.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-30\"><img src=\"https://www.previsio.com.br/imagens/clientes/30.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-31\"><img src=\"https://www.previsio.com.br/imagens/clientes/33.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-32\"><img src=\"https://www.previsio.com.br/imagens/clientes/34.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-33\"><img src=\"https://www.previsio.com.br/imagens/clientes/35.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-34\"><img src=\"https://www.previsio.com.br/imagens/clientes/36.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-35\"><img src=\"https://www.previsio.com.br/imagens/clientes/37.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div><div class=\"card-client card-client-36\"><img src=\"https://www.previsio.com.br/imagens/clientes/38.webp\" alt=\"Clientes Previsio\" title=\"Clientes Previsio\" loading=\"lazy\"></div>\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!--  -->\n\t\t\t\t\t<!--  -->\n\t\t\t\t\t<div class=\"wrapper\">\n\t\t\t\t\t\t<p>A Norma Regulamentadora 12 (NR 12) tem como principal objetivo assegurar a saúde e a segurança dos trabalhadores que operam máquinas e equipamentos. A norma define princípios fundamentais, técnicas e medidas de proteção com o intuito de prevenir acidentes e doenças ocupacionais em todas as fases de interação com as máquinas, desde o projeto até a operação.</p>\n\n\t\t\t\t\t\t<p>Todas as máquinas e equipamentos fabricados ou importados a partir de 24 de dezembro de 2010 devem estar em conformidade com os requisitos de segurança estabelecidos pela NR 12, abrangendo dispositivos de proteção, sinalização, manuais de operação, e outras exigências necessárias para garantir a segurança dos trabalhadores.</p>\n\n\t\t\t\t\t\t<p>Para equipamentos fabricados ou comercializados antes dessa data, sejam eles de fabricação nacional ou importados, é obrigatória a adequação às diretrizes da NR 12, sob pena de interdição. Além disso, máquinas importadas após 24 de dezembro de 2010 somente podem ser comercializadas após a devida adequação às exigências dessa norma.</p>\n\n\t\t\t\t\t\t<p>Como adequar uma máquina a NR-12?</p>\n\n\t\t\t\t\t\t<p>O primeiro passo para a adequação de máquinas é a elaboração de um inventário, com a priorização dos riscos baseada na metodologia de Hazard Rating Number (HRN). A Previsio Engenharia realiza esse tipo de inventário seguindo uma metodologia estruturada, que inclui:</p>\n\n\t\t\t\t\t\t<p>Apreciação de riscos</p>\n\t\t\t\t\t\tA apreciação dos riscos consiste em uma série de passos lógicos que permite, de uma forma sistemática, a identificação dos perigos associados às máquinas e posterior estimativa de seus graus de risco. Isso é feito através de uma série de levantamentos executados no processo, com o intuito de observar os usos previstos da máquina, identificação dos perigos e eventos perigosos, estimativa dos riscos para cada perigo, medidas de segurança existentes e necessárias para garantir a segurança dos operadores.\n\t\t\t\t\t\t<img src=\"doutor/uploads/6/blog/2025/03/0.webp\" alt=\"Imagem ilustrativa\" title=\"Imagem ilustrativa\">\n\n\t\t\t\t\t\t<p>Quantificação dos riscos</p>\n\t\t\t\t\t\t<p>Estabelece ordens de prioridades de adequação e possibilitar a comparação do nível de risco antes e após as adequações de segurança, aplica-se a cada um dos perigos identificados uma pontuação baseada no método quantitativo conhecido como Hazard Rating Number (HRN). Neste caso, o valor atribuído a cada risco (Grau de Risco) é dado pela multiplicação de quatro fatores, conforme descrito nas tabelas a seguir:</p>\n\n\t\t\t\t\t\t<img src=\"doutor/uploads/6/blog/2025/03/1.webp\" alt=\"Imagem ilustrativa\" title=\"Imagem ilustrativa\">\n\t\t\t\t\t\t<img src=\"doutor/uploads/6/blog/2025/03/2.webp\" alt=\"Imagem ilustrativa\" title=\"Imagem ilustrativa\">\n\n\t\t\t\t\t\t<p>Como resultado desta avaliação obtém-se uma matriz de pontuação, conforme mostrado na tabela seguinte. As pontuações podem ser então agrupadas em faixas para classificar os riscos e facilitar o entendimento.</p>\n\t\t\t\t\t\t<img src=\"doutor/uploads/6/blog/2025/03/3.webp\" alt=\"Imagem ilustrativa\" title=\"Imagem ilustrativa\">\n\n\t\t\t\t\t\t<p>Como isso funciona na prática???</p>\n\n\t\t\t\t\t\t<p>De maneira prática, a equipe da Previsio Engenharia elabora um inventário detalhado identificando todos os riscos presentes nos equipamentos, incluindo riscos elétricos, mecânicos e etc. Após essa identificação, cada risco é avaliado com base em critérios específicos, como:</p>\n\n\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t<li>Probabilidade de ocorrência</li>\n\t\t\t\t\t\t\t<li>Gravidade das possíveis lesões</li>\n\t\t\t\t\t\t\t<li>Frequência de exposição dos trabalhadores durante a jornada de trabalho</li>\n\t\t\t\t\t\t\t<li>Número de pessoas expostas</li>\n\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t<p>Essa análise permite uma elaborar uma priorização por grau de risco.</p>\n\n\t\t\t\t\t\t<p>Após o inventário dos riscos, a Previsio Engenharia desenvolve estratégias para a eliminação ou mitigação dos riscos, apresentando-as em um cronograma de ações detalhado. Esse cronograma inclui:</p>\n\n\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t<li>Medidas necessárias</li>\n\t\t\t\t\t\t\t<li>Custos associados à adequação</li>\n\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t<p>oferecendo um recurso valioso para a gestão eficiente do processo de implementação das melhorias.</p>\n\n\t\t\t\t\t\t<p>Podemos ver na sequencia um modelo do cronograma utilizado, onde é inserido informações da máquina, como:</p>\n\n\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t<li>Código do equipamento</li>\n\t\t\t\t\t\t\t<li>Tipo</li>\n\t\t\t\t\t\t\t<li>Localização</li>\n\t\t\t\t\t\t\t<li>Marca/modelo do equipamento</li>\n\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t\t<p>Também é possível ver a pontuação e o grau de risco, podendo assim priorizar equipamentos com grau de risco mais elevado e por fim, ainda podemos analisar os valores e prazos de execução de cada etapa.</p>\n\t\t\t\t\t\t<img src=\"doutor/uploads/6/blog/2025/03/4.webp\" alt=\"Imagem ilustrativa\" title=\"Imagem ilustrativa\">\n\n\t\t\t\t\t\t<p>Adequações em maquinas e equipamentos</p>\n\n\t\t\t\t\t\t<p>Após o inventário, a análise e a quantificação dos riscos, a próxima etapa envolve a adequação das máquinas e equipamentos. Essa fase requer a elaboração de estratégias para eliminar ou mitigar os riscos, implementando-as conforme a ordem de prioridade. É fundamental que essas medidas estejam em conformidade com uma ou mais das cinco categorias especificadas pela ABNT NBR 14153.</p>\n\n\t\t\t\t\t\t<p>Estratégias para eliminação ou redução de riscos</p>\n\n\t\t\t\t\t\t<p>As ações da empresa para eliminar ou reduzir os riscos devem ser implementadas obedecendo a seguinte ordem de prioridade:</p>\n\n\t\t\t\t\t\t<ol class=\"list\">\n\t\t\t\t\t\t\t<li>Medidas de segurança de caráter coletivo</li>\n\t\t\t\t\t\t\t<li>Medidas de caráter administrativo e de organização do trabalho</li>\n\t\t\t\t\t\t\t<li>Equipamentos de Proteção Individual - EPI</li>\n\t\t\t\t\t\t</ol>\n\n\t\t\t\t\t\t<p>Seleção de categorias</p>\n\n\t\t\t\t\t\t<p>As partes relacionadas à segurança de sistemas de comando (reles de segurança, componentes elétricos, sensores e etc.) devem estar de acordo com os requisitos de uma ou mais das cinco categorias especificadas pela ABNT NBR 14153 - Segurança de máquinas - Partes de sistemas de comando relacionadas à segurança.</p>\n\t\t\t\t\t\t<img src=\"doutor/uploads/6/blog/2025/03/5.webp\" alt=\"Imagem ilustrativa\" title=\"Imagem ilustrativa\">\n\n\t\t\t\t\t\t<p>Conclusão</p>\n\n\t\t\t\t\t\t<p>A adequação de máquinas e equipamentos à NR-12 é um processo essencial para garantir a saúde e a segurança dos trabalhadores. O cumprimento dessa norma não apenas previne acidentes e doenças ocupacionais, mas também promove um ambiente de trabalho mais seguro e produtivo.</p>\n\n\t\t\t\t\t\t<p>A Previsio Engenharia, conta com uma metodologia estruturada de análise e priorização de riscos, implementando melhorias de forma eficiente e alinhada às exigências legais. O uso de metodologias quantitativas, como o Hazard Rating Number (HRN), facilita a identificação das áreas que necessitam de atenção prioritária, permitindo que os recursos sejam alocados de forma estratégica para garantir a conformidade e segurança operacional.</p>\n\n\t\t\t\t\t\t<p>Portanto, investir na adequação à NR-12 não é apenas uma exigência regulatória, mas também um compromisso com a segurança dos trabalhadores e a sustentabilidade da operação. A implementação dessas medidas reflete o compromisso das empresas em proteger a vida dos colaboradores, minimizar danos materiais e contribuir para um ambiente de trabalho seguro e eficiente.</p>\n\t\t\t\t\t</div>\n\t\t\t\t\t<!--ENDCOMPONENTS-->\n\t\t\t\t</div> <!-- end content -->\n\t\t\t</section>",
+  "conteinerUsado": "main div.content",
+  "metricas": {
+    "palavras": 1056,
+    "caracteres": 7115,
+    "linksInternos": 235,
+    "h1NoDom": 1,
+    "bytesOriginal": 357303
+  }
+}

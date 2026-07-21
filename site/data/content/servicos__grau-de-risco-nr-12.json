@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/grau-de-risco-nr-12",
+  "slug": "servicos/grau-de-risco-nr-12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "Grau de Risco NR-12 - Previsio Engenharia",
+  "h1": "Grau de Risco NR-12",
+  "breadcrumb": null,
+  "description": "Grau de Risco NR-12 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidiscipl...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/grau-de-risco-nr-12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Grau de Risco NR-12</span></p>\n\t\t\t\t\t\t<p>Além de um relatório quantitativo em forma de lista, o inventário possibilita o gerenciamento das adequações, visto que classificamos as máquinas e equipamentos em grupos de risco. Juntamente com a planilha, há um relatório gerencial em forma de gráfico indicando a situação das máquinas por grupo de risco.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 55,
+    "caracteres": 344,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468995
+  }
+}

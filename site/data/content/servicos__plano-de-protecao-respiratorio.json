@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/plano-de-protecao-respiratorio",
+  "slug": "servicos/plano-de-protecao-respiratorio",
+  "tipo": "pilar",
+  "cluster": "respiratoria",
+  "temCidades": false,
+  "pilar": "/servicos/plano-de-protecao-respiratorio",
+  "title": "Plano de Proteção Respiratório - Previsio Engenharia",
+  "h1": "Plano de Proteção Respiratório",
+  "breadcrumb": null,
+  "description": "Plano de Proteção Respiratório - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe m...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/plano-de-protecao-respiratorio",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Plano de Proteção Respiratório</span></p>\n\t\t\t\t\t\t<p>Trata-se de um plano que visa especificar e atestar a eficiência das máscaras entregues aos Trabalhadores. Esse plano é um pro-grama que permite identificar a deficiência na especificação ou utilização das máscaras proporcionado para o empregador adotar medidas adicionais, bem como, deter em histórico blindando futuras demandas trabalhistas ou previdenciárias.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 57,
+    "caracteres": 410,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469297
+  }
+}

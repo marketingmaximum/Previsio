@@ -1,0 +1,69 @@
+{
+  "path": "/gestao-documentacao-seguranca",
+  "slug": "gestao-documentacao-seguranca",
+  "tipo": "servico",
+  "cluster": "esocial",
+  "temCidades": true,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "Gestão de documentação de segurança - Previsio Engenharia",
+  "h1": "Gestão de documentação de segurança",
+  "breadcrumb": "Gestão de documentação de segurança",
+  "description": "Gestão de documentação de segurança, você veio ao lugar certo! a é especializada em gestão de documentação de segurança e oferece uma... Saiba mais.",
+  "descriptionCorrigida": "Gestão de documentação de segurança, você veio ao lugar certo! A Previsio Engenharia é especializada em gestão de documentação de segurança e oferece uma... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/gestao-documentacao-seguranca",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/gestao-documentacao-seguranca-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/gestao-documentacao-seguranca-02.webp",
+      "width": "600",
+      "height": "346",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/gestao-documentacao-seguranca-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da gestão de documentação de segurança"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens da gestão de documentação de segurança"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia pode te ajudar na gestão de documentação de segurança?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios de contar com a Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Invista na segurança do trabalho com a Previsio Engenharia!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da gestão de documentação de segurança</h2>\n\n                        <p>A gestão de documentação de segurança é fundamental para empresas que desejam garantir a conformidade com as normas regulamentadoras e promover um ambiente de trabalho seguro para seus colaboradores.</p>\n\n                        <p>A organização e manutenção dos registros obrigatórios relacionados à saúde e segurança do trabalho são essenciais para evitar penalidades, facilitar auditorias e reduzir riscos de acidentes.</p>\n\n                        <h3>Vantagens da gestão de documentação de segurança</h3>\n\n                        <p>A correta administração dos documentos de segurança do trabalho traz diversas vantagens para as empresas.</p>\n\n                        <p>Além de assegurar a conformidade legal, a gestão adequada contribui para prevenir acidentes, proteger os trabalhadores e promover a eficiência na prevenção de incidentes.</p>\n\n                        <p>Manter os laudos técnicos, certificados e relatórios sempre atualizados é uma ação proativa que demonstra o compromisso da empresa com a segurança e saúde de seus colaboradores.</p>\n\n                        <h2>Como a Previsio Engenharia pode te ajudar na gestão de documentação de segurança?</h2>\n\n                        <p>A Previsio Engenharia, especialista em Engenharia de Segurança do Trabalho e Automação Industrial, oferece serviços completos para auxiliar sua empresa na gestão de documentação de segurança.</p>\n\n                        <p>Com experiência técnica em grandes projetos nacionais e internacionais, a empresa conta com uma equipe qualificada para realizar reformas, laudos, adequações, treinamentos e toda a documentação necessária para garantir a segurança no ambiente de trabalho.</p>\n\n                        <h2>Benefícios de contar com a Previsio Engenharia</h2>\n\n                        <p>A Previsio Engenharia, com mais de mil clientes atendidos e expertise em segurança do trabalho, oferece soluções personalizadas para cada tipo de negócio.</p>\n\n                        <p>Além de garantir a conformidade com as normas vigentes, a empresa proporciona tranquilidade para seus clientes, evitando problemas legais e prejuízos decorrentes de acidentes de trabalho.</p>\n\n                        <p>Com a consultoria especializada da Previsio, sua empresa estará em boas mãos, podendo focar em seu core business sem se preocupar com questões de segurança.</p>\n\n                        <h2>Invista na segurança do trabalho com a Previsio Engenharia!</h2>\n\n                        <p>Se você procura por uma empresa confiável e experiente para auxiliar na gestão de documentação de segurança e demais questões relacionadas à segurança do trabalho, a Previsio Engenharia é a escolha certa.</p>\n\n                        <p>Entre em contato conosco e saiba mais sobre como podemos contribuir para a segurança e o bem-estar dos seus colaboradores.</p>\n\n                        <p>Proteja sua equipe, esteja em conformidade com a legislação e promova um ambiente de trabalho saudável e seguro com a ajuda da Previsio Engenharia.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 376,
+    "caracteres": 2560,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791804
+  }
+}

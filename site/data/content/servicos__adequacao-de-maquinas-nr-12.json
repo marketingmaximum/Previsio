@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/adequacao-de-maquinas-nr-12",
+  "slug": "servicos/adequacao-de-maquinas-nr-12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "Adequação de Máquinas NR-12 - Previsio Engenharia",
+  "h1": "Adequação de Máquinas NR-12",
+  "breadcrumb": null,
+  "description": "Adequação de Máquinas NR-12 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe mult...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/adequacao-de-maquinas-nr-12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Adequação de Máquinas NR-12</span></p>\n\t\t\t\t\t\t<p>Realizamos adequações em máquinas e equipamentos de forma a garantir a utilização de forma segura, conforme as exigências das normas regulamentadoras 10 e 12. Criamos conceitos, projetos e especificações buscando a compatibilidade das normas com as exigências de operação e manutenção de cada processo.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 51,
+    "caracteres": 347,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469182
+  }
+}

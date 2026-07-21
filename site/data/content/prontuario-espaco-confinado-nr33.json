@@ -1,0 +1,69 @@
+{
+  "path": "/prontuario-espaco-confinado-nr33",
+  "slug": "prontuario-espaco-confinado-nr33",
+  "tipo": "servico",
+  "cluster": "nr-33",
+  "temCidades": true,
+  "pilar": "/servicos/prontuario-nr-33",
+  "title": "Prontuário espaço confinado nr33 - Previsio Engenharia",
+  "h1": "Prontuário espaço confinado nr33",
+  "breadcrumb": "Prontuário espaço confinado nr33",
+  "description": "Prontuário espaço confinado nr33, você veio ao lugar certo! a é especializada em prontuário espaço confinado nr33 e oferece uma ampla... Saiba mais.",
+  "descriptionCorrigida": "Prontuário espaço confinado nr33, você veio ao lugar certo! A Previsio Engenharia é especializada em prontuário espaço confinado nr33 e oferece uma ampla... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/prontuario-espaco-confinado-nr33",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/prontuario-espaco-confinado-nr33-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/prontuario-espaco-confinado-nr33-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/prontuario-espaco-confinado-nr33-03.webp",
+      "width": "600",
+      "height": "450",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Por que o prontuário espaço confinado nr33 é tão importante?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Ventilação, Equipamentos e Procedimentos: o que o Prontuário NR33 abrange?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios de Manter o prontuário espaço confinado nr33 Atualizado"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para Elaboração e Gestão do Prontuário NR33"
+    },
+    {
+      "nivel": 2,
+      "texto": "Invista na Segurança dos Trabalhadores com a PREVISIO ENGENHARIA"
+    }
+  ],
+  "bodyHtml": "<h2>Por que o prontuário espaço confinado nr33 é tão importante?</h2>\n\n                        <p>O prontuário espaço confinado nr33 é um documento fundamental para garantir a segurança dos trabalhadores em ambientes considerados confinados, seguindo as diretrizes da Norma Regulamentadora 33. Nesse prontuário, são descritas todas as condições de segurança necessárias e as precauções a serem adotadas em situações de risco.</p>\n\n                        <h2>Ventilação, Equipamentos e Procedimentos: o que o Prontuário NR33 abrange?</h2>\n\n                        <p>O prontuário espaço confinado nr33 engloba informações essenciais, como a necessidade de ventilação adequada nos ambientes confinados, a descrição dos equipamentos de proteção individual e coletiva necessários, bem como os procedimentos corretos de entrada, trabalho e resgate em espaços confinados. Tudo isso visa garantir a integridade e a segurança dos trabalhadores expostos a essas condições.</p>\n\n                        <h2>Benefícios de Manter o prontuário espaço confinado nr33 Atualizado</h2>\n\n                        <p>A empresa que mantém seu prontuário espaço confinado nr33 em conformidade com as exigências da NR33 demonstra seu compromisso com a segurança e saúde dos colaboradores. Além disso, a atualização constante desse documento proporciona uma gestão mais eficaz das atividades em espaços confinados, reduzindo os riscos de acidentes e garantindo o cumprimento das normas trabalhistas vigentes.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para Elaboração e Gestão do Prontuário NR33</h2>\n\n                        <p>A PREVISIO ENGENHARIA, empresa especializada em Engenharia de Segurança do Trabalho, oferece serviços completos para elaboração, atualização e gestão do prontuário espaço confinado nr33. Com sua vasta experiência e equipe técnica altamente qualificada, a PREVISIO garante um suporte especializado para empresas de diversos segmentos, assegurando a conformidade com as normas regulamentadoras e a proteção dos trabalhadores.</p>\n\n                        <h2>Invista na Segurança dos Trabalhadores com a PREVISIO ENGENHARIA</h2>\n\n                        <p>A segurança dos trabalhadores é uma prioridade para qualquer empresa que preza pelo bem-estar de sua equipe. Garanta a adequação do seu prontuário espaço confinado nr33 com a expertise da PREVISIO ENGENHARIA e proporcione um ambiente de trabalho seguro e em conformidade com as normas vigentes.</p>\n\n                        <p>Entre em contato conosco e saiba mais sobre como podemos ajudar a sua empresa a manter a segurança e a saúde dos trabalhadores em espaços confinados, cumprindo todas as exigências da NR33 e garantindo um ambiente de trabalho mais seguro e produtivo.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 351,
+    "caracteres": 2426,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791461
+  }
+}

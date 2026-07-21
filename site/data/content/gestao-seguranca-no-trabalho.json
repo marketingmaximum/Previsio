@@ -1,0 +1,73 @@
+{
+  "path": "/gestao-seguranca-no-trabalho",
+  "slug": "gestao-seguranca-no-trabalho",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Gestão de segurança no trabalho - Previsio Engenharia",
+  "h1": "Gestão de segurança no trabalho",
+  "breadcrumb": "Gestão de segurança no trabalho",
+  "description": "Gestão de segurança no trabalho, você veio ao lugar certo! a é especializada em gestão de segurança no trabalho e oferece uma ampla gama... Saiba mais.",
+  "descriptionCorrigida": "Gestão de segurança no trabalho, você veio ao lugar certo! A Previsio Engenharia é especializada em gestão de segurança no trabalho e oferece uma ampla gama... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/gestao-seguranca-no-trabalho",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/gestao-seguranca-no-trabalho-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/gestao-seguranca-no-trabalho-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/gestao-seguranca-no-trabalho-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A Importância da gestão de segurança no trabalho"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios de uma Gestão Eficiente"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços Especializados em Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Compromisso com a Segurança e Qualidade"
+    },
+    {
+      "nivel": 2,
+      "texto": "Consultoria Especializada em Normas Regulamentadoras"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato e Invista na Segurança do Trabalho!"
+    }
+  ],
+  "bodyHtml": "<h2>A Importância da gestão de segurança no trabalho</h2>\n\n                        <p>A gestão de segurança no trabalho é fundamental para as empresas que desejam garantir um ambiente laboral seguro e saudável para seus colaboradores.</p>\n\n                        <p>Além de cumprir com as normas regulamentadoras, investir nesse processo significa proteger a vida e a integridade física dos trabalhadores, evitando acidentes, doenças ocupacionais e prejuízos financeiros.</p>\n\n                        <h3>Benefícios de uma Gestão Eficiente</h3>\n\n                        <p>Empresas que adotam uma gestão de segurança no trabalho eficiente colhem diversos benefícios, tais como a redução de custos com afastamentos e indenizações, o aumento da produtividade, a melhoria do clima organizacional e o cumprimento das legislações vigentes.</p>\n\n                        <p>Além disso, a promoção de uma cultura de segurança contribui para um ambiente mais harmonioso e colaborativo.</p>\n\n                        <h2>Serviços Especializados em Segurança do Trabalho</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo–RS, oferece uma ampla gama de serviços especializados em gestão de segurança no trabalho.</p>\n\n                        <p>Com experiência consolidada no mercado e profissionais qualificados, a empresa atua desde 2016 em projetos de Engenharia de Segurança do Trabalho e Automação Industrial, atendendo mais de mil clientes em todo o Brasil e no exterior.</p>\n\n                        <h2>Compromisso com a Segurança e Qualidade</h2>\n\n                        <p>A PREVISIO ENGENHARIA se destaca pelo seu compromisso com a segurança e qualidade de seus serviços.</p>\n\n                        <p>Realizando reformas e atualizações de máquinas, painéis elétricos, laudos de conformidade, treinamentos especializados, assessorias e muito mais, a empresa garante a plena adequação às normas e regulamentos vigentes, proporcionando tranquilidade e confiança aos seus clientes.</p>\n\n                        <h2>Consultoria Especializada em Normas Regulamentadoras</h2>\n\n                        <p>Além disso, a PREVISIO ENGENHARIA oferece consultoria especializada em adequações às normas regulamentadoras, como a NR-10 e a NR-12, garantindo que as empresas estejam conforme as exigências legais.</p>\n\n                        <p>A equipe técnica da empresa também realiza manutenções em CLP e IHMs, elabora documentações e fornece todo suporte necessário para a regularização do e-Social.</p>\n\n                        <h2>Entre em Contato e Invista na Segurança do Trabalho!</h2>\n\n                        <p>Se você busca uma empresa comprometida com a segurança e bem-estar dos seus colaboradores, a PREVISIO ENGENHARIA é a escolha certa. Entre em contato conosco e conheça todos os nossos serviços especializados em gestão de segurança no trabalho.</p>\n\n                        <p>Invista na segurança da sua empresa e garanta um ambiente de trabalho mais seguro e produtivo para todos. Estamos aqui para ajudar você a cuidar do que realmente importa: a vida.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 372,
+    "caracteres": 2534,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791731
+  }
+}

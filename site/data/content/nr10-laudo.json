@@ -1,0 +1,69 @@
+{
+  "path": "/nr10-laudo",
+  "slug": "nr10-laudo",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": true,
+  "pilar": "/servicos/nr-10",
+  "title": "Nr10 laudo - Previsio Engenharia",
+  "h1": "Nr10 laudo",
+  "breadcrumb": "Nr10 laudo",
+  "description": "Nr10 laudo, você veio ao lugar certo! a é especializada em nr10 laudo e oferece uma ampla gama de serviços para atender às suas Nossa equipe de...",
+  "descriptionCorrigida": "Nr10 laudo, você veio ao lugar certo! A Previsio Engenharia é especializada em nr10 laudo e oferece uma ampla gama de serviços para atender às suas Nossa equipe de...",
+  "canonical": "https://www.previsio.com.br/nr10-laudo",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/nr10-laudo-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/nr10-laudo-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/nr10-laudo-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do nr10 laudo para a segurança do trabalho"
+    },
+    {
+      "nivel": 3,
+      "texto": "Serviços oferecidos pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios de contar com a PREVISIO ENGENHARIA para seu nr10 laudo"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA para seus projetos de segurança do trabalho?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco e conheça mais sobre nossos serviços!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do nr10 laudo para a segurança do trabalho</h2>\n\n                        <p>O nr10 laudo é um documento fundamental para garantir a segurança dos trabalhadores em instalações elétricas, assegurando que estas atendam as exigências da Norma Regulamentadora 10.</p>\n\n                        <p>Por meio desse laudo, é possível identificar e corrigir possíveis riscos elétricos, como choques e incêndios, promovendo um ambiente de trabalho seguro e em conformidade com a legislação vigente.</p>\n\n                        <h3>Serviços oferecidos pela PREVISIO ENGENHARIA</h3>\n\n                        <p>A PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece uma série de serviços que incluem reformas de atualização de máquinas, laudos e adequações de acordo com a nr10 laudo, projetos de segurança, assessoria, treinamentos, entre outros.</p>\n\n                        <p>Com mais de mil clientes atendidos, a empresa possui experiência técnica para conduzir projetos de grande porte em todo o território nacional e no exterior.</p>\n\n                        <h2>Benefícios de contar com a PREVISIO ENGENHARIA para seu nr10 laudo</h2>\n\n                        <p>Ao optar pelos serviços da PREVISIO ENGENHARIA, sua empresa garante a qualidade e eficiência na elaboração do nr10 laudo, bem como o cumprimento de todas as normas e regulamentações vigentes.</p>\n\n                        <p>Além disso, a empresa conta com uma equipe altamente qualificada e experiente, pronta para atender às necessidades específicas de cada cliente e garantir um ambiente de trabalho seguro e livre de acidentes.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA para seus projetos de segurança do trabalho?</h2>\n\n                        <p>A PREVISIO ENGENHARIA se destaca no mercado pela sua excelência na prestação de serviços de Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Com um histórico de sucesso e satisfação dos clientes, a empresa se compromete em oferecer soluções personalizadas e eficazes para garantir a segurança e o bem-estar dos colaboradores, além de assegurar a conformidade legal de todas as instalações elétricas.</p>\n\n                        <h2>Entre em contato conosco e conheça mais sobre nossos serviços!</h2>\n\n                        <p>Se sua empresa busca um parceiro confiável e comprometido com a segurança do trabalho, conte com a PREVISIO ENGENHARIA.</p>\n\n                        <p>Estamos à disposição para oferecer soluções sob medida e ajudar sua empresa a manter um ambiente de trabalho seguro e segundo as normas.</p>\n\n                        <p>Entre em contato conosco e descubra como podemos contribuir para o sucesso e o crescimento do seu negócio.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 354,
+    "caracteres": 2315,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790884
+  }
+}

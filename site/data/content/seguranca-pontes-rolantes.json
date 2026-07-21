@@ -1,0 +1,65 @@
+{
+  "path": "/seguranca-pontes-rolantes",
+  "slug": "seguranca-pontes-rolantes",
+  "tipo": "servico",
+  "cluster": "nr-11",
+  "temCidades": true,
+  "pilar": "/servicos/laudos-estruturais-nr-11",
+  "title": "Segurança pontes rolantes - Previsio Engenharia",
+  "h1": "Segurança pontes rolantes",
+  "breadcrumb": "Segurança pontes rolantes",
+  "description": "Segurança pontes rolantes, você veio ao lugar certo! a é especializada em segurança pontes rolantes e oferece uma ampla gama de serviços... Saiba mais.",
+  "descriptionCorrigida": "Segurança pontes rolantes, você veio ao lugar certo! A Previsio Engenharia é especializada em segurança pontes rolantes e oferece uma ampla gama de serviços... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/seguranca-pontes-rolantes",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/seguranca-pontes-rolantes-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/seguranca-pontes-rolantes-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/seguranca-pontes-rolantes-03.webp",
+      "width": "600",
+      "height": "399",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "segurança pontes rolantes: Garantindo a Proteção dos Trabalhadores"
+    },
+    {
+      "nivel": 2,
+      "texto": "Medidas de Segurança em Pontes Rolantes"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens da Segurança em Pontes Rolantes"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Previsio Engenharia para Garantir a Segurança em Pontes Rolantes"
+    }
+  ],
+  "bodyHtml": "<h2>segurança pontes rolantes: Garantindo a Proteção dos Trabalhadores</h2>\n\n                        <p>A segurança pontes rolantes é um aspecto essencial em ambientes industriais que utilizam esse equipamento para movimentação de cargas. A implementação de medidas de segurança adequadas é fundamental para proteger os trabalhadores que operam e realizam a manutenção em pontes rolantes, garantindo um ambiente de trabalho seguro e em conformidade com as normas regulamentadoras.</p>\n\n                        <h2>Medidas de Segurança em Pontes Rolantes</h2>\n\n                        <p>Para assegurar a segurança dos colaboradores, é necessário adotar uma série de medidas, tais como:</p>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Realização de treinamentos específicos para operadores de pontes rolantes;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Utilização de dispositivos de segurança, como limitadores de carga e sistemas de frenagem;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Inspeções periódicas para identificar possíveis falhas e garantir a integridade do equipamento;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Manutenção preventiva e corretiva conforme as especificações do fabricante;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Atendimento às normas regulamentadoras de segurança do trabalho.</li>\n\n                        </ul>\n\n                        <h2>Vantagens da Segurança em Pontes Rolantes</h2>\n\n                        <p>Empresas que investem na segurança das pontes rolantes usufruem de diversos benefícios, tais como:</p>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Redução do risco de acidentes e incidentes no ambiente de trabalho;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Conformidade com as normas de segurança e legislação vigente;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Aumento da produtividade e eficiência operacional;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Promoção de um ambiente de trabalho saudável e seguro;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Valorização dos colaboradores e prevenção de afastamentos por motivos de saúde.</li>\n\n                        </ul>\n\n                        <h2>Conte com a Previsio Engenharia para Garantir a Segurança em Pontes Rolantes</h2>\n\n                        <p>A Previsio Engenharia, especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece soluções completas para a segurança em pontes rolantes. Com mais de cinco anos de experiência e um time de profissionais qualificados, nossa empresa atua na realização de treinamentos, inspeções, manutenções e adequações conforme as normas vigentes.</p>\n\n                        <p>Proteja seus colaboradores e promova um ambiente de trabalho seguro e produtivo com a expertise da Previsio Engenharia. Entre em contato conosco e saiba mais sobre como podemos ajudar a garantir a segurança em pontes rolantes em sua empresa.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 301,
+    "caracteres": 2119,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 792274
+  }
+}

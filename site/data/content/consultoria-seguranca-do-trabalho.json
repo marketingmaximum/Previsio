@@ -1,0 +1,69 @@
+{
+  "path": "/consultoria-seguranca-do-trabalho",
+  "slug": "consultoria-seguranca-do-trabalho",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Consultoria em segurança do trabalho - Previsio Engenharia",
+  "h1": "Consultoria em segurança do trabalho",
+  "breadcrumb": "Consultoria em segurança do trabalho",
+  "description": "Consultoria em segurança do trabalho, você veio ao lugar certo! a é especializada em consultoria em segurança do trabalho e oferece uma... Saiba mais.",
+  "descriptionCorrigida": "Consultoria em segurança do trabalho, você veio ao lugar certo! A Previsio Engenharia é especializada em consultoria em segurança do trabalho e oferece uma... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/consultoria-seguranca-do-trabalho",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/consultoria-seguranca-do-trabalho-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/consultoria-seguranca-do-trabalho-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/consultoria-seguranca-do-trabalho-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "consultoria em segurança do trabalho: Protegendo seu maior patrimônio"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços oferecidos pela consultoria em segurança do trabalho"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da consultoria em segurança do trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "O papel da consultoria em segurança do trabalho na cultura empresarial"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>consultoria em segurança do trabalho: Protegendo seu maior patrimônio</h2>\n\n                        <p>A PREVISIO ENGENHARIA é uma empresa especializada em consultoria em segurança do trabalho, oferecendo suporte técnico para empresas identificarem e eliminarem riscos ocupacionais, garantindo conformidade com normas regulamentadoras.</p>\n\n                        <p>Com experiência no mercado desde 2016 e mais de mil clientes atendidos, a PREVISIO ENGENHARIA se destaca pela excelência na condução de grandes projetos em todo território nacional e no exterior.</p>\n\n                        <h2>Serviços oferecidos pela consultoria em segurança do trabalho</h2>\n\n                        <p>A consultoria em segurança do trabalho da PREVISIO ENGENHARIA abrange uma ampla gama de serviços.</p>\n\n                        <p>Incluindo, reformas de atualização de máquinas e painéis elétricos, realização de PIE, SPDA, aterramento e outros projetos, laudos e adequações em eletricidade segundo a NR10, assessoria, projetos, documentações e adequações à NR-12, manutenção em todas as famílias de CLP e IHMs, além de todos os treinamentos de segurança do trabalho necessários.</p>\n\n                        <ul class=\"list\">\n\n                            <li>Reformas de máquinas e painéis elétricos;</li>\n\n                            <li>Realização de PIE, SPDA e aterramento;</li>\n\n                            <li>Laudos e adequações conforme NR10 e NR-12;</li>\n\n                            <li>Manutenção em CLP e IHMs;</li>\n\n                            <li>Treinamentos de segurança do trabalho.</li>\n\n                        </ul>\n\n                        <h3>Benefícios da consultoria em segurança do trabalho</h3>\n\n                        <p>A consultoria em segurança do trabalho proporciona inúmeros benefícios para as empresas, tais como a redução de acidentes, melhoria da qualidade do ambiente laboral, assegurando a continuidade das operações.</p>\n\n                        <p>Além disso, investir nesse suporte técnico é fundamental para proteger os funcionários, evitar penalidades e promover um ambiente de trabalho mais seguro, produtivo e em conformidade com as normas legais.</p>\n\n                        <h2>O papel da consultoria em segurança do trabalho na cultura empresarial</h2>\n\n                        <p>A consultoria em segurança do trabalho não apenas garante a conformidade legal das empresas, mas também fortalece a cultura de segurança no local de trabalho.</p>\n\n                        <p>Ao investir nesse tipo de serviço, as organizações demonstram seu compromisso com a segurança e o bem-estar de seus colaboradores, criando um ambiente mais saudável e produtivo para todos.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>Se você busca os melhores serviços de consultoria em segurança do trabalho para a sua empresa, a PREVISIO ENGENHARIA é a escolha certa.</p>\n\n                        <p>Nossa equipe de especialistas está preparada para atender às suas necessidades e garantir a segurança e o bem-estar dos seus colaboradores.</p>\n\n                        <p>Entre em contato conosco e conheça mais sobre nossos serviços e soluções em segurança do trabalho.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 366,
+    "caracteres": 2480,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791979
+  }
+}

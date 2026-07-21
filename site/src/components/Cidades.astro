@@ -1,0 +1,28 @@
+---
+import estados from '../data/cidades.json';
+
+// O bloco de cidades é preservado integralmente (decisão do cliente — sem
+// poda), mas recolhido: o texto fica todo no HTML para o crawler sem pesar
+// no layout. O cabeçalho reproduz o do site atual, com a keyword da página.
+const { termo } = Astro.props;
+const total = estados.reduce((n, e) => n + e.cidades.length, 0);
+---
+
+<details class="cidades">
+  <summary>
+    <span>Principais cidades e regiões do Brasil onde a Previsio Engenharia atende {termo}</span>
+    <span class="cidades__toggle" aria-hidden="true"></span>
+  </summary>
+
+  <div class="cidades__body">
+    <p class="cidades__intro">
+      Atendimento em todo o território nacional — {total.toLocaleString('pt-BR')} municípios em 26 estados e no Distrito Federal.
+    </p>
+    {estados.map((e) => (
+      <div class="cidades__uf">
+        <h3>{e.uf}</h3>
+        <p>{e.cidades.join(' · ')}</p>
+      </div>
+    ))}
+  </div>
+</details>

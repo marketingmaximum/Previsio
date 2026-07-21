@@ -1,0 +1,69 @@
+{
+  "path": "/laudo-conforto-termico",
+  "slug": "laudo-conforto-termico",
+  "tipo": "servico",
+  "cluster": "higiene",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-conservacao-auditiva-pca",
+  "title": "Laudo conforto térmico - Previsio Engenharia",
+  "h1": "Laudo conforto térmico",
+  "breadcrumb": "Laudo conforto térmico",
+  "description": "Laudo conforto térmico, você veio ao lugar certo! a é especializada em laudo conforto térmico e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Laudo conforto térmico, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo conforto térmico e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-conforto-termico",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-conforto-termico-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-conforto-termico-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-conforto-termico-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do laudo conforto térmico nas empresas"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens em realizar o laudo conforto térmico"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode te ajudar?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do laudo conforto térmico nas empresas</h2>\n\n                        <p>O laudo conforto térmico é uma ferramenta fundamental para garantir o bem-estar e a saúde dos trabalhadores em um ambiente laboral.</p>\n\n                        <p>A avaliação criteriosa das condições de temperatura, umidade e ventilação é essencial para identificar possíveis problemas que possam comprometer o conforto e a segurança dos colaboradores.</p>\n\n                        <h3>Vantagens em realizar o laudo conforto térmico</h3>\n\n                        <p>A realização do laudo conforto térmico traz inúmeras vantagens para as empresas, tais como a promoção da saúde ocupacional, o cumprimento das normas regulamentadoras, como a NR 17, e a prevenção de impactos negativos na produtividade dos funcionários.</p>\n\n                        <p>Além disso, garante um ambiente de trabalho mais seguro e confortável, refletindo diretamente na qualidade de vida dos colaboradores.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode te ajudar?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho e Automação Industrial, possui expertise na elaboração de laudo conforto térmico e demais serviços relacionados à segurança no ambiente de trabalho.</p>\n\n                        <p>Com mais de quatro anos de atuação no mercado, a empresa já atendeu mais de mil clientes em todo o Brasil e no exterior, destacando-se pela qualidade e eficiência de seus serviços.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>A PREVISIO ENGENHARIA destaca-se no mercado pela sua equipe altamente qualificada e pela abordagem personalizada em cada projeto.</p>\n\n                        <p>Além disso, a empresa preza pela excelência técnica, pela pontualidade na entrega dos serviços e pelo atendimento de alta qualidade aos seus clientes, garantindo total satisfação e segurança em todas as etapas do trabalho.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>Se a sua empresa busca soluções em Engenharia de Segurança do Trabalho e deseja garantir o conforto térmico e a segurança dos seus colaboradores, entre em contato com a PREVISIO ENGENHARIA.</p>\n\n                        <p>Estamos à disposição para oferecer as melhores soluções em laudos, projetos e adequações, visando sempre a saúde e o bem-estar da sua equipe.</p>\n\n                        <p>Conte conosco para promover um ambiente de trabalho mais seguro, saudável e produtivo para todos!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 320,
+    "caracteres": 2105,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790800
+  }
+}

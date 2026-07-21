@@ -1,0 +1,69 @@
+{
+  "path": "/pgr",
+  "slug": "pgr",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "PGR - Previsio Engenharia",
+  "h1": "PGR",
+  "breadcrumb": "PGR",
+  "description": "Pgr, você veio ao lugar certo! a é especializada em pgr e oferece uma ampla gama de serviços para atender às suas necessidades. nossa... Saiba mais.",
+  "descriptionCorrigida": "Pgr, você veio ao lugar certo! A Previsio Engenharia é especializada em pgr e oferece uma ampla gama de serviços para atender às suas necessidades. nossa... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/pgr",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/pgr-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/pgr-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/pgr-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o Programa de Gestão de Riscos (pgr)?"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens do pgr para as empresas"
+    },
+    {
+      "nivel": 2,
+      "texto": "Implementação do pgr pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços oferecidos pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para implementar o pgr em sua empresa!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o Programa de Gestão de Riscos (pgr)?</h2>\n\n                        <p>O pgr (Programa de Gestão de Riscos) é um conjunto estruturado de medidas e procedimentos que visa identificar, avaliar e controlar os riscos presentes no ambiente de trabalho de uma empresa.</p>\n\n                        <p>A implementação do pgr é fundamental para garantir a segurança e saúde dos trabalhadores, bem como para cumprir as normas regulamentadoras de segurança no trabalho.</p>\n\n                        <h3>Vantagens do pgr para as empresas</h3>\n\n                        <p>As empresas que adotam o pgr colhem diversos benefícios, tais como a redução de acidentes de trabalho, o cumprimento das exigências legais, a promoção de um ambiente mais saudável e seguro, e a prevenção de doenças ocupacionais.</p>\n\n                        <p>Além disso, a implementação do pgr demonstra o comprometimento da empresa com a segurança dos seus colaboradores e com a qualidade do ambiente de trabalho.</p>\n\n                        <h2>Implementação do pgr pela PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA é uma empresa com ampla experiência na área de Engenharia de Segurança do Trabalho, que oferece serviços especializados para a implementação do Programa de Gestão de Riscos.</p>\n\n                        <p>Com mais de mil clientes atendidos e expertise técnica comprovada, a empresa atua na condução de projetos de grande porte em todo o território nacional e no exterior.</p>\n\n                        <h2>Serviços oferecidos pela PREVISIO ENGENHARIA</h2>\n\n                        <ul class=\"list\">\n\n                            <li>Reformas e atualização de máquinas e painéis elétricos;</li>\n\n                            <li>Realização de Programa de Inspeção de Equipamentos (PIE);</li>\n\n                            <li>Aterramento e outros projetos de segurança;</li>\n\n                            <li>Laudos e adequações em eletricidade conforme a NR10;</li>\n\n                            <li>Assessoria, projetos e documentações de acordo com a NR-12.</li>\n\n                        </ul>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para implementar o pgr em sua empresa!</h2>\n\n                        <p>Se sua empresa busca garantir a segurança dos colaboradores, o cumprimento das normas regulamentadoras e a prevenção de acidentes de trabalho, entre em contato com a PREVISIO ENGENHARIA.</p>\n\n                        <p>Nossa equipe de especialistas está preparada para oferecer soluções personalizadas e eficientes para a implementação do Programa de Gestão de Riscos. Proteja sua empresa e seus colaboradores com a expertise da PREVISIO ENGENHARIA.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 315,
+    "caracteres": 2035,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790331
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/laudos-estruturais",
+  "slug": "laudos-estruturais",
+  "tipo": "servico",
+  "cluster": "nr-11",
+  "temCidades": true,
+  "pilar": "/servicos/laudos-estruturais-nr-11",
+  "title": "Laudos estruturais - Previsio Engenharia",
+  "h1": "Laudos estruturais",
+  "breadcrumb": "Laudos estruturais",
+  "description": "Laudos estruturais, você veio ao lugar certo! a é especializada em laudos estruturais e oferece uma ampla gama de serviços para atender... Saiba mais.",
+  "descriptionCorrigida": "Laudos estruturais, você veio ao lugar certo! A Previsio Engenharia é especializada em laudos estruturais e oferece uma ampla gama de serviços para atender... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudos-estruturais",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudos-estruturais-01.webp",
+      "width": "600",
+      "height": "450",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudos-estruturais-02.webp",
+      "width": "600",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudos-estruturais-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A Importância dos laudos estruturais para a Segurança das Construções"
+    },
+    {
+      "nivel": 2,
+      "texto": "O que são laudos estruturais?"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios dos laudos estruturais"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode te ajudar?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>A Importância dos laudos estruturais para a Segurança das Construções</h2>\n\n                        <p>A realização de laudos estruturais é um procedimento essencial para garantir a segurança e a durabilidade de construções e estruturas, como edificações e pontes.</p>\n\n                        <p>Empresas especializadas nesse serviço asseguram que as obras estejam de acordo com as normas técnicas, evitando acidentes e proporcionando um ambiente seguro para todos os usuários.</p>\n\n                        <h2>O que são laudos estruturais?</h2>\n\n                        <p>Os laudos estruturais são documentos técnicos que avaliam a condição e a capacidade das estruturas em suportar cargas e resistir a forças externas.</p>\n\n                        <p>Eles verificam a integridade dos elementos construtivos e identificam possíveis falhas que possam comprometer a segurança da edificação. Essa análise minuciosa é fundamental para garantir a estabilidade e a durabilidade das construções.</p>\n\n                        <h3>Benefícios dos laudos estruturais</h3>\n\n                        <ul class=\"list\">\n\n                            <li> Prevenção de Acidentes : A realização de laudos estruturais previne acidentes decorrentes de falhas na estrutura das edificações, proporcionando um ambiente seguro para todos;</li>\n\n                            <li> Conformidade com Normas Técnicas : Ao atestar a conformidade das construções com as normas técnicas vigentes, os laudos estruturais garantem a qualidade e a segurança das obras;</li>\n\n                            <li> Durabilidade das Construções : Identificar e corrigir possíveis problemas estruturais contribui para a durabilidade das edificações, evitando desgastes prematuros e reduzindo custos com reparos.</li>\n\n                            <li> Ambiente Seguro : Com laudos estruturais em dia, é possível oferecer um ambiente seguro e adequado para moradores, trabalhadores e frequentadores das construções.</li>\n\n                        </ul>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode te ajudar?</h2>\n\n                        <p>Localizada em São Leopoldo–RS, a PREVISIO ENGENHARIA é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, atuando no mercado desde 2016.</p>\n\n                        <p>Com uma equipe técnica experiente e mais de mil clientes atendidos, a empresa oferece uma série de serviços, incluindo a realização de laudos estruturais para garantir a segurança e a qualidade das construções.</p>\n\n                        <p>Além disso, a PREVISIO ENGENHARIA realiza reformas de máquinas e painéis elétricos, adequações segundo as normas NR10 e NR-12, manutenção em equipamentos industriais, treinamentos de segurança do trabalho, entre outros serviços essenciais para a proteção e o bom funcionamento de empresas e indústrias.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>Se você busca por serviços de laudos estruturais e deseja contar com uma empresa comprometida com a segurança e a qualidade das construções, entre em contato com a PREVISIO ENGENHARIA.</p>\n\n                        <p>Nossa equipe está preparada para atendê-lo e oferecer soluções sob medida para suas necessidades. Garanta a segurança e a durabilidade das suas construções com a expertise da PREVISIO ENGENHARIA.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 393,
+    "caracteres": 2713,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791568
+  }
+}

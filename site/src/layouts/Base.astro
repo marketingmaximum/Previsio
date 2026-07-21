@@ -1,0 +1,73 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { EMPRESA } from '../config.mjs';
+import '../styles/design-system.css';
+
+const { title, description, canonical, schema } = Astro.props;
+
+const e = EMPRESA.endereco;
+
+// Organization vai em todas as páginas — a home hoje não tem schema nenhum
+// (problema #6 do plano). LocalBusiness fica só na /contato, com geo/horário.
+const organization = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: EMPRESA.nome,
+  url: 'https://www.previsio.com.br',
+  logo: 'https://www.previsio.com.br/img/logo-previsio.png',
+  email: EMPRESA.email,
+  telephone: EMPRESA.telefone,
+  foundingDate: String(EMPRESA.desde),
+  address: {
+    '@type': 'PostalAddress',
+    streetAddress: e.rua,
+    addressLocality: e.cidade,
+    addressRegion: e.uf,
+    postalCode: e.cep,
+    addressCountry: 'BR',
+  },
+  sameAs: [
+    'https://www.instagram.com/previsio.engenharia',
+    'https://www.facebook.com/previsio.engenharia',
+  ],
+};
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    {canonical && <link rel="canonical" href={canonical} />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    {canonical && <meta property="og:url" content={canonical} />}
+
+    <link rel="icon" href="/img/logo-previsio-mono.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Slab:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <script type="application/ld+json" set:html={JSON.stringify(organization)} />
+    {schema && <script type="application/ld+json" set:html={JSON.stringify(schema)} />}
+  </head>
+
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

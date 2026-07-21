@@ -1,0 +1,69 @@
+{
+  "path": "/contrato-manutencao-preventiva",
+  "slug": "contrato-manutencao-preventiva",
+  "tipo": "servico",
+  "cluster": "manutencao",
+  "temCidades": true,
+  "pilar": "/servicos/manutencao",
+  "title": "Contrato manutenção preventiva - Previsio Engenharia",
+  "h1": "Contrato manutenção preventiva",
+  "breadcrumb": "Contrato manutenção preventiva",
+  "description": "Contrato manutenção preventiva, você veio ao lugar certo! a é especializada em contrato manutenção preventiva e oferece uma ampla gama... Saiba mais.",
+  "descriptionCorrigida": "Contrato manutenção preventiva, você veio ao lugar certo! A Previsio Engenharia é especializada em contrato manutenção preventiva e oferece uma ampla gama... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/contrato-manutencao-preventiva",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/contrato-manutencao-preventiva-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/contrato-manutencao-preventiva-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/contrato-manutencao-preventiva-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do contrato manutenção preventiva"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens da manutenção preventiva"
+    },
+    {
+      "nivel": 2,
+      "texto": "Processo de manutenção preventiva"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios para a empresa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato e garanta a segurança dos seus equipamentos!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do contrato manutenção preventiva</h2>\n\n                        <p>A PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece o serviço de contrato manutenção preventiva para empresas que buscam garantir o pleno funcionamento de seus equipamentos e sistemas industriais.</p>\n\n                        <p>Este tipo de contrato estabelece inspeções periódicas, ajustes e substituição de peças, visando prevenir falhas graves e assegurar a continuidade das operações.</p>\n\n                        <h3>Vantagens da manutenção preventiva</h3>\n\n                        <p>Ao optar pelo contrato manutenção preventiva, as empresas conseguem reduzir significativamente os custos com reparos emergenciais, evitando paralisações não programadas que podem impactar diretamente na produtividade.</p>\n\n                        <p>Além disso, a manutenção preventiva contribui para prolongar a vida útil dos equipamentos, garantir a segurança dos colaboradores, a conformidade com normas técnicas e a eficiência operacional.</p>\n\n                        <h2>Processo de manutenção preventiva</h2>\n\n                        <p>O processo de manutenção preventiva envolve uma série de etapas, tais como inspeções, limpezas, lubrificações, ajustes e calibrações.</p>\n\n                        <p>Com um cronograma bem estruturado, a PREVISIO ENGENHARIA realiza todas as intervenções necessárias de forma programada, evitando interferências na rotina produtiva da empresa e garantindo a integridade dos equipamentos.</p>\n\n                        <h2>Benefícios para a empresa</h2>\n\n                        <p>Ao contratar o serviço de contrato manutenção preventiva com a PREVISIO ENGENHARIA, a empresa terá a tranquilidade de contar com uma equipe de profissionais altamente capacitados e experientes, que irão zelar pela manutenção e bom desempenho dos equipamentos, proporcionando segurança, eficiência e conformidade com as normas vigentes.</p>\n\n                        <h2>Entre em contato e garanta a segurança dos seus equipamentos!</h2>\n\n                        <p>A PREVISIO ENGENHARIA está pronta para oferecer soluções personalizadas em contrato manutenção preventiva, de acordo com as necessidades de cada cliente.</p>\n\n                        <p>Não deixe a manutenção dos seus equipamentos ao acaso, entre em contato conosco e saiba como podemos ajudar a sua empresa a manter a excelência operacional e a segurança do ambiente de trabalho.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 285,
+    "caracteres": 2069,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791110
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/treinamentos-nr-12",
+  "slug": "servicos/treinamentos-nr-12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "Treinamentos NR-12 - Previsio Engenharia",
+  "h1": "Treinamentos NR-12",
+  "breadcrumb": null,
+  "description": "Treinamentos NR-12 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidiscipli...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/treinamentos-nr-12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Treinamentos NR-12</span></p>\n\t\t\t\t\t\t<p>Desenvolvemos treinamentos online ou \"in company\" para os trabalhadores que interagem de alguma forma com as máquinas e equipamentos, ou ainda capacitamos instrutores de NR-12 internos. Destacamos que esse treinamento possui obrigatoriedade de lançamento no sistema do eSocial.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 43,
+    "caracteres": 313,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468936
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/prontuario-nr-33",
+  "slug": "servicos/prontuario-nr-33",
+  "tipo": "pilar",
+  "cluster": "nr-33",
+  "temCidades": false,
+  "pilar": "/servicos/prontuario-nr-33",
+  "title": "Prontuário NR-33 - Previsio Engenharia",
+  "h1": "Prontuário NR-33",
+  "breadcrumb": null,
+  "description": "Prontuário NR-33 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplina...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/prontuario-nr-33",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Prontuário NR-33</span></p>\n\t\t\t\t\t\t<p>Trata-se de um conjunto de documentos contendo inventário dos espaços confina-dos, os projetos, os mapa de sinalizações, os sistemas de travamento, os procedimentos, o relatório de inspeção, os laudos de confor-midade, a análise de risco e as permissões de entrada e trabalho conforme a NR-33.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 50,
+    "caracteres": 327,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468934
+  }
+}

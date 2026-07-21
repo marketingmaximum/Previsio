@@ -1,0 +1,39 @@
+{
+  "path": "/download",
+  "slug": "download",
+  "tipo": "institucional",
+  "cluster": "institucional",
+  "temCidades": false,
+  "pilar": null,
+  "title": "Downloads - Previsio Engenharia",
+  "h1": "Downloads",
+  "breadcrumb": "Downloads",
+  "description": "Downloads - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/download",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/empresa/ebook.webp",
+      "width": null,
+      "height": null,
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Faça download de nossos eBooks:"
+    }
+  ],
+  "bodyHtml": "<section>\n\t\t\t\t\n\t\t\t\t<!--STARTCOMPONENTS-->\n\t\t\t\t<div class=\"container quem--somos\">\n\t\t\t\t\t<div class=\"row gap-50 align-items-center\">\n\t\t\t\t\t\t<div class=\"col-6 col-xl-12 text__left\">\n\t\t\t\t\t\t\t<p class=\"sub-title-01\">Downloads</p>\n\t\t\t\t\t\t\t<h2 class=\"light my-2\">Faça download de nossos eBooks:</h2>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<ul class=\"list mt-5\">\n\t\t\t\t\t\t\t\t<li><a class=\"ebook_link\" href=\"https://www.previsio.com.br/pdf/Cartilha-SST-e-social.pdf\" title=\"eBook\" target=\"_blank\" rel=\"nofollow\">Cartilha SST eSocial</a></li>\n\t\t\t\t\t\t\t\t<li><a class=\"ebook_link\" href=\"https://www.previsio.com.br/pdf/ebook-Burnout-correto.pdf\" title=\"eBook\" target=\"_blank\" rel=\"nofollow\">eBook - O Impacto do Ruído no Ambiente de Trabalho: Danos à Saúde, Legislação e Soluções Práticas</a></li>\n\t\t\t\t\t\t\t\t<li>\n                                <a class=\"ebook_link\" href=\"https://www.previsio.com.br/pdf/ebook-ruidos.pdf\" title=\"eBook\" target=\"_blank\" rel=\"nofollow\">eBook - Guia Prático de Prevenção ao Burnout</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"col-6 col-xl-12\">\n\t\t\t\t\t\t\t<img class=\"w-100 object-fit-cover\" src=\"https://www.previsio.com.br/imagens/empresa/ebook.webp\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!--  -->\n\t\t\t\t<!--  -->\n\n\t\t\t\t\t<!--ENDCOMPONENTS-->\n\t\t\t</section>",
+  "conteinerUsado": "main div.content",
+  "metricas": {
+    "palavras": 34,
+    "caracteres": 205,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 341403
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/ppp",
+  "slug": "ppp",
+  "tipo": "servico",
+  "cluster": "esocial",
+  "temCidades": true,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "PPP - Previsio Engenharia",
+  "h1": "PPP",
+  "breadcrumb": "PPP",
+  "description": "Ppp, você veio ao lugar certo! a é especializada em ppp e oferece uma ampla gama de serviços para atender às suas necessidades. nossa... Saiba mais.",
+  "descriptionCorrigida": "Ppp, você veio ao lugar certo! A Previsio Engenharia é especializada em ppp e oferece uma ampla gama de serviços para atender às suas necessidades. nossa... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/ppp",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/ppp-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/ppp-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/ppp-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o ppp e sua importância para a Engenharia de Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Previsio Engenharia: Especialista em ppp e Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios de contar com o ppp da Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conheça os diferenciais da Previsio Engenharia na elaboração do ppp"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato com a Previsio Engenharia e proteja seus colaboradores"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o ppp e sua importância para a Engenharia de Segurança do Trabalho</h2>\n\n                        <p>O ppp (Perfil Profissiográfico Previdenciário) é um documento essencial para garantir que os trabalhadores estejam protegidos e recebam os benefícios previdenciários corretamente. Ele descreve detalhadamente as atividades e condições de trabalho às quais o colaborador foi exposto, sendo fundamental para a concessão de aposentadoria especial e outros direitos previdenciários.</p>\n\n                        <h2>Previsio Engenharia: Especialista em ppp e Segurança do Trabalho</h2>\n\n                        <p>A Previsio Engenharia, localizada em São Leopoldo - RS, é referência em Engenharia de Segurança do Trabalho e Automação Industrial. Com mais de cinco anos de experiência, a empresa já atendeu mais de mil clientes, oferecendo serviços como reformas de máquinas, laudos de eletricidade conforme a NR10, treinamentos, consultoria para proteção jurídica da empresa e, claro, a elaboração do ppp.</p>\n\n                        <h2>Benefícios de contar com o ppp da Previsio Engenharia</h2>\n\n                        <p>A Previsio Engenharia se destaca pela qualidade na elaboração do ppp, garantindo que todas as exigências legais sejam cumpridas, e que as condições de trabalho dos colaboradores sejam devidamente registradas. Com um time de profissionais altamente qualificados, a empresa assegura que o documento seja elaborado de forma precisa e eficiente.</p>\n\n                        <h2>Conheça os diferenciais da Previsio Engenharia na elaboração do ppp</h2>\n\n                        <p>Além de oferecer um atendimento personalizado e dedicado, a Previsio Engenharia se destaca pela agilidade na execução dos serviços. Com conhecimento técnico especializado, a empresa garante que o ppp seja elaborado de acordo com as normas vigentes, proporcionando segurança e tranquilidade para seus clientes.</p>\n\n                        <h2>Entre em contato com a Previsio Engenharia e proteja seus colaboradores</h2>\n\n                        <p>Se sua empresa busca garantir que seus colaboradores estejam protegidos e amparados, entre em contato com a Previsio Engenharia. Conte com uma equipe comprometida em oferecer soluções em Engenharia de Segurança do Trabalho e Automação Industrial, incluindo a elaboração do ppp de forma eficiente e profissional.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 303,
+    "caracteres": 2067,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 789934
+  }
+}

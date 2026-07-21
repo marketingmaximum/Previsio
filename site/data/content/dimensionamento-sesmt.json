@@ -1,0 +1,69 @@
+{
+  "path": "/dimensionamento-sesmt",
+  "slug": "dimensionamento-sesmt",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Dimensionamento SESMT - Previsio Engenharia",
+  "h1": "Dimensionamento SESMT",
+  "breadcrumb": "Dimensionamento SESMT",
+  "description": "Dimensionamento sesmt, você veio ao lugar certo! a é especializada em dimensionamento sesmt e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Dimensionamento sesmt, você veio ao lugar certo! A Previsio Engenharia é especializada em dimensionamento sesmt e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/dimensionamento-sesmt",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/dimensionamento-sesmt-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/dimensionamento-sesmt-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/dimensionamento-sesmt-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o dimensionamento sesmt?"
+    },
+    {
+      "nivel": 2,
+      "texto": "A importância do dimensionamento sesmt"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como é feito o dimensionamento sesmt?"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens do dimensionamento sesmt adequado"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Previsio Engenharia para o dimensionamento sesmt da sua empresa!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o dimensionamento sesmt?</h2>\n\n                        <p>O dimensionamento sesmt é um processo fundamental para empresas que desejam garantir a segurança e a saúde de seus colaboradores.</p>\n\n                        <p>Essa prática consiste em definir a estrutura necessária do Serviço Especializado em Engenharia de Segurança e Medicina do Trabalho, considerando o porte e o grau de risco da empresa.</p>\n\n                        <p>Com o dimensionamento adequado, é possível assegurar a presença de profissionais qualificados, como técnicos, engenheiros de segurança e médicos do trabalho, que atuarão de forma preventiva na redução de acidentes e doenças ocupacionais.</p>\n\n                        <h2>A importância do dimensionamento sesmt</h2>\n\n                        <p>O dimensionamento do SESMT é essencial para garantir a conformidade com a legislação trabalhista e previdenciária, além de promover um ambiente de trabalho seguro e saudável.</p>\n\n                        <p>Empresas que realizam esse processo demonstram comprometimento com a segurança de seus colaboradores, evitam multas e processos judiciais, e reduzem custos com afastamentos e indenizações.</p>\n\n                        <p>Além disso, ao contar com profissionais capacitados, é possível prevenir acidentes, melhorar a produtividade e a qualidade de vida no trabalho.</p>\n\n                        <h2>Como é feito o dimensionamento sesmt?</h2>\n\n                        <p>O dimensionamento sesmt envolve a análise do número de funcionários, o grau de risco das atividades desenvolvidas, o tipo de estabelecimento e outros fatores determinantes.</p>\n\n                        <p>Com base nessas informações, é possível determinar a quantidade mínima de profissionais que devem compor o Serviço Especializado em Engenharia de Segurança e Medicina do Trabalho, bem como seus respectivos cargos e atribuições.</p>\n\n                        <p>É importante ressaltar que o dimensionamento deve ser revisado periodicamente, garantindo a adequação às mudanças na empresa e na legislação.</p>\n\n                        <h3>Vantagens do dimensionamento sesmt adequado</h3>\n\n                        <ul class=\"list\">\n\n                            <li> Compliance legal: Empresas que realizam o dimensionamento do SESMT estão em conformidade com as normas regulamentadoras, evitando autuações e prejuízos financeiros;</li>\n\n                            <li> Prevenção de acidentes: A presença de profissionais qualificados contribui para a identificação e mitigação de riscos, reduzindo a ocorrência de acidentes de trabalho;</li>\n\n                            <li> Redução de custos: Investir em segurança e saúde no trabalho pode gerar economia a longo prazo, evitando despesas com afastamentos, indenizações e processos judiciais;</li>\n\n                            <li> Valorização dos colaboradores: Um ambiente seguro e saudável promove o bem-estar dos funcionários, aumentando a satisfação e a produtividade no trabalho.</li>\n\n                        </ul>\n\n                        <h2>Conte com a Previsio Engenharia para o dimensionamento sesmt da sua empresa!</h2>\n\n                        <p>A Previsio Engenharia é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, com ampla experiência e expertise na condução de projetos de segurança em todo o Brasil e no exterior.</p>\n\n                        <p>Nossos serviços abrangem desde a elaboração de laudos e adequações conforme as normas vigentes até o dimensionamento do SESMT, garantindo a proteção dos colaboradores e o cumprimento das exigências legais.</p>\n\n                        <p>Entre em contato conosco e saiba como podemos contribuir para a segurança e o sucesso da sua empresa.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 437,
+    "caracteres": 3011,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791993
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "path": "/pericias-insalubridade-periculosidade",
+  "slug": "pericias-insalubridade-periculosidade",
+  "tipo": "servico",
+  "cluster": "insalubridade",
+  "temCidades": true,
+  "pilar": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "title": "Perícias insalubridade e periculosidade - Previsio Engenharia",
+  "h1": "Perícias insalubridade e periculosidade",
+  "breadcrumb": "Perícias insalubridade e periculosidade",
+  "description": "Perícias insalubridade e periculosidade, você veio ao lugar certo! a é especializada em perícias insalubridade e periculosidade e... Saiba mais.",
+  "descriptionCorrigida": "Perícias insalubridade e periculosidade, você veio ao lugar certo! A Previsio Engenharia é especializada em perícias insalubridade e periculosidade e... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/pericias-insalubridade-periculosidade",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/pericias-insalubridade-periculosidade-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/pericias-insalubridade-periculosidade-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/pericias-insalubridade-periculosidade-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "perícias insalubridade e periculosidade: Importância e Função"
+    },
+    {
+      "nivel": 2,
+      "texto": "A PREVISIO ENGENHARIA e sua Experiência em perícias insalubridade e periculosidade"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens"
+    },
+    {
+      "nivel": 2,
+      "texto": "Contrate já os Serviços da PREVISIO ENGENHARIA!"
+    }
+  ],
+  "bodyHtml": "<h2>perícias insalubridade e periculosidade: Importância e Função</h2>\n\n                        <p>Perícias insalubridade e periculosidade são avaliações fundamentais para garantir a segurança e saúde dos trabalhadores em diversos ambientes laborais.</p>\n\n                        <p>Esses laudos têm como objetivo identificar se as condições de trabalho expõem os colaboradores a agentes insalubres ou perigosos, que possam causar danos à saúde ou acidentes.</p>\n\n                        <p>É por meio dessas perícias que as empresas podem verificar se estão cumprindo as normas de segurança do trabalho e se os colaboradores estão protegidos de maneira adequada.</p>\n\n                        <h2>A PREVISIO ENGENHARIA e sua Experiência em perícias insalubridade e periculosidade</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo–RS, é uma empresa especializada em Engenharia de Segurança do Trabalho que oferece serviços de alta qualidade desde 2016.</p>\n\n                        <p>Com vasta experiência técnica e um amplo portfólio de clientes atendidos, a PREVISIO se destaca na realização de perícias insalubridade e periculosidade.</p>\n\n                        <p>Além disso, a empresa oferece uma gama de serviços que englobam desde reformas de atualização de máquinas e painéis elétricos até treinamentos de segurança do trabalho, documentações e adequações às normas regulamentadoras.</p>\n\n                        <p>A PREVISIO ENGENHARIA se destaca pela excelência em seus projetos e pela competência de sua equipe técnica.</p>\n\n                        <h3>Vantagens</h3>\n\n                        <p>Realizar as perícias insalubridade e periculosidade traz uma série de benefícios para as empresas, como a prevenção de passivos trabalhistas, o cumprimento das normas vigentes, a garantia de um ambiente de trabalho seguro e a proteção da saúde dos colaboradores.</p>\n\n                        <p>Além disso, a obtenção desses laudos é essencial para a concessão dos adicionais de insalubridade e periculosidade aos trabalhadores, assegurando seus direitos e evitando possíveis problemas legais.</p>\n\n                        <h2>Contrate já os Serviços da PREVISIO ENGENHARIA!</h2>\n\n                        <p>Se a sua empresa busca garantir a segurança e a saúde de seus colaboradores, bem como estar em conformidade com as normas de segurança do trabalho, a PREVISIO ENGENHARIA é a parceira ideal para você.</p>\n\n                        <p>Contando com profissionais altamente qualificados e uma vasta experiência no mercado, a empresa oferece soluções completas em Engenharia de Segurança do Trabalho, incluindo a realização de perícias de insalubridade e periculosidade.</p>\n\n                        <p>Entre em contato conosco para saber mais sobre nossos serviços e como podemos ajudar a sua empresa a promover um ambiente de trabalho seguro e saudável para todos os seus colaboradores.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 360,
+    "caracteres": 2439,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 792086
+  }
+}

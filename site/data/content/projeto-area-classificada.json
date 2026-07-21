@@ -1,0 +1,69 @@
+{
+  "path": "/projeto-area-classificada",
+  "slug": "projeto-area-classificada",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": true,
+  "pilar": "/servicos/nr-10",
+  "title": "Projeto de área classificada - Previsio Engenharia",
+  "h1": "Projeto de área classificada",
+  "breadcrumb": "Projeto de área classificada",
+  "description": "Projeto de área classificada é essencial para ambientes que apresentam riscos de explosões ou incêndios, como indústrias químicas e petroquímicas. ele é...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/projeto-area-classificada",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/projeto-area-classificada-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-area-classificada-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-area-classificada-03.webp",
+      "width": "600",
+      "height": "316",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Projeto de Área Classificada: Garantindo a Segurança em Ambientes de Risco"
+    },
+    {
+      "nivel": 2,
+      "texto": "A Importância do Projeto de Área Classificada"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como Funciona um Projeto de Área Classificada"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Investir em um Projeto de Área Classificada"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Previsio Engenharia para o seu Projeto de Área Classificada"
+    }
+  ],
+  "bodyHtml": "<h2>Projeto de Área Classificada: Garantindo a Segurança em Ambientes de Risco</h2>\n\n                        <p>A Previsio Engenharia, empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, localizada em São Leopoldo - RS, destaca-se no mercado por sua experiência técnica na condução de grandes projetos em todo território nacional e no exterior. Com mais de mil clientes atendidos desde 2016, a Previsio Engenharia oferece uma ampla gama de serviços, incluindo reformas e atualizações de máquinas e painéis elétricos, laudos de conformidade com a NR10, treinamentos de segurança do trabalho, documentações e adequações à NR-12, entre outros.</p>\n\n                        <h2>A Importância do Projeto de Área Classificada</h2>\n\n                        <p>O projeto de área classificada é essencial para ambientes que apresentam riscos de explosões ou incêndios, como indústrias químicas e petroquímicas. Ele é responsável por definir as zonas de risco e as medidas de segurança necessárias para garantir a proteção dos trabalhadores e o cumprimento das regulamentações específicas. Empresas que investem em projetos de áreas classificadas não apenas protegem seus colaboradores de acidentes graves, mas também asseguram um ambiente de trabalho seguro e adequado às situações de risco.</p>\n\n                        <h2>Como Funciona um Projeto de Área Classificada</h2>\n\n                        <p>O projeto de área classificada envolve a identificação e classificação das áreas com potencial de risco, considerando a presença de substâncias inflamáveis, gases, poeiras ou vapores combustíveis. Com base nessa análise, são estabelecidas as zonas de risco, que determinam os níveis de proteção e as medidas de prevenção necessárias para garantir a segurança dos trabalhadores e a integridade das instalações.</p>\n\n                        <h2>Vantagens de Investir em um Projeto de Área Classificada</h2>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Aumento da segurança dos colaboradores;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Redução de acidentes de trabalho;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Cumprimento das normas regulamentadoras;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Proteção das instalações e equipamentos;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Minimização de danos ambientais;</li>\n\n                        </ul>\n\n                        <h2>Conte com a Previsio Engenharia para o seu Projeto de Área Classificada</h2>\n\n                        <p>A Previsio Engenharia oferece todo o suporte necessário para a elaboração e implementação do seu projeto de área classificada. Com uma equipe altamente qualificada e expertise no segmento, garantimos soluções personalizadas e eficientes para atender às necessidades específicas do seu negócio. Entre em contato conosco e garanta a segurança e conformidade do seu ambiente de trabalho!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 346,
+    "caracteres": 2371,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791677
+  }
+}

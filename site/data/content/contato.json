@@ -1,0 +1,31 @@
+{
+  "path": "/contato",
+  "slug": "contato",
+  "tipo": "institucional",
+  "cluster": "institucional",
+  "temCidades": false,
+  "pilar": null,
+  "title": "Contato - Previsio Engenharia",
+  "h1": "Contato",
+  "breadcrumb": "Contato",
+  "description": "Contato - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de profissionais...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/contato",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Tire suas dúvidas e Solicite um Orçamento!"
+    }
+  ],
+  "bodyHtml": "<section>\n        \n        <div class=\"container contato\">\n          <div class=\"wrapper\">\n            <div class=\"row gap-70\">\n              <div class=\"col-6 col-xl-12\">\n                <div class=\"contato__left p-0\">\n                  <h2 class=\"mb-6 light\">Tire suas dúvidas e Solicite um Orçamento!</h2>\n                  <p class=\"pt-4\">Entre em contato conosco! Nossos Especialistas irão retornar o mais breve possível.</p>\n                  <div class=\"contato__item\">\n                    <div class=\"contato__info\">\n                      <span><i class=\"fa-solid fa-location-dot\"></i> Rua Monteiro Lobato, 149 - Rio Branco São Leopoldo - RS <br> CEP: 93040-350</span>\n                    </div>\n                  </div>\n                  <div class=\"contato__item\">\n                    <div class=\"contato__info\">\n                      <strong class=\"info__title fw-bold\">contatos</strong>\n                                                                        <a rel=\"nofollow\" title=\"Clique e ligue\" href=\"tel:513466-9601\">\n                            <i class=\"fas fa-phone\" aria-hidden=\"true\"></i> (51) 3466-9601                          </a>\n                                                                                                <a rel=\"nofollow\" href=\"https://web.whatsapp.com/send?phone=555134669601&amp;text=Ol%C3%A1%21%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20as%20ofertas%20da%20Previsio%20Engenharia%20-%20Seguran%C3%A7a%20do%20trabalho%20e%20automa%C3%A7%C3%A3o%20industrial\" target=\"_blank\" title=\"Whatsapp Previsio Engenharia\">\n                            <i class=\"fab fa-whatsapp\" aria-hidden=\"true\"></i> (51) 3466-9601                          </a>\n                                                                                                                                              <span><i class=\"fas fa-envelope\" aria-hidden=\"true\"></i> vendas@previsio.com.br</span>\n                                                                                                                                                                                                                                                                                    </div>\n                  </div>\n                </div>\n              </div>\n              <div class=\"col-6 contato-rigth col-xl-12\">\n                <div class=\"py-5\">\n                  \n                </div>\n              </div>\n            </div>\n          </div>\n          <div class=\"clear\"></div>\n        </div>\n        <iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3463.189643371739!2d-51.13348162359346!3d-29.772157418704946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9519690761d62bd7%3A0x9857a8e6568afe55!2sR.%20Monteiro%20Lobato%2C%20149%20-%20Rio%20Branco%2C%20S%C3%A3o%20Leopoldo%20-%20RS%2C%2093040-350!5e0!3m2!1spt-BR!2sbr!4v1740083842619!5m2!1spt-BR!2sbr\" class=\"address-map my-0\" loading=\"lazy\" title=\"Nossa Localização no mapa\"></iframe>\n      </section>",
+  "conteinerUsado": "main div.content",
+  "metricas": {
+    "palavras": 38,
+    "caracteres": 259,
+    "linksInternos": 235,
+    "h1NoDom": 1,
+    "bytesOriginal": 342821
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/sistemas-de-protecao-contra-quedas",
+  "slug": "servicos/sistemas-de-protecao-contra-quedas",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": false,
+  "pilar": "/servicos/nr-35",
+  "title": "Sistemas de Proteção Contra Quedas - Previsio Engenharia",
+  "h1": "Sistemas de Proteção Contra Quedas​",
+  "breadcrumb": null,
+  "description": "Sistemas de Proteção Contra Quedas​ - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equ...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/sistemas-de-protecao-contra-quedas",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Sistemas de Proteção Contra Quedas​</span></p>\n\t\t\t\t\t\t<p>Sistemas de Proteção Contra Quedas​ - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 27,
+    "caracteres": 177,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469156
+  }
+}

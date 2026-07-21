@@ -1,0 +1,69 @@
+{
+  "path": "/projeto-instalacao-linhas-vida",
+  "slug": "projeto-instalacao-linhas-vida",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": true,
+  "pilar": "/servicos/nr-35",
+  "title": "Projeto e instalação linhas de vida - Previsio Engenharia",
+  "h1": "Projeto e instalação linhas de vida",
+  "breadcrumb": "Projeto e instalação linhas de vida",
+  "description": "Projeto e instalação linhas de vida, você veio ao lugar certo! a é especializada em projeto e instalação linhas de vida e oferece uma... Saiba mais.",
+  "descriptionCorrigida": "Projeto e instalação linhas de vida, você veio ao lugar certo! A Previsio Engenharia é especializada em projeto e instalação linhas de vida e oferece uma... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/projeto-instalacao-linhas-vida",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/projeto-instalacao-linhas-vida-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-instalacao-linhas-vida-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-instalacao-linhas-vida-03.webp",
+      "width": "399",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Projeto e Instalação de Linhas de Vida: Garantindo a Segurança dos Trabalhadores em Altura"
+    },
+    {
+      "nivel": 2,
+      "texto": "A Importância do projeto e instalação linhas de vida"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens da Implementação do projeto e instalação linhas de vida"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com os Especialistas em Engenharia de Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Solicite um Orçamento Personalizado"
+    }
+  ],
+  "bodyHtml": "<h2>Projeto e Instalação de Linhas de Vida: Garantindo a Segurança dos Trabalhadores em Altura</h2>\n\n                        <p>A segurança do trabalho é um aspecto fundamental em qualquer ambiente laboral, especialmente em atividades que envolvem trabalhos em altura. Nesse sentido, o projeto e instalação linhas de vida se destaca como uma medida essencial para garantir a proteção dos colaboradores que desempenham suas funções em telhados, andaimes e outras áreas elevadas.</p>\n\n                        <h2>A Importância do projeto e instalação linhas de vida</h2>\n\n                        <p>Empresas que priorizam a segurança de seus trabalhadores reconhecem a relevância de investir em projetos que visam prevenir acidentes e garantir um ambiente de trabalho seguro. O projeto e instalação linhas de vida desempenha um papel crucial nesse cenário, fornecendo sistemas de ancoragem que permitem a utilização de equipamentos de proteção individual contra quedas.</p>\n\n                        <h2>Vantagens da Implementação do projeto e instalação linhas de vida</h2>\n\n                        <p>A implementação de um projeto e instalação linhas de vida traz inúmeras vantagens para as empresas, tais como:</p>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Redução do risco de acidentes em altura;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Conformidade com as normas de segurança do trabalho;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Proteção dos trabalhadores e da empresa contra possíveis incidentes;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Promoção de um ambiente de trabalho mais seguro e produtivo;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Minimização de custos com afastamentos e processos judiciais;</li>\n\n                        </ul>\n\n                        <h2>Conte com os Especialistas em Engenharia de Segurança do Trabalho</h2>\n\n                        <p>A PREVISIO ENGENHARIA é uma empresa renomada no segmento de Engenharia de Segurança do Trabalho, com expertise em projetos e instalações de linhas de vida. Com uma vasta experiência no mercado e um time de profissionais qualificados, a empresa oferece soluções personalizadas e eficientes para garantir a segurança e o bem-estar dos trabalhadores.</p>\n\n                        <h2>Solicite um Orçamento Personalizado</h2>\n\n                        <p>Se a segurança dos colaboradores da sua empresa é uma prioridade, não hesite em entrar em contato com a PREVISIO ENGENHARIA. Nossos especialistas estão preparados para oferecer todo o suporte necessário na elaboração e implantação de projetos de linhas de vida, visando sempre a prevenção de acidentes e a promoção de um ambiente de trabalho seguro. Proteja seus colaboradores, cumpra as normas de segurança e invista no bem mais valioso da sua empresa: as pessoas.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 341,
+    "caracteres": 2243,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791822
+  }
+}

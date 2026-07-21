@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/prontuario-nr-35",
+  "slug": "servicos/prontuario-nr-35",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": false,
+  "pilar": "/servicos/nr-35",
+  "title": "Prontuário NR-35 - Previsio Engenharia",
+  "h1": "Prontuário NR-35",
+  "breadcrumb": null,
+  "description": "Prontuário NR-35 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplina...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/prontuario-nr-35",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Prontuário NR-35</span></p>\n\t\t\t\t\t\t<p>Trata-se de um conjunto de documentos contendo inventário dos meios de acessos e EPC's, projetos, procedimentos, relatório de inspeção, laudos de conformidade, análise de risco e permições de trabalho de acordo com a NR-35.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 39,
+    "caracteres": 257,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468862
+  }
+}

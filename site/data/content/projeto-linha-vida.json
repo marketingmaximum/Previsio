@@ -1,0 +1,69 @@
+{
+  "path": "/projeto-linha-vida",
+  "slug": "projeto-linha-vida",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": true,
+  "pilar": "/servicos/nr-35",
+  "title": "Projeto linha de vida - Previsio Engenharia",
+  "h1": "Projeto linha de vida",
+  "breadcrumb": "Projeto linha de vida",
+  "description": "Projeto linha de vida, você veio ao lugar certo! a é especializada em projeto linha de vida e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Projeto linha de vida, você veio ao lugar certo! A Previsio Engenharia é especializada em projeto linha de vida e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/projeto-linha-vida",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/projeto-linha-vida-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-linha-vida-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-linha-vida-03.webp",
+      "width": "399",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "projeto linha de vida: Garantindo a Segurança em Atividades em Altura"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como Funciona um projeto linha de vida"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Implementar um projeto linha de vida"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Experiência da PREVISIO ENGENHARIA no Desenvolvimento do seu Projeto"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato e Proteja a Vida dos seus Colaboradores"
+    }
+  ],
+  "bodyHtml": "<h2>projeto linha de vida: Garantindo a Segurança em Atividades em Altura</h2>\n\n                        <p>A PREVISIO ENGENHARIA, localizada em São Leopoldo - RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, com ampla experiência no mercado desde 2016. Com mais de mil clientes atendidos, a empresa se destaca pela excelência técnica na execução de grandes projetos em todo o território nacional e no exterior. Entre os serviços oferecidos pela PREVISIO ENGENHARIA, está o desenvolvimento e implantação de projeto linha de vida, um sistema fundamental para garantir a segurança dos trabalhadores em atividades em altura.</p>\n\n                        <h2>Como Funciona um projeto linha de vida</h2>\n\n                        <p>O projeto linha de vida consiste na instalação de cabos e dispositivos de ancoragem em pontos estratégicos, permitindo que os trabalhadores sejam devidamente protegidos contra quedas durante a execução de atividades em locais elevados. Essa medida garante que a integridade física dos colaboradores seja preservada, além de assegurar o cumprimento das normas de segurança do trabalho.</p>\n\n                        <h2>Vantagens de Implementar um projeto linha de vida</h2>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Proteção dos trabalhadores contra quedas;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Cumprimento das normas de segurança do trabalho;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Promoção de um ambiente de trabalho mais seguro;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Redução de acidentes laborais;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Valorização da empresa perante seus colaboradores e órgãos fiscalizadores.</li>\n\n                        </ul>\n\n                        <h2>Conte com a Experiência da PREVISIO ENGENHARIA no Desenvolvimento do seu Projeto</h2>\n\n                        <p>A PREVISIO ENGENHARIA possui uma equipe altamente capacitada para desenvolver e implementar projetos de linha de vida personalizados, de acordo com as necessidades de cada cliente. Com o compromisso de garantir a segurança e o bem-estar dos trabalhadores, a empresa utiliza os mais modernos equipamentos e técnicas de instalação, seguindo todas as normas e regulamentos vigentes no país.</p>\n\n                        <h2>Entre em Contato e Proteja a Vida dos seus Colaboradores</h2>\n\n                        <p>Se você deseja promover um ambiente de trabalho mais seguro e proteger a vida dos seus colaboradores, entre em contato com a PREVISIO ENGENHARIA e saiba mais sobre como um projeto linha de vida pode fazer a diferença na segurança da sua empresa. Nossa equipe está preparada para oferecer todo o suporte necessário na implementação desse importante sistema de proteção. Proteja quem você ama. Conte conosco!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 346,
+    "caracteres": 2282,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791137
+  }
+}

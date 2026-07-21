@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/sistemas-de-protecao-coletiva-nr-35",
+  "slug": "servicos/sistemas-de-protecao-coletiva-nr-35",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": false,
+  "pilar": "/servicos/nr-35",
+  "title": "Sistemas de Proteção Coletiva NR-35 - Previsio Engenharia",
+  "h1": "Sistemas de Proteção Coletiva NR-35",
+  "breadcrumb": null,
+  "description": "Sistemas de Proteção Coletiva NR-35 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equ...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/sistemas-de-protecao-coletiva-nr-35",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Sistemas de Proteção Coletiva NR-35</span></p>\n\t\t\t\t\t\t<p>Desenvolvemos projetos de meios de acesso para trabalho em altura tais como escadas, passarelas, plataformas, guarda corpos, linhas de vida, pontos de ancoragem e demais dispositivos de proteção. Aplicamos treinamentos para capacitação de trabalhadores e super-visores de trabalho em altura.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 48,
+    "caracteres": 344,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469301
+  }
+}

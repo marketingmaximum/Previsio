@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/sst",
+  "slug": "servicos/sst",
+  "tipo": "pilar",
+  "cluster": "cipa-sesmt",
+  "temCidades": false,
+  "pilar": "/servicos/sst",
+  "title": "SST - Previsio Engenharia",
+  "h1": "SST",
+  "breadcrumb": null,
+  "description": "SST - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de profissi...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/sst",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">SST</span></p>\n\t\t\t\t\t\t<ul class=\"list\">\n<li>Análise Ergonômica, Programa de Gerenciamento de Riscos – PGR;</li>\n<li>Lançamentos no eSocial;</li>\n<li>Laudo de Técnico de Insalubridade e Periculosidade – LTIP;</li>\n<li>Laudo técnico das Condições Ambientais do Trabalho – LTCAT;</li>\n<li>Mapa de Risco;</li>\n<li>Matriz de Produtos Químicos;</li>\n<li>Planos de Emergência;</li>\n<li>Plano de Proteção Respiratório;</li>\n<li>Medição de Estanqueidade em Máscaras;</li>\n<li>Programa de Conservação Auditiva – PCA;</li>\n<li>Ordens de Serviço;</li>\n<li>Perfil Profissiográfico Previdenciário – PPP;</li>\n<li>Plano de Prevenção de Riscos de Acidentes com Materiais Perfurocortantes – PPRAMP;</li>\n<li>Treinamento de todas as NRs.</li>\n</ul>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 84,
+    "caracteres": 579,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469122
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/plano-acao-emergencia-pae",
+  "slug": "plano-acao-emergencia-pae",
+  "tipo": "servico",
+  "cluster": "emergencia",
+  "temCidades": true,
+  "pilar": "/servicos/planos-de-emergencia",
+  "title": "Plano de ação de emergência PAE - Previsio Engenharia",
+  "h1": "Plano de ação de emergência PAE",
+  "breadcrumb": "Plano de ação de emergência PAE",
+  "description": "Plano de ação de emergência pae, você veio ao lugar certo! a é especializada em plano de ação de emergência pae e oferece uma ampla gama... Saiba mais.",
+  "descriptionCorrigida": "Plano de ação de emergência pae, você veio ao lugar certo! A Previsio Engenharia é especializada em plano de ação de emergência pae e oferece uma ampla gama... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/plano-acao-emergencia-pae",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/plano-acao-emergencia-pae-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-acao-emergencia-pae-02.webp",
+      "width": "600",
+      "height": "379",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-acao-emergencia-pae-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do plano de ação de emergência pae"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como funciona um plano de ação de emergência pae?"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens da implementação do plano de ação de emergência pae"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia pode ajudar na elaboração do plano de ação de emergência pae?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Previsio Engenharia para proteger sua empresa e seus colaboradores!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do plano de ação de emergência pae</h2>\n\n                        <p>A Previsio Engenharia, especializada em engenharia de segurança do trabalho, destaca a relevância do plano de ação de emergência pae para garantir a segurança e proteção dos trabalhadores em situações de risco.</p>\n\n                        <h2>Como funciona um plano de ação de emergência pae?</h2>\n\n                        <p>O plano de ação de emergência pae consiste em um conjunto de diretrizes e procedimentos a serem seguidos em casos de emergência, como incêndios, vazamentos ou desastres naturais.</p>\n\n                        <p>Ele visa minimizar os riscos, proteger as pessoas e as instalações, além de garantir uma resposta rápida e eficaz diante de situações críticas.</p>\n\n                        <h3>Vantagens da implementação do plano de ação de emergência pae</h3>\n\n                        <p>A implementação do plano de ação de emergência pae traz inúmeros benefícios para as empresas, tais como o cumprimento das normas regulamentadoras, a proteção da vida e da integridade física dos colaboradores, a redução de danos materiais, e a melhoria da capacidade de resposta em situações de crise.</p>\n\n                        <h2>Como a Previsio Engenharia pode ajudar na elaboração do plano de ação de emergência pae?</h2>\n\n                        <p>A Previsio Engenharia, com sua expertise em segurança do trabalho, oferece serviços especializados na elaboração, implantação e treinamento de equipes para o plano de ação de emergência pae.</p>\n\n                        <p>Com um time qualificado e experiente, a empresa garante a eficácia e a adequação do plano às necessidades de cada cliente, proporcionando mais segurança e tranquilidade em situações de emergência.</p>\n\n                        <h2>Conte com a Previsio Engenharia para proteger sua empresa e seus colaboradores!</h2>\n\n                        <p>A Previsio Engenharia coloca à disposição de sua empresa toda a sua experiência e comprometimento na área de segurança do trabalho para desenvolver um plano de ação de emergência pae personalizado e eficiente.</p>\n\n                        <p>Entre em contato conosco e saiba como podemos ajudar a garantir a segurança e a proteção de todos em seu ambiente de trabalho.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 300,
+    "caracteres": 1889,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790767
+  }
+}

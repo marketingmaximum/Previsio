@@ -1,0 +1,65 @@
+{
+  "path": "/e-social-sst",
+  "slug": "e-social-sst",
+  "tipo": "servico",
+  "cluster": "esocial",
+  "temCidades": true,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "E-social sst - Previsio Engenharia",
+  "h1": "E-social sst",
+  "breadcrumb": "E-social sst",
+  "description": "E-social sst, você veio ao lugar certo! a é especializada em e-social sst e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "descriptionCorrigida": "E-social sst, você veio ao lugar certo! A Previsio Engenharia é especializada em e-social sst e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/e-social-sst",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/e-social-sst-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/e-social-sst-02.webp",
+      "width": "600",
+      "height": "332",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/e-social-sst-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do e-social sst para sua empresa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode te ajudar com o e-social sst?"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens de contar com a PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do e-social sst para sua empresa</h2>\n\n                        <p>A implementação do e-social sst é fundamental para empresas que desejam estar em conformidade com as normas de saúde e segurança do trabalho.</p>\n\n                        <p>Trata-se de um sistema desenvolvido pelo governo para centralizar e padronizar o envio de informações relacionadas à saúde ocupacional e aspectos de segurança do trabalho.</p>\n\n                        <p>Neste cenário, a PREVISIO ENGENHARIA é a parceira ideal para auxiliar sua empresa nesse processo, garantindo conformidade legal e proteção jurídica.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode te ajudar com o e-social sst?</h2>\n\n                        <p>A PREVISIO ENGENHARIA atua no mercado de Engenharia de Segurança do Trabalho, oferecendo uma gama completa de serviços para auxiliar sua empresa na adequação ao e-social sst.</p>\n\n                        <p>Com uma equipe altamente qualificada e experiente, a empresa conta com vasta experiência na condução de projetos em todo o território nacional e no exterior.</p>\n\n                        <p>Entre os serviços oferecidos pela PREVISIO ENGENHARIA estão a realização de reformas de atualização de máquinas e painéis elétricos, elaboração de PIE e SPDA, projetos de aterramento, laudos e adequações em eletricidade conforme a NR10, entre outros.</p>\n\n                        <p>Além disso, a empresa fornece toda a documentação necessária para a segurança do trabalho, garantindo que sua empresa esteja de acordo com as normas vigentes.</p>\n\n                        <h3>Vantagens de contar com a PREVISIO ENGENHARIA</h3>\n\n                        <p>Ao optar pelos serviços da PREVISIO ENGENHARIA, sua empresa terá a tranquilidade de contar com uma equipe especializada que irá garantir a conformidade com o e-social sst, evitando possíveis penalidades e assegurando a proteção dos trabalhadores.</p>\n\n                        <p>Além disso, a empresa oferece um atendimento personalizado, adequando os serviços às necessidades específicas de cada cliente.</p>\n\n                        <p>Com a PREVISIO ENGENHARIA, sua empresa terá a certeza de estar em boas mãos, contando com todo o suporte necessário para garantir a segurança e o bem-estar dos colaboradores, bem como o cumprimento das normas trabalhistas.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>Se sua empresa busca uma solução completa para adequação ao e-social sst e deseja contar com uma equipe de profissionais altamente capacitados, entre em contato com a PREVISIO ENGENHARIA.</p>\n\n                        <p>Estamos preparados para oferecer as melhores soluções em Engenharia de Segurança do Trabalho e garantir que sua empresa esteja conforme todas as normas vigentes.</p>\n\n                        <p>Não deixe para depois, proteja seus colaboradores e evite problemas futuros. Contate-nos e saiba como podemos ajudar!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 372,
+    "caracteres": 2451,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791060
+  }
+}

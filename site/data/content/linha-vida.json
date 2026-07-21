@@ -1,0 +1,65 @@
+{
+  "path": "/linha-vida",
+  "slug": "linha-vida",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": true,
+  "pilar": "/servicos/nr-35",
+  "title": "Linha de vida - Previsio Engenharia",
+  "h1": "Linha de vida",
+  "breadcrumb": "Linha de vida",
+  "description": "Linha de vida, você veio ao lugar certo! a é especializada em linha de vida e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "descriptionCorrigida": "Linha de vida, você veio ao lugar certo! A Previsio Engenharia é especializada em linha de vida e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/linha-vida",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/linha-vida-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/linha-vida-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/linha-vida-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A Importância da linha de vida na Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como Funciona a linha de vida?"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para Soluções em Segurança do Trabalho!"
+    }
+  ],
+  "bodyHtml": "<h2>A Importância da linha de vida na Segurança do Trabalho</h2>\n\n                        <p>A linha de vida é um sistema crucial para garantir a segurança dos trabalhadores que realizam atividades em altura, como em telhados e estruturas elevadas.</p>\n\n                        <p>Esse equipamento é fundamental para prevenir acidentes e proteger a vida dos colaboradores, sendo obrigatório em diversas situações de acordo com as normas de segurança do trabalho.</p>\n\n                        <p>A utilização da linha de vida proporciona uma série de benefícios tanto para os trabalhadores quanto para as empresas.</p>\n\n                        <p>Além de cumprir com as exigências legais em relação à segurança no trabalho, a implementação desse sistema demonstra o comprometimento da organização com a saúde e bem-estar de seus funcionários, contribuindo para um ambiente laboral mais seguro e produtivo.</p>\n\n                        <h2>Como Funciona a linha de vida?</h2>\n\n                        <p>A linha de vida é composta por um conjunto de dispositivos instalados em locais estratégicos, que servem de suporte e ancoragem para os trabalhadores que estão expostos a riscos de queda em altura.</p>\n\n                        <p>Esses equipamentos são projetados para suportar o peso e a movimentação dos profissionais, garantindo sua estabilidade e segurança durante a execução das tarefas.</p>\n\n                        <p>Existem diferentes tipos de linha de vida no mercado, sendo essencial escolher o sistema mais adequado conforme as características do ambiente de trabalho e as necessidades específicas de cada atividade.</p>\n\n                        <p>É fundamental contar com a orientação de profissionais especializados em segurança do trabalho para a correta instalação e manutenção desses equipamentos.</p>\n\n                        <h3>Vantagens</h3>\n\n                        <p>A implementação da linha de vida traz uma série de vantagens para as empresas, tais como:</p>\n\n                        <ul class=\"list\">\n\n                            <li>Aumento da segurança dos trabalhadores;</li>\n\n                            <li>Redução do risco de acidentes e quedas;</li>\n\n                            <li>Cumprimento das normas regulamentadoras;</li>\n\n                            <li>Valorização da imagem da empresa;</li>\n\n                            <li>Promoção de um ambiente de trabalho saudável e produtivo.</li>\n\n                        </ul>\n\n                        <p>Investir em linha de vida é essencial para garantir a proteção dos colaboradores e a conformidade com as legislações trabalhistas, demonstrando o compromisso da empresa com a segurança e o bem-estar de sua equipe.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para Soluções em Segurança do Trabalho!</h2>\n\n                        <p>A PREVISIO ENGENHARIA é uma empresa especializada em engenharia de segurança do trabalho, localizada em São Leopoldo, Rio Grande do Sul.</p>\n\n                        <p>Com vasta experiência no mercado e um time de profissionais qualificados, a PREVISIO ENGENHARIA oferece soluções completas para a segurança e saúde ocupacional das empresas.</p>\n\n                        <p>Conte com a expertise da PREVISIO ENGENHARIA para a instalação e manutenção de linha de vida, assim como para todos os serviços relacionados à segurança do trabalho.</p>\n\n                        <p>Priorize a segurança de seus colaboradores e garanta um ambiente de trabalho seguro e produtivo com a ajuda da PREVISIO ENGENHARIA.</p>\n\n                        <p>Entre em contato conosco e saiba mais sobre como podemos ajudar a sua empresa a atingir os mais altos padrões de segurança do trabalho.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 443,
+    "caracteres": 2866,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791605
+  }
+}

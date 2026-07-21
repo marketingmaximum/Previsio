@@ -1,0 +1,69 @@
+{
+  "path": "/empresa-seguranca-do-trabalho",
+  "slug": "empresa-seguranca-do-trabalho",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Empresa segurança do trabalho - Previsio Engenharia",
+  "h1": "Empresa segurança do trabalho",
+  "breadcrumb": "Empresa segurança do trabalho",
+  "description": "Empresa segurança do trabalho, você veio ao lugar certo! a é especializada em empresa segurança do trabalho e oferece uma ampla gama de... Saiba mais.",
+  "descriptionCorrigida": "Empresa segurança do trabalho, você veio ao lugar certo! A Previsio Engenharia é especializada em empresa segurança do trabalho e oferece uma ampla gama de... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/empresa-seguranca-do-trabalho",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/empresa-seguranca-do-trabalho-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/empresa-seguranca-do-trabalho-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/empresa-seguranca-do-trabalho-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da empresa segurança do trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços oferecidos pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da empresa segurança do trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a empresa segurança do trabalho pode ajudar o seu negócio?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da empresa segurança do trabalho</h2>\n\n                        <p>Uma empresa que prioriza a segurança do trabalho demonstra preocupação com seus colaboradores, além de cumprir com as normas regulamentadoras vigentes.</p>\n\n                        <p>Contratar os serviços de uma empresa segurança do trabalho é essencial para garantir um ambiente de trabalho seguro, protegendo a integridade física dos funcionários e evitando possíveis acidentes.</p>\n\n                        <h2>Serviços oferecidos pela PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA, localizada em São Leopoldo–RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Com mais de 9 anos de atuação no mercado, a empresa conta com uma equipe altamente qualificada e experiência em projetos de grande porte em todo o Brasil e no exterior.</p>\n\n                        <p>Entre os serviços oferecidos pela PREVISIO ENGENHARIA estão:</p>\n\n                        <ul class=\"list\">\n\n                            <li>Reformas e atualizações de máquinas e painéis elétricos;</li>\n\n                            <li>Realização de PIE, SPDA, aterramento e outros projetos;</li>\n\n                            <li>Laudos e adequações em eletricidade conforme NR-10;</li>\n\n                            <li>Assessoria, projetos e documentações de acordo com a NR-12;</li>\n\n                            <li>Manutenção em CLP e IHMs;</li>\n\n                        </ul>\n\n                        <h3>Benefícios da empresa segurança do trabalho</h3>\n\n                        <p>Além de estar em conformidade com as normas e leis trabalhistas, as empresas que investem em segurança do trabalho garantem um ambiente mais saudável e produtivo para seus colaboradores.</p>\n\n                        <p>A redução de acidentes e doenças ocupacionais resulta em menos afastamentos, maior satisfação dos funcionários e um aumento na qualidade e eficiência do trabalho realizado.</p>\n\n                        <h2>Como a empresa segurança do trabalho pode ajudar o seu negócio?</h2>\n\n                        <p>Ao contratar os serviços de uma empresa segurança do trabalho como a PREVISIO ENGENHARIA, você estará investindo no bem-estar e na segurança da sua equipe, bem como na qualidade e produtividade do seu negócio.</p>\n\n                        <p>Além disso, a empresa poderá auxiliar na regularização do e-social, na elaboração de documentações e na implementação de medidas preventivas para evitar possíveis problemas futuros.</p>\n\n                        <h2>Entre em contato conosco</h2>\n\n                        <p>Se você busca por uma empresa comprometida com a segurança do trabalho e que oferece soluções eficientes para o seu negócio, entre em contato com a PREVISIO ENGENHARIA.</p>\n\n                        <p>Nossa equipe está preparada para atender às suas necessidades e garantir um ambiente de trabalho seguro e em conformidade com as normas vigentes. Invista na segurança e no sucesso da sua empresa, conte conosco!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 353,
+    "caracteres": 2332,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791705
+  }
+}

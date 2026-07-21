@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "slug": "servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "tipo": "pilar",
+  "cluster": "insalubridade",
+  "temCidades": false,
+  "pilar": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "title": "Laudo de Técnico de Insalubridade e Periculosidade - LTIP - Previsio Engenharia",
+  "h1": "Laudo de Técnico de Insalubridade e Periculosidade - LTIP",
+  "breadcrumb": null,
+  "description": "Laudo de Técnico de Insalubridade e Periculosidade - LTIP - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industri...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Laudo de Técnico de Insalubridade e Periculosidade - LTIP</span></p>\n\t\t\t\t\t\t<p>Trata-se de um laudo conclusivo para determinar se o trabalhador está exposto, ou não, à agentes que proporcionam o direito aos adicionais de periculosidade ou insalubridade. Juntamente ao laudo com as avaliações quantitativas e qualitativas, segue um plano de ação visando a mitigação dos riscos com o propósito de tornar o ambiente de trabalho mais seguro e, por sua vez elidir a necessidade do pagamento desses adicionais.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 79,
+    "caracteres": 500,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469830
+  }
+}

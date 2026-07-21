@@ -1,0 +1,129 @@
+---
+import Base from '../layouts/Base.astro';
+import Cidades from '../components/Cidades.astro';
+import { EMPRESA, waLink } from '../config.mjs';
+import { PAGINAS, porCluster, trilha } from '../lib/conteudo.mjs';
+import { ROTULOS } from '../../tools/extract/taxonomia.mjs';
+
+/**
+ * Gera as 234 rotas restantes (a home tem página própria).
+ *
+ * Toda URL sai daqui, do mesmo arquivo de dados que veio do crawl — é o que
+ * torna a cobertura auditável: `astro build` produzindo 235 arquivos é a
+ * prova de que nenhuma URL se perdeu.
+ */
+export function getStaticPaths() {
+  return PAGINAS.filter((p) => p.path !== '/').map((p) => ({
+    params: { slug: p.path.replace(/^\//, '') },
+    props: { pagina: p },
+  }));
+}
+
+const { pagina } = Astro.props;
+const caminho = trilha(pagina);
+const irmas = pagina.cluster ? porCluster(pagina.cluster) : [];
+
+// As URLs de imagem são preservadas (§3.5 do plano) — só deixo relativas para
+// não apontar ao domínio antigo durante o desenvolvimento.
+const corpo = (pagina.bodyHtml ?? '').replaceAll('https://www.previsio.com.br', '');
+
+const ehArtigo = pagina.tipo === 'artigo';
+const rotuloCluster = pagina.cluster ? ROTULOS[pagina.cluster] : null;
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: caminho.map((c, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: c.label,
+    ...(c.href ? { item: `https://www.previsio.com.br${c.href}` } : {}),
+  })),
+};
+---
+
+<Base
+  title={pagina.title}
+  description={pagina.descriptionCorrigida ?? pagina.description}
+  canonical={`https://www.previsio.com.br${pagina.path}`}
+  schema={schema}
+>
+  <section class="hero hero--page">
+    <div class="hero__media">
+      <img src="/img/hero-interno.jpg" alt="" width="1600" height="1064" />
+    </div>
+    <div class="hero__scrim"></div>
+
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb">
+          {caminho.map((c) => (
+            <li>{c.href ? <a href={c.href}>{c.label}</a> : c.label}</li>
+          ))}
+        </ol>
+        <h1 class="hero__title">{pagina.h1}</h1>
+        {rotuloCluster && pagina.cluster !== 'institucional' && (
+          <p class="hero__sub" style="margin-bottom:0">{rotuloCluster}</p>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container">
+      <div class="pagina">
+        <div>
+          {pagina.imagens.length > 0 && !ehArtigo && (
+            <div class="galeria">
+              {pagina.imagens.slice(0, 3).map((img) => (
+                <img src={img.src} alt={img.alt ?? pagina.h1} width={img.width} height={img.height} loading="lazy" />
+              ))}
+            </div>
+          )}
+
+          <div class="prose" set:html={corpo} />
+
+          {pagina.temCidades && <Cidades termo={pagina.h1} />}
+
+          <div style="margin-top:40px;display:flex;gap:14px;flex-wrap:wrap">
+            <a href="/contato" class="btn btn--green">Solicitar um orçamento</a>
+            <a
+              href={waLink(`Olá, gostaria de saber mais sobre ${pagina.h1}.`)}
+              class="btn btn--outline"
+              target="_blank"
+              rel="noopener"
+              data-evento="whatsapp_conteudo"
+            >
+              Orçamento por WhatsApp
+            </a>
+          </div>
+        </div>
+
+        <aside class="trilho">
+          <div class="trilho__box">
+            <h3>Fale com nossos especialistas</h3>
+            <p>Atendimento em todo o território nacional. Resposta no mesmo dia útil.</p>
+            <a href={`tel:${EMPRESA.telefoneLink}`} class="btn btn--green btn--sm" data-evento="click_telefone">
+              {EMPRESA.telefone}
+            </a>
+          </div>
+
+          {irmas.length > 1 && (
+            <div class="trilho__box">
+              <h3>{rotuloCluster}</h3>
+              <ul class="trilho__lista">
+                {irmas.slice(0, 12).map((p) => (
+                  <li>
+                    <a href={p.path} aria-current={p.path === pagina.path ? 'page' : undefined}>
+                      {p.h1}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </aside>
+      </div>
+    </div>
+  </section>
+</Base>

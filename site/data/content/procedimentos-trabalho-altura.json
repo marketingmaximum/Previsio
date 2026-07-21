@@ -1,0 +1,65 @@
+{
+  "path": "/procedimentos-trabalho-altura",
+  "slug": "procedimentos-trabalho-altura",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": true,
+  "pilar": "/servicos/nr-35",
+  "title": "Procedimentos para trabalho em altura - Previsio Engenharia",
+  "h1": "Procedimentos para trabalho em altura",
+  "breadcrumb": "Procedimentos para trabalho em altura",
+  "description": "Procedimentos para trabalho em altura, você veio ao lugar certo! a é especializada em procedimentos para trabalho em altura e oferece... Saiba mais.",
+  "descriptionCorrigida": "Procedimentos para trabalho em altura, você veio ao lugar certo! A Previsio Engenharia é especializada em procedimentos para trabalho em altura e oferece... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/procedimentos-trabalho-altura",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/procedimentos-trabalho-altura-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/procedimentos-trabalho-altura-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/procedimentos-trabalho-altura-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "procedimentos para trabalho em altura: Garantindo a Segurança dos Trabalhadores"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância dos procedimentos para trabalho em altura"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Contratar os Serviços da Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato e Garanta a Segurança do seu Trabalho em Altura"
+    }
+  ],
+  "bodyHtml": "<h2>procedimentos para trabalho em altura: Garantindo a Segurança dos Trabalhadores</h2>\n\n                        <p>Procedimentos para trabalho em altura são essenciais para garantir a segurança dos colaboradores que realizam atividades em locais elevados, como andaimes, telhados e plataformas. A Previsio Engenharia, empresa especializada em Engenharia de Segurança do Trabalho, destaca a importância de seguir normas e medidas de segurança para prevenir quedas e acidentes.</p>\n\n                        <p>A legislação brasileira, em especial a Norma Regulamentadora NR 35, estabelece diretrizes para a realização de trabalhos em altura, visando proteger a integridade física dos trabalhadores e evitar incidentes graves. É fundamental que as empresas sigam essas normas, implementem os procedimentos adequados e forneçam equipamentos de proteção individual (EPI) adequados para cada situação.</p>\n\n                        <h2>Importância dos procedimentos para trabalho em altura</h2>\n\n                        <p>Implementar procedimentos para trabalho em altura não apenas está em conformidade com a legislação, mas também demonstra o compromisso da empresa com a segurança e o bem-estar de seus colaboradores. Além disso, promove um ambiente de trabalho mais seguro e produtivo, reduzindo os riscos de acidentes e lesões.</p>\n\n                        <p>Os procedimentos incluem a análise de riscos, a utilização de sistemas de proteção coletiva, como guarda-corpos e redes de proteção, a inspeção regular de equipamentos, a capacitação dos trabalhadores e a supervisão de profissionais qualificados durante as atividades em altura.</p>\n\n                        <h2>Vantagens de Contratar os Serviços da Previsio Engenharia</h2>\n\n                        <p>A Previsio Engenharia, com sua vasta experiência e expertise em Engenharia de Segurança do Trabalho, oferece serviços especializados para auxiliar empresas na implementação de procedimentos para trabalho em altura. Com uma equipe qualificada e comprometida, a empresa realiza análises de risco, treinamentos, inspeções e consultorias, garantindo a conformidade com as normas vigentes e a segurança dos trabalhadores.</p>\n\n                        <p>Além disso, a Previsio Engenharia disponibiliza soluções personalizadas, adequadas às necessidades de cada cliente, contribuindo para um ambiente de trabalho mais seguro, eficiente e em conformidade com as normas regulamentadoras.</p>\n\n                        <h2>Entre em Contato e Garanta a Segurança do seu Trabalho em Altura</h2>\n\n                        <p>Para saber mais sobre os serviços da Previsio Engenharia e como podemos auxiliar sua empresa na implementação de procedimentos para trabalho em altura, entre em contato conosco. Nossa equipe está preparada para oferecer soluções personalizadas, garantindo a segurança e a conformidade com as normas de segurança do trabalho. Proteja seus colaboradores e promova um ambiente de trabalho seguro e produtivo com a expertise da Previsio Engenharia.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 381,
+    "caracteres": 2688,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791645
+  }
+}

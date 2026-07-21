@@ -1,0 +1,69 @@
+{
+  "path": "/sistema-aterramento",
+  "slug": "sistema-aterramento",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Sistema de aterramento - Previsio Engenharia",
+  "h1": "Sistema de aterramento",
+  "breadcrumb": "Sistema de aterramento",
+  "description": "Sistema de aterramento, você veio ao lugar certo! a é especializada em sistema de aterramento e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Sistema de aterramento, você veio ao lugar certo! A Previsio Engenharia é especializada em sistema de aterramento e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/sistema-aterramento",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/sistema-aterramento-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/sistema-aterramento-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/sistema-aterramento-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Entendendo a importância do sistema de aterramento"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de um sistema de aterramento eficiente"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode te ajudar"
+    },
+    {
+      "nivel": 2,
+      "texto": "Investir em segurança elétrica é prioridade"
+    },
+    {
+      "nivel": 2,
+      "texto": "Mantenha sua empresa protegida"
+    }
+  ],
+  "bodyHtml": "<h2>Entendendo a importância do sistema de aterramento</h2>\n\n                        <p>O sistema de aterramento é fundamental para garantir a segurança elétrica em instalações industriais, comerciais e residenciais. Sua principal função é direcionar a corrente elétrica para a terra em casos de falhas no sistema, evitando choques, incêndios e danos aos equipamentos.</p>\n\n                        <h2>Vantagens de um sistema de aterramento eficiente</h2>\n\n                        <p>Implementar um sistema de aterramento adequado traz inúmeras vantagens para as empresas, como o cumprimento das normas de segurança, a prevenção de acidentes elétricos, a proteção dos colaboradores e a redução de custos com manutenção corretiva.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode te ajudar</h2>\n\n                        <p>A PREVISIO ENGENHARIA, localizada em São Leopoldo - RS, é especializada em Engenharia de Segurança do Trabalho e Automação Industrial. Com vasta experiência e mais de mil clientes atendidos, a empresa oferece serviços de reformas de máquinas, painéis elétricos, Laudos de SPDA e, claro, projetos de sistema de aterramento.</p>\n\n                        <p>Além disso, a PREVISIO ENGENHARIA proporciona assessoria, treinamentos de segurança do trabalho, documentações conforme as normas vigentes, regularização do e-Social e consultoria para proteção jurídica da sua empresa. Tudo isso para garantir a segurança e a conformidade com as legislações trabalhistas.</p>\n\n                        <h2>Investir em segurança elétrica é prioridade</h2>\n\n                        <p>Diante dos riscos envolvidos em ambientes com energia elétrica, investir em um sistema de aterramento eficiente é essencial para evitar acidentes, preservar vidas e manter a produtividade do negócio. Conte com a expertise da PREVISIO ENGENHARIA para garantir a segurança da sua empresa.</p>\n\n                        <h2>Mantenha sua empresa protegida</h2>\n\n                        <p>Não coloque em risco a segurança dos seus colaboradores e o patrimônio da sua empresa. Entre em contato com a PREVISIO ENGENHARIA e conheça todos os serviços relacionados a sistema de aterramento. Garanta a tranquilidade de estar em conformidade com as normas de segurança e proteja o seu negócio.</p>\n\n                        <p>Proteja o seu patrimônio e garanta a segurança dos seus colaboradores. Entre em contato com a PREVISIO ENGENHARIA e saiba mais sobre os serviços de sistema de aterramento oferecidos pela empresa.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 321,
+    "caracteres": 2152,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790740
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/plano-emergencia",
+  "slug": "plano-emergencia",
+  "tipo": "servico",
+  "cluster": "emergencia",
+  "temCidades": true,
+  "pilar": "/servicos/planos-de-emergencia",
+  "title": "Plano de emergência - Previsio Engenharia",
+  "h1": "Plano de emergência",
+  "breadcrumb": "Plano de emergência",
+  "description": "Plano de emergência consiste em um conjunto de medidas preventivas e procedimentos a serem seguidos em casos de acidentes ou situações de risco. ele tem...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/plano-emergencia",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/plano-emergencia-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-emergencia-02.webp",
+      "width": "600",
+      "height": "379",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-emergencia-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "plano de emergência: A Importância da Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "A Previsio Engenharia e o plano de emergência"
+    },
+    {
+      "nivel": 2,
+      "texto": "O que é um plano de emergência?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Implementar um plano de emergência"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Previsio Engenharia para Desenvolver seu plano de emergência"
+    }
+  ],
+  "bodyHtml": "<h2>plano de emergência: A Importância da Segurança do Trabalho</h2>\n\n                        <p>Plano de emergência é um tema essencial quando se trata da segurança e proteção dos trabalhadores em um ambiente corporativo. Empresas que se preocupam com a saúde e bem-estar de seus colaboradores sabem da importância de contar com um <strong>plano de emergência</strong> bem estruturado para agir de forma rápida e eficiente em situações de risco, como incêndios, desastres naturais ou qualquer outra emergência que possa colocar vidas em perigo.</p>\n\n                        <h2>A Previsio Engenharia e o plano de emergência</h2>\n\n                        <p>A Previsio Engenharia, localizada em São Leopoldo - RS, é uma empresa especializada em Engenharia de Segurança do Trabalho, que oferece serviços de alta qualidade e soluções completas para garantir a segurança e conformidade das empresas com as normas e regulamentos vigentes. Com uma vasta experiência no mercado e um time de profissionais qualificados, a Previsio Engenharia se destaca no desenvolvimento de planos de emergência personalizados para cada cliente, considerando as particularidades de cada ambiente de trabalho.</p>\n\n                        <h2>O que é um plano de emergência?</h2>\n\n                        <p>O plano de emergência consiste em um conjunto de medidas preventivas e procedimentos a serem seguidos em casos de acidentes ou situações de risco. Ele tem como objetivo principal minimizar danos, proteger vidas e patrimônio, além de garantir a continuidade das atividades da empresa. Um <strong>plano de emergência</strong> bem elaborado envolve a identificação de potenciais ameaças, a definição de responsabilidades, a realização de treinamentos periódicos com a equipe e a manutenção constante do plano para ajustes e melhorias.</p>\n\n                        <h2>Vantagens de Implementar um plano de emergência</h2>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Maior segurança para os colaboradores e visitantes da empresa;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Rápida resposta a situações de risco, minimizando danos;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Conformidade com normas e legislações trabalhistas;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Redução de custos decorrentes de acidentes de trabalho;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Proteção da imagem e reputação da empresa;</li>\n\n                        </ul>\n\n                        <h2>Conte com a Previsio Engenharia para Desenvolver seu plano de emergência</h2>\n\n                        <p>Se você busca uma empresa especializada em Engenharia de Segurança do Trabalho para desenvolver um plano de emergência eficaz e personalizado para sua empresa, conte com a expertise da Previsio Engenharia. Nossa equipe está preparada para oferecer soluções sob medida, garantindo a segurança e tranquilidade que seu negócio merece. Entre em contato conosco e saiba mais sobre nossos serviços e como podemos ajudar a proteger sua empresa e seus colaboradores.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 374,
+    "caracteres": 2463,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791695
+  }
+}

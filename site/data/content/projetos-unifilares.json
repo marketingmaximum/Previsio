@@ -1,0 +1,69 @@
+{
+  "path": "/projetos-unifilares",
+  "slug": "projetos-unifilares",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": true,
+  "pilar": "/servicos/nr-10",
+  "title": "Projetos unifilares - Previsio Engenharia",
+  "h1": "Projetos unifilares",
+  "breadcrumb": "Projetos unifilares",
+  "description": "Projetos unifilares são representações simplificadas de sistemas elétricos, indicando o fluxo de energia e os principais dispositivos de proteção. esse...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/projetos-unifilares",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/projetos-unifilares-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projetos-unifilares-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projetos-unifilares-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "projetos unifilares: O Que São e Sua Importância"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Investir em projetos unifilares"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por Que Escolher a Previsio Engenharia?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços Especializados"
+    },
+    {
+      "nivel": 2,
+      "texto": "Compromisso com a Segurança e Qualidade"
+    }
+  ],
+  "bodyHtml": "<h2>projetos unifilares: O Que São e Sua Importância</h2>\n\n                        <p>Projetos unifilares são representações simplificadas de sistemas elétricos, indicando o fluxo de energia e os principais dispositivos de proteção. Esse tipo de projeto é utilizado para instalações elétricas de baixa complexidade, sendo essencial para garantir a segurança e eficiência das instalações elétricas. Empresas especializadas no desenvolvimento de <strong>projetos unifilares</strong> garantem a clareza na execução e manutenção das instalações, cumprem as normas de segurança elétrica e asseguram um ambiente de trabalho seguro.</p>\n\n                        <h2>Vantagens de Investir em projetos unifilares</h2>\n\n                        <p>A contratação de uma empresa especializada em projetos unifilares traz inúmeras vantagens para o cliente. Além de garantir a conformidade com as normas vigentes, como a NR10, os <strong>projetos unifilares</strong> facilitam a identificação de falhas e a realização de manutenções preventivas, aumentando a vida útil dos equipamentos e reduzindo os riscos de acidentes.</p>\n\n                        <h2>Por Que Escolher a Previsio Engenharia?</h2>\n\n                        <p>A Previsio Engenharia é uma empresa renomada no segmento de Engenharia de Segurança do Trabalho e Automação Industrial, atuando desde 2016 com um amplo portfólio de serviços. Com mais de mil clientes atendidos, a Previsio Engenharia se destaca pela excelência técnica na condução de grandes projetos em todo território nacional e no exterior.</p>\n\n                        <h2>Serviços Especializados</h2>\n\n                        <p>A Previsio Engenharia oferece uma ampla gama de serviços, como reformas de atualização de máquinas e painéis elétricos, realização de PIE, SPDA, aterramento, laudos e adequações em eletricidade segundo a NR10, assessoria, projetos, documentações e adequações à NR-12, manutenção em todas as famílias de CLP e IHMs, treinamentos de segurança do trabalho, fornecimento de documentação referente à segurança do trabalho, regularização do e-Social e consultoria jurídica para proteção da empresa.</p>\n\n                        <h2>Compromisso com a Segurança e Qualidade</h2>\n\n                        <p>A Previsio Engenharia preza pela segurança e qualidade em todos os projetos realizados. Com uma equipe altamente qualificada e experiente, a empresa garante soluções personalizadas e eficientes para cada cliente, visando sempre a excelência e a satisfação total.</p>\n\n                        <p>Se você busca por projetos unifilares de qualidade e confiabilidade, entre em contato com a Previsio Engenharia e conheça todas as soluções que podemos oferecer para o seu negócio. Garanta instalações elétricas seguras e eficientes com a expertise de quem mais entende do assunto!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 357,
+    "caracteres": 2453,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790857
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/projeto-aterramento",
+  "slug": "projeto-aterramento",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Projeto aterramento - Previsio Engenharia",
+  "h1": "Projeto aterramento",
+  "breadcrumb": "Projeto aterramento",
+  "description": "Projeto aterramento é fundamental para proteger trabalhadores e equipamentos de sobrecargas elétricas e descargas atmosféricas. empresas que investem em...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/projeto-aterramento",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/projeto-aterramento-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-aterramento-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-aterramento-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "projeto aterramento: Garantia de Segurança Elétrica"
+    },
+    {
+      "nivel": 2,
+      "texto": "A Importância do projeto aterramento"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens do projeto aterramento"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Experiência da Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato e Garanta a Segurança da sua Empresa"
+    }
+  ],
+  "bodyHtml": "<h2>projeto aterramento: Garantia de Segurança Elétrica</h2>\n\n                        <p>A Previsio Engenharia é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, com sede em São Leopoldo - RS. Atuando desde 2016, a empresa já atendeu mais de mil clientes e possui ampla experiência na execução de grandes projetos em todo o território nacional e no exterior. Entre os serviços oferecidos pela Previsio Engenharia, destaca-se o projeto aterramento, essencial para garantir a segurança elétrica em ambientes industriais.</p>\n\n                        <h2>A Importância do projeto aterramento</h2>\n\n                        <p>O projeto aterramento é fundamental para proteger trabalhadores e equipamentos de sobrecargas elétricas e descargas atmosféricas. Empresas que investem em um sistema de aterramento eficiente reduzem significativamente os riscos de acidentes, tais como choques elétricos, incêndios e danos em sistemas elétricos. Além disso, um aterramento bem elaborado proporciona um ambiente de trabalho seguro e em conformidade com as normas de segurança vigentes.</p>\n\n                        <h2>Vantagens do projeto aterramento</h2>\n\n                        <p>Realizar um projeto aterramento adequado traz inúmeros benefícios para as empresas, tais como:</p>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Minimização de riscos de acidentes elétricos;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Proteção eficaz contra sobrecargas e descargas atmosféricas;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Prevenção de danos em equipamentos e sistemas elétricos;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Conformidade com as normas de segurança do trabalho;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Ambiente de trabalho mais seguro e produtivo.</li>\n\n                        </ul>\n\n                        <h2>Conte com a Experiência da Previsio Engenharia</h2>\n\n                        <p>A Previsio Engenharia conta com uma equipe de profissionais altamente qualificados e experientes na elaboração e execução de projetos de aterramento. Com um amplo portfólio de serviços em Engenharia de Segurança do Trabalho, a empresa oferece soluções personalizadas e eficientes para atender às necessidades específicas de cada cliente.</p>\n\n                        <h2>Entre em Contato e Garanta a Segurança da sua Empresa</h2>\n\n                        <p>Se você busca por um projeto aterramento de qualidade, conte com a Previsio Engenharia. Entre em contato conosco e saiba como podemos ajudar a garantir a segurança elétrica da sua empresa. Invista em prevenção e proteção com os serviços especializados da Previsio Engenharia. Sua segurança é a nossa prioridade!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 311,
+    "caracteres": 2151,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791160
+  }
+}

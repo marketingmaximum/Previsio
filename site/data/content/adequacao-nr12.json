@@ -1,0 +1,69 @@
+{
+  "path": "/adequacao-nr12",
+  "slug": "adequacao-nr12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": true,
+  "pilar": "/servicos/nr-12",
+  "title": "Adequação nr12 - Previsio Engenharia",
+  "h1": "Adequação nr12",
+  "breadcrumb": "Adequação nr12",
+  "description": "Adequação nr12, você veio ao lugar certo! a é especializada em adequação nr12 e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "descriptionCorrigida": "Adequação nr12, você veio ao lugar certo! A Previsio Engenharia é especializada em adequação nr12 e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/adequacao-nr12",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/adequacao-nr12-01.webp",
+      "width": "600",
+      "height": "485",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/adequacao-nr12-02.webp",
+      "width": "600",
+      "height": "436",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/adequacao-nr12-03.webp",
+      "width": "600",
+      "height": "380",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "adequação nr12: Garantindo a Segurança e Conformidade em sua Empresa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Previsio Engenharia: Sua Parceira na adequação nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços Oferecidos pela Previsio Engenharia"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens da adequação nr12 com a Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>adequação nr12: Garantindo a Segurança e Conformidade em sua Empresa</h2>\n\n                        <p>A adequação nr12 consiste na implementação de medidas para que máquinas e equipamentos industriais atendam aos requisitos da Norma Regulamentadora 12.</p>\n\n                        <p>O processo envolve a instalação de proteções mecânicas, sistemas de parada de emergência e bloqueios de energia, reduzindo riscos de acidentes.</p>\n\n                        <p>Empresas que realizam essa adequação garantem um ambiente de trabalho mais seguro, cumprem exigências legais e evitam penalidades. Além disso, a conformidade com a NR12 melhora a produtividade e aumenta a vida útil dos equipamentos industriais.</p>\n\n                        <h2>Previsio Engenharia: Sua Parceira na adequação nr12</h2>\n\n                        <p>A Previsio Engenharia, sediada em São Leopoldo–RS, é especializada em Engenharia de Segurança do Trabalho e Automação Industrial, atuando no mercado desde 2016.</p>\n\n                        <p>Com vasta experiência técnica e mais de mil clientes atendidos, a empresa destaca-se pela excelência na condução de grandes projetos em todo o território nacional e no exterior.</p>\n\n                        <h2>Serviços Oferecidos pela Previsio Engenharia</h2>\n\n                        <ul class=\"list\">\n\n                            <li>Reformas de atualização de máquinas e painéis elétricos;</li>\n\n                            <li>Realização de PIE;</li>\n\n                            <li>SPDA e aterramento;</li>\n\n                            <li>Laudos e adequações em eletricidade segundo a NR10;</li>\n\n                            <li>Assessoria, projetos e documentações conforme a NR-12.</li>\n\n                        </ul>\n\n                        <h3>Vantagens da adequação nr12 com a Previsio Engenharia</h3>\n\n                        <p>A Previsio Engenharia oferece não apenas a adequação em conformidade com a NR12, mas também a garantia de um ambiente de trabalho seguro e livre de riscos.</p>\n\n                        <p>Além disso, a empresa proporciona toda a documentação necessária para a regularização do e-social, juntamente com consultoria visando à proteção jurídica da empresa.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>A Previsio Engenharia prioriza a segurança e qualidade em todos os projetos que realiza, buscando sempre superar as expectativas dos clientes e proporcionar soluções eficientes e inovadoras.</p>\n\n                        <p>Com profissionais altamente qualificados e tecnologia de ponta, a empresa é a escolha ideal para quem busca excelência em Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Se sua empresa busca a adequação nr12 e deseja contar com uma equipe especializada e comprometida, entre em contato conosco e saiba como podemos auxiliá-lo a alcançar a segurança e conformidade necessárias para suas operações.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 331,
+    "caracteres": 2249,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790850
+  }
+}

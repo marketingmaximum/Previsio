@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/sistema-de-aterramento-nr-10",
+  "slug": "servicos/sistema-de-aterramento-nr-10",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": false,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Sistema de Aterramento NR-10 - Previsio Engenharia",
+  "h1": "Sistema de Aterramento NR-10",
+  "breadcrumb": null,
+  "description": "Sistema de Aterramento NR-10 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe mul...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/sistema-de-aterramento-nr-10",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Sistema de Aterramento NR-10</span></p>\n\t\t\t\t\t\t<p>Desenvolvemos projetos, medições, laudos e instalamos sistemas de aterramento de acordo da NBR5410.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 20,
+    "caracteres": 145,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468948
+  }
+}

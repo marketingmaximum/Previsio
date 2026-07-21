@@ -1,0 +1,65 @@
+{
+  "path": "/consultoria-nr-12",
+  "slug": "consultoria-nr-12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": true,
+  "pilar": "/servicos/nr-12",
+  "title": "Consultoria nr 12 - Previsio Engenharia",
+  "h1": "Consultoria nr 12",
+  "breadcrumb": "Consultoria nr 12",
+  "description": "Consultoria nr 12, você veio ao lugar certo! a é especializada em consultoria nr 12 e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Consultoria nr 12, você veio ao lugar certo! A Previsio Engenharia é especializada em consultoria nr 12 e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/consultoria-nr-12",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/consultoria-nr-12-01.webp",
+      "width": "484",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/consultoria-nr-12-02.webp",
+      "width": "489",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/consultoria-nr-12-03.webp",
+      "width": "600",
+      "height": "426",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "consultoria nr 12: Garantindo a Segurança e Conformidade Legal"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da consultoria nr 12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA Pode Auxiliar Sua Empresa?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>consultoria nr 12: Garantindo a Segurança e Conformidade Legal</h2>\n\n                        <p>A consultoria nr 12 é um serviço essencial para empresas que buscam adequar suas máquinas e equipamentos às normas estabelecidas pela Norma Regulamentadora 12.</p>\n\n                        <p>Atuando de forma preventiva, essa consultoria visa analisar os riscos presentes, implementar dispositivos de segurança e capacitar os operadores, garantindo assim a conformidade legal e promovendo um ambiente de trabalho mais seguro e eficiente.</p>\n\n                        <h3>Benefícios da consultoria nr 12</h3>\n\n                        <p>Adequar-se às normas da nr 12 traz uma série de vantagens para as empresas, tais como a redução de acidentes de trabalho, a evitar multas por descumprimento das normas, a proteção dos colaboradores e o aumento da vida útil dos equipamentos industriais.</p>\n\n                        <p>Além disso, a consultoria nr 12 contribui para a melhoria da eficiência operacional e para a imagem da empresa perante seus clientes e colaboradores.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA Pode Auxiliar Sua Empresa?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo–RS, é especializada em engenharia de segurança do trabalho e automação industrial.</p>\n\n                        <p>Com uma vasta experiência no mercado, a empresa oferece serviços de reformas e atualização de máquinas, laudos de adequações segundo a NR10, assessoria, projetos de segurança, treinamentos, entre outros.</p>\n\n                        <p>Contar com a expertise da PREVISIO ENGENHARIA na consultoria nr 12 significa ter à disposição uma equipe técnica altamente qualificada, capaz de acompanhar desde a análise de riscos até a implementação das medidas de segurança necessárias para garantir o cumprimento da norma e a proteção dos trabalhadores.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>A adequação às normas de segurança do trabalho, como a nr 12, é fundamental para empresas que buscam cumprir a legislação vigente, proteger seus colaboradores e otimizar seus processos.</p>\n\n                        <p>Não deixe para depois, entre em contato com a PREVISIO ENGENHARIA e saiba como podemos ajudar a sua empresa a estar conforme a nr 12. Invista em segurança, invista no sucesso do seu negócio!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 307,
+    "caracteres": 2002,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790467
+  }
+}

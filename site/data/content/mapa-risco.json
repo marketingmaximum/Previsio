@@ -1,0 +1,65 @@
+{
+  "path": "/mapa-risco",
+  "slug": "mapa-risco",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Mapa de risco - Previsio Engenharia",
+  "h1": "Mapa de risco",
+  "breadcrumb": "Mapa de risco",
+  "description": "Mapa de risco, você veio ao lugar certo! a é especializada em mapa de risco e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "descriptionCorrigida": "Mapa de risco, você veio ao lugar certo! A Previsio Engenharia é especializada em mapa de risco e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/mapa-risco",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/mapa-risco-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/mapa-risco-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/mapa-risco-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Sua melhor opção em mapa de risco"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios do mapa de risco"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Saiba mais sobre o serviço de mapa de risco!"
+    }
+  ],
+  "bodyHtml": "<h2>PREVISIO ENGENHARIA: Sua melhor opção em mapa de risco</h2>\n\n                        <p>O mapa de risco é uma ferramenta fundamental para identificar e classificar os riscos presentes no ambiente de trabalho.</p>\n\n                        <p>Através de uma representação gráfica, é possível visualizar os perigos físicos, químicos ou biológicos que podem afetar a saúde e segurança dos trabalhadores.</p>\n\n                        <p>Empresas que elaboram e mantêm o mapa de risco estão não apenas cumprindo as exigências legais, mas também investindo na prevenção de acidentes e doenças ocupacionais.</p>\n\n                        <p>Ao promover a segurança no trabalho, essas organizações protegem seus colaboradores e criam um ambiente mais saudável e produtivo.</p>\n\n                        <h3>Benefícios do mapa de risco</h3>\n\n                        <p>A implementação do mapa de risco traz diversos benefícios para as empresas, como a redução de acidentes de trabalho, o aumento da produtividade e a melhoria do clima organizacional.</p>\n\n                        <p>Além disso, a identificação prévia dos riscos permite a adoção de medidas preventivas e corretivas de forma mais eficiente.</p>\n\n                        <p>Com o mapa de risco, os gestores podem tomar decisões mais assertivas, promover a conscientização dos colaboradores e garantir o cumprimento das normas de segurança do trabalho.</p>\n\n                        <p>Dessa forma, a empresa demonstra seu compromisso com a saúde e bem-estar de sua equipe.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>A PREVISIO ENGENHARIA é uma empresa especializada em Engenharia de Segurança do Trabalho, localizada em São Leopoldo–RS. Atuando desde 2016, a empresa conta com uma vasta experiência na condução de projetos em todo território nacional e no exterior.</p>\n\n                        <p>Oferecendo serviços como reformas de máquinas, laudos de segurança, consultoria em normas regulamentadoras e treinamentos especializados, a PREVISIO ENGENHARIA se destaca pela qualidade e eficiência de seus trabalhos.</p>\n\n                        <p>Com um time de profissionais altamente qualificados, a empresa garante soluções personalizadas e adequadas às necessidades de cada cliente.</p>\n\n                        <h2>Saiba mais sobre o serviço de mapa de risco!</h2>\n\n                        <p>Se você deseja implementar o mapa de risco em sua empresa e garantir um ambiente de trabalho mais seguro e saudável, entre em contato com a PREVISIO ENGENHARIA.</p>\n\n                        <p>Nossa equipe está preparada para oferecer todo o suporte necessário, desde a identificação dos riscos até a elaboração do mapa e a implementação de medidas preventivas.</p>\n\n                        <p>Invista na segurança e bem-estar de seus colaboradores. Entre em contato conosco e conheça todas as soluções que a PREVISIO ENGENHARIA pode oferecer para a sua empresa.</p>\n\n                        <p>Estamos à disposição para atendê-lo e ajudá-lo a alcançar um ambiente de trabalho mais seguro e produtivo.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 389,
+    "caracteres": 2532,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791142
+  }
+}

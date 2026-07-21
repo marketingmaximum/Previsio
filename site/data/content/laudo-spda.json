@@ -1,0 +1,69 @@
+{
+  "path": "/laudo-spda",
+  "slug": "laudo-spda",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Laudo spda - Previsio Engenharia",
+  "h1": "Laudo spda",
+  "breadcrumb": "Laudo spda",
+  "description": "Laudo spda, você veio ao lugar certo! a é especializada em laudo spda e oferece uma ampla gama de serviços para atender às suas suas necessidades. Nossa...",
+  "descriptionCorrigida": "Laudo spda, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo spda e oferece uma ampla gama de serviços para atender às suas suas necessidades. Nossa...",
+  "canonical": "https://www.previsio.com.br/laudo-spda",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-spda-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-spda-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-spda-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "laudo SPda: Garantia de Proteção contra Raios"
+    },
+    {
+      "nivel": 2,
+      "texto": "A Importância da Realização do laudo SPda"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços Oferecidos pela Previsio Engenharia"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens de Contratar a Previsio Engenharia para seu laudo SPda"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>laudo SPda: Garantia de Proteção contra Raios</h2>\n\n                        <p>A Previsio Engenharia, sediada em São Leopoldo–RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, atuando no mercado desde 2016.</p>\n\n                        <p>Com vasta experiência e mais de mil clientes atendidos, a Previsio Engenharia destaca-se pela excelência técnica na condução de grandes projetos em âmbito nacional e internacional.</p>\n\n                        <p>O laudo SPda é um documento fundamental para a avaliação da instalação de Sistemas de Proteção contra Descargas Atmosféricas.</p>\n\n                        <p>Essa avaliação assegura que a edificação esteja devidamente protegida contra raios, seguindo normas técnicas rigorosas, como a NBR 5419.</p>\n\n                        <p>Além disso, o laudo analisa a eficácia do sistema de aterramento e captação de descargas, essenciais para garantir a segurança das instalações e de seus ocupantes.</p>\n\n                        <h2>A Importância da Realização do laudo SPda</h2>\n\n                        <p>Empresas que investem na elaboração do laudo SPda estão tomando medidas preventivas essenciais para proteger suas estruturas contra danos materiais e riscos de incêndios.</p>\n\n                        <p>Além disso, a realização desse laudo não só garante a conformidade com as normas vigentes, mas também proporciona maior segurança aos colaboradores, cumprindo com as exigências legais e promovendo um ambiente de trabalho mais seguro.</p>\n\n                        <h2>Serviços Oferecidos pela Previsio Engenharia</h2>\n\n                        <p>Entre os serviços prestados pela Previsio Engenharia, destacam-se a realização de reformas e atualizações em máquinas e painéis elétricos, Projetos de Instalação Elétrica (PIE), SPDA, aterramento, laudos e adequações de acordo com a NR10, entre outros.</p>\n\n                        <h3>Vantagens de Contratar a Previsio Engenharia para seu laudo SPda</h3>\n\n                        <p>Ao optar pelos serviços da Previsio Engenharia, você conta com uma equipe altamente qualificada e experiente, pronta para atender às necessidades específicas da sua empresa.</p>\n\n                        <p>Com um amplo portfólio de serviços relacionados à engenharia de segurança do trabalho e automação industrial, a Previsio Engenharia oferece soluções personalizadas e eficientes para garantir a segurança e conformidade de suas instalações.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>Se sua empresa busca por serviços especializados em Engenharia de Segurança do Trabalho e necessita da elaboração de um laudo SPda confiável e de qualidade, entre em contato conosco.</p>\n\n                        <p>Estamos à disposição para oferecer soluções sob medida para suas necessidades, visando sempre a segurança, a eficiência e a excelência em nossos serviços.</p>\n\n                        <p>Agende uma consulta e descubra como a Previsio Engenharia pode contribuir com o sucesso e a segurança do seu negócio.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 373,
+    "caracteres": 2531,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790865
+  }
+}

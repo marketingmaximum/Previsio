@@ -1,0 +1,113 @@
+{
+  "path": "/",
+  "slug": "",
+  "tipo": "home",
+  "cluster": "institucional",
+  "temCidades": false,
+  "pilar": null,
+  "title": "Segurança do trabalho e automação industrial - Previsio Engenharia",
+  "h1": "Previsio Engenharia Segurança do trabalho e automação industrial",
+  "breadcrumb": null,
+  "description": "Segurança do trabalho e automação industrial - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/icones/icon-01.png",
+      "width": "65",
+      "height": "65",
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": false
+    },
+    {
+      "src": "/imagens/icones/icon-02.png",
+      "width": "65",
+      "height": "65",
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": false
+    },
+    {
+      "src": "/imagens/servicos/servico-01.webp",
+      "width": null,
+      "height": null,
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/consultoria-nr12-01.webp",
+      "width": "442",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/empresa-adequacao-nr-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/spda-sistema-protecao-descargas-atmosfericas-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/adequacao-comandos-eletricos-extrabaixa-tensao-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 3,
+      "texto": "Diferenciais"
+    },
+    {
+      "nivel": 3,
+      "texto": "Foco"
+    },
+    {
+      "nivel": 2,
+      "texto": "Nossos Principais Serviços"
+    },
+    {
+      "nivel": 2,
+      "texto": "agora mesmo!"
+    },
+    {
+      "nivel": 2,
+      "texto": "Nossos Serviços em Destaque"
+    },
+    {
+      "nivel": 3,
+      "texto": "Consultoria nr12"
+    },
+    {
+      "nivel": 3,
+      "texto": "Empresa de adequação nr"
+    },
+    {
+      "nivel": 3,
+      "texto": "Spda sistema de proteção contra descargas atmosféricas"
+    },
+    {
+      "nivel": 3,
+      "texto": "Adequação de comandos elétricos extrabaixa tensão"
+    }
+  ],
+  "bodyHtml": "<section>\n\t\t\t\t<!--STARTCOMPONENTS-->\n\t\t\t\t<div class=\"container container--empresa\">\n\t\t\t\t\t<div class=\"wrapper\">\n\t\t\t\t\t\t<div class=\"row gap-70 align-items-center\">\n\t\t\t\t\t\t\t<div class=\"col-6 col-xl-12\">\n\t\t\t\t\t\t\t\t<p class=\"sub-title-01\">Quem somos</p>\n\t\t\t\t\t\t\t\t<h1 class=\"light\">Previsio Engenharia <span class=\"d-block fw-400 fs-20\">Segurança do trabalho e automação industrial</span></h1>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-6 col-xl-12\">\n\t\t\t\t\t\t\t\t<p>Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de profissionais com ampla experiência técnica na condução de grandes projetos em todo território nacional e no exterior.</p>\n\t\t\t\t\t\t\t\t<a class=\"btn btn--outline mt-4\" href=\"https://www.previsio.com.br/quem-somos\" title=\"Saiba mais\">Saiba mais</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div class=\"row mt-5 gap-30\">\n\t\t\t\t\t\t\t<div class=\"col-6\">\n\t\t\t\t\t\t\t\t<div class=\"card--box\">\n\t\t\t\t\t\t\t\t\t<img class=\"box__icon\" src=\"https://www.previsio.com.br/imagens/icones/icon-01.png\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" width=\"65\" height=\"65\">\n\t\t\t\t\t\t\t\t\t<h3 class=\"box__title light\">Diferenciais</h3>\n\t\t\t\t\t\t\t\t\t<p class=\"box__desc\">Buscamos sempre assessorar nossos clientes com um olhar atento sobre os processos produtivos, entregando soluções técnicas valorizando a produção, minimizando custos e evitando multas e interdições. Nossos projetos são personalizados, integrados ao fluxo do cliente e atualizados em termos de normatização.</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-6\">\n\t\t\t\t\t\t\t\t<div class=\"card--box\">\n\t\t\t\t\t\t\t\t\t<img class=\"box__icon\" src=\"https://www.previsio.com.br/imagens/icones/icon-02.png\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" width=\"65\" height=\"65\">\n\t\t\t\t\t\t\t\t\t<h3 class=\"box__title light\">Foco</h3>\n\t\t\t\t\t\t\t\t\t<p class=\"box__desc\">Trabalhar com foco nas reais necessidades dos clientes para conquistar resultados positivos aos acionistas, sempre fundamentados na valorização contínua dos colaboradores, no respeito e admiração aos nossos fornecedores, no comprometimento e respeito com a sociedade e nos cuidados com o meio ambiente.</p>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!--  -->\n\t\t\t\t<!--  -->\n\t\t\t\t<div class=\"container container--solucoes\">\n\t\t\t\t\t<div class=\"wrapper\">\n\t\t\t\t\t\t<div class=\"row gap-70\">\n\t\t\t\t\t\t\t<div class=\"col-6 col-md-12\">\n\t\t\t\t\t\t\t\t<p class=\"sub-title-01\">soluções</p>\n\t\t\t\t\t\t\t\t<h2 class=\"light\">Nossos Principais <span class=\"d-block\">Serviços</span></h2>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-6 col-md-12\">\n\t\t\t\t\t\t\t\t<p>Com Foco em Engenharia de Segurança do Trabalho e Automação Industrial Buscamos Apresentar as Melhores Soluções em Termos Preventivos e Corretivos Para Atingirmos Sempre os Melhores Resultados</p>\n\t\t\t\t\t\t\t\t<a class=\"btn btn--outline mt-4\" href=\"https://www.previsio.com.br/servicos\" title=\"ver todos os serviços\">ver todos os serviços</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t<div class=\"row gap-30 rgap-70 mt-6\">\n\n\t\t\t\t\t\t\t<div class=\"col-3 col-xl-6 card--servico\">\n\t\t\t\t\t\t\t\t<img class=\"image__servico\" src=\"https://www.previsio.com.br/imagens/servicos/servico-01.webp\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t\t\t<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">NR-12</span></p>\n\t\t\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t\t\t<li>Assessoria;</li>\n\t\t\t\t\t\t\t\t\t<li>Projeto;</li>\n\t\t\t\t\t\t\t\t\t<li>Documentação;</li>\n\t\t\t\t\t\t\t\t\t<li>Adequação.</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t<a class=\"btn btn--primary\" href=\"https://www.previsio.com.br/servicos/nr-12\" title=\"Saiba mais\">Saiba mais</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-3 col-xl-6 card--servico\">\n\t\t\t\t\t\t\t\t<img class=\"image__servico\" src=\"https://www.previsio.com.br/imagens/servicos/servico-01.webp\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t\t\t<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">NR-10</span></p>\n\t\t\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t\t\t<li>Prontuário de Instalações elétricas (PIE);</li>\n\t\t\t\t\t\t\t\t\t<li>Sistema de proteção contra descargas atmosféricas (SPDA);</li>\n\t\t\t\t\t\t\t\t\t<li>Projeto;</li>\n\t\t\t\t\t\t\t\t\t<li>Laudos;</li>\n\t\t\t\t\t\t\t\t\t<li>Adequações em eletricidade.</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t<a class=\"btn btn--primary\" href=\"https://www.previsio.com.br/servicos/nr-10\" title=\"Saiba mais\">Saiba mais</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-3 col-xl-6 card--servico\">\n\t\t\t\t\t\t\t\t<img class=\"image__servico\" src=\"https://www.previsio.com.br/imagens/servicos/servico-01.webp\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t\t\t<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Manutenção</span></p>\n\t\t\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t\t\t<li>Mecânica;</li>\n\t\t\t\t\t\t\t\t\t<li>Elétrica;</li>\n\t\t\t\t\t\t\t\t\t<li>Predial;</li>\n\t\t\t\t\t\t\t\t\t<li>Softwares Industriais;</li>\n\t\t\t\t\t\t\t\t\t<li>Inspeções.</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t<a class=\"btn btn--primary\" href=\"https://www.previsio.com.br/servicos/manutencao\" title=\"Saiba mais\">Saiba mais</a>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"col-3 col-xl-6 card--servico\">\n\t\t\t\t\t\t\t\t<img class=\"image__servico\" src=\"https://www.previsio.com.br/imagens/servicos/servico-01.webp\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n\t\t\t\t\t\t\t\t<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Reformas</span></p>\n\t\t\t\t\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t\t\t\t\t<li>Atualização de máquinas e painéis elétricos;</li>\n\t\t\t\t\t\t\t\t\t<li>Retrofit de máquinas.</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t<a class=\"btn btn--primary\" href=\"https://www.previsio.com.br/servicos/reformas\" title=\"Saiba mais\">Saiba mais</a>\n\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t\t\t<!--  -->\n\t\t\t\t<!--  -->\n\t\t\t\t<div class=\"container container--cta\">\n    <div class=\"wrapper\">\n        <div class=\"row\">\n            <div class=\"col-6 col-xl-12\">\n                <p class=\"sub-title text-uppercase\">Entre em contato</p>\n                <h2 class=\"light text-uppercase my-2 fs-42\">agora mesmo!</h2>\n                <p class=\"mt-0\">Fale com nossos especialistas e solicite um orçamento!</p>\n                <a class=\"btn btn--primary\" href=\"contato\" title=\"Contato\">solicite uma cotação</a>\n            </div>\n        </div>\n    </div>\n</div>\t\t\t\t<!--  -->\n\t\t\t\t<!--  -->\n\n\t\t\t\t<div class=\"container\">\n\t\t\t\t\t<div class=\"wrapper\">\n\t\t\t\t\t\t<div class=\"destaques-mpi\">\n\t\t\t\t\t\t\t<p class=\"sub-title-01\">soluções</p>\n\t\t\t\t\t\t\t<h2 class=\"destaques-mpi__title mt-2\">Nossos Serviços em Destaque</h2>\n\t\t\t\t\t\t\t<div class=\"card-group\">\n        <div class=\"card card--mod-23\">\n        <img class=\"card__image\" src=\"https://www.previsio.com.br/imagens/informacoes/consultoria-nr12-01.webp\" width=\"442\" height=\"600\" title=\"Imagem Ilustrando Previsio Engenharia\" alt=\"Imagem Ilustrando Previsio Engenharia\" loading=\"lazy\">\n        <div class=\"card__description\">\n          <h3 class=\"card__title\">Consultoria nr12</h3>\n          <div class=\"row gap-10\">\n            <a class=\"card__link\" rel=\"nofollow\" href=\"https://www.previsio.com.br/consultoria-nr12\" title=\"Consultoria nr12\">\n              <i class=\"fa-solid fa-link\" aria-hidden=\"true\"></i>\n            </a>\n            <a class=\"card__link lightbox\" data-fancybox=\"group1\" href=\"https://www.previsio.com.br/imagens/informacoes/consultoria-nr12-01.webp\" data-caption=\"Imagem ilustrativa de Consultoria nr12\" title=\"Consultoria nr12\">\n              <i class=\"fa-solid fa-image\" aria-hidden=\"true\"></i>\n            </a>\n          </div>\n        </div>\n      </div>\n        <div class=\"card card--mod-23\">\n        <img class=\"card__image\" src=\"https://www.previsio.com.br/imagens/informacoes/empresa-adequacao-nr-01.webp\" width=\"600\" height=\"400\" title=\"Imagem Ilustrando Previsio Engenharia\" alt=\"Imagem Ilustrando Previsio Engenharia\" loading=\"lazy\">\n        <div class=\"card__description\">\n          <h3 class=\"card__title\">Empresa de adequação nr</h3>\n          <div class=\"row gap-10\">\n            <a class=\"card__link\" rel=\"nofollow\" href=\"https://www.previsio.com.br/empresa-adequacao-nr\" title=\"Empresa de adequação nr\">\n              <i class=\"fa-solid fa-link\" aria-hidden=\"true\"></i>\n            </a>\n            <a class=\"card__link lightbox\" data-fancybox=\"group1\" href=\"https://www.previsio.com.br/imagens/informacoes/empresa-adequacao-nr-01.webp\" data-caption=\"Imagem ilustrativa de Empresa de adequação nr\" title=\"Empresa de adequação nr\">\n              <i class=\"fa-solid fa-image\" aria-hidden=\"true\"></i>\n            </a>\n          </div>\n        </div>\n      </div>\n        <div class=\"card card--mod-23\">\n        <img class=\"card__image\" src=\"https://www.previsio.com.br/imagens/informacoes/spda-sistema-protecao-descargas-atmosfericas-01.webp\" width=\"600\" height=\"337\" title=\"Imagem Ilustrando Previsio Engenharia\" alt=\"Imagem Ilustrando Previsio Engenharia\" loading=\"lazy\">\n        <div class=\"card__description\">\n          <h3 class=\"card__title\">Spda sistema de proteção contra descargas atmosféricas</h3>\n          <div class=\"row gap-10\">\n            <a class=\"card__link\" rel=\"nofollow\" href=\"https://www.previsio.com.br/spda-sistema-protecao-descargas-atmosfericas\" title=\"Spda sistema de proteção contra descargas atmosféricas\">\n              <i class=\"fa-solid fa-link\" aria-hidden=\"true\"></i>\n            </a>\n            <a class=\"card__link lightbox\" data-fancybox=\"group1\" href=\"https://www.previsio.com.br/imagens/informacoes/spda-sistema-protecao-descargas-atmosfericas-01.webp\" data-caption=\"Imagem ilustrativa de Spda sistema de proteção contra descargas atmosféricas\" title=\"Spda sistema de proteção contra descargas atmosféricas\">\n              <i class=\"fa-solid fa-image\" aria-hidden=\"true\"></i>\n            </a>\n          </div>\n        </div>\n      </div>\n        <div class=\"card card--mod-23\">\n        <img class=\"card__image\" src=\"https://www.previsio.com.br/imagens/informacoes/adequacao-comandos-eletricos-extrabaixa-tensao-01.webp\" width=\"600\" height=\"337\" title=\"Imagem Ilustrando Previsio Engenharia\" alt=\"Imagem Ilustrando Previsio Engenharia\" loading=\"lazy\">\n        <div class=\"card__description\">\n          <h3 class=\"card__title\">Adequação de comandos elétricos extrabaixa tensão</h3>\n          <div class=\"row gap-10\">\n            <a class=\"card__link\" rel=\"nofollow\" href=\"https://www.previsio.com.br/adequacao-comandos-eletricos-extrabaixa-tensao\" title=\"Adequação de comandos elétricos extrabaixa tensão\">\n              <i class=\"fa-solid fa-link\" aria-hidden=\"true\"></i>\n            </a>\n            <a class=\"card__link lightbox\" data-fancybox=\"group1\" href=\"https://www.previsio.com.br/imagens/informacoes/adequacao-comandos-eletricos-extrabaixa-tensao-01.webp\" data-caption=\"Imagem ilustrativa de Adequação de comandos elétricos extrabaixa tensão\" title=\"Adequação de comandos elétricos extrabaixa tensão\">\n              <i class=\"fa-solid fa-image\" aria-hidden=\"true\"></i>\n            </a>\n          </div>\n        </div>\n      </div>\n  </div>\n\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\t<div class=\"clear\"></div>\n\t\t\t\t</div>\n\t\t\t\t<!--ENDCOMPONENTS-->\n\t\t\t</section>",
+  "conteinerUsado": "main div.content",
+  "metricas": {
+    "palavras": 268,
+    "caracteres": 1969,
+    "linksInternos": 239,
+    "h1NoDom": 1,
+    "bytesOriginal": 470986
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/treinamento-nr01",
+  "slug": "treinamento-nr01",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Treinamento nr01 - Previsio Engenharia",
+  "h1": "Treinamento nr01",
+  "breadcrumb": "Treinamento nr01",
+  "description": "Treinamento nr01, você veio ao lugar certo! a é especializada em treinamento nr01 e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Treinamento nr01, você veio ao lugar certo! A Previsio Engenharia é especializada em treinamento nr01 e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/treinamento-nr01",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-nr01-01.webp",
+      "width": "586",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-nr01-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-nr01-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o treinamento nr01?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens do treinamento nr01"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que Escolher a PREVISIO ENGENHARIA para seu treinamento nr01?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios de Contratar a PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco para Saber Mais"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o treinamento nr01?</h2>\n\n                        <p>O treinamento nr01 é fundamental para a conscientização e capacitação dos trabalhadores e empregadores sobre a gestão de segurança e saúde no trabalho, de acordo com a Norma Regulamentadora 1. Esse tipo de treinamento é essencial para as empresas cumprirem com suas obrigações legais e para promover um ambiente de trabalho mais seguro e saudável.</p>\n\n                        <h2>Vantagens do treinamento nr01</h2>\n\n                        <p>Investir em treinamento nr01 traz diversos benefícios tanto para os colaboradores quanto para a empresa. Ao promover a conscientização sobre segurança do trabalho, as organizações diminuem o risco de acidentes, reduzem custos com afastamentos e multas, melhoram a produtividade e a qualidade do ambiente laboral.</p>\n\n                        <h2>Por que Escolher a PREVISIO ENGENHARIA para seu treinamento nr01?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, localizada em São Leopoldo - RS, é uma empresa com vasta experiência em Engenharia de Segurança do Trabalho e Automação Industrial. Com mais de mil clientes atendidos e expertise na condução de projetos em todo o Brasil e no exterior, a empresa se destaca pela qualidade e excelência de seus serviços. Além disso, a PREVISIO ENGENHARIA oferece treinamentos completos de segurança do trabalho, incluindo o treinamento nr01.</p>\n\n                        <h2>Benefícios de Contratar a PREVISIO ENGENHARIA</h2>\n\n                        <p>Ao optar pelos serviços da PREVISIO ENGENHARIA, as empresas têm a garantia de receber um treinamento nr01 personalizado e adaptado às suas necessidades específicas. Além disso, a empresa oferece suporte técnico, documentação completa e consultoria especializada em segurança do trabalho, garantindo que todas as exigências legais sejam atendidas de forma eficaz e segura.</p>\n\n                        <h2>Entre em Contato Conosco para Saber Mais</h2>\n\n                        <p>Se você deseja promover a segurança e saúde no trabalho em sua empresa e garantir o cumprimento das normas regulamentadoras, entre em contato com a PREVISIO ENGENHARIA. Nossa equipe está pronta para oferecer soluções personalizadas e eficientes para suas necessidades em segurança do trabalho, incluindo o treinamento nr01.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 304,
+    "caracteres": 2013,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790439
+  }
+}

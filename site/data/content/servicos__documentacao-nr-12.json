@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/documentacao-nr-12",
+  "slug": "servicos/documentacao-nr-12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "Documentação NR-12 - Previsio Engenharia",
+  "h1": "Documentação NR-12",
+  "breadcrumb": null,
+  "description": "Documentação NR-12 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidiscipli...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/documentacao-nr-12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Documentação NR-12</span></p>\n\t\t\t\t\t\t<p>Reconstituímos manuais de máquinas e equipamentos, projetos elétricos, criamos e implementamos procedimentos técnico-operacionais conforme recomendações normativas.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 21,
+    "caracteres": 200,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468853
+  }
+}

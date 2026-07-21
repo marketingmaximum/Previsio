@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "slug": "servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "tipo": "pilar",
+  "cluster": "pgr",
+  "temCidades": false,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Programa de Gerenciamento de Riscos - PGR - Previsio Engenharia",
+  "h1": "Programa de Gerenciamento de Riscos - PGR",
+  "breadcrumb": null,
+  "description": "Programa de Gerenciamento de Riscos - PGR - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por u...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Programa de Gerenciamento de Riscos - PGR</span></p>\n\t\t\t\t\t\t<p>O PGR tem como finalidade prevenir a ocorrência de acidentes, avaliando, identifi-cando riscos e propondo medidas preventivas para possíveis eventos danosos à saúde e integridade dos trabalhadores. Destacamos que esse programa é apresentado em forma de planilha gerencial atendendo as premissas da norma ISO 45001, sendo uma ferramenta imprescindível para obtenção e manutenção da certificação. Destacamos que esse programa é apresentado em conjunto com o inventário de riscos e plano de ação atendendo as premissas da NR-01.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 87,
+    "caracteres": 584,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469619
+  }
+}

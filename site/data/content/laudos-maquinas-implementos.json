@@ -1,0 +1,65 @@
+{
+  "path": "/laudos-maquinas-implementos",
+  "slug": "laudos-maquinas-implementos",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": true,
+  "pilar": "/servicos/nr-12",
+  "title": "Laudos máquinas e implementos - Previsio Engenharia",
+  "h1": "Laudos máquinas e implementos",
+  "breadcrumb": "Laudos máquinas e implementos",
+  "description": "Laudos máquinas e implementos, você veio ao lugar certo! a é especializada em laudos máquinas e implementos e oferece uma ampla gama de... Saiba mais.",
+  "descriptionCorrigida": "Laudos máquinas e implementos, você veio ao lugar certo! A Previsio Engenharia é especializada em laudos máquinas e implementos e oferece uma ampla gama de... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudos-maquinas-implementos",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudos-maquinas-implementos-01.webp",
+      "width": "600",
+      "height": "344",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudos-maquinas-implementos-02.webp",
+      "width": "445",
+      "height": "600",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudos-maquinas-implementos-03.webp",
+      "width": "600",
+      "height": "411",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Especialista em laudos máquinas e implementos"
+    },
+    {
+      "nivel": 3,
+      "texto": "Como a Previsio Engenharia pode te ajudar com os laudos máquinas e implementos?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios dos laudos máquinas e implementos da Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Saiba mais sobre os laudos máquinas e implementos!"
+    }
+  ],
+  "bodyHtml": "<h2>PREVISIO ENGENHARIA: Especialista em laudos máquinas e implementos</h2>\n\n                        <p>Os laudos máquinas e implementos são importantes ferramentas para garantir a segurança dos trabalhadores em ambientes industriais.</p>\n\n                        <p>Ao avaliar as condições operacionais e de segurança das máquinas e equipamentos, esses laudos asseguram que estejam em conformidade com as normas regulamentadoras, especialmente a NR 12.</p>\n\n                        <p>Além disso, a realização desses laudos ajuda a prevenir acidentes, promover um ambiente de trabalho seguro e aumentar a produtividade.</p>\n\n                        <h3>Como a Previsio Engenharia pode te ajudar com os laudos máquinas e implementos?</h3>\n\n                        <p>A Previsio Engenharia é uma empresa especializada em Engenharia de Segurança do Trabalho, com ampla experiência na realização de laudos, adequações e projetos para máquinas e implementos industriais.</p>\n\n                        <p>Com uma equipe técnica qualificada e conhecimento aprofundado das normas vigentes, a Previsio Engenharia oferece serviços personalizados e soluções sob medida para cada cliente.</p>\n\n                        <ul class=\"list\">\n\n                            <li>Reformas de atualização de máquinas e painéis elétricos;</li>\n\n                            <li>Realização de Projeto de Instalações Elétricas (PIE);</li>\n\n                            <li>SPDA, aterramento e outros projetos de segurança elétrica;</li>\n\n                            <li>Laudos e adequações em eletricidade conforme a NR 10;</li>\n\n                            <li>Assessoria, projetos e documentações para adequação à NR 12.</li>\n\n                        </ul>\n\n                        <h2>Benefícios dos laudos máquinas e implementos da Previsio Engenharia</h2>\n\n                        <p>A equipe da Previsio Engenharia está preparada para oferecer suporte em todas as etapas do processo, desde a realização do laudo até a implementação das adequações necessárias.</p>\n\n                        <p>Ao optar pelos serviços da empresa, você terá a garantia de um trabalho de qualidade, realizado por profissionais qualificados e comprometidos com a segurança e a eficiência das operações industriais.</p>\n\n                        <h2>Saiba mais sobre os laudos máquinas e implementos!</h2>\n\n                        <p>A segurança do trabalho é fundamental para o bom funcionamento de qualquer empresa. Com a Previsio Engenharia, você pode ter a certeza de estar em conformidade com as normas vigentes, protegendo sua equipe e evitando possíveis penalidades legais.</p>\n\n                        <p>Entre em contato conosco e saiba como podemos ajudar a garantir a segurança e o bem-estar no seu ambiente de trabalho.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 311,
+    "caracteres": 2125,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791135
+  }
+}

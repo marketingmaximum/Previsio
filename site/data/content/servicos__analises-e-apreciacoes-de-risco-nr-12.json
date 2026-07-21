@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/analises-e-apreciacoes-de-risco-nr-12",
+  "slug": "servicos/analises-e-apreciacoes-de-risco-nr-12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "Análises e Apreciações de Risco NR-12 - Previsio Engenharia",
+  "h1": "Análises e Apreciações de Risco NR-12",
+  "breadcrumb": null,
+  "description": "Análises e Apreciações de Risco NR-12 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma e...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/analises-e-apreciacoes-de-risco-nr-12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Análises e Apreciações de Risco NR-12</span></p>\n\t\t\t\t\t\t<p>As análises de risco são elaboradas considerando a utilização real de cada equipamento e/ou ambiente de trabalho, estudamos as interações entre pessoas e máquinas, bem como, o próprio local de trabalho de forma a proporcionar uma solução segura e coerente. O objetivo desse documento é sugerir medidas que venham acarretar na mitigação dos riscos encontrados.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 64,
+    "caracteres": 414,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469429
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/dimensionamento-cipa",
+  "slug": "dimensionamento-cipa",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Dimensionamento CIPA - Previsio Engenharia",
+  "h1": "Dimensionamento CIPA",
+  "breadcrumb": "Dimensionamento CIPA",
+  "description": "Dimensionamento cipa, você veio ao lugar certo! a é especializada em dimensionamento cipa e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Dimensionamento cipa, você veio ao lugar certo! A Previsio Engenharia é especializada em dimensionamento cipa e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/dimensionamento-cipa",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/dimensionamento-cipa-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/dimensionamento-cipa-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/dimensionamento-cipa-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Especialista em dimensionamento cipa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do dimensionamento cipa"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens de um dimensionamento cipa correto"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como realizar o dimensionamento cipa?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Previsio Engenharia: sua parceira em dimensionamento cipa!"
+    }
+  ],
+  "bodyHtml": "<h2>PREVISIO ENGENHARIA: Especialista em dimensionamento cipa</h2>\n\n                        <p>O dimensionamento cipa é um processo fundamental para as empresas que buscam garantir a segurança e saúde de seus colaboradores.</p>\n\n                        <p>A Comissão Interna de Prevenção de Acidentes (CIPA) é responsável por promover a prevenção de acidentes e doenças ocupacionais, além de orientar os trabalhadores sobre práticas seguras no ambiente de trabalho.</p>\n\n                        <h2>Importância do dimensionamento cipa</h2>\n\n                        <p>O dimensionamento adequado da CIPA é essencial para que a comissão seja efetiva em suas ações.</p>\n\n                        <p>A quantidade de membros da CIPA deve ser proporcional ao porte e risco das atividades da empresa, garantindo representatividade e diversidade de opiniões para a elaboração de ações preventivas.</p>\n\n                        <h3>Vantagens de um dimensionamento cipa correto</h3>\n\n                        <p>Empresas que realizam o dimensionamento correto da CIPA estão conforme a legislação trabalhista, o que evita possíveis multas e penalidades.</p>\n\n                        <p>Além disso, uma CIPA bem dimensionada contribui para a redução de acidentes e incidentes, promovendo um ambiente de trabalho mais seguro e saudável para todos os colaboradores.</p>\n\n                        <h2>Como realizar o dimensionamento cipa?</h2>\n\n                        <p>O dimensionamento da CIPA leva em consideração o número de funcionários da empresa, o grau de risco das atividades desenvolvidas, entre outros fatores.</p>\n\n                        <p>É importante contar com o apoio de profissionais especializados em segurança do trabalho para realizar esse processo de forma adequada e eficaz.</p>\n\n                        <h2>Previsio Engenharia: sua parceira em dimensionamento cipa!</h2>\n\n                        <p>A Previsio Engenharia é uma empresa especializada em Engenharia de Segurança do Trabalho, localizada em São Leopoldo–RS.</p>\n\n                        <p>Com ampla experiência no mercado, a Previsio Engenharia oferece serviços de qualidade para auxiliar as empresas no dimensionamento da CIPA, garantindo a segurança e saúde de seus colaboradores.</p>\n\n                        <p>Entre em contato com a Previsio Engenharia e saiba como podemos ajudar a sua empresa a realizar o dimensionamento correto da CIPA, cumprindo todas as exigências legais e promovendo um ambiente de trabalho mais seguro e saudável para todos.</p>\n\n                        <p>Conte com a nossa expertise para manter a segurança dos seus colaboradores em primeiro lugar!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 315,
+    "caracteres": 2127,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790689
+  }
+}

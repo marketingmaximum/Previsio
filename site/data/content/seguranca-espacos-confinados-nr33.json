@@ -1,0 +1,73 @@
+{
+  "path": "/seguranca-espacos-confinados-nr33",
+  "slug": "seguranca-espacos-confinados-nr33",
+  "tipo": "servico",
+  "cluster": "nr-33",
+  "temCidades": true,
+  "pilar": "/servicos/prontuario-nr-33",
+  "title": "Segurança para espaços confinados nr33 - Previsio Engenharia",
+  "h1": "Segurança para espaços confinados nr33",
+  "breadcrumb": "Segurança para espaços confinados nr33",
+  "description": "Segurança para espaços confinados nr33, você veio ao lugar certo! a é especializada em segurança para espaços confinados nr33 e oferece... Saiba mais.",
+  "descriptionCorrigida": "Segurança para espaços confinados nr33, você veio ao lugar certo! A Previsio Engenharia é especializada em segurança para espaços confinados nr33 e oferece... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/seguranca-espacos-confinados-nr33",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/seguranca-espacos-confinados-nr33-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/seguranca-espacos-confinados-nr33-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/seguranca-espacos-confinados-nr33-03.webp",
+      "width": "600",
+      "height": "450",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da segurança para espaços confinados nr33"
+    },
+    {
+      "nivel": 2,
+      "texto": "Medidas de proteção e prevenção"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens da adequação à NR33"
+    },
+    {
+      "nivel": 2,
+      "texto": "Previsio Engenharia: especialista em segurança para espaços confinados nr33"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços oferecidos pela Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da segurança para espaços confinados nr33</h2>\n\n                        <p>Segurança para espaços confinados nr33 é um tema essencial quando se trata da proteção dos trabalhadores em ambientes de trabalho específicos, como silos, tanques e tubulações. A Norma Regulamentadora 33 estabelece diretrizes e práticas que visam garantir a integridade física dos colaboradores que atuam nesses locais.</p>\n\n                        <h2>Medidas de proteção e prevenção</h2>\n\n                        <p>A segurança para espaços confinados nr33 prevê a implementação de medidas como a ventilação adequada dos ambientes, o uso de equipamentos de proteção individual e coletiva, além de planos de resgate e emergência. É fundamental que as empresas estejam em conformidade com as determinações da NR33 para garantir um ambiente de trabalho seguro e saudável para seus funcionários.</p>\n\n                        <h2>Vantagens da adequação à NR33</h2>\n\n                        <p>Empresas que investem na segurança para espaços confinados, seguindo as diretrizes da NR33, não apenas cumprem com suas obrigações legais, mas também proporcionam um ambiente de trabalho mais seguro e produtivo. Além disso, a adoção de boas práticas de segurança contribui para a redução de acidentes de trabalho e afastamentos, promovendo a valorização dos colaboradores e a imagem da empresa.</p>\n\n                        <h2>Previsio Engenharia: especialista em segurança para espaços confinados nr33</h2>\n\n                        <p>A Previsio Engenharia, sediada em São Leopoldo - RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial. Com mais de cinco anos de experiência no mercado, a Previsio Engenharia conta com uma equipe técnica qualificada e experiente na implementação de medidas de segurança para espaços confinados conforme a NR33.</p>\n\n                        <h2>Serviços oferecidos pela Previsio Engenharia</h2>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Reformas e atualizações de máquinas e painéis elétricos;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Realização de Padrão de Instalações Elétricas (PIE);</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Projetos de SPDA e aterramento;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Adequações à NR10 e NR12;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Manutenção em CLP e IHMs;</li>\n\n                        </ul>\n\n                        <p>Além disso, a Previsio Engenharia oferece treinamentos em segurança do trabalho, documentações, projetos e consultoria para empresas que buscam garantir a segurança de seus colaboradores em espaços confinados, cumprindo todas as normas e regulamentações vigentes.</p>\n\n                        <h2>Entre em contato conosco</h2>\n\n                        <p>Se a sua empresa precisa de serviços especializados em segurança para espaços confinados conforme a NR33, conte com a expertise da Previsio Engenharia. Nossa equipe está preparada para oferecer soluções sob medida que garantam a segurança e o bem-estar dos seus colaboradores. Entre em contato conosco e saiba mais sobre como podemos ajudar a sua empresa a estar em conformidade com as normas de segurança do trabalho.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 386,
+    "caracteres": 2583,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 792500
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/perfil-profissiografico-previdenciario-eletronico",
+  "slug": "perfil-profissiografico-previdenciario-eletronico",
+  "tipo": "servico",
+  "cluster": "esocial",
+  "temCidades": true,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "Perfil profissiográfico previdenciário eletrônico - Previsio Engenharia",
+  "h1": "Perfil profissiográfico previdenciário eletrônico",
+  "breadcrumb": "Perfil profissiográfico previdenciário eletrônico",
+  "description": "Perfil profissiográfico previdenciário eletrônico, você veio ao lugar certo! a é especializada em perfil profissiográfico previdenciário... Saiba mais.",
+  "descriptionCorrigida": "Perfil profissiográfico previdenciário eletrônico, você veio ao lugar certo! A Previsio Engenharia é especializada em perfil profissiográfico previdenciário... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/perfil-profissiografico-previdenciario-eletronico",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/perfil-profissiografico-previdenciario-eletronico-01.webp",
+      "width": "600",
+      "height": "278",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/perfil-profissiografico-previdenciario-eletronico-02.webp",
+      "width": "600",
+      "height": "324",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/perfil-profissiografico-previdenciario-eletronico-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "perfil profissiográfico previdenciário eletrônico"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens do PPP Eletrônico"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "A importância da Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para sua Segurança do Trabalho!"
+    }
+  ],
+  "bodyHtml": "<h2>perfil profissiográfico previdenciário eletrônico</h2>\n\n                        <p>O perfil profissiográfico previdenciário eletrônico é uma evolução do tradicional PPP - Perfil Profissiográfico Previdenciário.</p>\n\n                        <p>Ele consiste em uma versão digital deste documento obrigatório, que tem como objetivo descrever as atividades desenvolvidas pelo trabalhador e os agentes nocivos aos quais ele esteve exposto ao longo de sua carreira.</p>\n\n                        <h3>Vantagens do PPP Eletrônico</h3>\n\n                        <p>A adoção do perfil profissiográfico previdenciário eletrônico traz inúmeras vantagens para as empresas.</p>\n\n                        <p>Além de facilitar a gestão e o armazenamento dos dados, essa versão digital agiliza o envio das informações ao INSS, garantindo maior precisão e rapidez nos processos administrativos.</p>\n\n                        <p>Com o PPP eletrônico, as organizações cumprem as exigências legais, proporcionando mais eficiência no controle de exposições e riscos ocupacionais.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo–RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Com mais de cinco anos de atuação no mercado, a PREVISIO conta com uma equipe técnica altamente qualificada e experiência na condução de projetos em todo o Brasil e no exterior.</p>\n\n                        <p>Entre os serviços oferecidos pela empresa estão reformas e atualizações de máquinas, elaboração de PIE, SPDA, aterramento, laudos de eletricidade conforme a NR10, entre outros.</p>\n\n                        <h2>A importância da Segurança do Trabalho</h2>\n\n                        <p>A segurança do trabalho é fundamental para garantir a integridade física e mental dos colaboradores, além de cumprir as normas regulamentadoras e prevenir acidentes laborais.</p>\n\n                        <p>Com a implementação do perfil profissiográfico previdenciário eletrônico, as empresas asseguram o bem-estar de seus funcionários e evitam possíveis passivos trabalhistas.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para sua Segurança do Trabalho!</h2>\n\n                        <p>A PREVISIO ENGENHARIA oferece soluções completas em Engenharia de Segurança do Trabalho, incluindo a implementação do perfil profissiográfico previdenciário eletrônico para sua empresa.</p>\n\n                        <p>Entre em contato conosco e saiba como podemos ajudar a melhorar a segurança e a saúde ocupacional em sua organização.</p>\n\n                        <p>Nossa equipe está à disposição para esclarecer suas dúvidas e desenvolver projetos personalizados de acordo com as necessidades de seu negócio.</p>\n\n                        <p>Invista na segurança do trabalho com a PREVISIO ENGENHARIA e garanta um ambiente laboral seguro e em conformidade com as exigências legais.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 347,
+    "caracteres": 2432,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791971
+  }
+}

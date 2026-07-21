@@ -1,0 +1,69 @@
+{
+  "path": "/treinamento-epis",
+  "slug": "treinamento-epis",
+  "tipo": "servico",
+  "cluster": "treinamentos",
+  "temCidades": true,
+  "pilar": "/treinamentos-seguranca-do-trabalho",
+  "title": "Treinamento epis - Previsio Engenharia",
+  "h1": "Treinamento epis",
+  "breadcrumb": "Treinamento epis",
+  "description": "Treinamento epis, você veio ao lugar certo! a é especializada em treinamento epis e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Treinamento epis, você veio ao lugar certo! A Previsio Engenharia é especializada em treinamento epis e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/treinamento-epis",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-epis-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-epis-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-epis-03.webp",
+      "width": "600",
+      "height": "579",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Por que o treinamento epis é essencial para a segurança dos trabalhadores"
+    },
+    {
+      "nivel": 2,
+      "texto": "A importância da PREVISIO ENGENHARIA na promoção da segurança do trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios do treinamento epis oferecido pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Garanta a conformidade com as normas regulamentadoras"
+    },
+    {
+      "nivel": 2,
+      "texto": "Invista na segurança do trabalho com a PREVISIO ENGENHARIA"
+    }
+  ],
+  "bodyHtml": "<h2>Por que o treinamento epis é essencial para a segurança dos trabalhadores</h2>\n\n                        <p>O treinamento treinamento epis (Equipamentos de Proteção Individual) é um dos pilares fundamentais para garantir a segurança dos trabalhadores em ambientes laborais. Ao fornecer instruções claras sobre a correta utilização dos EPIs, como capacetes, luvas, óculos de proteção, entre outros, as empresas demonstram seu compromisso com a proteção e o bem-estar de seus colaboradores.</p>\n\n                        <h2>A importância da PREVISIO ENGENHARIA na promoção da segurança do trabalho</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo - RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial. Com mais de cinco anos de atuação e um extenso portfólio de serviços, a empresa se destaca pela qualidade e eficiência de suas soluções, atendendo a uma ampla gama de clientes em todo o Brasil e no exterior.</p>\n\n                        <h2>Benefícios do treinamento epis oferecido pela PREVISIO ENGENHARIA</h2>\n\n                        <p>A equipe altamente qualificada da PREVISIO ENGENHARIA oferece treinamentos personalizados em treinamento epis, adequados às necessidades específicas de cada cliente. Ao investir na capacitação de seus colaboradores, as empresas não apenas cumprem as exigências legais, mas também promovem um ambiente de trabalho mais seguro e produtivo.</p>\n\n                        <h2>Garanta a conformidade com as normas regulamentadoras</h2>\n\n                        <p>Em um mercado cada vez mais competitivo e sujeito a constantes mudanças, estar em conformidade com as normas regulamentadoras é essencial para evitar penalidades e garantir a continuidade dos negócios. A PREVISIO ENGENHARIA oferece serviços completos de assessoria, projetos, documentação e adequações à NR-12, garantindo que as empresas estejam sempre em dia com as exigências legais.</p>\n\n                        <h2>Invista na segurança do trabalho com a PREVISIO ENGENHARIA</h2>\n\n                        <p>A segurança do trabalho é um investimento essencial para o sucesso e a sustentabilidade de qualquer negócio. Com a expertise e o profissionalismo da PREVISIO ENGENHARIA, as empresas podem contar com soluções abrangentes e inovadoras para proteger seus colaboradores, prevenir acidentes e promover um ambiente de trabalho saudável e produtivo.</p>\n\n                        <p>Entre em contato conosco e descubra como a PREVISIO ENGENHARIA pode ajudar a sua empresa a alcançar os mais altos padrões de segurança do trabalho. Proteja seus colaboradores, evite riscos e esteja sempre em conformidade com as normas vigentes. Sua segurança e o sucesso do seu negócio são a nossa prioridade!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 364,
+    "caracteres": 2436,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790907
+  }
+}

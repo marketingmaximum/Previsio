@@ -1,0 +1,69 @@
+{
+  "path": "/laudo-insalubridade-periculosidade-lip",
+  "slug": "laudo-insalubridade-periculosidade-lip",
+  "tipo": "servico",
+  "cluster": "insalubridade",
+  "temCidades": true,
+  "pilar": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "title": "Laudo de insalubridade periculosidade lip - Previsio Engenharia",
+  "h1": "Laudo de insalubridade periculosidade lip",
+  "breadcrumb": "Laudo de insalubridade periculosidade lip",
+  "description": "Laudo de insalubridade periculosidade lip, você veio ao lugar certo! a é especializada em laudo de insalubridade periculosidade lip e... Saiba mais.",
+  "descriptionCorrigida": "Laudo de insalubridade periculosidade lip, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo de insalubridade periculosidade lip e... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-insalubridade-periculosidade-lip",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-insalubridade-periculosidade-lip-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-insalubridade-periculosidade-lip-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-insalubridade-periculosidade-lip-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o laudo de insalubridade periculosidade lip?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do laudo de insalubridade periculosidade lip"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços da Previsio Engenharia em laudo de insalubridade periculosidade lip"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens de Contratar a Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o laudo de insalubridade periculosidade lip?</h2>\n\n                        <p>O laudo de insalubridade periculosidade lip é um documento fundamental para proteger os trabalhadores e garantir a segurança no ambiente laboral.</p>\n\n                        <p>Ele é responsável por verificar a exposição dos colaboradores a condições de risco, como agentes insalubres e perigosos, que podem comprometer sua saúde e integridade física.</p>\n\n                        <p>No laudo, são analisados fatores como substâncias tóxicas, atividades de risco, eletricidade, explosivos, entre outros.</p>\n\n                        <h2>Importância do laudo de insalubridade periculosidade lip</h2>\n\n                        <p>A realização do laudo de insalubridade periculosidade lip é essencial para as empresas, pois além de proteger os trabalhadores, garante o cumprimento das normas de segurança do trabalho estabelecidas pela legislação.</p>\n\n                        <p>Com esse documento, é possível determinar se os colaboradores têm direito ao adicional de insalubridade ou periculosidade, assegurando seus direitos e prevenindo problemas legais para a empresa.</p>\n\n                        <h2>Serviços da Previsio Engenharia em laudo de insalubridade periculosidade lip</h2>\n\n                        <p>A Previsio Engenharia, localizada em São Leopoldo–RS, é especializada em Engenharia de Segurança do Trabalho e oferece serviços completos de elaboração de laudo de insalubridade periculosidade lip.</p>\n\n                        <p>Com uma vasta experiência técnica e mais de mil clientes atendidos, a empresa garante qualidade e segurança em seus projetos, proporcionando um ambiente de trabalho mais saudável e protegido para os colaboradores.</p>\n\n                        <h3>Vantagens de Contratar a Previsio Engenharia</h3>\n\n                        <p>A Previsio Engenharia se destaca no mercado pela excelência de seus serviços em Engenharia de Segurança do Trabalho.</p>\n\n                        <p>Além da elaboração de laudo de insalubridade periculosidade lip, a empresa oferece reformas de máquinas, adequações à NR-10 e NR-12, documentações, treinamentos, consultoria para e-social, entre outros.</p>\n\n                        <p>Com a Previsio Engenharia, sua empresa estará em conformidade com as normas de segurança e proporcionará um ambiente de trabalho seguro e saudável para todos os colaboradores.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>Se sua empresa necessita de serviços especializados em Engenharia de Segurança do Trabalho, conte com a Previsio Engenharia. Estamos preparados para atender suas demandas, oferecendo soluções personalizadas e de alta qualidade.</p>\n\n                        <p>Garanta a segurança e a saúde dos seus colaboradores, entre em contato conosco e saiba mais sobre nossos serviços!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 337,
+    "caracteres": 2361,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 792047
+  }
+}

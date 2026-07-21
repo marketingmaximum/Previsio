@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/reformas",
+  "slug": "servicos/reformas",
+  "tipo": "servico",
+  "cluster": "manutencao",
+  "temCidades": false,
+  "pilar": "/servicos/manutencao",
+  "title": "Reformas - Previsio Engenharia",
+  "h1": "Reformas",
+  "breadcrumb": null,
+  "description": "Reformas - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de pro...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/reformas",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "",
+  "conteinerUsado": null,
+  "metricas": {
+    "palavras": 0,
+    "caracteres": 0,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468579
+  }
+}

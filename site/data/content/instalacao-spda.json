@@ -1,0 +1,65 @@
+{
+  "path": "/instalacao-spda",
+  "slug": "instalacao-spda",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Instalação spda - Previsio Engenharia",
+  "h1": "Instalação spda",
+  "breadcrumb": "Instalação spda",
+  "description": "Instalação spda, você veio ao lugar certo! a é especializada em instalação spda e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Instalação spda, você veio ao lugar certo! A Previsio Engenharia é especializada em instalação spda e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/instalacao-spda",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/instalacao-spda-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/instalacao-spda-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/instalacao-spda-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da instalação SPda"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da instalação SPda pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA para instalação SPda?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco para saber mais sobre instalação SPda!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da instalação SPda</h2>\n\n                        <p>A instalação SPda, Sistema de Proteção contra Descargas Atmosféricas, é um elemento fundamental para garantir a segurança de edificações e estruturas contra os riscos de descargas elétricas provocadas por raios.</p>\n\n                        <p>Esse sistema é composto por captores, condutores e aterramentos que têm como principal objetivo dissipar a energia elétrica de forma segura, prevenindo danos estruturais, incêndios e acidentes elétricos.</p>\n\n                        <p>Empresas que investem na instalação SPda demonstram preocupação com a segurança de seus colaboradores, clientes e patrimônio, uma vez que a presença desse sistema garante conformidade com as normas técnicas vigentes.</p>\n\n                        <p>Além disso, a instalação adequada de um SPDA protege equipamentos sensíveis contra os impactos das descargas atmosféricas, assegurando a continuidade das operações e a preservação dos ativos da empresa.</p>\n\n                        <h3>Benefícios da instalação SPda pela PREVISIO ENGENHARIA</h3>\n\n                        <p>A PREVISIO ENGENHARIA, empresa com vasta experiência em Engenharia de Segurança do Trabalho e Automação Industrial desde 2016, oferece serviços especializados de instalação SPda.</p>\n\n                        <p>Com mais de mil clientes atendidos e expertise na condução de grandes projetos, a empresa destaca-se pela qualidade, eficiência e comprometimento em todas as etapas do processo.</p>\n\n                        <p>A equipe técnica da PREVISIO ENGENHARIA realiza a análise detalhada das necessidades de cada cliente, desenvolvendo projetos customizados que atendem às especificidades de cada edificação.</p>\n\n                        <p>Além disso, a empresa garante a utilização de materiais de alta qualidade e tecnologia de ponta na instalação do SPDA, assegurando a eficácia e a durabilidade do sistema.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA para instalação SPda?</h2>\n\n                        <p>A PREVISIO ENGENHARIA destaca-se no mercado pela excelência de seus serviços, pelo compromisso com a segurança e pela capacidade de entrega de soluções completas e inovadoras.</p>\n\n                        <p>Ao escolher a empresa para realizar a instalação do Sistema de Proteção contra Descargas Atmosféricas, os clientes têm a garantia de um trabalho realizado por profissionais altamente qualificados e preparados para enfrentar os desafios mais complexos.</p>\n\n                        <p>A PREVISIO ENGENHARIA oferece um atendimento personalizado, que visa entender as demandas específicas de cada cliente e propor soluções sob medida.</p>\n\n                        <p>A transparência, a ética e o comprometimento são pilares fundamentais da empresa, que busca sempre superar as expectativas dos clientes e garantir a segurança e a tranquilidade de todos os envolvidos.</p>\n\n                        <h2>Entre em contato conosco para saber mais sobre instalação SPda!</h2>\n\n                        <p>Se você busca uma empresa especializada em instalação SPda que ofereça serviços de qualidade, segurança e confiabilidade, a PREVISIO ENGENHARIA é a escolha certa.</p>\n\n                        <p>Entre em contato conosco para mais informações sobre nossos serviços, projetos e soluções em Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Estamos preparados para atender às suas necessidades e superar suas expectativas. Proteja seu patrimônio, invista em segurança!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 430,
+    "caracteres": 2986,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791520
+  }
+}

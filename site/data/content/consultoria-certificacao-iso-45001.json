@@ -1,0 +1,69 @@
+{
+  "path": "/consultoria-certificacao-iso-45001",
+  "slug": "consultoria-certificacao-iso-45001",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Consultoria certificação iso 45001 - Previsio Engenharia",
+  "h1": "Consultoria certificação iso 45001",
+  "breadcrumb": "Consultoria certificação iso 45001",
+  "description": "Consultoria certificação iso 45001, você veio ao lugar certo! a é especializada em consultoria certificação iso 45001 e oferece uma... Saiba mais.",
+  "descriptionCorrigida": "Consultoria certificação iso 45001, você veio ao lugar certo! A Previsio Engenharia é especializada em consultoria certificação iso 45001 e oferece uma... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/consultoria-certificacao-iso-45001",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/consultoria-certificacao-iso-45001-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/consultoria-certificacao-iso-45001-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/consultoria-certificacao-iso-45001-03.webp",
+      "width": "600",
+      "height": "300",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da consultoria certificação iso 45001"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da consultoria certificação iso 45001"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode ajudar?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Processo de consultoria e certificação"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da consultoria certificação iso 45001</h2>\n\n                        <p>A consultoria certificação iso 45001 tem se mostrado fundamental para empresas que buscam garantir um ambiente de trabalho seguro e saudável para seus colaboradores.</p>\n\n                        <p>A ISO 45001 é uma norma internacional que estabelece os requisitos para sistemas de gestão de saúde e segurança ocupacional, visando a prevenção de acidentes e doenças relacionadas ao trabalho.</p>\n\n                        <h3>Benefícios da consultoria certificação iso 45001</h3>\n\n                        <p>Implementar um Sistema de Gestão de Saúde e Segurança Ocupacional de acordo com a ISO 45001 traz diversos benefícios para as empresas.</p>\n\n                        <p>Além de melhorar a segurança dos trabalhadores, a certificação reduz os riscos de acidentes, promovendo um ambiente mais saudável e produtivo.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode ajudar?</h2>\n\n                        <p>A PREVISIO ENGENHARIA é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, com vasta experiência no mercado.</p>\n\n                        <p>Com um time de profissionais qualificados, a empresa oferece serviços de consultoria certificação iso 45001 para auxiliar as organizações na implementação e manutenção do sistema de gestão de saúde e segurança ocupacional.</p>\n\n                        <h2>Processo de consultoria e certificação</h2>\n\n                        <p>O processo de consultoria certificação iso 45001 realizado pela PREVISIO ENGENHARIA inclui um diagnóstico inicial da empresa, identificando pontos de melhoria e adequação.</p>\n\n                        <p>Em seguida, são realizados treinamentos para as equipes, elaboração de procedimentos e auditorias internas para garantir a conformidade com os requisitos da norma.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>Empresas certificadas pela ISO 45001 demonstram seu compromisso com a segurança e saúde dos colaboradores, ganhando credibilidade e confiança no mercado.</p>\n\n                        <p>Além disso, a certificação auxilia na otimização dos processos operacionais, reduzindo custos com acidentes e doenças ocupacionais.</p>\n\n                        <p>Se sua empresa busca implementar um sistema de gestão de saúde e segurança ocupacional, entre em contato com a PREVISIO ENGENHARIA e conheça nossos serviços de consultoria certificação iso 45001.</p>\n\n                        <p>Nossa equipe está preparada para auxiliar sua empresa a garantir um ambiente de trabalho seguro e em conformidade com as normas vigentes.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 314,
+    "caracteres": 2169,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791051
+  }
+}

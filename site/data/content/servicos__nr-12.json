@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/nr-12",
+  "slug": "servicos/nr-12",
+  "tipo": "pilar",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "NR-12 - Previsio Engenharia",
+  "h1": "NR-12",
+  "breadcrumb": null,
+  "description": "NR-12 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de profis...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/nr-12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">NR-12</span></p>\n\t\t\t\t\t\t<ul class=\"list\">\n<li>Adequação de Máquinas NR-12;</li>\n<li>Análises e Apreciações de Risco NR-12;</li>\n<li>Documentação NR-12;</li>\n<li>Projetos Executivos e Laudo de Conformidade NR-12</li>\n<li>Treinamentos NR-12.</li>\n</ul>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 25,
+    "caracteres": 180,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468643
+  }
+}

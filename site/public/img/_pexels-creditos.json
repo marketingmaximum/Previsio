@@ -1,0 +1,23 @@
+[
+  {
+    "arquivo": "hero-home.jpg",
+    "fotografo": "Chevanon Photography",
+    "perfil": "https://www.pexels.com/pt-br/@chevanon",
+    "pagina": "https://www.pexels.com/pt-br/foto/mulher-usa-capacete-amarelo-segurando-peca-de-veiculo-1108101/",
+    "alt": "Engenheira mulher usando equipamentos de proteção, trabalhando na reparação de máquinas em um ambiente industrial."
+  },
+  {
+    "arquivo": "hero-interno.jpg",
+    "fotografo": "Sergey Sergeev",
+    "perfil": "https://www.pexels.com/pt-br/@sergey-sergeev-2153675005",
+    "pagina": "https://www.pexels.com/pt-br/foto/engenheira-em-planta-industrial-segurando-documentos-32845671/",
+    "alt": "Uma engenheira usando equipamento de segurança inspeciona máquinas em uma fábrica industrial."
+  },
+  {
+    "arquivo": "cta-industria.jpg",
+    "fotografo": "Sergey Sergeev",
+    "perfil": "https://www.pexels.com/pt-br/@sergey-sergeev-2153675005",
+    "pagina": "https://www.pexels.com/pt-br/foto/32845662/",
+    "alt": "Retrato de um operário de fábrica com equipamento de proteção em frente a uma grande bobina de aço em um ambiente industrial."
+  }
+]

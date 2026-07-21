@@ -1,0 +1,69 @@
+{
+  "path": "/plano-protecao-respiratoria-ppr",
+  "slug": "plano-protecao-respiratoria-ppr",
+  "tipo": "servico",
+  "cluster": "respiratoria",
+  "temCidades": true,
+  "pilar": "/servicos/plano-de-protecao-respiratorio",
+  "title": "Plano de proteção respiratória - PPR - Previsio Engenharia",
+  "h1": "Plano de proteção respiratória - PPR",
+  "breadcrumb": "Plano de proteção respiratória - PPR",
+  "description": "Plano de proteção respiratória - ppr, você veio ao lugar certo! a é especializada em plano de proteção respiratória - ppr e oferece uma... Saiba mais.",
+  "descriptionCorrigida": "Plano de proteção respiratória - ppr, você veio ao lugar certo! A Previsio Engenharia é especializada em plano de proteção respiratória - ppr e oferece uma... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/plano-protecao-respiratoria-ppr",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/plano-protecao-respiratoria-ppr-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-protecao-respiratoria-ppr-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-protecao-respiratoria-ppr-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "plano de proteção respiratória - ppr: Garantindo a Saúde dos Trabalhadores"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Implementar um plano de proteção respiratória - ppr"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que Escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como Funciona a Consultoria em Proteção Respiratória da PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Solicite Agora seu plano de proteção respiratória - ppr"
+    }
+  ],
+  "bodyHtml": "<h2>plano de proteção respiratória - ppr: Garantindo a Saúde dos Trabalhadores</h2>\n\n                        <p>A implementação de um plano de proteção respiratória - ppr é essencial para as empresas que se preocupam com a saúde e segurança de seus colaboradores. Esse plano estabelece medidas para proteger os trabalhadores contra a inalação de substâncias tóxicas ou perigosas no ambiente de trabalho, visando prevenir doenças ocupacionais e garantir um ambiente saudável.</p>\n\n                        <h2>Vantagens de Implementar um plano de proteção respiratória - ppr</h2>\n\n                        <p>A empresa PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho, oferece serviços de consultoria e implementação de planos de proteção respiratória - PPR para garantir a saúde respiratória dos trabalhadores. Com mais de 5 anos de experiência no mercado, a PREVISIO ENGENHARIA conta com uma equipe de profissionais qualificados para auxiliar as empresas na adequação às normas e legislações vigentes.</p>\n\n                        <h2>Por que Escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo - RS, destaca-se pela sua expertise em Engenharia de Segurança do Trabalho e Automação Industrial. Com mais de mil clientes atendidos e ampla experiência em projetos nacionais e internacionais, a empresa oferece soluções personalizadas e inovadoras para cada cliente, visando sempre a segurança e qualidade no ambiente de trabalho.</p>\n\n                        <h2>Como Funciona a Consultoria em Proteção Respiratória da PREVISIO ENGENHARIA</h2>\n\n                        <p>A equipe da PREVISIO ENGENHARIA realiza uma análise detalhada do ambiente de trabalho, identificando os riscos à saúde respiratória dos trabalhadores. Com base nessa análise, são propostas medidas preventivas e corretivas, incluindo o fornecimento de equipamentos de proteção respiratória adequados e treinamentos personalizados para a equipe.</p>\n\n                        <h2>Solicite Agora seu plano de proteção respiratória - ppr</h2>\n\n                        <p>Se sua empresa busca garantir a segurança e saúde dos colaboradores, entre em contato com a PREVISIO ENGENHARIA e solicite agora mesmo um plano de proteção respiratória - ppr personalizado. Nossa equipe está preparada para oferecer as melhores soluções em Engenharia de Segurança do Trabalho, visando sempre a excelência e o bem-estar de todos.</p>\n\n                        <p>Não perca tempo, proteja a saúde dos seus colaboradores com o apoio da PREVISIO ENGENHARIA!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 333,
+    "caracteres": 2254,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791412
+  }
+}

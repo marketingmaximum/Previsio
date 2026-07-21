@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/mapa-de-risco",
+  "slug": "servicos/mapa-de-risco",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": false,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Mapa de Risco - Previsio Engenharia",
+  "h1": "Mapa de Risco",
+  "breadcrumb": null,
+  "description": "Mapa de Risco - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar d...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/mapa-de-risco",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Mapa de Risco</span></p>\n\t\t\t\t\t\t<p>Trata-se de uma representação gráfica que deve ser fixada em locais estratégicos apresentando aos trabalhadores que acessam os diversos setores da empresa os riscos existentes e as principais medidas de proteção obrigatórias.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 38,
+    "caracteres": 256,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468794
+  }
+}

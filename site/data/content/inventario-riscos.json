@@ -1,0 +1,65 @@
+{
+  "path": "/inventario-riscos",
+  "slug": "inventario-riscos",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Inventário de riscos - Previsio Engenharia",
+  "h1": "Inventário de riscos",
+  "breadcrumb": "Inventário de riscos",
+  "description": "Inventário de riscos, você veio ao lugar certo! a é especializada em inventário de riscos e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Inventário de riscos, você veio ao lugar certo! A Previsio Engenharia é especializada em inventário de riscos e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/inventario-riscos",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/inventario-riscos-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/inventario-riscos-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/inventario-riscos-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do inventário de riscos no Ambiente de Trabalho"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios do inventário de riscos para as Empresas"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA pode te ajudar com o inventário de riscos?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Escolha a PREVISIO ENGENHARIA para seu inventário de riscos!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do inventário de riscos no Ambiente de Trabalho</h2>\n\n                        <p>O inventário de riscos é um processo fundamental para identificar e catalogar os potenciais perigos presentes no ambiente laboral.</p>\n\n                        <p>A partir desse levantamento, é possível mapear e classificar os riscos físicos, químicos, biológicos e ergonômicos aos quais os colaboradores estão expostos, permitindo a implementação de medidas preventivas eficazes.</p>\n\n                        <p>Em um cenário empresarial cada vez mais preocupado com a segurança e saúde ocupacional, o inventário de riscos se torna uma ferramenta essencial para garantir a proteção dos trabalhadores e o cumprimento das normas vigentes.</p>\n\n                        <h3>Benefícios do inventário de riscos para as Empresas</h3>\n\n                        <p>Empresas que realizam o inventário de riscos não apenas cumprem com suas obrigações legais, mas também investem na prevenção de acidentes de trabalho e doenças ocupacionais.</p>\n\n                        <p>Ao identificar e quantificar os riscos presentes no ambiente laboral, é possível adotar medidas corretivas e preventivas de forma assertiva, promovendo um ambiente mais seguro e saudável para todos os colaboradores.</p>\n\n                        <p>O inventário de riscos contribui para a redução de custos relacionados a acidentes, afastamentos e passivos trabalhistas, tornando-se um investimento com retorno garantido a longo prazo.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA pode te ajudar com o inventário de riscos?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho, oferece serviços completos para auxiliar sua empresa na elaboração e execução do inventário de riscos.</p>\n\n                        <p>Com uma equipe de profissionais altamente qualificados e experientes, a empresa atua de forma personalizada, identificando os riscos específicos de cada ambiente de trabalho e propondo soluções sob medida para garantir a segurança e bem-estar dos colaboradores.</p>\n\n                        <p>Além disso, a PREVISIO ENGENHARIA possui ampla experiência na condução de projetos em todo território nacional, atendendo as necessidades de empresas de diversos segmentos e portes.</p>\n\n                        <h2>Escolha a PREVISIO ENGENHARIA para seu inventário de riscos!</h2>\n\n                        <p>A PREVISIO ENGENHARIA se destaca no mercado pela qualidade de seus serviços, comprometimento com prazos e resultados, e expertise técnica na área de Engenharia de Segurança do Trabalho.</p>\n\n                        <p>Com mais de mil clientes satisfeitos e cases de sucesso em projetos de grande complexidade, a empresa é referência no segmento e está preparada para atender às demandas mais exigentes do mercado.</p>\n\n                        <p>Ao optar pela PREVISIO ENGENHARIA para realizar o inventário de riscos em sua empresa, você garante um trabalho feito com excelência e profissionalismo, visando sempre a segurança e a saúde dos seus colaboradores.</p>\n\n                        <p>Conte com a PREVISIO ENGENHARIA para promover um ambiente de trabalho mais seguro, saudável e em conformidade com as normas regulamentadoras.</p>\n\n                        <p>Entre em contato conosco e conheça todas as soluções que temos para oferecer quando se trata de segurança do trabalho e prevenção de riscos.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 431,
+    "caracteres": 2898,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791889
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "path": "/documentos-nr12",
+  "slug": "documentos-nr12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": true,
+  "pilar": "/servicos/nr-12",
+  "title": "Documentos nr12 - Previsio Engenharia",
+  "h1": "Documentos nr12",
+  "breadcrumb": "Documentos nr12",
+  "description": "Documentos nr12, você veio ao lugar certo! a é especializada em documentos nr12 e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Documentos nr12, você veio ao lugar certo! A Previsio Engenharia é especializada em documentos nr12 e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/documentos-nr12",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/documentos-nr12-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/documentos-nr12-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/documentos-nr12-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "documentos nr12: Garantindo a Segurança e Conformidade Legal"
+    },
+    {
+      "nivel": 3,
+      "texto": "A Importância dos documentos nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Facilitando Auditorias e Gerenciando a Segurança"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para seus documentos nr12!"
+    }
+  ],
+  "bodyHtml": "<h2>documentos nr12: Garantindo a Segurança e Conformidade Legal</h2>\n\n                        <p>A PREVISIO ENGENHARIA, empresa especializada em Engenharia de Segurança do Trabalho localizada em São Leopoldo–RS, oferece uma gama de serviços essenciais para garantir a segurança e a conformidade legal em ambientes industriais.</p>\n\n                        <p>Entre os serviços prestados, destacam-se as reformas de atualização de máquinas e painéis elétricos, a realização de Programa de Inspeção de Equipamentos (PIE), projetos de Sistemas de Proteção Contra Descargas Atmosféricas (SPDA), aterramento, laudos e adequações em eletricidade conforme a NR10, além de treinamentos e consultoria em segurança do trabalho.</p>\n\n                        <h3>A Importância dos documentos nr12</h3>\n\n                        <p>Os documentos nr12 são registros obrigatórios que comprovam a adequação de máquinas e equipamentos às exigências da Norma Regulamentadora 12.</p>\n\n                        <p>Esses documentos incluem relatórios de análise de risco, laudos técnicos, inventário de máquinas e instruções de segurança.</p>\n\n                        <p>Manter a documentação em dia não apenas garante a conformidade legal da empresa, mas também evita multas e proporciona um ambiente de trabalho mais seguro para os colaboradores.</p>\n\n                        <h2>Facilitando Auditorias e Gerenciando a Segurança</h2>\n\n                        <p>Além de assegurar a conformidade com a legislação, os documentos nr12 facilitam auditorias e inspeções, auxiliam na gestão da segurança e contribuem para a redução de riscos operacionais no setor industrial.</p>\n\n                        <p>Com a documentação adequada, a empresa demonstra seu compromisso com a segurança e o bem-estar dos trabalhadores, o que reflete positivamente em sua imagem e no ambiente de trabalho como um todo.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para seus documentos nr12!</h2>\n\n                        <p>Se a sua empresa busca estar em conformidade com a NR12 e garantir a segurança dos trabalhadores, conte com a expertise da PREVISIO ENGENHARIA.</p>\n\n                        <p>Com mais de mil clientes atendidos e uma vasta experiência no mercado, nossa equipe está preparada para oferecer soluções completas em engenharia de segurança do trabalho e automação industrial.</p>\n\n                        <p>Entre em contato conosco e saiba como podemos auxiliar no desenvolvimento e na implementação dos documentos nr12, bem como em outros serviços essenciais para o seu negócio.</p>\n\n                        <p>Proteja seus colaboradores, esteja conforme a legislação e invista na segurança do trabalho. Conte com a PREVISIO ENGENHARIA, sua parceira em soluções de engenharia de segurança e automação industrial.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 347,
+    "caracteres": 2353,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790585
+  }
+}

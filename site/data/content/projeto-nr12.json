@@ -1,0 +1,69 @@
+{
+  "path": "/projeto-nr12",
+  "slug": "projeto-nr12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": true,
+  "pilar": "/servicos/nr-12",
+  "title": "Projeto nr12 - Previsio Engenharia",
+  "h1": "Projeto nr12",
+  "breadcrumb": "Projeto nr12",
+  "description": "Projeto nr12, você veio ao lugar certo! a é especializada em projeto nr12 e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "descriptionCorrigida": "Projeto nr12, você veio ao lugar certo! A Previsio Engenharia é especializada em projeto nr12 e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/projeto-nr12",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/projeto-nr12-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-nr12-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-nr12-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do projeto nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Processo de Elaboração do projeto nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Investir em um projeto nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do projeto nr12</h2>\n\n                        <p>O projeto nr12 é essencial para garantir a segurança e a integridade dos trabalhadores que lidam com máquinas e equipamentos industriais. O cumprimento da Norma Regulamentadora 12 é fundamental para prevenir acidentes, reduzir riscos e garantir um ambiente de trabalho seguro e em conformidade com a legislação vigente.</p>\n\n                        <h2>Processo de Elaboração do projeto nr12</h2>\n\n                        <p>A elaboração do projeto nr12 deve ser realizada por profissionais especializados, como os da PREVISIO ENGENHARIA, que possuem expertise na área de Engenharia de Segurança do Trabalho. Esse processo envolve análise de riscos, identificação de medidas de proteção, instalação de dispositivos de segurança e treinamento dos colaboradores, visando atender a todas as exigências da NR-12.</p>\n\n                        <h2>Vantagens de Investir em um projeto nr12</h2>\n\n                        <p>Empresas que investem em um projeto nr12 demonstram compromisso com a segurança de seus funcionários, evitando multas, processos trabalhistas e prejuízos decorrentes de acidentes. Além disso, um ambiente de trabalho seguro aumenta a produtividade, a satisfação dos colaboradores e a imagem da empresa perante seus stakeholders.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>A PREVISIO ENGENHARIA é referência no mercado de Engenharia de Segurança do Trabalho e Automação Industrial, com ampla experiência na elaboração e execução de projetos conforme as normas vigentes. Com mais de mil clientes atendidos, a empresa se destaca pela qualidade de seus serviços, atendimento personalizado e comprometimento com a segurança e a excelência.</p>\n\n                        <h2>Entre em Contato Conosco</h2>\n\n                        <p>Se sua empresa busca garantir a segurança dos trabalhadores e cumprir com as normas regulamentadoras, não hesite em contatar a PREVISIO ENGENHARIA. Estamos preparados para oferecer soluções sob medida, elaborar projetos personalizados e garantir a conformidade de suas instalações. Proteja seus colaboradores, evite transtornos e invista no futuro do seu negócio. Entre em contato conosco e solicite uma consultoria especializada em projeto nr12.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 294,
+    "caracteres": 2016,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 789975
+  }
+}

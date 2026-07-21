@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/projetos-executivos-e-laudo-de-conformidade-nr-12",
+  "slug": "servicos/projetos-executivos-e-laudo-de-conformidade-nr-12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "Projetos Executivos e Laudo de Conformidade NR-12 - Previsio Engenharia",
+  "h1": "Projetos Executivos e Laudo de Conformidade NR-12",
+  "breadcrumb": null,
+  "description": "Projetos Executivos e Laudo de Conformidade NR-12 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial forma...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/projetos-executivos-e-laudo-de-conformidade-nr-12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Projetos Executivos e Laudo de Conformidade NR-12</span></p>\n\t\t\t\t\t\t<p>Uma das nossas modalidades de trabalho é fornecer os projetos executivos juntamente com uma assessoria para o cliente realizar as adequações internamente. Após a adequação, emitimos o laudo de conformidade. Realizamos a inspeção completa nos equipamentos de forma a aferir o atendimento das normas e isso pode ser realizado na sede do próprio fabricante.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 64,
+    "caracteres": 421,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469609
+  }
+}

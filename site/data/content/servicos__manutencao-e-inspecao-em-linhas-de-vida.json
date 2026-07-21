@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/manutencao-e-inspecao-em-linhas-de-vida",
+  "slug": "servicos/manutencao-e-inspecao-em-linhas-de-vida",
+  "tipo": "servico",
+  "cluster": "nr-35",
+  "temCidades": false,
+  "pilar": "/servicos/nr-35",
+  "title": "Manutenção e inspeção em linhas de vida - Previsio Engenharia",
+  "h1": "Manutenção e inspeção em linhas de vida",
+  "breadcrumb": null,
+  "description": "Manutenção e inspeção em linhas de vida - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/manutencao-e-inspecao-em-linhas-de-vida",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Manutenção e inspeção em linhas de vida</span></p>\n\t\t\t\t\t\t<ul>\n<li><strong>Manutenção e inspeção em linhas de vida<br><span style=\"font-weight: 400;\">Realização de manutenção e inspeção em linhas de vida, incluindo teste de arrancamento para verificação do ponto de ancoragem.</span></strong></li>\n</ul>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 35,
+    "caracteres": 222,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469360
+  }
+}

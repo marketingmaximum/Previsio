@@ -1,0 +1,73 @@
+{
+  "path": "/laudo-insalubridade",
+  "slug": "laudo-insalubridade",
+  "tipo": "servico",
+  "cluster": "insalubridade",
+  "temCidades": true,
+  "pilar": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "title": "Laudo de insalubridade - Previsio Engenharia",
+  "h1": "Laudo de insalubridade",
+  "breadcrumb": "Laudo de insalubridade",
+  "description": "Laudo de insalubridade, você veio ao lugar certo! a é especializada em laudo de insalubridade e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Laudo de insalubridade, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo de insalubridade e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-insalubridade",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-insalubridade-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-insalubridade-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-insalubridade-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Engenharia de Segurança do Trabalho e a Importância do laudo de insalubridade"
+    },
+    {
+      "nivel": 2,
+      "texto": "O que é o laudo de insalubridade?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do laudo de insalubridade"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens de Contratar a Previsio Engenharia para Elaboração do laudo de insalubridade"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia Pode Ajudar Sua Empresa?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato com a Previsio Engenharia!"
+    }
+  ],
+  "bodyHtml": "<h2>Engenharia de Segurança do Trabalho e a Importância do laudo de insalubridade</h2>\n\n                        <p>A Previsio Engenharia é uma empresa especializada em Engenharia de Segurança do Trabalho, localizada em São Leopoldo–RS, e oferece diversos serviços para garantir a segurança e saúde ocupacional dos trabalhadores. Um dos serviços essenciais oferecidos pela Previsio Engenharia é o laudo de insalubridade.</p>\n\n                        <h2>O que é o laudo de insalubridade?</h2>\n\n                        <p>O laudo de insalubridade é um documento técnico elaborado por profissionais especializados que avalia as condições de trabalho e a exposição dos funcionários a agentes nocivos à saúde. Esses agentes podem ser ruídos, produtos químicos, temperaturas extremas, entre outros.</p>\n\n                        <p>A partir da análise realizada no local de trabalho, é possível determinar se as atividades exercidas pelos trabalhadores se enquadram como insalubres, de acordo com a legislação vigente.</p>\n\n                        <h2>Importância do laudo de insalubridade</h2>\n\n                        <p>A realização do laudo de insalubridade é de extrema importância para as empresas, pois permite identificar e controlar os riscos existentes no ambiente de trabalho.</p>\n\n                        <p>Além disso, o laudo é fundamental para garantir o cumprimento das normas de segurança e saúde ocupacional, promovendo a qualidade de vida dos colaboradores e evitando problemas judiciais e multas decorrentes do descumprimento da legislação.</p>\n\n                        <h3>Vantagens de Contratar a Previsio Engenharia para Elaboração do laudo de insalubridade</h3>\n\n                        <p>Ao optar pelos serviços da Previsio Engenharia para a elaboração do laudo de insalubridade, as empresas contam com a expertise de uma equipe altamente qualificada e especializada em segurança do trabalho.</p>\n\n                        <p>A Previsio Engenharia oferece um atendimento personalizado, com análises detalhadas e precisas, garantindo a adequação das condições de trabalho às normas regulamentadoras.</p>\n\n                        <h2>Como a Previsio Engenharia Pode Ajudar Sua Empresa?</h2>\n\n                        <p>Além da elaboração do laudo de insalubridade, a Previsio Engenharia oferece uma ampla gama de serviços voltados para a segurança do trabalho, como reformas de máquinas, adequações às normas NR-10 e NR-12, treinamentos, documentações, entre outros.</p>\n\n                        <p>Com mais de mil clientes atendidos e experiência comprovada em grandes projetos, a Previsio Engenharia é a parceira ideal para garantir um ambiente de trabalho seguro e saudável.</p>\n\n                        <h2>Entre em Contato com a Previsio Engenharia!</h2>\n\n                        <p>Se sua empresa busca garantir a segurança e saúde dos trabalhadores, entre em contato com a Previsio Engenharia e conheça todos os serviços oferecidos.</p>\n\n                        <p>A equipe da Previsio Engenharia está à disposição para esclarecer dúvidas, oferecer soluções personalizadas e contribuir para o sucesso do seu negócio. Priorize a segurança do trabalho e conte com a expertise da Previsio Engenharia!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 397,
+    "caracteres": 2693,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791803
+  }
+}

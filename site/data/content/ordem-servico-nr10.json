@@ -1,0 +1,69 @@
+{
+  "path": "/ordem-servico-nr10",
+  "slug": "ordem-servico-nr10",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": true,
+  "pilar": "/servicos/nr-10",
+  "title": "Ordem de serviço nr10 - Previsio Engenharia",
+  "h1": "Ordem de serviço nr10",
+  "breadcrumb": "Ordem de serviço nr10",
+  "description": "Ordem de serviço nr10, você veio ao lugar certo! a é especializada em ordem de serviço nr10 e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Ordem de serviço nr10, você veio ao lugar certo! A Previsio Engenharia é especializada em ordem de serviço nr10 e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/ordem-servico-nr10",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/ordem-servico-nr10-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/ordem-servico-nr10-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/ordem-servico-nr10-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da ordem de serviço nr10"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da ordem de serviço nr10"
+    },
+    {
+      "nivel": 2,
+      "texto": "Previsio Engenharia: Especialista em ordem de serviço nr10"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a Previsio Engenharia?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da ordem de serviço nr10</h2>\n\n                        <p>A ordem de serviço nr10 é um documento fundamental para garantir a segurança dos trabalhadores em instalações elétricas, de acordo com as normas da Norma Regulamentadora 10.</p>\n\n                        <p>A sua emissão é essencial sempre que há intervenções em sistemas elétricos, visando prevenir acidentes e proteger a saúde dos funcionários expostos a riscos elétricos.</p>\n\n                        <h3>Benefícios da ordem de serviço nr10</h3>\n\n                        <p>Empresas que fornecem a ordem de serviço nr10 demonstram comprometimento com a segurança e saúde de seus colaboradores.</p>\n\n                        <p>Ao seguir as diretrizes estabelecidas, é possível evitar acidentes, reduzir custos com afastamentos e multas por descumprimento das normas de segurança, além de promover um ambiente de trabalho mais protegido e eficiente.</p>\n\n                        <h2>Previsio Engenharia: Especialista em ordem de serviço nr10</h2>\n\n                        <p>A Previsio Engenharia, sediada em São Leopoldo–RS, destaca-se como uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Com ampla experiência no mercado desde 2016, a Previsio Engenharia já atendeu mais de mil clientes, realizando projetos de grande porte em todo o Brasil e no exterior.</p>\n\n                        <p>Entre os serviços oferecidos pela Previsio Engenharia estão reformas e atualizações de máquinas e painéis elétricos, realização de Projetos de Instalação Elétrica (PIE), SPDA, aterramento, laudos e adequações conforme a NR10, entre outros.</p>\n\n                        <h2>Por que escolher a Previsio Engenharia?</h2>\n\n                        <p>A Previsio Engenharia se destaca pela qualidade de seus serviços, equipe técnica altamente capacitada e compromisso com a segurança e satisfação de seus clientes.</p>\n\n                        <p>Ao optar pelos serviços da Previsio Engenharia, você terá a garantia de estar em conformidade com as normas de segurança do trabalho, reduzindo riscos e promovendo um ambiente laboral seguro para todos os colaboradores.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>Se você busca uma empresa especializada em Engenharia de Segurança do Trabalho e que ofereça serviços de alta qualidade, entre em contato conosco.</p>\n\n                        <p>A Previsio Engenharia está à disposição para atender suas demandas e contribuir para a segurança e eficiência da sua empresa.</p>\n\n                        <p>Não deixe a segurança dos seus colaboradores em segundo plano, conte com a Previsio Engenharia para garantir a conformidade com a ordem de serviço nr10.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 341,
+    "caracteres": 2256,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790910
+  }
+}

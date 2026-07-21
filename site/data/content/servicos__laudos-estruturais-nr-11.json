@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/laudos-estruturais-nr-11",
+  "slug": "servicos/laudos-estruturais-nr-11",
+  "tipo": "pilar",
+  "cluster": "nr-11",
+  "temCidades": false,
+  "pilar": "/servicos/laudos-estruturais-nr-11",
+  "title": "Laudos Estruturais NR-11 - Previsio Engenharia",
+  "h1": "Laudos Estruturais NR-11",
+  "breadcrumb": null,
+  "description": "Laudos Estruturais NR-11 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidi...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/laudos-estruturais-nr-11",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Laudos Estruturais NR-11</span></p>\n\t\t\t\t\t\t<p>Projetamos e laudamos estruturas de movimentação de carga conforme a NR-11, tais como, guindastes, elevadores, talhas, pontes rolantes, prateleiras, magazines e demais dispositivos de movimentação e armazenamento de cargas.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 35,
+    "caracteres": 265,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468998
+  }
+}

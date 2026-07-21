@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/titulo-prontuario-de-instalacoes-eletricas-nr-10",
+  "slug": "servicos/titulo-prontuario-de-instalacoes-eletricas-nr-10",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": false,
+  "pilar": "/servicos/nr-10",
+  "title": "Título Prontuário de Instalações Elétricas NR-10 - Previsio Engenharia",
+  "h1": "Título Prontuário de Instalações Elétricas NR-10",
+  "breadcrumb": null,
+  "description": "Título Prontuário de Instalações Elétricas NR-10 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formad...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/titulo-prontuario-de-instalacoes-eletricas-nr-10",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Título Prontuário de Instalações Elétricas NR-10</span></p>\n\t\t\t\t\t\t<p>Conforme a NR-10 todos os consumidores com carga instalada a partir de 75kW obrigatoriamente necessitam constituir o PIE. Trata-se de um conjunto de docu-mentos dinâmicos que servem como gestão de ativos técnicos e ponto de partida para a completa adequação elétrica da empresa.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 52,
+    "caracteres": 344,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469576
+  }
+}

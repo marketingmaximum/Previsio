@@ -1,0 +1,69 @@
+{
+  "path": "/lancamento-esocial-2220",
+  "slug": "lancamento-esocial-2220",
+  "tipo": "servico",
+  "cluster": "esocial",
+  "temCidades": true,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "Lançamento esocial 2220 - Previsio Engenharia",
+  "h1": "Lançamento esocial 2220",
+  "breadcrumb": "Lançamento esocial 2220",
+  "description": "Lançamento esocial 2220, você veio ao lugar certo! a é especializada em lançamento esocial 2220 e oferece uma ampla gama de serviços... Saiba mais.",
+  "descriptionCorrigida": "Lançamento esocial 2220, você veio ao lugar certo! A Previsio Engenharia é especializada em lançamento esocial 2220 e oferece uma ampla gama de serviços... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/lancamento-esocial-2220",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/lancamento-esocial-2220-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/lancamento-esocial-2220-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/lancamento-esocial-2220-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "lançamento esocial 2220: Economize tempo e evite multas"
+    },
+    {
+      "nivel": 2,
+      "texto": "O que é o lançamento esocial 2220?"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens do eSocial 2220"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia pode ajudar?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a expertise da Previsio Engenharia!"
+    }
+  ],
+  "bodyHtml": "<h2>lançamento esocial 2220: Economize tempo e evite multas</h2>\n\n                        <p>A Previsio Engenharia, empresa líder em Engenharia de Segurança do Trabalho localizada em São Leopoldo–RS, está sempre em busca de inovações para garantir a segurança e o cumprimento das normas trabalhistas de seus clientes.</p>\n\n                        <p>Com ampla experiência técnica e um portfólio de serviços abrangente, a Previsio Engenharia lança o eSocial 2220, uma solução que irá revolucionar a forma como as empresas lidam com o envio de informações sobre as atividades dos trabalhadores em ambiente de risco.</p>\n\n                        <h2>O que é o lançamento esocial 2220?</h2>\n\n                        <p>O lançamento esocial 2220 consiste no envio de dados detalhados sobre a exposição dos trabalhadores a agentes nocivos durante suas atividades laborais, bem como as medidas de proteção adotadas pela empresa para garantir a segurança e a saúde dos colaboradores.</p>\n\n                        <p>Com a implementação do eSocial 2220, as empresas conseguem cumprir as normas regulamentadoras, prevenir riscos ocupacionais e manter um ambiente de trabalho seguro e saudável.</p>\n\n                        <h3>Vantagens do eSocial 2220</h3>\n\n                        <p>Ao adotar o lançamento esocial 2220, as empresas garantem o cumprimento das exigências legais relacionadas à segurança do trabalho, evitando multas e sanções.</p>\n\n                        <p>Além disso, a utilização do eSocial 2220 contribui para a redução de riscos ocupacionais, o que resulta em uma diminuição significativa de acidentes de trabalho e afastamentos por questões de saúde.</p>\n\n                        <h2>Como a Previsio Engenharia pode ajudar?</h2>\n\n                        <p>Com uma equipe altamente qualificada e especializada em Engenharia de Segurança do Trabalho, a Previsio Engenharia oferece todo o suporte necessário para a implementação do eSocial 2220.</p>\n\n                        <p>Além disso, a empresa disponibiliza serviços abrangentes, como reformas de máquinas e painéis elétricos, realização de Programa de Inspeção de Equipamentos (PIE), SPDA, aterramento, laudos e adequações à NR-10 e NR-12, entre outros.</p>\n\n                        <h2>Conte com a expertise da Previsio Engenharia!</h2>\n\n                        <p>Com mais de mil clientes atendidos e uma vasta experiência na condução de projetos de grande porte, a Previsio Engenharia se destaca pela qualidade e eficiência de seus serviços.</p>\n\n                        <p>Se você busca uma solução completa para garantir a segurança e a conformidade de sua empresa, entre em contato conosco e saiba mais sobre como o lançamento esocial 2220 pode beneficiar o seu negócio.</p>\n\n                        <p>A Previsio Engenharia está à disposição para esclarecer suas dúvidas, oferecer um atendimento personalizado e encontrar a melhor solução para as necessidades da sua empresa.</p>\n\n                        <p>Não deixe de aproveitar os benefícios do eSocial 2220 e garanta um ambiente de trabalho seguro e em conformidade com a legislação vigente.</p>\n\n                        <p>Contate-nos e descubra como podemos ajudar a sua empresa a prosperar com segurança e responsabilidade.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 413,
+    "caracteres": 2701,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791512
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "path": "/plano-acao-emergencia-resgate",
+  "slug": "plano-acao-emergencia-resgate",
+  "tipo": "servico",
+  "cluster": "emergencia",
+  "temCidades": true,
+  "pilar": "/servicos/planos-de-emergencia",
+  "title": "Plano de ação de emergência e resgate - Previsio Engenharia",
+  "h1": "Plano de ação de emergência e resgate",
+  "breadcrumb": "Plano de ação de emergência e resgate",
+  "description": "Plano de ação de emergência e resgate, você veio ao lugar certo! a é especializada em plano de ação de emergência e resgate e oferece... Saiba mais.",
+  "descriptionCorrigida": "Plano de ação de emergência e resgate, você veio ao lugar certo! A Previsio Engenharia é especializada em plano de ação de emergência e resgate e oferece... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/plano-acao-emergencia-resgate",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/plano-acao-emergencia-resgate-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-acao-emergencia-resgate-02.webp",
+      "width": "600",
+      "height": "379",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/plano-acao-emergencia-resgate-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Prevenção é a chave: plano de ação de emergência e resgate"
+    },
+    {
+      "nivel": 2,
+      "texto": "A importância da Preparação para Emergências"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios de um Plano de Ação Bem Estruturado"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a Previsio Engenharia para sua Segurança!"
+    }
+  ],
+  "bodyHtml": "<h2>Prevenção é a chave: plano de ação de emergência e resgate</h2>\n\n                        <p>A segurança do trabalho é um aspecto fundamental em qualquer empresa, principalmente quando se trata de situações de risco.</p>\n\n                        <p>Nesse contexto, o plano de ação de emergência e resgate se destaca como um instrumento essencial para garantir a proteção e o bem-estar dos colaboradores em momentos críticos.</p>\n\n                        <p>Elaborar um plano de ação de emergência e resgate eficiente requer conhecimento técnico e ações precisas, que devem ser planejadas e executadas de forma estratégica.</p>\n\n                        <p>É nesse ponto que a Previsio Engenharia se destaca, oferecendo expertise e soluções personalizadas para cada tipo de empresa, visando sempre a segurança e a integridade de todos os envolvidos.</p>\n\n                        <h2>A importância da Preparação para Emergências</h2>\n\n                        <p>Em um ambiente de trabalho, imprevistos podem acontecer a qualquer momento. Por isso, contar com um plano de ação de emergência e resgate bem estruturado faz toda a diferença.</p>\n\n                        <p>Esse plano inclui medidas preventivas, como treinamentos de evacuação, identificação de rotas de fuga e definição de pontos de encontro, bem como procedimentos claros para o resgate de pessoas em perigo.</p>\n\n                        <p>A Previsio Engenharia, com sua vasta experiência em Engenharia de Segurança do Trabalho, oferece suporte completo na elaboração e implementação de planos de ação de emergência e resgate sob medida para cada cliente, garantindo que todas as normas e exigências legais sejam atendidas de forma eficaz.</p>\n\n                        <h3>Benefícios de um Plano de Ação Bem Estruturado</h3>\n\n                        <p>Além de cumprir com as obrigações legais, implementar um plano de ação de emergência e resgate traz uma série de benefícios para a empresa.</p>\n\n                        <p>Entre eles, destacam-se a proteção dos colaboradores em situações de risco, a redução de danos materiais, a manutenção da imagem institucional e a minimização de impactos negativos no ambiente de trabalho.</p>\n\n                        <p>Com a Previsio Engenharia ao seu lado, é possível contar com um time de profissionais altamente qualificados, prontos para desenvolver e implementar o melhor plano de ação de emergência e resgate para a sua empresa, garantindo que todos os envolvidos estejam preparados para lidar com situações adversas de forma segura e eficiente.</p>\n\n                        <h2>Conte com a Previsio Engenharia para sua Segurança!</h2>\n\n                        <p>A Previsio Engenharia, referência no mercado de Engenharia de Segurança do Trabalho, está sempre comprometida em oferecer as melhores soluções para os seus clientes.</p>\n\n                        <p>Se você busca um parceiro confiável e especializado na elaboração e implementação de planos de ação de emergência e resgate, entre em contato conosco e saiba mais sobre como podemos ajudar a proteger o seu negócio e os seus colaboradores.</p>\n\n                        <p>Nossa equipe está à disposição para esclarecer todas as suas dúvidas e apresentar as soluções mais adequadas às necessidades da sua empresa.</p>\n\n                        <p>Garanta a segurança e a tranquilidade que você merece com a Previsio Engenharia. Estamos aqui para cuidar do que realmente importa: a sua segurança.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 458,
+    "caracteres": 2915,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 792081
+  }
+}

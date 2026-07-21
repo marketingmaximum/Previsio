@@ -1,0 +1,69 @@
+{
+  "path": "/medicao-ambiental",
+  "slug": "medicao-ambiental",
+  "tipo": "servico",
+  "cluster": "higiene",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-conservacao-auditiva-pca",
+  "title": "Medição ambiental - Previsio Engenharia",
+  "h1": "Medição ambiental",
+  "breadcrumb": "Medição ambiental",
+  "description": "Medição ambiental, você veio ao lugar certo! a é especializada em medição ambiental e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Medição ambiental, você veio ao lugar certo! A Previsio Engenharia é especializada em medição ambiental e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/medicao-ambiental",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/medicao-ambiental-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/medicao-ambiental-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/medicao-ambiental-03.webp",
+      "width": "600",
+      "height": "316",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é medição ambiental?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância da medição ambiental"
+    },
+    {
+      "nivel": 3,
+      "texto": "Serviços da PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de Contratar a PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é medição ambiental?</h2>\n\n                        <p>A medição ambiental é um processo fundamental para empresas que desejam garantir a segurança e a saúde de seus colaboradores, além de cumprir as normas ambientais vigentes.</p>\n\n                        <p>Consiste na análise e avaliação das condições do ambiente de trabalho, monitorando fatores como níveis de poluição, ruídos, exposição a agentes químicos, entre outros.</p>\n\n                        <h2>Importância da medição ambiental</h2>\n\n                        <p>A realização da medição ambiental permite identificar áreas de risco, contribuindo para a implementação de ações corretivas e preventivas.</p>\n\n                        <p>Além disso, ajuda a garantir o cumprimento das normas de proteção ao meio ambiente, melhorando as condições de trabalho e evitando possíveis multas e sanções relacionadas à poluição ou ao não cumprimento das regulamentações ambientais.</p>\n\n                        <h3>Serviços da PREVISIO ENGENHARIA</h3>\n\n                        <p>A PREVISIO ENGENHARIA, empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece diversos serviços para auxiliar as empresas na realização da medição ambiental e na adequação às normas vigentes.</p>\n\n                        <p>Com experiência técnica e mais de mil clientes atendidos, a empresa realiza reformas de máquinas e painéis elétricos, laudos e adequações segundo a NR10, assessoria, projetos, documentações e adequações à NR-12, entre outros.</p>\n\n                        <h2>Vantagens de Contratar a PREVISIO ENGENHARIA</h2>\n\n                        <p>Ao optar pelos serviços da PREVISIO ENGENHARIA, as empresas garantem o apoio de uma equipe especializada e qualificada, pronta para oferecer soluções personalizadas e adequadas às necessidades específicas de cada cliente.</p>\n\n                        <p>Com foco na segurança e na excelência operacional, a empresa se destaca pela qualidade de seus serviços e pelo compromisso em garantir ambientes de trabalho seguros e segundo a legislação.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>Se sua empresa busca por soluções em Engenharia de Segurança do Trabalho, Automação Industrial e medição ambiental, entre em contato conosco.</p>\n\n                        <p>Estamos à disposição para oferecer todo o suporte necessário e auxiliar na adequação e regularização de sua empresa, garantindo a segurança dos colaboradores e o cumprimento das normas vigentes.</p>\n\n                        <p>Conte com a expertise da PREVISIO ENGENHARIA para promover um ambiente de trabalho seguro, saudável e em conformidade com a legislação.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 325,
+    "caracteres": 2218,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790917
+  }
+}

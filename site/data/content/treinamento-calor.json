@@ -1,0 +1,69 @@
+{
+  "path": "/treinamento-calor",
+  "slug": "treinamento-calor",
+  "tipo": "servico",
+  "cluster": "higiene",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-conservacao-auditiva-pca",
+  "title": "Treinamento calor - Previsio Engenharia",
+  "h1": "Treinamento calor",
+  "breadcrumb": "Treinamento calor",
+  "description": "Treinamento calor é essencial para conscientizar os trabalhadores sobre os riscos associados ao calor excessivo no ambiente de trabalho. em ambientes...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/treinamento-calor",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-calor-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-calor-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-calor-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A Importância do treinamento calor"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios do treinamento calor"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a PREVISIO ENGENHARIA Pode Ajudar"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que Escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco"
+    }
+  ],
+  "bodyHtml": "<h2>A Importância do treinamento calor</h2>\n\n                        <p>O treinamento calor é essencial para conscientizar os trabalhadores sobre os riscos associados ao calor excessivo no ambiente de trabalho. Em ambientes quentes, como fábricas e obras, os colaboradores estão suscetíveis a problemas de saúde causados pelo calor, como desidratação e insolação. Por isso, é fundamental que as empresas ofereçam treinamentos específicos para prevenir essas doenças e garantir a segurança e a saúde de seus funcionários.</p>\n\n                        <h2>Benefícios do treinamento calor</h2>\n\n                        <p>O treinamento calor proporciona diversos benefícios tanto para os trabalhadores quanto para as empresas. Ao receberem orientações sobre como se proteger do calor excessivo, os colaboradores conseguem desempenhar suas funções com mais segurança e bem-estar. Isso contribui para a redução do número de acidentes de trabalho e afastamentos por problemas de saúde relacionados ao calor.</p>\n\n                        <h2>Como a PREVISIO ENGENHARIA Pode Ajudar</h2>\n\n                        <p>A PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece um serviço completo de treinamento calor para empresas de diversos segmentos. Com experiência técnica na condução de grandes projetos em todo território nacional e no exterior, a empresa se destaca pela qualidade e eficiência de seus serviços.</p>\n\n                        <h2>Por que Escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>Com mais de mil clientes atendidos, a PREVISIO ENGENHARIA se destaca pela excelência no atendimento e pela expertise de sua equipe. Além do serviço de treinamento calor, a empresa oferece uma ampla gama de soluções em segurança do trabalho, desde reformas de atualização de máquinas até consultoria para proteção jurídica da empresa.</p>\n\n                        <h2>Entre em Contato Conosco</h2>\n\n                        <p>Se a sua empresa busca garantir a segurança e o bem-estar de seus colaboradores, não deixe de entrar em contato com a PREVISIO ENGENHARIA. Nossa equipe está pronta para oferecer as melhores soluções em treinamento calor e Engenharia de Segurança do Trabalho. Proteja seus funcionários e mantenha um ambiente de trabalho seguro e saudável. Aguardamos o seu contato!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 307,
+    "caracteres": 2053,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790518
+  }
+}

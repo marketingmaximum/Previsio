@@ -1,0 +1,69 @@
+{
+  "path": "/analise-riscos",
+  "slug": "analise-riscos",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": true,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Análise de riscos - Previsio Engenharia",
+  "h1": "Análise de riscos",
+  "breadcrumb": "Análise de riscos",
+  "description": "Análise de riscos, você veio ao lugar certo! a é especializada em análise de riscos e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Análise de riscos, você veio ao lugar certo! A Previsio Engenharia é especializada em análise de riscos e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/analise-riscos",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/analise-riscos-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/analise-riscos-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/analise-riscos-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "análise de riscos: A Importância da Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios da análise de riscos na Engenharia de Segurança do Trabalho"
+    },
+    {
+      "nivel": 3,
+      "texto": "Processo de análise de riscos"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que Escolher a PREVISIO ENGENHARIA para sua análise de riscos?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato para Agendar sua análise de riscos!"
+    }
+  ],
+  "bodyHtml": "<h2>análise de riscos: A Importância da Segurança do Trabalho</h2>\n\n                        <p>A análise de riscos é um processo essencial para identificar e avaliar perigos em diversas atividades industriais e comerciais.</p>\n\n                        <p>O serviço examina fatores como segurança elétrica, mecânica e ergonômica, propondo medidas preventivas para minimizar acidentes.</p>\n\n                        <p>Essa análise permite a criação de um ambiente de trabalho mais seguro, reduzindo falhas operacionais e atendendo às normas regulamentadoras.</p>\n\n                        <p>Empresas que investem análise de riscos garantem maior proteção para seus funcionários, evitam multas e aumentam a eficiência dos processos produtivos.</p>\n\n                        <h2>Benefícios da análise de riscos na Engenharia de Segurança do Trabalho</h2>\n\n                        <p>A análise de riscos realizada pela PREVISIO ENGENHARIA proporciona uma série de benefícios para as empresas.</p>\n\n                        <p>Com uma vasta experiência no setor de Engenharia de Segurança do Trabalho, a empresa se destaca por oferecer soluções personalizadas e eficientes para cada cliente.</p>\n\n                        <p>A análise minuciosa de todos os aspectos de segurança permite identificar potenciais perigos e agir preventivamente, evitando acidentes e prejuízos.</p>\n\n                        <h3>Processo de análise de riscos</h3>\n\n                        <p>O processo de análise de riscos da PREVISIO ENGENHARIA é pautado pela excelência técnica e comprometimento com a segurança dos trabalhadores.</p>\n\n                        <p>A equipe altamente qualificada da empresa conduz avaliações detalhadas em todas as áreas de risco, elaborando relatórios completos e recomendações precisas para a mitigação de perigos.</p>\n\n                        <p>Com um atendimento personalizado e foco na satisfação do cliente, a PREVISIO ENGENHARIA se destaca no mercado pela qualidade de seus serviços.</p>\n\n                        <h2>Por que Escolher a PREVISIO ENGENHARIA para sua análise de riscos?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo–RS, é referência no segmento de Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Com um histórico de mais de mil clientes atendidos e projetos bem-sucedidos em todo o Brasil e no exterior, a empresa se destaca pela sua expertise técnica e compromisso com a segurança.</p>\n\n                        <p>Ao escolher a PREVISIO ENGENHARIA para realizar a análise de riscos em sua empresa, você terá a garantia de um serviço de qualidade, feito por profissionais capacitados e focados na segurança e no bem-estar dos colaboradores.</p>\n\n                        <h2>Entre em Contato para Agendar sua análise de riscos!</h2>\n\n                        <p>Agora que você conhece a importância da análise de riscos e os benefícios de contar com os serviços da PREVISIO ENGENHARIA, não hesite em entrar em contato conosco para agendar a análise de segurança do trabalho em sua empresa.</p>\n\n                        <p>Estamos à disposição para oferecer soluções personalizadas e eficientes, visando sempre a segurança e o bem-estar de todos os envolvidos.</p>\n\n                        <p>Proteja seu negócio, evite acidentes e garanta um ambiente de trabalho seguro com a expertise da PREVISIO ENGENHARIA.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 416,
+    "caracteres": 2757,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791591
+  }
+}

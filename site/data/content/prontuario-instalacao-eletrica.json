@@ -1,0 +1,65 @@
+{
+  "path": "/prontuario-instalacao-eletrica",
+  "slug": "prontuario-instalacao-eletrica",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": true,
+  "pilar": "/servicos/nr-10",
+  "title": "Prontuário de instalação elétrica - Previsio Engenharia",
+  "h1": "Prontuário de instalação elétrica",
+  "breadcrumb": "Prontuário de instalação elétrica",
+  "description": "Prontuário de instalação elétrica, você veio ao lugar certo! a é especializada em prontuário de instalação elétrica e oferece uma ampla... Saiba mais.",
+  "descriptionCorrigida": "Prontuário de instalação elétrica, você veio ao lugar certo! A Previsio Engenharia é especializada em prontuário de instalação elétrica e oferece uma ampla... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/prontuario-instalacao-eletrica",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/prontuario-instalacao-eletrica-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/prontuario-instalacao-eletrica-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/prontuario-instalacao-eletrica-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "prontuário de instalação elétrica: Garantindo a Segurança e Conformidade"
+    },
+    {
+      "nivel": 2,
+      "texto": "A Importância da Atualização do prontuário de instalação elétrica"
+    },
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Sua Parceira em Segurança do Trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para Manter seu Prontuário Atualizado!"
+    }
+  ],
+  "bodyHtml": "<h2>prontuário de instalação elétrica: Garantindo a Segurança e Conformidade</h2>\n\n                        <p>Prontuário de instalação elétrica é um documento essencial para empresas que desejam manter um ambiente seguro e de acordo com as normas vigentes. Ele reúne todas as informações técnicas relacionadas à instalação elétrica de um local, fornecendo um panorama detalhado dos sistemas e equipamentos presentes.</p>\n\n                        <p>Para garantir a segurança dos colaboradores e o bom funcionamento das instalações, é crucial que o prontuário de instalação elétrica esteja sempre atualizado e acessível a todos os envolvidos. Além disso, ele é fundamental para facilitar a realização de manutenções, inspeções e adequações necessárias ao longo do tempo.</p>\n\n                        <h2>A Importância da Atualização do prontuário de instalação elétrica</h2>\n\n                        <p>Ao manter o prontuário de instalação elétrica em dia, as empresas asseguram que estão em conformidade com as normas regulamentadoras, como a NR10, que estabelece os requisitos mínimos para garantir a segurança e a saúde dos trabalhadores que interagem com instalações elétricas e serviços com eletricidade.</p>\n\n                        <p>Além disso, a atualização constante do prontuário permite identificar possíveis falhas no sistema elétrico, prevenindo acidentes, interrupções não programadas e danos materiais. Dessa forma, a empresa demonstra seu compromisso com a segurança e bem-estar de seus colaboradores.</p>\n\n                        <h2>PREVISIO ENGENHARIA: Sua Parceira em Segurança do Trabalho</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo - RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, atuando no mercado desde 2016. Com uma ampla gama de serviços voltados para a segurança elétrica, a empresa se destaca pela excelência técnica e compromisso com seus clientes.</p>\n\n                        <p>Entre os serviços oferecidos pela PREVISIO ENGENHARIA estão a reforma e atualização de máquinas e painéis elétricos, realização de Projetos de Instalações Elétricas (PIE), SPDA, aterramento, laudos de conformidade com a NR10, além de consultorias, treinamentos e adequações à NR-12. A empresa ainda oferece toda a documentação necessária para a segurança do trabalho, incluindo o prontuário de instalação elétrica.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para Manter seu Prontuário Atualizado!</h2>\n\n                        <p>A manutenção de um prontuário de instalação elétrica atualizado é fundamental para garantir a segurança e conformidade de sua empresa. Conte com a expertise da PREVISIO ENGENHARIA para cuidar desse importante documento e assegure o bem-estar de seus colaboradores e o bom funcionamento de suas instalações.</p>\n\n                        <p>Entre em contato conosco e saiba mais sobre nossos serviços de Engenharia de Segurança do Trabalho e Automação Industrial. Estamos aqui para ajudar a sua empresa a atingir os mais altos padrões de segurança e excelência operacional.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 404,
+    "caracteres": 2756,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791860
+  }
+}

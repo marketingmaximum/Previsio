@@ -1,0 +1,65 @@
+{
+  "path": "/laudo-periculosidade",
+  "slug": "laudo-periculosidade",
+  "tipo": "servico",
+  "cluster": "insalubridade",
+  "temCidades": true,
+  "pilar": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "title": "Laudo de periculosidade - Previsio Engenharia",
+  "h1": "Laudo de periculosidade",
+  "breadcrumb": "Laudo de periculosidade",
+  "description": "Laudo de periculosidade, você veio ao lugar certo! a é especializada em laudo de periculosidade e oferece uma ampla gama de serviços... Saiba mais.",
+  "descriptionCorrigida": "Laudo de periculosidade, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo de periculosidade e oferece uma ampla gama de serviços... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-periculosidade",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-periculosidade-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-periculosidade-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-periculosidade-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Sua melhor opção em laudo de periculosidade"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios do laudo de periculosidade da Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Processo de elaboração do laudo de periculosidade"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco e garanta a segurança dos seus colaboradores!"
+    }
+  ],
+  "bodyHtml": "<h2>PREVISIO ENGENHARIA: Sua melhor opção em laudo de periculosidade</h2>\n\n                        <p>O laudo de periculosidade consiste em uma avaliação minuciosa realizada em ambientes de trabalho que expõem os colaboradores a atividades ou substâncias de risco iminente à vida, como produtos inflamáveis, explosivos ou eletricidade.</p>\n\n                        <p>Este documento é de extrema importância para determinar se os trabalhadores têm direito ao adicional de periculosidade, além de garantir a segurança e saúde no ambiente laboral.</p>\n\n                        <p>A Previsio Engenharia, empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece serviços de elaboração de laudo de periculosidade de alta qualidade, assegurando que as empresas estejam conforme as normas regulamentadoras e proporcionando um ambiente de trabalho mais seguro para todos os colaboradores.</p>\n\n                        <h3>Benefícios do laudo de periculosidade da Previsio Engenharia</h3>\n\n                        <p>A Previsio Engenharia, com mais de cinco anos de experiência no mercado e mais de mil clientes atendidos, destaca-se pela excelência na elaboração de laudos de periculosidade. Ao optar pelos serviços da empresa, os clientes desfrutam de diversas vantagens, tais como:</p>\n\n                        <ul class=\"list\">\n\n                            <li>Conformidade com as normas trabalhistas vigentes;</li>\n\n                            <li>Garantia da segurança e saúde dos trabalhadores;</li>\n\n                            <li>Prevenção de multas e sanções legais;</li>\n\n                            <li>Ambiente de trabalho mais saudável e protegido;</li>\n\n                            <li>Adequação às exigências legais e normativas.</li>\n\n                        </ul>\n\n                        <p>Além disso, a Previsio Engenharia oferece um atendimento personalizado e ágil, visando sempre a satisfação e a segurança de seus clientes.</p>\n\n                        <h2>Processo de elaboração do laudo de periculosidade</h2>\n\n                        <p>O processo de elaboração de um laudo de periculosidade pela Previsio Engenharia inicia-se com uma análise minuciosa do ambiente de trabalho, identificando os possíveis riscos aos quais os colaboradores estão expostos.</p>\n\n                        <p>Em seguida, são realizadas medições e avaliações técnicas para a elaboração do documento, que conterá todas as informações necessárias para garantir a segurança dos trabalhadores e a conformidade da empresa com a legislação vigente.</p>\n\n                        <h2>Entre em contato conosco e garanta a segurança dos seus colaboradores!</h2>\n\n                        <p>A segurança e saúde dos trabalhadores são prioridades para qualquer empresa comprometida com o bem-estar de sua equipe.</p>\n\n                        <p>Entre em contato com a Previsio Engenharia e saiba mais sobre nossos serviços de elaboração de laudo de periculosidade. Proteja seus colaboradores, evite multas e garanta um ambiente de trabalho seguro e saudável para todos.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 353,
+    "caracteres": 2430,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791769
+  }
+}

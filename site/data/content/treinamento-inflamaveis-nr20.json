@@ -1,0 +1,69 @@
+{
+  "path": "/treinamento-inflamaveis-nr20",
+  "slug": "treinamento-inflamaveis-nr20",
+  "tipo": "servico",
+  "cluster": "quimicos",
+  "temCidades": true,
+  "pilar": "/servicos/matriz-de-produtos-quimicos",
+  "title": "Treinamento inflamáveis nr20 - Previsio Engenharia",
+  "h1": "Treinamento inflamáveis nr20",
+  "breadcrumb": "Treinamento inflamáveis nr20",
+  "description": "Treinamento inflamáveis nr20, você veio ao lugar certo! a é especializada em treinamento inflamáveis nr20 e oferece uma ampla gama de... Saiba mais.",
+  "descriptionCorrigida": "Treinamento inflamáveis nr20, você veio ao lugar certo! A Previsio Engenharia é especializada em treinamento inflamáveis nr20 e oferece uma ampla gama de... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/treinamento-inflamaveis-nr20",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-inflamaveis-nr20-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-inflamaveis-nr20-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-inflamaveis-nr20-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o treinamento inflamáveis nr20?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens do treinamento inflamáveis nr20"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia pode te ajudar?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a Previsio Engenharia?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o treinamento inflamáveis nr20?</h2>\n\n                        <p>O treinamento inflamáveis nr20 é uma medida essencial para empresas que lidam diariamente com substâncias inflamáveis. A NR20, Norma Regulamentadora 20, estabelece os requisitos mínimos para garantir a segurança e saúde dos trabalhadores que interagem com esses materiais. O treinamento abrange desde os cuidados básicos até as medidas de emergência, garantindo a prevenção de acidentes e mantendo a conformidade com a legislação vigente.</p>\n\n                        <h2>Vantagens do treinamento inflamáveis nr20</h2>\n\n                        <p>Investir no treinamento inflamáveis nr20 traz inúmeras vantagens para as empresas, tais como a redução de acidentes no ambiente de trabalho, a manutenção da segurança dos colaboradores, o cumprimento das normas regulamentadoras e a proteção do patrimônio da empresa. Além disso, ao capacitar os funcionários, a empresa demonstra seu compromisso com a segurança e promove um ambiente de trabalho mais saudável e produtivo.</p>\n\n                        <h2>Como a Previsio Engenharia pode te ajudar?</h2>\n\n                        <p>A Previsio Engenharia, especializada em engenharia de segurança do trabalho, oferece um serviço completo de treinamento inflamáveis nr20 para empresas de todos os portes. Com uma equipe altamente qualificada e experiência no mercado, a Previsio Engenharia desenvolve treinamentos personalizados, de acordo com as necessidades específicas de cada cliente, garantindo assim a eficácia e relevância do conteúdo.</p>\n\n                        <h2>Por que escolher a Previsio Engenharia?</h2>\n\n                        <p>A Previsio Engenharia se destaca no mercado pela qualidade de seus serviços, pelo comprometimento com a segurança dos trabalhadores e pela expertise técnica de sua equipe. Além disso, a empresa preza pela inovação e pela atualização constante de seus treinamentos, buscando sempre as melhores práticas e as soluções mais eficientes para seus clientes.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>Se sua empresa precisa de um treinamento completo e eficaz de treinamento inflamáveis nr20, conte com a Previsio Engenharia. Garantimos um serviço de excelência, total conformidade com a legislação e o cuidado com a segurança e saúde dos seus colaboradores. Entre em contato conosco e saiba mais sobre como podemos ajudar a sua empresa a estar em conformidade com a NR20 e a promover um ambiente de trabalho mais seguro e produtivo.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 336,
+    "caracteres": 2245,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791031
+  }
+}

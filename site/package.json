@@ -1,0 +1,17 @@
+{
+  "name": "previsio-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Site institucional Previsio Engenharia — Astro SSG + WordPress headless (blog)",
+  "scripts": {
+    "fetch": "node tools/extract/fetch.mjs",
+    "extract": "node tools/extract/extract.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "dependencies": {
+    "astro": "^7.1.3"
+  }
+}

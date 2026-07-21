@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/ordens-de-servico",
+  "slug": "servicos/ordens-de-servico",
+  "tipo": "servico",
+  "cluster": "pgr",
+  "temCidades": false,
+  "pilar": "/servicos/programa-de-gerenciamento-de-riscos-pgr",
+  "title": "Ordens de Serviço - Previsio Engenharia",
+  "h1": "Ordens de Serviço",
+  "breadcrumb": null,
+  "description": "Ordens de Serviço - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplin...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/ordens-de-servico",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Ordens de Serviço</span></p>\n\t\t\t\t\t\t<p>Trata-se de um documento que deve ser assinado juntamente com o contrato de todos os trabalhadores. A ordem de serviço é obrigatória, conforme a NR-01, e deve apresentar os riscos existentes, as medidas de proteção, os direitos e obrigações de cada cargo. Com isso, esse documento serve como proteção jurídica para o trabalhador e para a empresa</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 63,
+    "caracteres": 380,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469006
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/travamento-de-energias-perigosas-loto",
+  "slug": "servicos/travamento-de-energias-perigosas-loto",
+  "tipo": "pilar",
+  "cluster": "loto",
+  "temCidades": false,
+  "pilar": "/servicos/travamento-de-energias-perigosas-loto",
+  "title": "Travamento de Energias Perigosas (LOTO) - Previsio Engenharia",
+  "h1": "Travamento de Energias Perigosas (LOTO)",
+  "breadcrumb": null,
+  "description": "Travamento de Energias Perigosas (LOTO) - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/travamento-de-energias-perigosas-loto",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Travamento de Energias Perigosas (LOTO)</span></p>\n\t\t\t\t\t\t<p>O programa de Lock out e Tag out avalia o ambiente industrial, aponta os pontos passíveis de travamento fornecendo um mapa de bloqueios, especifica dispositivos, capacita os trabalhadores, bem como, fornece um manual de utilização e procedimentos para ser utilizado por toda a empresa.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 52,
+    "caracteres": 342,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469328
+  }
+}

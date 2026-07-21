@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/nr-35",
+  "slug": "servicos/nr-35",
+  "tipo": "pilar",
+  "cluster": "nr-35",
+  "temCidades": false,
+  "pilar": "/servicos/nr-35",
+  "title": "NR-35 - Previsio Engenharia",
+  "h1": "NR-35",
+  "breadcrumb": null,
+  "description": "NR-35 - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de profis...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/nr-35",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "",
+  "conteinerUsado": null,
+  "metricas": {
+    "palavras": 0,
+    "caracteres": 0,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468553
+  }
+}

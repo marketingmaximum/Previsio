@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/lancamentos-no-esocial",
+  "slug": "servicos/lancamentos-no-esocial",
+  "tipo": "pilar",
+  "cluster": "esocial",
+  "temCidades": false,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "Lançamentos no eSocial - Previsio Engenharia",
+  "h1": "Lançamentos no eSocial",
+  "breadcrumb": null,
+  "description": "Lançamentos no eSocial - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisc...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/lancamentos-no-esocial",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Lançamentos no eSocial</span></p>\n\t\t\t\t\t\t<p>Todas as empresas a partir de um funcionário são obrigadas a realizar lançamentos dos riscos ambientais, monitoramentos biológicos e acidentes de trabalho no eSocial. Os treinamentos de NR-10 e NR-12 também pos-suem essa obrigatoriedade. Realizamos esses lançamentos individualmente ou através de contrato mensal.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 49,
+    "caracteres": 353,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469066
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "path": "/assessoria-seguranca-do-trabalho",
+  "slug": "assessoria-seguranca-do-trabalho",
+  "tipo": "servico",
+  "cluster": "cipa-sesmt",
+  "temCidades": true,
+  "pilar": "/servicos/sst",
+  "title": "Assessoria segurança do trabalho - Previsio Engenharia",
+  "h1": "Assessoria segurança do trabalho",
+  "breadcrumb": "Assessoria segurança do trabalho",
+  "description": "Assessoria segurança do trabalho, você veio ao lugar certo! a é especializada em assessoria segurança do trabalho e oferece uma ampla... Saiba mais.",
+  "descriptionCorrigida": "Assessoria segurança do trabalho, você veio ao lugar certo! A Previsio Engenharia é especializada em assessoria segurança do trabalho e oferece uma ampla... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/assessoria-seguranca-do-trabalho",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/assessoria-seguranca-do-trabalho-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/assessoria-seguranca-do-trabalho-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/assessoria-seguranca-do-trabalho-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Sua Parceira em assessoria segurança do trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços Especializados da PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da assessoria segurança do trabalho"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>PREVISIO ENGENHARIA: Sua Parceira em assessoria segurança do trabalho</h2>\n\n                        <p>A assessoria segurança do trabalho é fundamental para garantir a proteção dos trabalhadores e a conformidade com as normas regulamentadoras.</p>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo–RS, é referência no mercado de Engenharia de Segurança do Trabalho e Automação Industrial, oferecendo serviços especializados desde 2016.</p>\n\n                        <h2>Serviços Especializados da PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA conta com uma equipe técnica altamente qualificada, que já atendeu mais de mil clientes em todo o Brasil e no exterior. Entre os serviços oferecidos pela empresa estão:</p>\n\n                        <ul class=\"list\">\n\n                            <li>Reformas de máquinas e painéis elétricos;</li>\n\n                            <li>Realização de Programa de Inspeção de Equipamentos (PIE);</li>\n\n                            <li>Projetos de SPDA e aterramento;</li>\n\n                            <li>Adequações segundo as normas da NR10;</li>\n\n                            <li>Projetos, documentações e adequações à NR-12.</li>\n\n                        </ul>\n\n                        <p>A empresa também oferece treinamentos de segurança do trabalho, manutenção em CLPs e IHMs, e toda a documentação necessária para garantir a segurança e a regularização do e-social.</p>\n\n                        <h3>Benefícios da assessoria segurança do trabalho</h3>\n\n                        <p>A assessoria segurança do trabalho oferece suporte técnico para empresas implementarem medidas de proteção aos trabalhadores, garantindo a conformidade com as normas regulamentadoras.</p>\n\n                        <p>Além disso, esse serviço inclui a identificação de riscos, treinamentos, elaboração de procedimentos e auditorias internas.</p>\n\n                        <p>Investir em assessoria de segurança do trabalho reduz acidentes, melhora as condições laborais e assegura a continuidade das operações de forma segura.</p>\n\n                        <p>Empresas que contam com esse serviço evitam penalidades, aumentam a produtividade e criam uma cultura organizacional focada na segurança e no bem-estar dos colaboradores.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>Se você busca uma empresa especializada em assessoria segurança do trabalho, conte com a expertise da PREVISIO ENGENHARIA.</p>\n\n                        <p>Nossa equipe está preparada para oferecer soluções personalizadas que atendam às necessidades da sua empresa.</p>\n\n                        <p>Não deixe a segurança dos seus colaboradores em segundo plano, entre em contato conosco e saiba como podemos ajudar!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 296,
+    "caracteres": 2084,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791460
+  }
+}

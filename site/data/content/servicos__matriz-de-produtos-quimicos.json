@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/matriz-de-produtos-quimicos",
+  "slug": "servicos/matriz-de-produtos-quimicos",
+  "tipo": "pilar",
+  "cluster": "quimicos",
+  "temCidades": false,
+  "pilar": "/servicos/matriz-de-produtos-quimicos",
+  "title": "Matriz de Produtos Químicos - Previsio Engenharia",
+  "h1": "Matriz de Produtos Químicos",
+  "breadcrumb": null,
+  "description": "Matriz de Produtos Químicos - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe mult...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/matriz-de-produtos-quimicos",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Matriz de Produtos Químicos</span></p>\n\t\t\t\t\t\t<p>Trata-se de um programa de incompatibilidade de produtos químicos. O objetivo é avaliar todos os produtos químicos utilizados na empresa, bem como, os locais de armazenamento, disposição e quantidade dos produtos, rotulagem, sinalização, equipamentos de proteção procedimentos e treinamentos.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 46,
+    "caracteres": 337,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469142
+  }
+}

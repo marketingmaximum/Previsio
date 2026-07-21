@@ -1,0 +1,69 @@
+{
+  "path": "/laudo-nr12",
+  "slug": "laudo-nr12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": true,
+  "pilar": "/servicos/nr-12",
+  "title": "Laudo de nr12 - Previsio Engenharia",
+  "h1": "Laudo de nr12",
+  "breadcrumb": "Laudo de nr12",
+  "description": "Laudo de nr12, você veio ao lugar certo! a é especializada em laudo de nr12 e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "descriptionCorrigida": "Laudo de nr12, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo de nr12 e oferece uma ampla gama de serviços para atender às suas... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-nr12",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-nr12-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-nr12-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-nr12-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "laudo de nr12: Garantindo a Segurança Industrial"
+    },
+    {
+      "nivel": 2,
+      "texto": "A Importância do laudo de nr12"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios do laudo de nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que Escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>laudo de nr12: Garantindo a Segurança Industrial</h2>\n\n                        <p>A PREVISIO ENGENHARIA, localizada em São Leopoldo–RS, é uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial que oferece uma ampla gama de serviços para garantir a segurança e conformidade das máquinas e equipamentos industriais, incluindo o serviço de laudo de nr12.</p>\n\n                        <p>Com mais de cinco anos de experiência no mercado e mais de mil clientes atendidos, a PREVISIO ENGENHARIA se destaca pela qualidade e eficiência de seus serviços.</p>\n\n                        <h2>A Importância do laudo de nr12</h2>\n\n                        <p>O laudo de nr12 é fundamental para as empresas que possuem máquinas e equipamentos industriais, pois ele verifica se esses dispositivos estão conforme os requisitos estabelecidos pela Norma Regulamentadora 12.</p>\n\n                        <p>Esse laudo garante que as medidas de segurança necessárias estão sendo tomadas, prevenindo acidentes de trabalho e protegendo a integridade dos colaboradores que operam as máquinas.</p>\n\n                        <h3>Benefícios do laudo de nr12</h3>\n\n                        <p>A realização do laudo de nr12 traz diversos benefícios para as empresas, tais como o cumprimento das exigências legais, o aumento da eficiência operacional, a proteção dos trabalhadores, a garantia de que as máquinas estão operando de forma segura e em conformidade com as normas vigentes.</p>\n\n                        <p>Além disso, o laudo de nr12 contribui para a redução de custos com manutenções corretivas e para a melhoria contínua dos processos industriais.</p>\n\n                        <h2>Por que Escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>A PREVISIO ENGENHARIA se destaca no mercado pela qualidade de seus serviços, pela equipe altamente qualificada e pela experiência técnica na condução de grandes projetos em todo território nacional e no exterior.</p>\n\n                        <p>Além disso, a empresa oferece um atendimento personalizado, soluções customizadas de acordo com as necessidades de cada cliente e um suporte completo durante todo o processo de adequação às normas de segurança do trabalho.</p>\n\n                        <h2>Entre em Contato Conosco!</h2>\n\n                        <p>Se sua empresa precisa realizar o laudo de nr12 ou se deseja obter mais informações sobre os serviços oferecidos pela PREVISIO ENGENHARIA, entre em contato conosco.</p>\n\n                        <p>Estamos à disposição para ajudá-lo a garantir a segurança dos trabalhadores e a conformidade de suas máquinas e equipamentos com as normas regulamentadoras. Proteja seu negócio, invista em segurança!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 346,
+    "caracteres": 2265,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790459
+  }
+}

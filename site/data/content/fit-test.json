@@ -1,0 +1,69 @@
+{
+  "path": "/fit-test",
+  "slug": "fit-test",
+  "tipo": "servico",
+  "cluster": "respiratoria",
+  "temCidades": true,
+  "pilar": "/servicos/plano-de-protecao-respiratorio",
+  "title": "Fit test - Previsio Engenharia",
+  "h1": "Fit test",
+  "breadcrumb": "Fit test",
+  "description": "Fit test, você veio ao lugar certo! a é especializada em fit test e oferece uma ampla gama de serviços para atender às suas necessidades. Nossa equipe de...",
+  "descriptionCorrigida": "Fit test, você veio ao lugar certo! A Previsio Engenharia é especializada em fit test e oferece uma ampla gama de serviços para atender às suas necessidades. Nossa equipe de...",
+  "canonical": "https://www.previsio.com.br/fit-test",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/fit-test-01.webp",
+      "width": "600",
+      "height": "524",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/fit-test-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/fit-test-03.webp",
+      "width": "600",
+      "height": "392",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "PREVISIO ENGENHARIA: Especialista em fit test"
+    },
+    {
+      "nivel": 2,
+      "texto": "Tipos de fit test"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens de Realizar o fit test"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato com a Previsio Engenharia!"
+    }
+  ],
+  "bodyHtml": "<h2>PREVISIO ENGENHARIA: Especialista em fit test</h2>\n\n                        <p>O fit test é um procedimento fundamental para garantir a eficácia dos equipamentos de proteção respiratória utilizados por trabalhadores em ambientes com riscos de exposição a agentes contaminantes.</p>\n\n                        <p>Esse teste de vedação verifica se o respirador se ajusta adequadamente ao rosto do usuário, assegurando a proteção necessária contra poeiras, vapores e substâncias tóxicas.</p>\n\n                        <h2>Tipos de fit test</h2>\n\n                        <p>Existem dois tipos principais de fit test: o qualitativo e o quantitativo.</p>\n\n                        <p>O qualitativo utiliza substâncias específicas para identificar possíveis vazamentos no respirador, enquanto o quantitativo mede de forma precisa a eficiência da vedação, garantindo uma proteção mais precisa e segura para o trabalhador.</p>\n\n                        <h2>Importância</h2>\n\n                        <p>A realização do fit test é essencial para garantir a segurança e a saúde dos colaboradores, prevenindo doenças ocupacionais e garantindo o cumprimento das normas de segurança do trabalho.</p>\n\n                        <p>Empresas que investem nesse procedimento demonstram compromisso com a saúde e bem-estar de seus funcionários, garantindo um ambiente de trabalho mais seguro e saudável.</p>\n\n                        <h3>Vantagens de Realizar o fit test</h3>\n\n                        <ul class=\"list\">\n\n                            <li>Proteção eficaz contra agentes contaminantes;</li>\n\n                            <li>Prevenção de doenças respiratórias ocupacionais;</li>\n\n                            <li>Conformidade com as normas de segurança do trabalho;</li>\n\n                            <li>Aumento da eficiência e produtividade dos colaboradores;</li>\n\n                            <li>Redução de custos com afastamentos e processos judiciais;</li>\n\n                        </ul>\n\n                        <h2>Entre em contato com a Previsio Engenharia!</h2>\n\n                        <p>A Previsio Engenharia, sediada em São Leopoldo–RS, é especialista em Engenharia de Segurança do Trabalho e oferece serviços de fit test para empresas de diversos segmentos.</p>\n\n                        <p>Com mais de cinco anos de experiência no mercado e um time de profissionais altamente qualificados, a Previsio Engenharia garante a execução de fit test de forma precisa e eficiente, seguindo todas as normas e regulamentos vigentes.</p>\n\n                        <p>Entre em contato com a Previsio Engenharia e garanta a proteção adequada para os seus colaboradores. Invista em segurança do trabalho e promova um ambiente saudável e produtivo para sua empresa.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 301,
+    "caracteres": 2056,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790440
+  }
+}

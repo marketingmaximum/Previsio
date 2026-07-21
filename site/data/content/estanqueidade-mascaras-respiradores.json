@@ -1,0 +1,69 @@
+{
+  "path": "/estanqueidade-mascaras-respiradores",
+  "slug": "estanqueidade-mascaras-respiradores",
+  "tipo": "servico",
+  "cluster": "respiratoria",
+  "temCidades": true,
+  "pilar": "/servicos/plano-de-protecao-respiratorio",
+  "title": "Estanqueidade em máscaras e respiradores - Previsio Engenharia",
+  "h1": "Estanqueidade em máscaras e respiradores",
+  "breadcrumb": "Estanqueidade em máscaras e respiradores",
+  "description": "Estanqueidade em máscaras e respiradores, você veio ao lugar certo! a é especializada em estanqueidade em máscaras e respiradores e... Saiba mais.",
+  "descriptionCorrigida": "Estanqueidade em máscaras e respiradores, você veio ao lugar certo! A Previsio Engenharia é especializada em estanqueidade em máscaras e respiradores e... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/estanqueidade-mascaras-respiradores",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/estanqueidade-mascaras-respiradores-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/estanqueidade-mascaras-respiradores-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/estanqueidade-mascaras-respiradores-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da estanqueidade em máscaras e respiradores"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da verificação de estanqueidade em máscaras e respiradores"
+    },
+    {
+      "nivel": 2,
+      "texto": "A importância da escolha de uma empresa especializada"
+    },
+    {
+      "nivel": 2,
+      "texto": "Diferenciais da PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato e garanta a segurança de sua equipe!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da estanqueidade em máscaras e respiradores</h2>\n\n                        <p>A estanqueidade em máscaras e respiradores é um processo fundamental para garantir a eficácia dos equipamentos de proteção individual utilizados em ambientes de trabalho com presença de agentes nocivos.</p>\n\n                        <p>Esse procedimento tem como objetivo verificar se as máscaras e respiradores oferecem uma vedação adequada ao rosto do trabalhador, evitando vazamentos de ar contaminado e protegendo a saúde e segurança dos profissionais.</p>\n\n                        <h3>Benefícios da verificação de estanqueidade em máscaras e respiradores</h3>\n\n                        <p>Empresas que realizam a avaliação de estanqueidade em máscaras e respiradores demonstram preocupação com a segurança e bem-estar de seus colaboradores.</p>\n\n                        <p>Ao garantir que os equipamentos de proteção individual estão em perfeitas condições de uso, a companhia reduz os riscos de contaminação por substâncias prejudiciais à saúde, cumprindo as normas de segurança ocupacional e proporcionando um ambiente de trabalho mais seguro e saudável.</p>\n\n                        <h2>A importância da escolha de uma empresa especializada</h2>\n\n                        <p>Para realizar a verificação de estanqueidade em máscaras e respiradores, é fundamental contar com uma empresa especializada e comprometida com a segurança do trabalho.</p>\n\n                        <p>A PREVISIO ENGENHARIA, localizada em São Leopoldo–RS, é referência no segmento de engenharia de segurança do trabalho e está apta a oferecer serviços de alta qualidade, garantindo a eficácia dos equipamentos de proteção individual de seus clientes.</p>\n\n                        <h2>Diferenciais da PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA atua no mercado desde 2016, com vasta experiência na realização de projetos de engenharia de segurança do trabalho e automação industrial.</p>\n\n                        <p>Com mais de mil clientes atendidos, a empresa destaca-se pela excelência técnica, compromisso com a segurança e cumprimento rigoroso das normas regulamentadoras.</p>\n\n                        <p>Além da verificação de estanqueidade em máscaras e respiradores, a PREVISIO ENGENHARIA oferece uma ampla gama de serviços, incluindo reformas de máquinas, laudos de adequação, treinamentos de segurança do trabalho e consultoria especializada.</p>\n\n                        <h2>Entre em contato e garanta a segurança de sua equipe!</h2>\n\n                        <p>Se sua empresa busca garantir a segurança e saúde de seus colaboradores, entre em contato com a PREVISIO ENGENHARIA e conheça todos os serviços oferecidos.</p>\n\n                        <p>Conte com uma equipe de profissionais qualificados e experientes para realizar a verificação de estanqueidade em máscaras e respiradores, contribuindo para um ambiente de trabalho mais seguro e livre de riscos.</p>\n\n                        <p>Invista na segurança ocupacional e proteja o mais importante capital de sua empresa: seus funcionários.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 374,
+    "caracteres": 2585,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791742
+  }
+}

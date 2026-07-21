@@ -1,0 +1,73 @@
+{
+  "path": "/treinamento-ppramp",
+  "slug": "treinamento-ppramp",
+  "tipo": "servico",
+  "cluster": "ppramp",
+  "temCidades": true,
+  "pilar": "/servicos/plano-de-prevencao-de-riscos-de-acidentes-com-materiais-perfurocortantes-ppramp",
+  "title": "Treinamento PPRAMP - Previsio Engenharia",
+  "h1": "Treinamento PPRAMP",
+  "breadcrumb": "Treinamento PPRAMP",
+  "description": "Treinamento ppramp, você veio ao lugar certo! a é especializada em treinamento ppramp e oferece uma ampla gama de serviços para atender... Saiba mais.",
+  "descriptionCorrigida": "Treinamento ppramp, você veio ao lugar certo! A Previsio Engenharia é especializada em treinamento ppramp e oferece uma ampla gama de serviços para atender... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/treinamento-ppramp",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-ppramp-01.webp",
+      "width": "600",
+      "height": "469",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-ppramp-02.webp",
+      "width": "600",
+      "height": "452",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-ppramp-03.webp",
+      "width": "600",
+      "height": "457",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o treinamento ppramp?"
+    },
+    {
+      "nivel": 2,
+      "texto": "A importância do treinamento ppramp"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios do treinamento ppramp"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços oferecidos pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o treinamento ppramp?</h2>\n\n                        <p>O treinamento ppramp é um Plano de Prevenção de Riscos Ambientais e de Máquinas e Equipamentos essencial para garantir a segurança no ambiente de trabalho. Esse treinamento visa identificar e prevenir riscos ocupacionais, promovendo práticas de segurança, uso correto de Equipamentos de Proteção Individual (EPIs) e orientações sobre procedimentos de emergência.</p>\n\n                        <h2>A importância do treinamento ppramp</h2>\n\n                        <p>O treinamento ppramp é fundamental para as empresas que se preocupam com a segurança e saúde de seus colaboradores. Além de proteger os funcionários, esse treinamento auxilia a empresa a cumprir as exigências das normas de segurança do trabalho, evitando acidentes e garantindo um ambiente laboral seguro e saudável.</p>\n\n                        <h2>Benefícios do treinamento ppramp</h2>\n\n                        <p>Investir no treinamento ppramp traz diversos benefícios tanto para os colaboradores quanto para a empresa. Alguns dos principais benefícios incluem a redução de acidentes de trabalho, o aumento da produtividade, o cumprimento das normas regulamentadoras e a melhoria do clima organizacional.</p>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA?</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo - RS, é referência na área de Engenharia de Segurança do Trabalho e Automação Industrial. Com mais de cinco anos de experiência e mais de mil clientes atendidos, a empresa se destaca pela excelência técnica, qualidade nos serviços prestados e compromisso com a segurança e saúde dos trabalhadores.</p>\n\n                        <h2>Serviços oferecidos pela PREVISIO ENGENHARIA</h2>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Reformas e atualizações de máquinas e painéis elétricos</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Realização de Programa de Inspeção de Equipamentos (PIE)</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                SPDA, aterramento e outros projetos</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Laudos e adequações em eletricidade segundo a NR10</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Assessoria, projetos e documentações conforme NR-12</li>\n\n                        </ul>\n\n                        <p>A PREVISIO ENGENHARIA também realiza treinamentos de segurança do trabalho, incluindo o treinamento ppramp, fornecendo toda a documentação necessária e garantindo a conformidade com as normas vigentes. Além disso, a empresa oferece serviços de regularização do e-Social e consultoria jurídica para proteção da empresa.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>Se você deseja garantir a segurança e saúde dos seus colaboradores, conte com a expertise da PREVISIO ENGENHARIA. Entre em contato conosco para saber mais sobre o treinamento ppramp e outros serviços que podem contribuir com a segurança do trabalho em sua empresa!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 348,
+    "caracteres": 2362,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791657
+  }
+}

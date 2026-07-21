@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/plano-de-prevencao-de-riscos-de-acidentes-com-materiais-perfurocortantes-ppramp",
+  "slug": "servicos/plano-de-prevencao-de-riscos-de-acidentes-com-materiais-perfurocortantes-ppramp",
+  "tipo": "pilar",
+  "cluster": "ppramp",
+  "temCidades": false,
+  "pilar": "/servicos/plano-de-prevencao-de-riscos-de-acidentes-com-materiais-perfurocortantes-ppramp",
+  "title": "Plano de Prevenção de Riscos de Acidentes com Materiais Perfurocortantes - PPRAMP - Previsio Engenharia",
+  "h1": "Plano de Prevenção de Riscos de Acidentes com Materiais Perfurocortantes - PPRAMP",
+  "breadcrumb": null,
+  "description": "Plano de Prevenção de Riscos de Acidentes com Materiais Perfurocortantes - PPRAMP - Somos uma empresa gaúcha de Engenharia de Segurança do Traba...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/plano-de-prevencao-de-riscos-de-acidentes-com-materiais-perfurocortantes-ppramp",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Plano de Prevenção de Riscos de Acidentes com Materiais Perfurocortantes - PPRAMP</span></p>\n\t\t\t\t\t\t<p>Trata-se de um programa obrigatório para empresas que empregam profissionais de saúde ou estéticas que utilizam materiais perfurocortantes, tais como agulhas, bistu-ris e outros objetos do tipo. Esse programa objetiva, principalmente, a adoção de novos equipamentos, medidas de segurança e treinamentos.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 56,
+    "caracteres": 402,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 470169
+  }
+}

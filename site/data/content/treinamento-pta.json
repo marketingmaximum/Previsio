@@ -1,0 +1,73 @@
+{
+  "path": "/treinamento-pta",
+  "slug": "treinamento-pta",
+  "tipo": "servico",
+  "cluster": "treinamentos",
+  "temCidades": true,
+  "pilar": "/treinamentos-seguranca-do-trabalho",
+  "title": "Treinamento pta - Previsio Engenharia",
+  "h1": "Treinamento pta",
+  "breadcrumb": "Treinamento pta",
+  "description": "Treinamento pta (programa de treinamento de admissão) é um curso voltado para novos funcionários de uma empresa, com o objetivo de capacitá-los sobre os...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/treinamento-pta",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-pta-01.webp",
+      "width": "600",
+      "height": "399",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-pta-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-pta-03.webp",
+      "width": "600",
+      "height": "523",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o treinamento pta"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do treinamento pta"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens do treinamento pta"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia pode te ajudar com o treinamento pta"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a Previsio Engenharia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o treinamento pta</h2>\n\n                        <p>O treinamento pta (Programa de Treinamento de Admissão) é um curso voltado para novos funcionários de uma empresa, com o objetivo de capacitá-los sobre os riscos presentes no ambiente de trabalho, políticas de segurança adotadas pela organização e a correta utilização dos Equipamentos de Proteção Individual (EPIs). Este treinamento é fundamental para garantir que os colaboradores iniciem suas atividades de maneira segura e estejam cientes das normas e práticas de segurança necessárias.</p>\n\n                        <h2>Importância do treinamento pta</h2>\n\n                        <p>O treinamento pta é crucial para garantir que os novos funcionários compreendam a importância da segurança no ambiente de trabalho e estejam preparados para lidar com situações de risco. Ao participarem desse treinamento, os colaboradores adquirem conhecimentos essenciais que contribuem para a prevenção de acidentes e promoção de um ambiente de trabalho saudável e seguro.</p>\n\n                        <h2>Vantagens do treinamento pta</h2>\n\n                        <p>Oferecer o treinamento pta traz diversas vantagens para as empresas, tais como a redução do número de acidentes de trabalho, o aumento da conscientização dos funcionários em relação à segurança, a valorização da vida e da saúde dos colaboradores, o cumprimento das normas regulamentadoras e a melhoria do clima organizacional. Investir na capacitação dos novos funcionários demonstra o compromisso da empresa com a segurança e o bem-estar de sua equipe.</p>\n\n                        <h2>Como a Previsio Engenharia pode te ajudar com o treinamento pta</h2>\n\n                        <p>A Previsio Engenharia, uma empresa especializada em Engenharia de Segurança do Trabalho e Automação Industrial localizada em São Leopoldo - RS, oferece serviços completos para auxiliar sua empresa na implementação do treinamento pta. Com experiência técnica na condução de grandes projetos em nível nacional e internacional, a Previsio Engenharia conta com profissionais qualificados e capacitados para fornecer o suporte necessário na realização do treinamento de admissão de seus colaboradores.</p>\n\n                        <h2>Por que escolher a Previsio Engenharia</h2>\n\n                        <p>A Previsio Engenharia destaca-se pela excelência na prestação de serviços de Engenharia de Segurança do Trabalho, com um amplo portfólio que inclui reformas de máquinas e painéis elétricos, laudos de conformidade com a NR10, adequações à NR-12, treinamentos de segurança, regularização do e-social e consultoria para proteção jurídica da empresa, entre outros. Além disso, a empresa conta com mais de mil clientes atendidos e uma equipe comprometida em oferecer soluções sob medida para cada cliente.</p>\n\n                        <h2>Entre em Contato Conosco</h2>\n\n                        <p>Se sua empresa busca por um parceiro confiável e especializado em Engenharia de Segurança do Trabalho para implementar o treinamento pta e promover um ambiente de trabalho seguro e saudável, entre em contato com a Previsio Engenharia. Nossa equipe está preparada para atendê-lo e oferecer as melhores soluções em segurança do trabalho para o seu negócio. Garanta a proteção de seus colaboradores e o cumprimento das normas de segurança com a ajuda da Previsio Engenharia.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 451,
+    "caracteres": 3003,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791525
+  }
+}

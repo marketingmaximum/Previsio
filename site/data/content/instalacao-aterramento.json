@@ -1,0 +1,65 @@
+{
+  "path": "/instalacao-aterramento",
+  "slug": "instalacao-aterramento",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Instalação aterramento - Previsio Engenharia",
+  "h1": "Instalação aterramento",
+  "breadcrumb": "Instalação aterramento",
+  "description": "Instalação aterramento, você veio ao lugar certo! a é especializada em instalação aterramento e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Instalação aterramento, você veio ao lugar certo! A Previsio Engenharia é especializada em instalação aterramento e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/instalacao-aterramento",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/instalacao-aterramento-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/instalacao-aterramento-02.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/instalacao-aterramento-03.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância da instalação aterramento"
+    },
+    {
+      "nivel": 3,
+      "texto": "Vantagens da instalação aterramento"
+    },
+    {
+      "nivel": 2,
+      "texto": "Projetos de aterramento personalizados"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a expertise da PREVISIO ENGENHARIA!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância da instalação aterramento</h2>\n\n                        <p>A instalação aterramento é um procedimento fundamental para manter a segurança elétrica em diversos tipos de instalações.</p>\n\n                        <p>Ao implementar um sistema de aterramento adequado, é possível direcionar corretamente as descargas elétricas para o solo, evitando danos aos equipamentos e garantindo a proteção das pessoas contra choques e surtos elétricos.</p>\n\n                        <p>Em instalações industriais, comerciais e residenciais, a instalação aterramento é essencial para prevenir incêndios, reduzir riscos de falhas elétricas e proporcionar maior segurança no ambiente.</p>\n\n                        <p>Empresas especializadas nesse serviço garantem que as normas técnicas sejam seguidas à risca, proporcionando tranquilidade e conformidade para os clientes.</p>\n\n                        <h3>Vantagens da instalação aterramento</h3>\n\n                        <p>Além de promover a segurança, a instalação aterramento traz diversas vantagens para os usuários.</p>\n\n                        <p>Uma delas é a proteção contra descargas atmosféricas e curtos-circuitos, que podem causar grandes danos às instalações elétricas e representar riscos para as pessoas que frequentam o local.</p>\n\n                        <p>Com um sistema de aterramento eficiente, é possível evitar prejuízos financeiros decorrentes de danos em equipamentos e estruturas, além de manter a continuidade das operações em caso de eventos adversos.</p>\n\n                        <p>A segurança proporcionada pela instalação aterramento é um investimento indispensável para qualquer tipo de estabelecimento.</p>\n\n                        <h2>Projetos de aterramento personalizados</h2>\n\n                        <p>A PREVISIO ENGENHARIA é especialista em instalação aterramento e oferece projetos personalizados de acordo com as necessidades de cada cliente.</p>\n\n                        <p>Com uma equipe qualificada e experiência no mercado de Engenharia de Segurança do Trabalho, a empresa garante soluções sob medida para garantir a proteção e a eficiência das instalações elétricas.</p>\n\n                        <p>Os projetos de aterramento da PREVISIO ENGENHARIA são desenvolvidos considerando as normas técnicas vigentes, as características do local e as demandas específicas de cada cliente.</p>\n\n                        <p>Dessa forma, é possível obter um sistema de aterramento confiável e seguro, proporcionando tranquilidade e proteção para todos os envolvidos.</p>\n\n                        <h2>Conte com a expertise da PREVISIO ENGENHARIA!</h2>\n\n                        <p>Se você busca uma empresa especializada em instalação aterramento com experiência comprovada e atuação em todo território nacional, a PREVISIO ENGENHARIA é a escolha certa.</p>\n\n                        <p>Com mais de mil clientes atendidos e projetos de sucesso realizados, a empresa se destaca pela qualidade de seus serviços e pelo compromisso com a segurança dos clientes.</p>\n\n                        <p>Não deixe a segurança da sua instalação elétrica em segundo plano. Entre em contato com a PREVISIO ENGENHARIA e conheça todas as soluções em Engenharia de Segurança do Trabalho e Automação Industrial que a empresa oferece.</p>\n\n                        <p>Garanta a proteção necessária para o seu negócio e evite riscos desnecessários. Proteja seu patrimônio e as pessoas que fazem parte do seu ambiente de trabalho. Confie na expertise da PREVISIO ENGENHARIA e tenha a tranquilidade que você merece.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 424,
+    "caracteres": 2952,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791928
+  }
+}

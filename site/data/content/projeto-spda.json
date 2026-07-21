@@ -1,0 +1,69 @@
+{
+  "path": "/projeto-spda",
+  "slug": "projeto-spda",
+  "tipo": "servico",
+  "cluster": "spda",
+  "temCidades": true,
+  "pilar": "/servicos/sistema-de-protecao-contra-descargas-atmosfericas-nr-10",
+  "title": "Projeto de spda - Previsio Engenharia",
+  "h1": "Projeto de spda",
+  "breadcrumb": "Projeto de spda",
+  "description": "Projeto de spda, você veio ao lugar certo! a é especializada em projeto de spda e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "descriptionCorrigida": "Projeto de spda, você veio ao lugar certo! A Previsio Engenharia é especializada em projeto de spda e oferece uma ampla gama de serviços para atender às... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/projeto-spda",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/projeto-spda-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-spda-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/projeto-spda-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "Descubra a importância do projeto de SPda para a segurança da sua empresa"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como funciona o projeto de SPda"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de investir em um projeto de SPda"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que escolher a PREVISIO ENGENHARIA para o seu projeto de SPda"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco e garanta a segurança da sua empresa"
+    }
+  ],
+  "bodyHtml": "<h2>Descubra a importância do projeto de SPda para a segurança da sua empresa</h2>\n\n                        <p>Quando se trata de proteger as edificações contra danos causados por raios, o projeto de SPda é fundamental. A PREVISIO ENGENHARIA, especializada em Engenharia de Segurança do Trabalho e Automação Industrial, oferece serviços que incluem a elaboração de sistemas de proteção contra descargas atmosféricas para empresas que buscam garantir a segurança de suas instalações, funcionários e equipamentos.</p>\n\n                        <h2>Como funciona o projeto de SPda</h2>\n\n                        <p>O projeto de SPda consiste na instalação de para-raios e condutores, que são responsáveis por desviar a energia proveniente de descargas atmosféricas, protegendo assim as estruturas e evitando possíveis danos. Com a expertise da PREVISIO ENGENHARIA, é possível elaborar um projeto personalizado, de acordo com as necessidades específicas de cada cliente, garantindo eficiência e segurança.</p>\n\n                        <h2>Vantagens de investir em um projeto de SPda</h2>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Proteção das instalações contra danos causados por raios;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Segurança para os colaboradores e equipamentos;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Conformidade com as normas de segurança do trabalho;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Redução de custos com manutenções corretivas;</li>\n\n                        </ul>\n\n                        <ul class=\"list\">\n\n                            <li>\n                                Prevenção de acidentes e danos estruturais;</li>\n\n                        </ul>\n\n                        <h2>Por que escolher a PREVISIO ENGENHARIA para o seu projeto de SPda</h2>\n\n                        <p>Com mais de mil clientes atendidos e experiência técnica comprovada, a PREVISIO ENGENHARIA destaca-se pela qualidade de seus serviços e pela capacidade de executar grandes projetos em todo território nacional e no exterior. Além do projeto de SPda, a empresa oferece uma ampla gama de serviços relacionados à Engenharia de Segurança do Trabalho, garantindo a proteção e conformidade de suas instalações.</p>\n\n                        <h2>Entre em contato conosco e garanta a segurança da sua empresa</h2>\n\n                        <p>A PREVISIO ENGENHARIA está pronta para atender às necessidades da sua empresa, oferecendo soluções personalizadas e eficientes em projeto de SPda e outros serviços de engenharia. Entre em contato conosco e saiba como podemos ajudar a proteger o seu patrimônio e garantir a segurança de todos os envolvidos. Invista em segurança, conte com a PREVISIO ENGENHARIA!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 313,
+    "caracteres": 2083,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790909
+  }
+}

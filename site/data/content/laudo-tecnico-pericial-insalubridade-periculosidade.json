@@ -1,0 +1,69 @@
+{
+  "path": "/laudo-tecnico-pericial-insalubridade-periculosidade",
+  "slug": "laudo-tecnico-pericial-insalubridade-periculosidade",
+  "tipo": "servico",
+  "cluster": "insalubridade",
+  "temCidades": true,
+  "pilar": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "title": "Laudo técnico pericial de insalubridade e periculosidade - Previsio Engenharia",
+  "h1": "Laudo técnico pericial de insalubridade e periculosidade",
+  "breadcrumb": "Laudo técnico pericial de insalubridade e periculosidade",
+  "description": "Laudo técnico pericial de insalubridade e periculosidade, você veio ao lugar certo! a é especializada em laudo técnico pericial de... Saiba mais.",
+  "descriptionCorrigida": "Laudo técnico pericial de insalubridade e periculosidade, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo técnico pericial de... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-tecnico-pericial-insalubridade-periculosidade",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-tecnico-pericial-insalubridade-periculosidade-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-tecnico-pericial-insalubridade-periculosidade-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-tecnico-pericial-insalubridade-periculosidade-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A Importância do laudo técnico pericial de insalubridade e periculosidade"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como Funciona o laudo técnico pericial de insalubridade e periculosidade?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens do laudo técnico pericial de insalubridade e periculosidade"
+    },
+    {
+      "nivel": 3,
+      "texto": "Prevenção de Acidentes e Doenças Ocupacionais"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco!"
+    }
+  ],
+  "bodyHtml": "<h2>A Importância do laudo técnico pericial de insalubridade e periculosidade</h2>\n\n                        <p>O laudo técnico pericial de insalubridade e periculosidade é um documento fundamental para empresas que desejam garantir a segurança e a saúde de seus colaboradores.</p>\n\n                        <p>Essa análise minuciosa das condições de trabalho tem como objetivo identificar a presença de agentes insalubres ou perigosos, que possam colocar em risco a integridade física e mental dos trabalhadores.</p>\n\n                        <h2>Como Funciona o laudo técnico pericial de insalubridade e periculosidade?</h2>\n\n                        <p>O processo de elaboração do laudo técnico pericial de insalubridade e periculosidade envolve a visita de um engenheiro de segurança do trabalho ao local de trabalho, onde são realizadas medições, análises e coleta de dados para identificar possíveis riscos.</p>\n\n                        <p>Com base nessas informações, o laudo é elaborado, apontando os agentes nocivos presentes no ambiente laboral e as medidas necessárias para garantir a proteção dos trabalhadores.</p>\n\n                        <h2>Vantagens do laudo técnico pericial de insalubridade e periculosidade</h2>\n\n                        <p>A elaboração do laudo técnico pericial de insalubridade e periculosidade traz benefícios tanto para os colaboradores quanto para a empresa.</p>\n\n                        <p>Ao identificar e corrigir as condições de trabalho que oferecem riscos à saúde e à integridade dos trabalhadores, a empresa cumpre com as normas de segurança e saúde ocupacional, evitando possíveis passivos legais e garantindo um ambiente de trabalho mais seguro e saudável.</p>\n\n                        <h3>Prevenção de Acidentes e Doenças Ocupacionais</h3>\n\n                        <p>Com o laudo técnico pericial de insalubridade e periculosidade em mãos, a empresa pode adotar medidas preventivas para reduzir os riscos de acidentes de trabalho e doenças ocupacionais.</p>\n\n                        <p>A identificação e correção de situações de perigo contribuem para a preservação da saúde dos colaboradores, aumentando a produtividade e a satisfação no ambiente de trabalho.</p>\n\n                        <h2>Entre em contato conosco!</h2>\n\n                        <p>A PREVISIO ENGENHARIA, sediada em São Leopoldo–RS, é especializada em serviços de Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Com mais de cinco anos de atuação e experiência técnica comprovada, a PREVISIO ENGENHARIA oferece soluções completas em segurança ocupacional, incluindo a elaboração de laudos técnicos periciais de insalubridade e periculosidade, reformas de máquinas e painéis elétricos, treinamentos, adequações à legislação trabalhista e muito mais.</p>\n\n                        <p>Se a sua empresa busca garantir a segurança e a saúde de seus colaboradores, entre em contato com a PREVISIO ENGENHARIA e conheça nossos serviços especializados em Engenharia de Segurança do Trabalho.</p>\n\n                        <p>Estamos prontos para auxiliá-lo na adequação às normas vigentes, protegendo sua equipe e evitando possíveis problemas legais. Invista na segurança e no bem-estar dos seus colaboradores. Entre em contato conosco e solicite um orçamento!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 407,
+    "caracteres": 2785,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 792760
+  }
+}

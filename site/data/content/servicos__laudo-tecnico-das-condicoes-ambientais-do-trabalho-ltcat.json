@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/laudo-tecnico-das-condicoes-ambientais-do-trabalho-ltcat",
+  "slug": "servicos/laudo-tecnico-das-condicoes-ambientais-do-trabalho-ltcat",
+  "tipo": "servico",
+  "cluster": "insalubridade",
+  "temCidades": false,
+  "pilar": "/servicos/laudo-de-tecnico-de-insalubridade-e-periculosidade-ltip",
+  "title": "Laudo técnico das Condições Ambientais do Trabalho - LTCAT - Previsio Engenharia",
+  "h1": "Laudo técnico das Condições Ambientais do Trabalho - LTCAT",
+  "breadcrumb": null,
+  "description": "Laudo técnico das Condições Ambientais do Trabalho - LTCAT - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industr...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/laudo-tecnico-das-condicoes-ambientais-do-trabalho-ltcat",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Laudo técnico das Condições Ambientais do Trabalho - LTCAT</span></p>\n\t\t\t\t\t\t<p>Trata-se de um demonstrativo das condições do ambiente de trabalho para fins previdenciários. Define para a previ-dência social, conforme decreto 3048/99, quem tem ou não direito a aposentadoria ou pensão especial, e é a base para emissão do PPP, junto com o PCMSO e o PGR.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 58,
+    "caracteres": 349,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469721
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/planos-de-emergencia",
+  "slug": "servicos/planos-de-emergencia",
+  "tipo": "pilar",
+  "cluster": "emergencia",
+  "temCidades": false,
+  "pilar": "/servicos/planos-de-emergencia",
+  "title": "Planos de Emergência - Previsio Engenharia",
+  "h1": "Planos de Emergência",
+  "breadcrumb": null,
+  "description": "Planos de Emergência - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidiscip...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/planos-de-emergencia",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Planos de Emergência</span></p>\n\t\t\t\t\t\t<p>Tem por finalidade mapear todas as situações de emergência da empresa e estabelecer procedimentos e treinamentos a fim de direcionar as ações da forma mais segura. Estabelece o que fazer em casos de emergências médicas, incêndios, vazamen-tos ambientais ou outros eventos de risco.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 49,
+    "caracteres": 319,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 468997
+  }
+}

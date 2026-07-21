@@ -1,0 +1,39 @@
+{
+  "path": "/servicos",
+  "slug": "servicos",
+  "tipo": "institucional",
+  "cluster": "institucional",
+  "temCidades": false,
+  "pilar": null,
+  "title": "Serviços - Previsio Engenharia",
+  "h1": "Serviços",
+  "breadcrumb": null,
+  "description": "Serviços - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada por uma equipe multidisciplinar de pro...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/servicos/servico-01.webp",
+      "width": null,
+      "height": null,
+      "alt": "Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 3,
+      "texto": "Plano de Prevenção e Proteção contra Incêndios - PPCI"
+    }
+  ],
+  "bodyHtml": "<img class=\"image__servico\" src=\"https://www.previsio.com.br/imagens/servicos/servico-01.webp\" alt=\"Previsio Engenharia\" title=\"Previsio Engenharia\" loading=\"lazy\">\n                        <h3 class=\"servico__title light pt-5 fs-18\">Plano de Prevenção e Proteção contra Incêndios - PPCI</h3>\n                        <p class=\"servico__desc\">É um conjunto de ações e documentos elaborados para edificações de ocupação coletiva com o objetivo de prevenir e combater...</p>\n                        <a class=\"btn btn--primary\" href=\"https://www.previsio.com.br/servicos/plano-de-prevencao-e-protecao-contra-incendios-ppci\" title=\"Saiba mais\">Saiba mais</a>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 31,
+    "caracteres": 190,
+    "linksInternos": 235,
+    "h1NoDom": 1,
+    "bytesOriginal": 425257
+  }
+}

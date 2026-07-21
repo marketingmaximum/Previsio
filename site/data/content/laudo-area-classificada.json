@@ -1,0 +1,69 @@
+{
+  "path": "/laudo-area-classificada",
+  "slug": "laudo-area-classificada",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": true,
+  "pilar": "/servicos/nr-10",
+  "title": "Laudo de área classificada - Previsio Engenharia",
+  "h1": "Laudo de área classificada",
+  "breadcrumb": "Laudo de área classificada",
+  "description": "Laudo de área classificada, você veio ao lugar certo! a é especializada em laudo de área classificada e oferece uma ampla gama de... Saiba mais.",
+  "descriptionCorrigida": "Laudo de área classificada, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo de área classificada e oferece uma ampla gama de... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-area-classificada",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-area-classificada-01.webp",
+      "width": "600",
+      "height": "400",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-area-classificada-02.webp",
+      "width": "600",
+      "height": "398",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-area-classificada-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do laudo de área classificada"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como funciona o processo de elaboração do laudo de área classificada?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de contar com a PREVISIO ENGENHARIA para emissão do laudo de área classificada"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios de ter um laudo de área classificada"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em contato conosco e garanta a segurança da sua empresa!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do laudo de área classificada</h2>\n\n                        <p>O laudo de área classificada é um documento fundamental para empresas que lidam com riscos de explosão ou incêndio em suas instalações, seja devido à presença de gases, vapores ou poeiras inflamáveis.</p>\n\n                        <p>Essa avaliação detalhada e classificação das áreas de risco é essencial para garantir a segurança dos trabalhadores e o cumprimento das normas de segurança do trabalho, como a NR 10 e NR 20.</p>\n\n                        <h2>Como funciona o processo de elaboração do laudo de área classificada?</h2>\n\n                        <p>O processo de elaboração do laudo de área classificada envolve uma análise minuciosa das instalações, identificação dos agentes inflamáveis presentes, avaliação dos riscos e classificação das áreas conforme a probabilidade de ocorrência de atmosferas explosivas.</p>\n\n                        <p>É um documento técnico que requer profissionais qualificados e experientes para sua elaboração.</p>\n\n                        <h2>Vantagens de contar com a PREVISIO ENGENHARIA para emissão do laudo de área classificada</h2>\n\n                        <p>A PREVISIO ENGENHARIA, com sua vasta experiência em Engenharia de Segurança do Trabalho e Automação Industrial, oferece um serviço completo e especializado na emissão do laudo de área classificada.</p>\n\n                        <p>Com profissionais qualificados e conhecimento técnico aprofundado, a empresa garante um processo eficiente, seguro e em conformidade com as normas vigentes.</p>\n\n                        <h3>Benefícios de ter um laudo de área classificada</h3>\n\n                        <p>Manter o laudo de área classificada sempre atualizado traz inúmeros benefícios para a empresa, como a prevenção de acidentes graves, a proteção dos colaboradores, o cumprimento das normas regulamentadoras e a redução de passivos trabalhistas.</p>\n\n                        <p>Além disso, demonstra o compromisso da organização com a segurança e a saúde de todos os envolvidos.</p>\n\n                        <h2>Entre em contato conosco e garanta a segurança da sua empresa!</h2>\n\n                        <p>A PREVISIO ENGENHARIA está à disposição para ajudar a sua empresa na emissão do laudo de área classificada e em todos os serviços relacionados à Engenharia de Segurança do Trabalho.</p>\n\n                        <p>Conte com nossa expertise, qualidade e comprometimento para manter a segurança e a conformidade em sua empresa. Entre em contato conosco e saiba mais sobre como podemos ajudar!</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 324,
+    "caracteres": 2122,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791039
+  }
+}

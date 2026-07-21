@@ -1,0 +1,69 @@
+{
+  "path": "/laudo-adequacao-nr12",
+  "slug": "laudo-adequacao-nr12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": true,
+  "pilar": "/servicos/nr-12",
+  "title": "Laudo de adequação nr12 - Previsio Engenharia",
+  "h1": "Laudo de adequação nr12",
+  "breadcrumb": "Laudo de adequação nr12",
+  "description": "Laudo de adequação nr12, você veio ao lugar certo! a é especializada em laudo de adequação nr12 e oferece uma ampla gama de serviços... Saiba mais.",
+  "descriptionCorrigida": "Laudo de adequação nr12, você veio ao lugar certo! A Previsio Engenharia é especializada em laudo de adequação nr12 e oferece uma ampla gama de serviços... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/laudo-adequacao-nr12",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/laudo-adequacao-nr12-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-adequacao-nr12-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/laudo-adequacao-nr12-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "A importância do laudo de adequação nr12"
+    },
+    {
+      "nivel": 3,
+      "texto": "Benefícios da realização do laudo de adequação nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Processo de elaboração do laudo de adequação nr12"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços oferecidos pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA!"
+    }
+  ],
+  "bodyHtml": "<h2>A importância do laudo de adequação nr12</h2>\n\n                        <p>O laudo de adequação nr12 é um documento fundamental para as empresas que possuem máquinas e equipamentos, pois ele verifica se os mesmos estão em conformidade com os requisitos de segurança estabelecidos pela Norma Regulamentadora 12.</p>\n\n                        <p>Essa norma visa garantir a proteção dos trabalhadores, prevenindo acidentes e promovendo um ambiente de trabalho seguro.</p>\n\n                        <h3>Benefícios da realização do laudo de adequação nr12</h3>\n\n                        <p>Empresas que investem na realização do laudo de adequação nr12 garantem não apenas a conformidade legal, mas também evitam custos com reparos emergenciais e prolongam a vida útil dos equipamentos industriais.</p>\n\n                        <p>Além disso, demonstram preocupação com a segurança dos colaboradores, o que contribui para um clima organizacional mais saudável.</p>\n\n                        <h2>Processo de elaboração do laudo de adequação nr12</h2>\n\n                        <p>O processo de elaboração do laudo de adequação nr12 envolve a análise de riscos, a verificação de dispositivos de proteção, a realização de treinamentos operacionais e a documentação de todo o procedimento.</p>\n\n                        <p>É fundamental contar com uma empresa especializada em Engenharia de Segurança do Trabalho, como a PREVISIO ENGENHARIA, para garantir a qualidade e a precisão do laudo.</p>\n\n                        <h2>Serviços oferecidos pela PREVISIO ENGENHARIA</h2>\n\n                        <p>Localizada em São Leopoldo–RS, a PREVISIO ENGENHARIA oferece uma ampla gama de serviços em Engenharia de Segurança do Trabalho e Automação Industrial.</p>\n\n                        <p>Com mais de mil clientes atendidos e experiência em grandes projetos, a empresa realiza desde reformas de máquinas até treinamentos de segurança do trabalho, incluindo a elaboração de laudos e adequações conforme a NR-12.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA!</h2>\n\n                        <p>A PREVISIO ENGENHARIA se destaca no mercado pela sua expertise técnica, comprometimento com a segurança dos trabalhadores e excelência na execução de projetos.</p>\n\n                        <p>Além disso, a empresa oferece consultoria para a regularização do e-social, proteção jurídica da empresa e documentação completa referente à segurança do trabalho.</p>\n\n                        <p>Diante da importância do laudo de adequação nr12 para as empresas, é essencial contar com uma parceira de confiança como a PREVISIO ENGENHARIA.</p>\n\n                        <p>Entre em contato conosco e garanta a segurança e o bem-estar dos seus colaboradores, além de estar conforme a legislação vigente.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 339,
+    "caracteres": 2262,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790800
+  }
+}

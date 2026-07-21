@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/perfil-profissiografico-previdenciario-ppp",
+  "slug": "servicos/perfil-profissiografico-previdenciario-ppp",
+  "tipo": "servico",
+  "cluster": "esocial",
+  "temCidades": false,
+  "pilar": "/servicos/lancamentos-no-esocial",
+  "title": "Perfil Profissiográfico Previdenciário - PPP - Previsio Engenharia",
+  "h1": "Perfil Profissiográfico Previdenciário - PPP",
+  "breadcrumb": null,
+  "description": "Perfil Profissiográfico Previdenciário - PPP - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada po...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/perfil-profissiografico-previdenciario-ppp",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Perfil Profissiográfico Previdenciário - PPP</span></p>\n\t\t\t\t\t\t<p>É um documento que reúne algumas informações, dados administrativos, regis-tros ambientais e resultados de monitora-ção biológica, do trabalhador. Deve ser preenchido pelas empresas que admitam trabalhadores como empregados e deve ser entregue no desligamento do trabalhador e sempre que solicitado para fins previden-ciários. A partir de janeiro de 2023 o PPP passou a ser emitido em formato digital.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 66,
+    "caracteres": 463,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469570
+  }
+}

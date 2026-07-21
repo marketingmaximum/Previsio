@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/plano-de-prevencao-e-protecao-contra-incendios-ppci",
+  "slug": "servicos/plano-de-prevencao-e-protecao-contra-incendios-ppci",
+  "tipo": "servico",
+  "cluster": "emergencia",
+  "temCidades": false,
+  "pilar": "/servicos/planos-de-emergencia",
+  "title": "Plano de Prevenção e Proteção contra Incêndios - PPCI - Previsio Engenharia",
+  "h1": "Plano de Prevenção e Proteção contra Incêndios - PPCI",
+  "breadcrumb": null,
+  "description": "Plano de Prevenção e Proteção contra Incêndios - PPCI - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial f...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/plano-de-prevencao-e-protecao-contra-incendios-ppci",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Plano de Prevenção e Proteção contra Incêndios - PPCI</span></p>\n\t\t\t\t\t\t<p>É um conjunto de ações e documentos elaborados para edificações de ocupação coletiva com o objetivo de prevenir e combater situações de incêndio. Trata-se de uma exigência do corpo de bombeiros para liberação de alvará. A Previsio assessora o processo do início ao fim até que a efetiva regularização ocorra.</p>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 62,
+    "caracteres": 379,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469697
+  }
+}

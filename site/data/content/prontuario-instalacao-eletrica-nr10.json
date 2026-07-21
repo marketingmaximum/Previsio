@@ -1,0 +1,69 @@
+{
+  "path": "/prontuario-instalacao-eletrica-nr10",
+  "slug": "prontuario-instalacao-eletrica-nr10",
+  "tipo": "servico",
+  "cluster": "nr-10",
+  "temCidades": true,
+  "pilar": "/servicos/nr-10",
+  "title": "Prontuário de instalação elétrica nr10 - Previsio Engenharia",
+  "h1": "Prontuário de instalação elétrica nr10",
+  "breadcrumb": "Prontuário de instalação elétrica nr10",
+  "description": "Prontuário de instalação elétrica nr10, você veio ao lugar certo! a é especializada em prontuário de instalação elétrica nr10 e oferece... Saiba mais.",
+  "descriptionCorrigida": "Prontuário de instalação elétrica nr10, você veio ao lugar certo! A Previsio Engenharia é especializada em prontuário de instalação elétrica nr10 e oferece... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/prontuario-instalacao-eletrica-nr10",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/prontuario-instalacao-eletrica-nr10-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/prontuario-instalacao-eletrica-nr10-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/prontuario-instalacao-eletrica-nr10-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o prontuário de instalação elétrica nr10?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Importância do prontuário de instalação elétrica nr10"
+    },
+    {
+      "nivel": 2,
+      "texto": "Serviços oferecidos pela PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Vantagens de contar com a PREVISIO ENGENHARIA"
+    },
+    {
+      "nivel": 2,
+      "texto": "Conte com a PREVISIO ENGENHARIA para o seu prontuário de instalação elétrica nr10"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o prontuário de instalação elétrica nr10?</h2>\n\n                        <p>O prontuário de instalação elétrica nr10 é um documento fundamental para as empresas que lidam com instalações elétricas, pois ele contém informações detalhadas sobre as condições de segurança e as medidas adotadas para garantir a proteção dos trabalhadores. De acordo com a Norma Regulamentadora 10 (NR10), é obrigatório que as empresas elaborem e mantenham atualizado o prontuário, demonstrando conformidade com as normas de segurança.</p>\n\n                        <h2>Importância do prontuário de instalação elétrica nr10</h2>\n\n                        <p>A elaboração e manutenção do prontuário de instalação elétrica nr10 são essenciais para garantir um ambiente de trabalho seguro e em conformidade com as normas regulamentadoras. Ao documentar todas as informações relevantes sobre as instalações elétricas, os procedimentos de segurança e os treinamentos realizados, as empresas demonstram seu compromisso com a segurança e bem-estar dos colaboradores.</p>\n\n                        <h2>Serviços oferecidos pela PREVISIO ENGENHARIA</h2>\n\n                        <p>A PREVISIO ENGENHARIA, empresa especializada em Engenharia de Segurança do Trabalho, oferece uma ampla gama de serviços para auxiliar as empresas na adequação às normas de segurança, incluindo a elaboração e atualização do prontuário de instalação elétrica nr10. Com expertise técnica e vasta experiência no setor, a empresa se destaca pela qualidade de seus serviços e pelo comprometimento com a segurança dos trabalhadores.</p>\n\n                        <h2>Vantagens de contar com a PREVISIO ENGENHARIA</h2>\n\n                        <p>Ao escolher a PREVISIO ENGENHARIA para elaborar e manter o prontuário de instalação elétrica nr10, as empresas garantem um serviço de excelência, realizado por profissionais qualificados e comprometidos com a segurança no ambiente de trabalho. Além disso, a empresa oferece um atendimento personalizado, buscando sempre atender às necessidades específicas de cada cliente de forma eficiente e eficaz.</p>\n\n                        <h2>Conte com a PREVISIO ENGENHARIA para o seu prontuário de instalação elétrica nr10</h2>\n\n                        <p>Se sua empresa busca garantir a segurança e a conformidade com as normas regulamentadoras no que diz respeito às instalações elétricas, conte com a expertise da PREVISIO ENGENHARIA. Entre em contato conosco e saiba mais sobre nossos serviços de engenharia de segurança do trabalho e como podemos ajudar a sua empresa a manter um ambiente de trabalho seguro e livre de riscos elétricos.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 344,
+    "caracteres": 2329,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 791491
+  }
+}

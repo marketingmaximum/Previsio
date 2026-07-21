@@ -1,0 +1,26 @@
+{
+  "path": "/servicos/medicao-de-tempo-de-parada-em-maquinas-nr12",
+  "slug": "servicos/medicao-de-tempo-de-parada-em-maquinas-nr12",
+  "tipo": "servico",
+  "cluster": "nr-12",
+  "temCidades": false,
+  "pilar": "/servicos/nr-12",
+  "title": "Medição de tempo de parada em máquinas (NR12) - Previsio Engenharia",
+  "h1": "Medição de tempo de parada em máquinas (NR12)",
+  "breadcrumb": null,
+  "description": "Medição de tempo de parada em máquinas (NR12) - Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação Industrial formada p...Saiba...",
+  "descriptionCorrigida": null,
+  "canonical": "https://www.previsio.com.br/servicos/medicao-de-tempo-de-parada-em-maquinas-nr12",
+  "robots": "index,follow",
+  "imagens": [],
+  "headings": [],
+  "bodyHtml": "<p class=\"fw-400 fs-24 light\">Saiba mais sobre <span class=\"fw-600\">Medição de tempo de parada em máquinas (NR12)</span></p>\n\t\t\t\t\t\t<ul>\n<li><strong>Medição de tempo de parada em máquinas (NR12)<br><span style=\"font-weight: 400;\">A Previsio possui equipamento próprio para medição do tempo de parada em máquinas com movimentação linear ou rotativa, com o objetivo de dimensionar corretamente o distanciamento de cortinas de luz e sistemas ópticos, conforme a NR-12.</span></strong></li>\n</ul>",
+  "conteinerUsado": "div.col-* (heurística)",
+  "metricas": {
+    "palavras": 54,
+    "caracteres": 343,
+    "linksInternos": 236,
+    "h1NoDom": 1,
+    "bytesOriginal": 469558
+  }
+}

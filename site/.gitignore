@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.astro/
+
+# Credenciais — nunca versionar
+.env
+.env.*
+!.env.example
+
+# HTML bruto do site atual: ~185 MB, reproduzível com `npm run fetch`.
+# O que é versionado é a saída processada (data/content/, data/baseline.csv).
+data/raw/
+data/fetch-status.json

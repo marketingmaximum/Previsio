@@ -1,0 +1,69 @@
+{
+  "path": "/treinamento-ergonomia",
+  "slug": "treinamento-ergonomia",
+  "tipo": "servico",
+  "cluster": "ergonomia",
+  "temCidades": true,
+  "pilar": "/servicos/analise-ergonomica",
+  "title": "Treinamento ergonomia - Previsio Engenharia",
+  "h1": "Treinamento ergonomia",
+  "breadcrumb": "Treinamento ergonomia",
+  "description": "Treinamento ergonomia, você veio ao lugar certo! a é especializada em treinamento ergonomia e oferece uma ampla gama de serviços para... Saiba mais.",
+  "descriptionCorrigida": "Treinamento ergonomia, você veio ao lugar certo! A Previsio Engenharia é especializada em treinamento ergonomia e oferece uma ampla gama de serviços para... Saiba mais.",
+  "canonical": "https://www.previsio.com.br/treinamento-ergonomia",
+  "robots": "index,follow",
+  "imagens": [
+    {
+      "src": "/imagens/informacoes/treinamento-ergonomia-01.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-ergonomia-02.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    },
+    {
+      "src": "/imagens/informacoes/treinamento-ergonomia-03.webp",
+      "width": "600",
+      "height": "337",
+      "alt": "Imagem Ilustrando Previsio Engenharia",
+      "bloqueadaNoRobots": true
+    }
+  ],
+  "headings": [
+    {
+      "nivel": 2,
+      "texto": "O que é o treinamento ergonomia?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Benefícios do treinamento ergonomia"
+    },
+    {
+      "nivel": 2,
+      "texto": "Como a Previsio Engenharia Pode te Ajudar"
+    },
+    {
+      "nivel": 2,
+      "texto": "Por que Escolher a Previsio Engenharia?"
+    },
+    {
+      "nivel": 2,
+      "texto": "Entre em Contato Conosco"
+    }
+  ],
+  "bodyHtml": "<h2>O que é o treinamento ergonomia?</h2>\n\n                        <p>O treinamento ergonomia visa adaptar o ambiente de trabalho às necessidades dos colaboradores, prevenindo lesões e desconfortos relacionados ao uso de equipamentos inadequados. É um conjunto de técnicas e práticas que buscam otimizar a relação entre o trabalhador e suas atividades laborais, garantindo conforto, segurança e eficiência.</p>\n\n                        <h2>Benefícios do treinamento ergonomia</h2>\n\n                        <p>O investimento em treinamento ergonomia traz inúmeros benefícios tanto para os colaboradores quanto para a empresa. Ao proporcionar um ambiente de trabalho adequado, as organizações reduzem o absenteísmo, aumentam a produtividade, melhoram a qualidade de vida dos funcionários e evitam problemas de saúde ocupacional.</p>\n\n                        <h2>Como a Previsio Engenharia Pode te Ajudar</h2>\n\n                        <p>A Previsio Engenharia, especializada em Engenharia de Segurança do Trabalho, oferece soluções completas em treinamento ergonômico. Com vasta experiência e expertise no mercado, a empresa disponibiliza treinamentos personalizados de acordo com as necessidades de cada cliente, visando sempre a prevenção de acidentes e a promoção da saúde no ambiente de trabalho.</p>\n\n                        <h2>Por que Escolher a Previsio Engenharia?</h2>\n\n                        <p>A Previsio Engenharia se destaca pela qualidade de seus serviços e pela atenção dedicada a cada projeto. Com uma equipe de profissionais altamente qualificados, a empresa garante um atendimento personalizado e eficiente, buscando sempre superar as expectativas dos clientes. Além disso, a Previsio Engenharia conta com uma ampla carteira de clientes satisfeitos, comprovando a excelência de seus trabalhos.</p>\n\n                        <h2>Entre em Contato Conosco</h2>\n\n                        <p>Se você busca melhorar as condições de trabalho em sua empresa e garantir a saúde e segurança dos seus colaboradores, não hesite em entrar em contato com a Previsio Engenharia. Estamos à disposição para oferecer as melhores soluções em treinamento ergonomia e contribuir para o sucesso do seu negócio.</p>",
+  "conteinerUsado": "article",
+  "metricas": {
+    "palavras": 276,
+    "caracteres": 1902,
+    "linksInternos": 238,
+    "h1NoDom": 1,
+    "bytesOriginal": 790460
+  }
+}
