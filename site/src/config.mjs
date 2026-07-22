@@ -34,6 +34,14 @@ export const WHATSAPP_MSG =
 export const waLink = (msg = WHATSAPP_MSG) =>
   `https://wa.me/${EMPRESA.whatsapp}?text=${encodeURIComponent(msg)}`;
 
+// Tracking — IDs de produção da Previsio (GTM-COMO-USAR.md). O GTM dispara
+// GA4/Ads/Meta; a página só alimenta o dataLayer.
+export const GTM_ID = 'GTM-TN7JVR7R';
+
+// Webhook n8n que recebe os leads (mesmo da LP-01). Todo formulário posta aqui.
+export const WEBHOOK_LEAD =
+  'https://n8n.srv981504.hstgr.cloud/webhook/541d74f5-8247-43b8-911f-a55340132a0d';
+
 /**
  * Clusters do mega-menu, na ordem de exibição.
  * Usado onde é preciso a lista achatada (rodapé, mapa do site).
