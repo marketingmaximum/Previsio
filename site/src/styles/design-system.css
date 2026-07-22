@@ -454,6 +454,8 @@ h1, h2, h3, h4 {
 
 /* hub de pilar — grade das páginas do cluster */
 .hub { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+.hub--3 { grid-template-columns: repeat(3, 1fr); }
+@media (max-width: 900px) { .hub--3 { grid-template-columns: repeat(2, 1fr); } }
 .hub__i {
   display: flex;
   align-items: center;

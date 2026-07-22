@@ -124,25 +124,13 @@ const schema =
     </div>
   </section>
 
-  <section class="sec">
-    <div class="container">
-      <div class="pagina">
-        <div>
-          {pagina.imagens.length > 0 && !ehArtigo && !ehPilar && (
-            <div class="galeria">
-              {pagina.imagens.slice(0, 3).map((img) => (
-                <img src={img.src} alt={img.alt ?? pagina.h1} width={img.width} height={img.height} loading="lazy" />
-              ))}
-            </div>
-          )}
-
-          {enriquecido?.resposta && (
-            <div class="resposta">
-              <p>{enriquecido.resposta}</p>
-            </div>
-          )}
-
-          {corpoB && !ehPilar ? (
+  {ehPilar ? (
+    <>
+      {/* Pilar/hub: largura total, sem sidebar — o próprio hub é a navegação */}
+      <section class="sec">
+        <div class="container container--narrow">
+          {enriquecido?.resposta && <div class="resposta"><p>{enriquecido.resposta}</p></div>}
+          {corpoB ? (
             <>
               <div class="prose" set:html={corpoA} />
               <Interludio variante={hashSlug % 3} titulo={pagina.h1} contexto={rotuloCluster} />
@@ -151,9 +139,17 @@ const schema =
           ) : (
             <div class="prose" set:html={corpo} />
           )}
+        </div>
+      </section>
 
-          {ehPilar && filhas.length > 0 && (
-            <div class="hub" style="margin-top:28px">
+      {filhas.length > 0 && (
+        <section class="sec sec--soft">
+          <div class="container">
+            <div class="sec__head" style="text-align:center;margin:0 auto 34px">
+              <span class="eyebrow">Soluções</span>
+              <h2 class="sec__title">Serviços de {rotuloCluster}</h2>
+            </div>
+            <div class="hub hub--3">
               {filhas.map((p) => (
                 <a class="hub__i" href={p.path}>
                   <strong>{p.h1}</strong>
@@ -161,52 +157,101 @@ const schema =
                 </a>
               ))}
             </div>
-          )}
+          </div>
+        </section>
+      )}
 
-          {enriquecido?.faq && <FAQ itens={enriquecido.faq} />}
+      {enriquecido?.faq && (
+        <section class="sec">
+          <div class="container container--narrow"><FAQ itens={enriquecido.faq} /></div>
+        </section>
+      )}
 
-          {pagina.temCidades && <Cidades termo={pagina.h1} />}
-
-          <div style="margin-top:40px;display:flex;gap:14px;flex-wrap:wrap">
-            <a href="/contato" class="btn btn--green">Solicitar um orçamento</a>
-            <a
-              href={waLink(`Olá, gostaria de saber mais sobre ${pagina.h1}.`)}
-              class="btn btn--outline"
-              target="_blank"
-              rel="noopener"
-              data-evento="whatsapp_conteudo"
-            >
-              Orçamento por WhatsApp
-            </a>
+      <section class="cta-foto">
+        <img src={heroDe(pagina)} alt="" />
+        <div class="container">
+          <div style="max-width:640px">
+            <h2 class="sec__title">Fale com nossos especialistas</h2>
+            <p style="color:var(--on-navy);font-size:1.07rem;margin-bottom:26px">
+              Atendimento em todo o território nacional, com resposta no mesmo dia útil.
+            </p>
+            <div class="hero__cta">
+              <a href="/contato" class="btn btn--green btn--lg">Solicitar um orçamento</a>
+              <a href={waLink(`Olá, gostaria de saber mais sobre ${pagina.h1}.`)} class="btn btn--ghost btn--lg" target="_blank" rel="noopener" data-evento="whatsapp_pilar">Falar no WhatsApp</a>
+            </div>
           </div>
         </div>
+      </section>
+    </>
+  ) : (
+    <section class="sec">
+      <div class="container">
+        <div class="pagina">
+          <div>
+            {pagina.imagens.length > 0 && !ehArtigo && (
+              <div class="galeria">
+                {pagina.imagens.slice(0, 3).map((img) => (
+                  <img src={img.src} alt={img.alt ?? pagina.h1} width={img.width} height={img.height} loading="lazy" />
+                ))}
+              </div>
+            )}
 
-        <aside class="trilho">
-          <div class="trilho__box">
-            <h3>Fale com nossos especialistas</h3>
-            <p>Atendimento em todo o território nacional. Resposta no mesmo dia útil.</p>
-            <a href={`tel:${EMPRESA.telefoneLink}`} class="btn btn--green btn--sm" data-evento="click_telefone">
-              {EMPRESA.telefone}
-            </a>
+            {enriquecido?.resposta && <div class="resposta"><p>{enriquecido.resposta}</p></div>}
+
+            {corpoB ? (
+              <>
+                <div class="prose" set:html={corpoA} />
+                <Interludio variante={hashSlug % 3} titulo={pagina.h1} contexto={rotuloCluster} />
+                <div class="prose" set:html={corpoB} />
+              </>
+            ) : (
+              <div class="prose" set:html={corpo} />
+            )}
+
+            {enriquecido?.faq && <FAQ itens={enriquecido.faq} />}
+
+            {pagina.temCidades && <Cidades termo={pagina.h1} />}
+
+            <div style="margin-top:40px;display:flex;gap:14px;flex-wrap:wrap">
+              <a href="/contato" class="btn btn--green">Solicitar um orçamento</a>
+              <a
+                href={waLink(`Olá, gostaria de saber mais sobre ${pagina.h1}.`)}
+                class="btn btn--outline"
+                target="_blank"
+                rel="noopener"
+                data-evento="whatsapp_conteudo"
+              >
+                Orçamento por WhatsApp
+              </a>
+            </div>
           </div>
 
-          {/* No pilar o hub principal já lista as irmãs — não repetir aqui. */}
-          {!ehPilar && irmas.length > 1 && (
+          <aside class="trilho">
             <div class="trilho__box">
-              <h3>{rotuloCluster}</h3>
-              <ul class="trilho__lista">
-                {irmas.slice(0, 12).map((p) => (
-                  <li>
-                    <a href={p.path} aria-current={p.path === pagina.path ? 'page' : undefined}>
-                      {p.h1}
-                    </a>
-                  </li>
-                ))}
-              </ul>
+              <h3>Fale com nossos especialistas</h3>
+              <p>Atendimento em todo o território nacional. Resposta no mesmo dia útil.</p>
+              <a href={`tel:${EMPRESA.telefoneLink}`} class="btn btn--green btn--sm" data-evento="click_telefone">
+                {EMPRESA.telefone}
+              </a>
             </div>
-          )}
-        </aside>
+
+            {irmas.length > 1 && (
+              <div class="trilho__box">
+                <h3>{rotuloCluster}</h3>
+                <ul class="trilho__lista">
+                  {irmas.slice(0, 12).map((p) => (
+                    <li>
+                      <a href={p.path} aria-current={p.path === pagina.path ? 'page' : undefined}>
+                        {p.h1}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </aside>
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
+  )}
 </Base>
