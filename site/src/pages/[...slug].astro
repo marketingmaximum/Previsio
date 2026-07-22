@@ -116,9 +116,18 @@ const schema =
             <li>{c.href ? <a href={c.href}>{c.label}</a> : c.label}</li>
           ))}
         </ol>
+        {rotuloCluster && pagina.cluster !== 'institucional' && !ehArtigo && (
+          <span class="eyebrow eyebrow--light">{rotuloCluster}</span>
+        )}
         <h1 class="hero__title">{pagina.h1}</h1>
-        {rotuloCluster && pagina.cluster !== 'institucional' && (
-          <p class="hero__sub" style="margin-bottom:0">{rotuloCluster}</p>
+        {!ehArtigo && (
+          <>
+            <p class="hero__sub">Projeto, execução e laudo com engenheiro responsável — atendimento em todo o Brasil.</p>
+            <div class="hero__cta">
+              <a href="/contato" class="btn btn--green">Solicitar orçamento</a>
+              <a href={waLink(`Olá, gostaria de saber mais sobre ${pagina.h1}.`)} class="btn btn--ghost" data-evento="whatsapp_hero">Falar no WhatsApp</a>
+            </div>
+          </>
         )}
       </div>
     </div>
