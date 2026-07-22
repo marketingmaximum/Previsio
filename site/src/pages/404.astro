@@ -1,0 +1,29 @@
+---
+import Base from '../layouts/Base.astro';
+import { MENU_PRINCIPAL } from '../config.mjs';
+import { clustersComContagem } from '../lib/conteudo.mjs';
+
+const clusters = clustersComContagem(MENU_PRINCIPAL).slice(0, 6);
+---
+
+<Base title="Página não encontrada - Previsio Engenharia" description="A página que você procura não foi encontrada.">
+  <section class="sec" style="text-align:center;padding-top:90px">
+    <div class="container container--narrow">
+      <span class="eyebrow">Erro 404</span>
+      <h1 class="sec__title" style="font-size:clamp(2rem,4vw,2.6rem)">Página não encontrada</h1>
+      <p style="color:var(--muted);font-size:1.08rem;max-width:560px;margin:0 auto 30px">
+        O endereço que você acessou não existe ou foi movido. Veja as principais soluções ou volte à página inicial.
+      </p>
+      <div class="hero__cta" style="justify-content:center;margin-bottom:44px">
+        <a href="/" class="btn btn--green btn--lg">Voltar à página inicial</a>
+        <a href="/contato" class="btn btn--outline btn--lg">Falar com um especialista</a>
+      </div>
+
+      <div class="hub hub--3" style="text-align:left">
+        {clusters.map((c) => (
+          <a class="hub__i" href={c.pilar}><strong>{c.rotulo}</strong><span aria-hidden="true">→</span></a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>
