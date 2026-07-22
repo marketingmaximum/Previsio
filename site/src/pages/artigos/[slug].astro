@@ -1,0 +1,105 @@
+---
+import Base from '../../layouts/Base.astro';
+import FAQ from '../../components/FAQ.astro';
+import { EMPRESA, waLink } from '../../config.mjs';
+import { ARTIGOS_INFO, porPath } from '../../lib/conteudo.mjs';
+
+// Gera SÓ os artigos novos (informacionais). Os artigos migrados do site atual
+// continuam saindo do catch-all [...slug].astro — os slugs não se sobrepõem, e
+// esta rota é mais específica, então cada caminho é gerado por uma única rota.
+export function getStaticPaths() {
+  return ARTIGOS_INFO.map((a) => ({ params: { slug: a.slug }, props: { artigo: a } }));
+}
+
+const { artigo } = Astro.props;
+
+const rel = (artigo.relacionados ?? []).map((p) => porPath(p)).filter(Boolean);
+
+const dataFmt = new Date(artigo.data).toLocaleDateString('pt-BR', {
+  day: '2-digit',
+  month: 'long',
+  year: 'numeric',
+});
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'BlogPosting',
+      headline: artigo.titulo,
+      description: artigo.description,
+      datePublished: artigo.data,
+      url: `https://www.previsio.com.br/artigos/${artigo.slug}`,
+      author: { '@type': 'Organization', name: EMPRESA.nome },
+      publisher: { '@type': 'Organization', name: EMPRESA.nome },
+    },
+    ...(artigo.faq?.length
+      ? [
+          {
+            '@type': 'FAQPage',
+            mainEntity: artigo.faq.map((it) => ({
+              '@type': 'Question',
+              name: it.q,
+              acceptedAnswer: { '@type': 'Answer', text: it.a },
+            })),
+          },
+        ]
+      : []),
+  ],
+};
+---
+
+<Base
+  title={`${artigo.titulo} - Previsio Engenharia`}
+  description={artigo.description}
+  canonical={`https://www.previsio.com.br/artigos/${artigo.slug}`}
+  schema={schema}
+>
+  <section class="hero hero--page">
+    <div class="hero__media"><img src="/img/hero/nr-12.jpg" alt="" width="1600" height="1064" /></div>
+    <div class="hero__scrim"></div>
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb"><li><a href="/">Home</a></li><li><a href="/artigos">Artigos</a></li><li>{artigo.titulo}</li></ol>
+        <h1 class="hero__title">{artigo.titulo}</h1>
+        <p class="hero__sub" style="margin-bottom:0">Publicado em {dataFmt}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container container--narrow">
+      <div class="resposta"><p>{artigo.resposta}</p></div>
+      <div class="prose" set:html={artigo.corpo} />
+
+      {artigo.faq && <FAQ itens={artigo.faq} />}
+
+      {rel.length > 0 && (
+        <div class="artigo-rel">
+          <h2>Serviços relacionados</h2>
+          <div class="hub">
+            {rel.map((p) => (
+              <a class="hub__i" href={p.path}><strong>{p.h1}</strong><span aria-hidden="true">→</span></a>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  </section>
+
+  <section class="cta-foto">
+    <img src="/img/cta-industria.jpg" alt="" />
+    <div class="container">
+      <div style="max-width:640px">
+        <h2 class="sec__title">Precisa adequar suas máquinas à NR-12?</h2>
+        <p style="color:var(--on-navy);font-size:1.07rem;margin-bottom:26px">
+          Fale com os especialistas da Previsio — do diagnóstico ao laudo com ART.
+        </p>
+        <div class="hero__cta">
+          <a href="/contato" class="btn btn--green btn--lg">Solicitar orçamento</a>
+          <a href={waLink('Olá, vim pelo blog da Previsio e gostaria de falar sobre adequação NR-12.')} class="btn btn--ghost btn--lg" target="_blank" rel="noopener" data-evento="whatsapp_artigo">Falar no WhatsApp</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

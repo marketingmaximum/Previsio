@@ -1,14 +1,16 @@
 ---
 import Base from '../layouts/Base.astro';
-import { porPath, ARTIGOS } from '../lib/conteudo.mjs';
+import { porPath, ARTIGOS, ARTIGOS_INFO } from '../lib/conteudo.mjs';
 
 const pagina = porPath('/artigos');
 
-// Capa de cada post (primeira imagem do corpo, em /doutor/uploads/).
-const posts = ARTIGOS.map((p) => {
+// Artigos novos (informacionais) primeiro; depois os migrados do site atual.
+const novos = ARTIGOS_INFO.map((a) => ({ path: a.path, h1: a.h1, capa: '/img/hero/nr-12.jpg', novo: true }));
+const migrados = ARTIGOS.map((p) => {
   const m = (p.bodyHtml ?? '').match(/src="([^"]+\.(?:webp|jpg|png))"/i);
-  return { ...p, capa: m ? m[1].replace('https://www.previsio.com.br', '') : null };
+  return { path: p.path, h1: p.h1, capa: m ? m[1].replace('https://www.previsio.com.br', '') : null };
 });
+const posts = [...novos, ...migrados];
 ---
 
 <Base
@@ -35,6 +37,7 @@ const posts = ARTIGOS.map((p) => {
           <a class="post" href={p.path}>
             <div class="post__capa">
               {p.capa ? <img src={p.capa} alt={p.h1} loading="lazy" /> : <span class="post__ph" aria-hidden="true">Previsio</span>}
+              {p.novo && <span class="post__tag">NR-12</span>}
             </div>
             <h3>{p.h1}</h3>
             <span class="post__link">Ler artigo →</span>

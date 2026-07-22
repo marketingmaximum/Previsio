@@ -61,8 +61,26 @@ export function clustersComContagem(ordem) {
     .filter((c) => c.total > 0);
 }
 
-/** Artigos do blog (exclui o índice /artigos). */
+/** Artigos migrados do site atual (extraídos, formato bodyHtml). */
 export const ARTIGOS = PAGINAS.filter((p) => p.tipo === 'artigo');
+
+// Artigos novos, informacionais (topo de funil). Formato próprio: resposta +
+// corpo + faq + relacionados. Normalizados para o índice do blog conviver com
+// os extraídos.
+import ARTIGOS_NOVOS from '../conteudo/artigos.mjs';
+
+export const ARTIGOS_INFO = ARTIGOS_NOVOS.map((a) => ({
+  ...a,
+  path: `/artigos/${a.slug}`,
+  h1: a.titulo,
+  novo: true,
+}));
+
+/** Todos os artigos para o índice — novos primeiro (mais recentes). */
+export const TODOS_ARTIGOS = [
+  ...ARTIGOS_INFO.map((a) => ({ path: a.path, h1: a.h1, capa: null, data: a.data })),
+  ...ARTIGOS.map((p) => ({ path: p.path, h1: p.h1, bodyHtml: p.bodyHtml, data: null })),
+];
 
 /**
  * Trilha de navegação. As URLs continuam planas, mas o breadcrumb expõe a
