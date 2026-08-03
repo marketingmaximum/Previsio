@@ -6,9 +6,13 @@ const pagina = porPath('/artigos');
 
 // Artigos novos (informacionais) primeiro; depois os migrados do site atual.
 const novos = ARTIGOS_INFO.map((a) => ({ path: a.path, h1: a.h1, capa: '/img/hero/nr-12.jpg', novo: true }));
+// Capas: primeira imagem do corpo; se não houver (ou ficaria o logo em fundo
+// escuro que o cliente apontou), cai numa foto real de fábrica.
+const CAPA_FALLBACK = '/img/hero/institucional.jpg';
 const migrados = ARTIGOS.map((p) => {
   const m = (p.bodyHtml ?? '').match(/src="([^"]+\.(?:webp|jpg|png))"/i);
-  return { path: p.path, h1: p.h1, capa: m ? m[1].replace('https://www.previsio.com.br', '') : null };
+  const capa = m ? m[1].replace('https://www.previsio.com.br', '') : CAPA_FALLBACK;
+  return { path: p.path, h1: p.h1, capa };
 });
 const posts = [...novos, ...migrados];
 ---

@@ -82,6 +82,14 @@ const filhas = ehPilar ? irmas.filter((p) => p.path !== pagina.path) : [];
 // Serviços relacionados nas folhas — substitui a lista da sidebar por cards.
 const relacionadas = irmas.filter((p) => p.path !== pagina.path).slice(0, 6);
 
+// Páginas de treinamento ganham o bloco das 3 modalidades (pedido do cliente).
+const ehTreinamento = /treinamento/.test(pagina.slug) || pagina.cluster === 'treinamentos';
+const MODALIDADES = [
+  { t: 'In-company', d: 'Presencial, na sua empresa, com conteúdo adaptado à operação.' },
+  { t: 'Remoto síncrono', d: 'Ao vivo, com o instrutor em tempo real via Teams.' },
+  { t: 'Flexível (EAD)', d: 'No seu ritmo, pela plataforma de cursos.', href: 'https://cursos.previsio.com.br' },
+];
+
 const breadcrumb = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -249,6 +257,26 @@ const schema =
           )}
         </div>
       </section>
+
+      {ehTreinamento && (
+        <section class="sec sec--soft">
+          <div class="container">
+            <div class="sec__head" style="text-align:center;margin:0 auto 30px">
+              <span class="eyebrow">Como participar</span>
+              <h2 class="sec__title">Três modalidades de treinamento</h2>
+            </div>
+            <div class="grid grid--3">
+              {MODALIDADES.map((m) => (
+                <div class="card">
+                  <h3>{m.t}</h3>
+                  <p>{m.d}</p>
+                  {m.href && <a class="card__link" href={m.href} rel="noopener">Ver cursos EAD →</a>}
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* Por que a Previsio — cards de diferencial com ícones */}
       <section class="sec sec--soft">
