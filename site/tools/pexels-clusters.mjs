@@ -38,7 +38,9 @@ async function buscar(query, perPage = 15) {
  * lado direito da imagem é o que aparece.
  */
 const HEROIS = [
-  { cluster: 'nr-12', query: 'industrial factory production line machine', escolha: 0 },
+  // nr-12 usa FOTO REAL de obra do cliente (Onduladeira), não Pexels — por isso
+  // fica fora desta lista, para o re-fetch não sobrescrever hero/nr-12.jpg.
+  // { cluster: 'nr-12', ... }
   { cluster: 'nr-10', query: 'painel eletrico industrial quadro', escolha: 3 },
   { cluster: 'spda', query: 'high voltage power transmission tower sky', escolha: 0 },
   { cluster: 'nr-35', query: 'industrial steel structure construction height', escolha: 0 },

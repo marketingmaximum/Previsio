@@ -726,6 +726,19 @@ h1, h2, h3, h4 {
 @media (max-width: 980px) { .logos { grid-template-columns: repeat(4, 1fr); } }
 @media (max-width: 560px) { .logos { grid-template-columns: repeat(3, 1fr); } }
 
+/* ---------- antes e depois ---------- */
+.antesdepois { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; max-width: 920px; margin: 0 auto; }
+.antesdepois figure { position: relative; margin: 0; border-radius: var(--r); overflow: hidden; box-shadow: var(--sh-lg); aspect-ratio: 4 / 3; }
+.antesdepois img { width: 100%; height: 100%; object-fit: cover; }
+.antesdepois figcaption {
+  position: absolute; top: 12px; left: 12px;
+  font-weight: 700; font-size: 0.78rem; letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 5px 13px; border-radius: 999px; color: #fff;
+}
+.antesdepois figure:first-child figcaption { background: rgba(214, 69, 79, 0.92); }
+.antesdepois figure:last-child figcaption { background: var(--green); }
+@media (max-width: 680px) { .antesdepois { grid-template-columns: 1fr; } }
+
 /* ---------- faixa de prova ---------- */
 .trust { background: var(--navy); color: #fff; }
 .trust__in { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; padding: 26px 0; }
