@@ -20,6 +20,7 @@ const organization = {
   email: EMPRESA.email,
   telephone: EMPRESA.telefone,
   foundingDate: String(EMPRESA.desde),
+  ...(EMPRESA.cnpj ? { taxID: EMPRESA.cnpj } : {}),
   address: {
     '@type': 'PostalAddress',
     streetAddress: e.rua,

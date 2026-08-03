@@ -164,13 +164,13 @@ export default {
   // ---------------------------------------------- EMPRESA SEG. DO TRABALHO
   '/empresa-seguranca-do-trabalho': {
     resposta:
-      'A Previsio Engenharia é uma empresa de engenharia de segurança do trabalho e automação industrial sediada em São Leopoldo/RS, atuando desde 2016. Com equipe multidisciplinar e mais de 1.000 clientes atendidos no Brasil e no exterior, entrega laudos, projetos, adequações e treinamentos para manter as empresas seguras e em conformidade.',
+      'A Previsio Engenharia é uma empresa de engenharia de segurança do trabalho sediada em São Leopoldo/RS, atuando desde 2016. Com equipe multidisciplinar e mais de 1.000 clientes atendidos no Brasil e no exterior, entrega laudos, projetos, adequações e treinamentos para manter as empresas seguras e em conformidade.',
     corpo: `
       <h2>Por que contratar uma empresa de segurança do trabalho</h2>
       <p>Contar com uma empresa especializada em segurança do trabalho é essencial para garantir um ambiente seguro, proteger a integridade física dos funcionários e evitar acidentes. Uma empresa como essa dá o suporte técnico para identificar riscos, implementar medidas de proteção e manter a organização em conformidade com as normas regulamentadoras.</p>
 
       <h2>A Previsio Engenharia</h2>
-      <p>A Previsio Engenharia é uma empresa de Engenharia de Segurança do Trabalho e Automação Industrial sediada em São Leopoldo/RS, atuando desde 2016. Com equipe multidisciplinar e mais de 1.000 clientes atendidos, tem experiência na condução de projetos de grande porte em todo o Brasil e no exterior.</p>
+      <p>A Previsio Engenharia é uma empresa de Engenharia de Segurança do Trabalho sediada em São Leopoldo/RS, atuando desde 2016. Com equipe multidisciplinar e mais de 1.000 clientes atendidos, tem experiência na condução de projetos de grande porte em todo o Brasil e no exterior.</p>
 
       <h2>O que oferecemos</h2>
       <ul>

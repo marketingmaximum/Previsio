@@ -170,7 +170,7 @@ export default {
       <p>O registro correto das condições de trabalho e dos agentes de risco é o que dá respaldo a direitos dos trabalhadores e à conformidade da empresa. Ao manter esse evento em dia, a empresa demonstra compromisso com a saúde ocupacional e reduz o risco de autuações relacionadas a atividades insalubres ou perigosas.</p>
 
       <h2>O lançamento do 2240 com a Previsio</h2>
-      <p>A Previsio Engenharia, especializada em engenharia de segurança do trabalho e automação industrial desde 2016, oferece um serviço completo para o lançamento do eSocial 2240. Nossa equipe garante a correta transmissão das informações, assegurando o cumprimento das normas e a segurança dos trabalhadores. Já atendemos mais de mil clientes em todo o território nacional.</p>
+      <p>A Previsio Engenharia, especializada em engenharia de segurança do trabalho desde 2016, oferece um serviço completo para o lançamento do eSocial 2240. Nossa equipe garante a correta transmissão das informações, assegurando o cumprimento das normas e a segurança dos trabalhadores. Já atendemos mais de mil clientes em todo o território nacional.</p>
     `,
     faq: [
       {
@@ -230,7 +230,7 @@ export default {
       <p>Empresas que realizam esse lançamento corretamente garantem a conformidade com as obrigações trabalhistas, reduzem acidentes e protegem os trabalhadores. Além disso, ajudam a criar uma cultura de segurança no ambiente de trabalho, promovendo mais proteção e eficiência.</p>
 
       <h2>Por que escolher a Previsio Engenharia</h2>
-      <p>Localizada em São Leopoldo/RS e especializada em engenharia de segurança do trabalho e automação industrial desde 2016, a Previsio conta com mais de mil clientes atendidos e experiência na condução de projetos em todo o território nacional. Apoiamos a empresa nos lançamentos de segurança do eSocial, mantendo os eventos de SST em conformidade com as normas.</p>
+      <p>Localizada em São Leopoldo/RS e especializada em engenharia de segurança do trabalho desde 2016, a Previsio conta com mais de mil clientes atendidos e experiência na condução de projetos em todo o território nacional. Apoiamos a empresa nos lançamentos de segurança do eSocial, mantendo os eventos de SST em conformidade com as normas.</p>
     `,
     faq: [
       {
@@ -299,7 +299,7 @@ export default {
       <p>Um dos papéis centrais do PPP é registrar os agentes nocivos aos quais o trabalhador esteve exposto ao longo de sua carreira. Esse histórico é o que dá respaldo ao reconhecimento de condições prejudiciais à saúde e à concessão de benefícios, o que torna a precisão do documento decisiva para o trabalhador.</p>
 
       <h2>A elaboração do PPP pela Previsio Engenharia</h2>
-      <p>Referência em engenharia de segurança do trabalho e automação industrial, a Previsio já atendeu mais de mil clientes e elabora o PPP com uma equipe altamente qualificada. Garantimos que todas as exigências legais sejam cumpridas e que as condições de trabalho dos colaboradores sejam devidamente registradas, com precisão e agilidade.</p>
+      <p>Referência em engenharia de segurança do trabalho, a Previsio já atendeu mais de mil clientes e elabora o PPP com uma equipe altamente qualificada. Garantimos que todas as exigências legais sejam cumpridas e que as condições de trabalho dos colaboradores sejam devidamente registradas, com precisão e agilidade.</p>
     `,
     faq: [
       {
@@ -359,7 +359,7 @@ export default {
       <p>A adoção do PPP eletrônico traz vantagens para as empresas. Além de facilitar a gestão e o armazenamento dos dados, a versão digital agiliza o envio das informações ao INSS, garantindo mais precisão e rapidez nos processos administrativos. Com ele, a empresa cumpre as exigências legais e ganha eficiência no controle das exposições e dos riscos ocupacionais.</p>
 
       <h2>Como a Previsio Engenharia ajuda</h2>
-      <p>Especializada em engenharia de segurança do trabalho e automação industrial, a Previsio conta com uma equipe técnica qualificada para elaborar e manter o PPP eletrônico da sua empresa. Já atendemos mais de mil clientes, com projetos conduzidos em todo o Brasil, sempre em conformidade com as exigências legais.</p>
+      <p>Especializada em engenharia de segurança do trabalho, a Previsio conta com uma equipe técnica qualificada para elaborar e manter o PPP eletrônico da sua empresa. Já atendemos mais de mil clientes, com projetos conduzidos em todo o Brasil, sempre em conformidade com as exigências legais.</p>
     `,
     faq: [
       {
@@ -422,7 +422,7 @@ export default {
       <p>Ao realizar a regularização, a empresa evita multas e sanções, pois passa a estar em conformidade com as normas, e contribui para a prevenção de acidentes e doenças ocupacionais.</p>
 
       <h2>Como a Previsio Engenharia ajuda</h2>
-      <p>Localizada em São Leopoldo/RS, a Previsio é especializada em engenharia de segurança do trabalho e automação industrial e oferece diversos serviços para a regularização do eSocial. Entre eles, o fornecimento de toda a documentação referente à segurança do trabalho — incluindo projeto e execução —, a regularização do eSocial em si e a consultoria voltada à proteção jurídica da empresa.</p>
+      <p>Localizada em São Leopoldo/RS, a Previsio é especializada em engenharia de segurança do trabalho e oferece diversos serviços para a regularização do eSocial. Entre eles, o fornecimento de toda a documentação referente à segurança do trabalho — incluindo projeto e execução —, a regularização do eSocial em si e a consultoria voltada à proteção jurídica da empresa.</p>
 
       <h2>Vantagens da regularização</h2>
       <p>Além de evitar penalidades legais, a regularização contribui para a promoção da segurança e da saúde dos trabalhadores, aumentando a produtividade e a qualidade dos serviços. Com uma equipe qualificada e mais de mil clientes atendidos, a Previsio oferece soluções personalizadas para cada empresa, garantindo um ambiente de trabalho seguro e em conformidade.</p>

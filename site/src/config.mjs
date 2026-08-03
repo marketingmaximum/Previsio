@@ -6,10 +6,9 @@
  */
 export const EMPRESA = {
   nome: 'Previsio Engenharia',
-  // TODO(cliente): subtítulo oficial em aberto. Guia de marca e logo dizem
-  // "Segurança do Trabalho e Meio Ambiente"; o APT diz "...e Automação
-  // Industrial"; o <title> da home atual diz "automação industrial".
-  // Definir antes do go-live — afeta logo, title da home e schema.
+  // Subtítulo oficial confirmado pelo cliente (03/08/2026): "Segurança do
+  // Trabalho". SEM "Meio Ambiente" e SEM "Automação Industrial" (a automação
+  // é da CODA). A logo em imagem ainda será refeita pelas designers.
   subtitulo: 'Engenharia de Segurança do Trabalho',
   telefone: '(51) 3466-9601',
   telefoneLink: '+555134669601',
@@ -23,9 +22,9 @@ export const EMPRESA = {
     cep: '93040-350',
   },
   desde: 2016,
-  // TODO(cliente): CNPJ e RT nomeado + CREA continuam pendentes.
-  cnpj: null,
-  responsavelTecnico: null,
+  // Confirmados pelo cliente (03/08/2026).
+  cnpj: '26.244.431/0001-97',
+  responsavelTecnico: { nome: 'Rodrigo', crea: 'CREA-RS 113630' },
 };
 
 export const WHATSAPP_MSG =

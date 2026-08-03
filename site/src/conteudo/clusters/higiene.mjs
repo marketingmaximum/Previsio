@@ -66,7 +66,7 @@ export default {
       <p>A medição permite identificar áreas de risco, o que orienta a implementação de ações corretivas e preventivas. Além de melhorar as condições de trabalho, ajuda a garantir o cumprimento das normas e a evitar multas e sanções decorrentes do descumprimento das regulamentações.</p>
 
       <h2>Como a Previsio atua</h2>
-      <p>Especializada em engenharia de segurança do trabalho e automação industrial, a Previsio oferece serviços para auxiliar as empresas na realização da medição ambiental e na adequação às normas. A atuação é personalizada, ajustada às necessidades específicas de cada cliente.</p>
+      <p>Especializada em engenharia de segurança do trabalho, a Previsio oferece serviços para auxiliar as empresas na realização da medição ambiental e na adequação às normas. A atuação é personalizada, ajustada às necessidades específicas de cada cliente.</p>
 
       <h2>Da medição às adequações</h2>
       <p>Os resultados da medição orientam as próximas etapas — de ajustes no ambiente a documentações e adequações. Com foco na segurança e na excelência operacional, o objetivo é entregar ambientes de trabalho seguros e em conformidade com a legislação.</p>
@@ -143,7 +143,7 @@ export default {
       <p>Enquanto o laudo avalia e documenta as condições térmicas existentes, o projeto vai além: define as soluções de engenharia para corrigir os problemas identificados e alcançar o conforto adequado.</p>
 
       <h2>Como a Previsio desenvolve</h2>
-      <p>Especializada em engenharia de segurança do trabalho e automação industrial, a Previsio desenvolve projetos personalizados de acordo com as necessidades de cada cliente, com equipe qualificada e compromisso com a segurança e o bem-estar dos colaboradores.</p>
+      <p>Especializada em engenharia de segurança do trabalho, a Previsio desenvolve projetos personalizados de acordo com as necessidades de cada cliente, com equipe qualificada e compromisso com a segurança e o bem-estar dos colaboradores.</p>
     `,
     faq: [
       {

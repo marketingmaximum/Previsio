@@ -15,6 +15,7 @@ const schema = {
   url: 'https://www.previsio.com.br/contato',
   telephone: EMPRESA.telefone,
   email: EMPRESA.email,
+  ...(EMPRESA.cnpj ? { taxID: EMPRESA.cnpj } : {}),
   address: {
     '@type': 'PostalAddress',
     streetAddress: `${e.rua} - ${e.bairro}`,

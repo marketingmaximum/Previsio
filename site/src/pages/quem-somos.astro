@@ -43,10 +43,9 @@ const schema = {
           <span class="eyebrow">Quem somos</span>
           <h2 class="sec__title">Nós Somos a Previsio Engenharia</h2>
           <p style="color:var(--muted)">
-            Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho e Automação
-            Industrial formada por uma equipe multidisciplinar de profissionais com ampla
-            experiência técnica na condução de grandes projetos em todo território nacional
-            e no exterior.
+            Somos uma empresa gaúcha de Engenharia de Segurança do Trabalho formada por
+            uma equipe multidisciplinar de profissionais com ampla experiência técnica na
+            condução de grandes projetos em todo território nacional e no exterior.
           </p>
           <p style="color:var(--muted)">A Previsio possui mão de obra técnica para atender todas as necessidades da sua empresa:</p>
           <ul class="checklist">
@@ -102,19 +101,23 @@ const schema = {
     </div>
   </div>
 
-  <section class="sec">
-    <div class="container">
-      <div class="sec__head" style="text-align:center;margin:0 auto 34px">
-        <span class="eyebrow">Confiança</span>
-        <h2 class="sec__title">Alguns de nossos clientes</h2>
+  {/* Seção de logos de clientes em STAND-BY (03/08/2026): o cliente vai coletar
+      as autorizações antes de exibir. Reativar quando liberarem. */}
+  {false && (
+    <section class="sec">
+      <div class="container">
+        <div class="sec__head" style="text-align:center;margin:0 auto 34px">
+          <span class="eyebrow">Confiança</span>
+          <h2 class="sec__title">Alguns de nossos clientes</h2>
+        </div>
+        <div class="logos">
+          {logos.map((src) => (
+            <div class="logos__i"><img src={src} alt="Cliente Previsio Engenharia" loading="lazy" /></div>
+          ))}
+        </div>
       </div>
-      <div class="logos">
-        {logos.map((src) => (
-          <div class="logos__i"><img src={src} alt="Cliente Previsio Engenharia" loading="lazy" /></div>
-        ))}
-      </div>
-    </div>
-  </section>
+    </section>
+  )}
 
   <section class="cta-foto">
     <img src="/img/cta-industria.jpg" alt="" />

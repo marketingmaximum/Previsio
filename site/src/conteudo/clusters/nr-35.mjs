@@ -40,7 +40,7 @@ export default {
       </ul>
 
       <h2>Por que trabalhar com a Previsio</h2>
-      <p>Somos uma empresa de Engenharia de Segurança do Trabalho e Automação Industrial sediada em São Leopoldo/RS, atuando desde 2016 e com mais de mil clientes atendidos. Projetamos os meios de acesso, executamos as proteções e reunimos a documentação que comprova a conformidade.</p>
+      <p>Somos uma empresa de Engenharia de Segurança do Trabalho sediada em São Leopoldo/RS, atuando desde 2016 e com mais de mil clientes atendidos. Projetamos os meios de acesso, executamos as proteções e reunimos a documentação que comprova a conformidade.</p>
       <p>Conheça abaixo cada serviço do escopo de NR-35 — da análise de risco ao prontuário:</p>
     `,
     faq: [

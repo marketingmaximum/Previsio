@@ -534,7 +534,7 @@ export default {
       <p>Atender às normas de segurança é fundamental para proteger a saúde dos trabalhadores e evitar sanções legais e prejuízos financeiros. A análise de riscos é a base desse cumprimento: alimenta o inventário de riscos e o plano de ação e orienta as demais medidas de prevenção da empresa.</p>
 
       <h2>Previsio Engenharia, especialista em análise de riscos</h2>
-      <p>Sediada em São Leopoldo/RS, a Previsio é especializada em engenharia de segurança do trabalho e automação industrial, com ampla experiência em análises de riscos nos mais diversos ambientes. Com mais de mil clientes atendidos e uma equipe técnica qualificada, oferecemos soluções personalizadas para cada operação.</p>
+      <p>Sediada em São Leopoldo/RS, a Previsio é especializada em engenharia de segurança do trabalho, com ampla experiência em análises de riscos nos mais diversos ambientes. Com mais de mil clientes atendidos e uma equipe técnica qualificada, oferecemos soluções personalizadas para cada operação.</p>
     `,
     faq: [
       {
@@ -571,7 +571,7 @@ export default {
       <p>Nossa equipe conduz avaliações detalhadas em todas as áreas de risco e elabora relatórios completos com recomendações precisas para a mitigação de perigos. Esse diagnóstico serve de base para os documentos de gestão de riscos, como o inventário de riscos e o plano de ação.</p>
 
       <h2>Por que escolher a Previsio Engenharia</h2>
-      <p>Sediada em São Leopoldo/RS, a Previsio é referência em engenharia de segurança do trabalho e automação industrial. Com mais de mil clientes atendidos e projetos conduzidos em todo o Brasil e no exterior, unimos expertise técnica e atendimento personalizado em cada análise.</p>
+      <p>Sediada em São Leopoldo/RS, a Previsio é referência em engenharia de segurança do trabalho. Com mais de mil clientes atendidos e projetos conduzidos em todo o Brasil e no exterior, unimos expertise técnica e atendimento personalizado em cada análise.</p>
     `,
     faq: [
       {

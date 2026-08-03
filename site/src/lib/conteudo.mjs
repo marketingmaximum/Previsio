@@ -28,9 +28,27 @@ export function heroDe(pagina) {
 // dentro de dist/ e o build quebra.
 const ARQUIVOS = import.meta.glob('../../data/content/*.json', { eager: true });
 
+// Cliente confirmou (03/08/2026): a marca é "Segurança do Trabalho" — sem
+// "Automação Industrial" (que é da CODA). Removemos a expressão do conteúdo
+// PRESERVADO do site antigo (meta descriptions, corpo dos artigos migrados),
+// já que o conteúdo reescrito por nós já não a usa.
+const semAutomacao = (s) =>
+  typeof s === 'string'
+    ? s.replace(/\s+e\s+Automação\s+Industrial/gi, '').replace(/\s+e\s+automação\s+industrial/gi, '')
+    : s;
+
 /** Todas as páginas, ordenadas por path. */
 export const PAGINAS = Object.values(ARQUIVOS)
-  .map((m) => m.default ?? m)
+  .map((m) => {
+    const p = m.default ?? m;
+    return {
+      ...p,
+      title: semAutomacao(p.title),
+      description: semAutomacao(p.description),
+      descriptionCorrigida: semAutomacao(p.descriptionCorrigida),
+      bodyHtml: semAutomacao(p.bodyHtml),
+    };
+  })
   .sort((a, b) => a.path.localeCompare(b.path));
 
 export const porPath = (path) => PAGINAS.find((p) => p.path === path) ?? null;

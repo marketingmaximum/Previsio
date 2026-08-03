@@ -26,6 +26,14 @@ const e = EMPRESA.endereco;
           <a href={`tel:${EMPRESA.telefoneLink}`} data-evento="click_telefone">{EMPRESA.telefone}</a><br />
           <a href={`mailto:${EMPRESA.email}`}>{EMPRESA.email}</a>
         </p>
+        {EMPRESA.cnpj && (
+          <p class="ft__nap ft__meta">
+            CNPJ: {EMPRESA.cnpj}
+            {EMPRESA.responsavelTecnico && (
+              <><br />Responsável Técnico: {EMPRESA.responsavelTecnico.nome} — {EMPRESA.responsavelTecnico.crea}</>
+            )}
+          </p>
+        )}
       </div>
 
       <div>

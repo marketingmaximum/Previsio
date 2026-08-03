@@ -3,9 +3,13 @@ import Base from '../layouts/Base.astro';
 import { EMPRESA, MENU_PRINCIPAL, DESCRICAO_CLUSTER, waLink } from '../config.mjs';
 import { porPath, clustersComContagem } from '../lib/conteudo.mjs';
 
-// Title e description vêm do site atual, 1:1. Paridade na Fase 1 (§3 do plano):
-// otimizar copy junto com replatform impede diagnosticar queda de tráfego.
+// Title e description da home REESCRITOS a pedido do cliente: a marca é
+// "Segurança do Trabalho" — sem "automação industrial" (que é da CODA). Por
+// isso não usamos mais o title/description preservados do site antigo aqui.
 const atual = porPath('/');
+const HOME_TITLE = 'Segurança do Trabalho - Previsio Engenharia';
+const HOME_DESC =
+  'Engenharia de segurança do trabalho: adequação NR-12, laudos, projetos e treinamentos. Do diagnóstico ao laudo com ART, com projeto e execução sob o mesmo teto. Desde 2016, atendimento em todo o Brasil.';
 
 // NR-12 em destaque: é o carro-chefe declarado pelo cliente ("tem um monte de
 // soluções, mas a gente vai sempre focar na NR-12"). As outras viram lista.
@@ -24,8 +28,8 @@ const ETAPAS = [
 ---
 
 <Base
-  title={atual?.title ?? 'Segurança do trabalho e automação industrial - Previsio Engenharia'}
-  description={atual?.descriptionCorrigida ?? atual?.description}
+  title={HOME_TITLE}
+  description={HOME_DESC}
   canonical="https://www.previsio.com.br/"
 >
   <section class="hero hero--home">
@@ -47,7 +51,7 @@ const ETAPAS = [
           Segurança do trabalho que <span class="hl">não para</span> a sua produção
         </h1>
         <p class="hero__sub">
-          Engenharia de segurança do trabalho e automação industrial: do diagnóstico ao
+          Engenharia de segurança do trabalho: do diagnóstico ao
           laudo com ART, com projeto e execução sob o mesmo teto.
         </p>
         <div class="hero__cta">

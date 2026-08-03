@@ -41,7 +41,7 @@ export default {
       </ul>
 
       <h2>Soluções de NR-11 da Previsio</h2>
-      <p>Reunimos o escopo de movimentação de cargas sob o mesmo fornecedor: adequação de equipamentos, inspeção de estruturas de movimentação, laudos estruturais e treinamento de operadores. Somos uma empresa de Engenharia de Segurança do Trabalho e Automação Industrial sediada em São Leopoldo/RS, atuando desde 2016 e com mais de mil clientes atendidos.</p>
+      <p>Reunimos o escopo de movimentação de cargas sob o mesmo fornecedor: adequação de equipamentos, inspeção de estruturas de movimentação, laudos estruturais e treinamento de operadores. Somos uma empresa de Engenharia de Segurança do Trabalho sediada em São Leopoldo/RS, atuando desde 2016 e com mais de mil clientes atendidos.</p>
       <p>Conheça abaixo cada serviço do escopo de NR-11 — da adequação ao treinamento:</p>
     `,
     faq: [
@@ -129,7 +129,7 @@ export default {
       },
       {
         q: 'A Previsio executa a adequação?',
-        a: 'Sim. Conduzimos as etapas de inspeção, revisão e instalação de dispositivos de segurança, com equipe qualificada em Engenharia de Segurança do Trabalho e Automação Industrial.',
+        a: 'Sim. Conduzimos as etapas de inspeção, revisão e instalação de dispositivos de segurança, com equipe qualificada em Engenharia de Segurança do Trabalho.',
       },
       FAQ_REGIAO,
     ],
@@ -413,7 +413,7 @@ export default {
       </ul>
 
       <h2>Como a Previsio conduz o treinamento</h2>
-      <p>Somos uma empresa de Engenharia de Segurança do Trabalho e Automação Industrial, com sede em São Leopoldo/RS, atuando desde 2016 e com mais de mil clientes atendidos. Nossos treinamentos para veículos autopropelidos são ministrados por profissionais qualificados e experientes, garantindo a qualidade e a eficácia do aprendizado.</p>
+      <p>Somos uma empresa de Engenharia de Segurança do Trabalho, com sede em São Leopoldo/RS, atuando desde 2016 e com mais de mil clientes atendidos. Nossos treinamentos para veículos autopropelidos são ministrados por profissionais qualificados e experientes, garantindo a qualidade e a eficácia do aprendizado.</p>
     `,
     faq: [
       {
