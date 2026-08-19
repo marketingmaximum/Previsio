@@ -49,29 +49,39 @@ export default {
   // --------------------------------------------------- ASSÉDIO NO TRABALHO
   '/treinamento-assedio-no-trabalho': {
     resposta:
-      'O treinamento sobre assédio no trabalho conscientiza os colaboradores sobre as formas de assédio moral e sexual e as estratégias de prevenção e combate, promovendo um ambiente de respeito. A Previsio ministra o treinamento in-company, ajudando a empresa a cumprir suas obrigações legais e a fortalecer a cultura organizacional.',
+      'A NR-01 passou a exigir que as empresas considerem os riscos psicossociais — como o assédio moral e sexual — no gerenciamento de riscos ocupacionais, por meio da Análise Ergonômica Preliminar (AEP), conforme a NR-17. O treinamento de combate ao assédio prepara a equipe para identificar e prevenir essas situações, atendendo à exigência legal e promovendo um ambiente de respeito.',
     corpo: `
-      <h2>O que é o treinamento sobre assédio no trabalho</h2>
-      <p>O treinamento sobre assédio no trabalho educa os colaboradores sobre as diversas formas de assédio moral e sexual que podem ocorrer no ambiente profissional. Ao trazer informações claras e estratégias de prevenção e combate, ele contribui para uma cultura organizacional pautada no respeito mútuo e na valorização do bem-estar das pessoas.</p>
+      <h2>O que é o treinamento de combate ao assédio</h2>
+      <p>O treinamento conscientiza os colaboradores sobre as formas de assédio moral e sexual que podem ocorrer no ambiente profissional e ensina estratégias de prevenção, identificação e combate. É um passo essencial na prevenção dos riscos psicossociais e na construção de uma cultura organizacional pautada no respeito.</p>
 
-      <h2>Principais benefícios</h2>
+      <h2>O que mudou: riscos psicossociais na NR-01</h2>
+      <p>A NR-01 passou a exigir que todas as empresas considerem os riscos psicossociais no ambiente de trabalho — como o assédio moral e sexual — dentro do gerenciamento de riscos ocupacionais. Esses riscos devem estar explicitamente previstos na Análise Ergonômica Preliminar (AEP).</p>
+
+      <h2>A conexão com a NR-17</h2>
+      <p>A NR-17 (Ergonomia) reconhece que aspectos organizacionais, relacionais e emocionais impactam diretamente a saúde dos trabalhadores. A partir dessa exigência, os riscos psicossociais passam a integrar explicitamente a avaliação ergonômica da empresa.</p>
+
+      <h2>Por que o treinamento é essencial</h2>
       <ul>
-        <li><strong>Prevenção de conflitos</strong> — ao entender o que caracteriza o assédio, a equipe evita conflitos e constrói relações mais harmoniosas;</li>
-        <li><strong>Ambiente respeitoso</strong> — colaboradores tornam-se aptos a identificar e denunciar situações de assédio;</li>
-        <li><strong>Atendimento às exigências legais</strong> — o treinamento apoia o cumprimento das obrigações relacionadas à segurança e à saúde no trabalho, reduzindo riscos de sanções.</li>
+        <li>Prepara a equipe para identificar e prevenir o assédio;</li>
+        <li>Reduz riscos trabalhistas e legais;</li>
+        <li>Promove um ambiente de respeito e acolhimento;</li>
+        <li>Garante conformidade com as exigências legais atualizadas.</li>
       </ul>
 
-      <h2>Como a Previsio conduz</h2>
-      <p>A Previsio ministra o treinamento in-company, adaptado à realidade da empresa, com profissionais qualificados. O foco é promover um ambiente de trabalho seguro, acolhedor e livre de práticas abusivas, ao mesmo tempo em que se reforça a conformidade legal.</p>
+      <h2>Quem deve se preparar</h2>
+      <p>Indústrias de todos os tamanhos, setores administrativos e operacionais, lideranças e RH — toda empresa que valoriza as pessoas e quer prevenir problemas antes que eles surjam.</p>
+
+      <h2>Como a Previsio ajuda</h2>
+      <p>Oferecemos treinamentos práticos e personalizados, ministrados in-company, que ajudam a sua equipe a reconhecer comportamentos inadequados, agir com segurança e construir um ambiente mais saudável e produtivo.</p>
     `,
     faq: [
       {
-        q: 'O que é o treinamento sobre assédio no trabalho?',
-        a: 'É a capacitação que conscientiza os colaboradores sobre as formas de assédio moral e sexual e ensina estratégias de prevenção, denúncia e combate, promovendo um ambiente de respeito.',
+        q: 'O que mudou na NR-01 sobre riscos psicossociais?',
+        a: 'A NR-01 passou a exigir que as empresas considerem os riscos psicossociais — como o assédio moral e sexual — no gerenciamento de riscos, com esses riscos explicitamente previstos na Análise Ergonômica Preliminar (AEP), conforme a NR-17.',
       },
       {
         q: 'Para quem o treinamento é indicado?',
-        a: 'Para toda a organização — lideranças e equipes —, já que a prevenção ao assédio depende de conscientização e de cultura em todos os níveis.',
+        a: 'Para toda a organização — indústrias de qualquer porte, setores administrativos e operacionais, lideranças e RH. A prevenção ao assédio depende de conscientização em todos os níveis.',
       },
       IN_COMPANY,
       REGIAO,

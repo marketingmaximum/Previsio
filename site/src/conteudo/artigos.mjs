@@ -230,4 +230,49 @@ export default [
     ],
     relacionados: ['/adequacao-nr12', '/inventario-maquinas-nr-12', '/servicos/nr-12'],
   },
+
+  {
+    slug: 'riscos-psicossociais-na-nr01-o-que-muda',
+    titulo: 'Riscos psicossociais na NR-01: o que muda para a sua empresa',
+    data: '2026-08-01',
+    description:
+      'A NR-01 passou a exigir que as empresas considerem os riscos psicossociais, como o assédio. Entenda a mudança, a conexão com a NR-17 e o que fazer.',
+    resposta:
+      'A NR-01 passou a exigir que as empresas considerem os riscos psicossociais — como o assédio moral e sexual — no gerenciamento de riscos ocupacionais. Esses riscos devem estar explicitamente previstos na Análise Ergonômica Preliminar (AEP), conforme a NR-17, e a prevenção envolve avaliação, medidas de controle e treinamento das equipes.',
+    corpo: `
+      <h2>O que são riscos psicossociais</h2>
+      <p>Riscos psicossociais são fatores do ambiente e da organização do trabalho que afetam a saúde mental e emocional dos trabalhadores — entre eles o assédio moral e sexual, a sobrecarga, os conflitos e a pressão excessiva. Antes tratados de forma difusa, agora precisam ser gerenciados como qualquer outro risco ocupacional.</p>
+
+      <h2>O que mudou na NR-01</h2>
+      <p>A NR-01 passou a exigir que todas as empresas considerem os riscos psicossociais no gerenciamento de riscos ocupacionais. Na prática, esses riscos devem ser identificados, avaliados e controlados — e ficar explicitamente previstos na Análise Ergonômica Preliminar (AEP).</p>
+
+      <h2>A conexão com a NR-17</h2>
+      <p>A NR-17 (Ergonomia) reconhece que aspectos organizacionais, relacionais e emocionais impactam diretamente a saúde dos trabalhadores. Por isso, os riscos psicossociais passam a integrar explicitamente a avaliação ergonômica da empresa, dentro da AEP.</p>
+
+      <h2>O que a sua empresa precisa fazer</h2>
+      <ul>
+        <li>Incluir os riscos psicossociais na avaliação de riscos (AEP e gestão de riscos);</li>
+        <li>Definir medidas de prevenção e controle;</li>
+        <li>Capacitar lideranças e equipes — o treinamento de combate ao assédio é parte central dessa preparação.</li>
+      </ul>
+
+      <h2>Por que agir agora</h2>
+      <p>Além de atender à exigência legal, gerenciar os riscos psicossociais reduz afastamentos, conflitos e passivos trabalhistas, e constrói um ambiente de trabalho mais saudável e produtivo. É um tema que deixou de ser opcional.</p>
+    `,
+    faq: [
+      {
+        q: 'A partir de quando os riscos psicossociais passam a ser exigidos?',
+        a: 'A exigência entrou em vigor com a atualização da NR-01. Recomendamos alinhar o cronograma de adequação com a nossa equipe para garantir a conformidade dentro do prazo aplicável à sua empresa.',
+      },
+      {
+        q: 'Onde os riscos psicossociais devem ser registrados?',
+        a: 'Eles devem estar explicitamente previstos na Análise Ergonômica Preliminar (AEP), conforme a NR-17, e integrados ao gerenciamento de riscos ocupacionais da empresa.',
+      },
+      {
+        q: 'Como a Previsio ajuda nessa adequação?',
+        a: 'Apoiamos a avaliação dos riscos psicossociais, a documentação na AEP e o treinamento de combate ao assédio — do diagnóstico à capacitação das equipes.',
+      },
+    ],
+    relacionados: ['/treinamento-assedio-no-trabalho', '/analise-ergonomica-preliminar-aep', '/servicos/analise-ergonomica'],
+  },
 ];
