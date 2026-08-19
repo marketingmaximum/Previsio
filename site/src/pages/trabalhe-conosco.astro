@@ -1,0 +1,122 @@
+---
+import Base from '../layouts/Base.astro';
+import { EMPRESA, WEBHOOK_LEAD } from '../config.mjs';
+
+// Página nova pedida pela Ianca (CODA/PREVISIO, 07/08/2026): formulário
+// "Trabalhe Conosco" para ela coletar/receber as candidaturas. URL nova
+// (/trabalhe-conosco) — não afeta as 235 URLs canônicas.
+const AREAS = [
+  'Engenharia de Segurança do Trabalho',
+  'Técnico(a) de Segurança do Trabalho',
+  'Projetos e Automação de Segurança',
+  'Administrativo / Financeiro',
+  'Comercial',
+  'Estágio',
+  'Outra',
+];
+---
+
+<Base
+  title="Trabalhe Conosco - Previsio Engenharia"
+  description="Faça parte da equipe da Previsio Engenharia. Envie seu currículo e some ao nosso time de engenharia de segurança do trabalho."
+  canonical="https://www.previsio.com.br/trabalhe-conosco"
+>
+  <section class="hero hero--page">
+    <div class="hero__media"><img src="/img/hero/institucional.jpg" alt="" width="1600" height="1064" /></div>
+    <div class="hero__scrim"></div>
+    <div class="container">
+      <div class="hero__in">
+        <ol class="crumb"><li><a href="/">Home</a></li><li>Trabalhe Conosco</li></ol>
+        <h1 class="hero__title">Trabalhe Conosco</h1>
+        <p class="hero__sub" style="margin-bottom:0">Some à equipe da Previsio Engenharia.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec">
+    <div class="container">
+      <div class="split" style="align-items:start">
+        <div>
+          <span class="eyebrow">Faça parte</span>
+          <h2 class="sec__title">Venha crescer com a gente</h2>
+          <p style="color:var(--muted)">
+            Somos uma equipe multidisciplinar de engenharia de segurança do trabalho,
+            com projetos em todo o Brasil. Se você quer fazer parte, preencha o formulário
+            e conte um pouco sobre você — vamos guardar seu contato para as oportunidades.
+          </p>
+          <ul class="checklist">
+            <li>Projetos reais de adequação e conformidade na indústria</li>
+            <li>Equipe técnica experiente, do projeto à execução</li>
+            <li>Ambiente de aprendizado contínuo</li>
+          </ul>
+        </div>
+
+        <div class="form-card">
+          <form id="rh-form" novalidate>
+            <div class="campo">
+              <label for="nome">Nome completo *</label>
+              <input id="nome" name="nome" type="text" required autocomplete="name" />
+            </div>
+            <div class="campo">
+              <label for="email">E-mail *</label>
+              <input id="email" name="email" type="email" required autocomplete="email" />
+            </div>
+            <div class="campo">
+              <label for="telefone">Telefone / WhatsApp *</label>
+              <input id="telefone" name="telefone" type="tel" required autocomplete="tel" />
+            </div>
+            <div class="campo">
+              <label for="area">Área de interesse</label>
+              <select id="area" name="area">
+                <option value="">Selecione</option>
+                {AREAS.map((a) => <option value={a}>{a}</option>)}
+              </select>
+            </div>
+            <div class="campo">
+              <label for="curriculo">Link do currículo (LinkedIn, Google Drive, PDF)</label>
+              <input id="curriculo" name="curriculo" type="url" placeholder="https://..." />
+            </div>
+            <div class="campo">
+              <label for="mensagem">Sobre você</label>
+              <textarea id="mensagem" name="mensagem" rows="4"></textarea>
+            </div>
+            <button type="submit" class="btn btn--green btn--block btn--lg">Enviar candidatura</button>
+            <p class="form-card__nota" hidden data-erro>Não foi possível enviar agora. Tente novamente.</p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script define:vars={{ endpoint: WEBHOOK_LEAD }}>
+    // Posta ao mesmo webhook n8n, com form_id próprio para a Ianca filtrar/rotear
+    // as candidaturas (destino específico a configurar no n8n).
+    const form = document.getElementById('rh-form');
+    form?.addEventListener('submit', async (ev) => {
+      ev.preventDefault();
+      const btn = form.querySelector('button[type=submit]');
+      const dados = Object.fromEntries(new FormData(form).entries());
+      if (!dados.nome?.trim() || !dados.email?.trim() || !dados.telefone?.trim()) return;
+      btn.disabled = true;
+      btn.setAttribute('aria-busy', 'true');
+      window.dataLayer = window.dataLayer || [];
+      try {
+        const ctrl = new AbortController();
+        const t = setTimeout(() => ctrl.abort(), 9000);
+        await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ...dados, form_id: 'trabalhe_conosco', canal: 'rh', page_url: location.href }),
+          signal: ctrl.signal,
+        });
+        clearTimeout(t);
+        window.dataLayer.push({ event: 'form_submit', canal: 'rh', form_id: 'trabalhe_conosco' });
+        form.innerHTML = '<p class="form-card__ok">Candidatura recebida! Vamos guardar seu contato e retornar quando houver oportunidade.</p>';
+      } catch {
+        form.querySelector('[data-erro]').hidden = false;
+        btn.disabled = false;
+        btn.removeAttribute('aria-busy');
+      }
+    });
+  </script>
+</Base>
