@@ -88,6 +88,7 @@ const GRUPOS = {
     'servicos/laudos-estruturais-nr-11',
   ],
   'nr-10': [
+    'pie', // Prontuário de Instalações Elétricas (confirmado pelo cliente)
     'analise-conformidade-nr10', 'nr10-laudo', 'prontuario-instalacao-eletrica',
     'prontuario-instalacao-eletrica-nr10', 'rti',
     'relatorio-tecnico-inspecao-das-instalacoes-eletricas-rti', 'ordem-servico-nr10',
@@ -174,9 +175,9 @@ const GRUPOS = {
     'servicos/programa-de-conservacao-auditiva-pca',
   ],
   emergencia: [
-    // `/pie` é Plano de Emergência, NÃO "Prontuário de Instalações Elétricas".
-    // Bug de intenção registrado no crawl — a URL engana, o conteúdo manda.
-    'pie', 'plano-emergencia', 'plano-acao-emergencia-pae', 'plano-acao-emergencia-resgate',
+    // `/pie` = Prontuário de Instalações Elétricas (confirmado pelo cliente em
+    // 24/08/2026; PAE = Plano de Ação de Emergência). Movido para o cluster nr-10.
+    'plano-emergencia', 'plano-acao-emergencia-pae', 'plano-acao-emergencia-resgate',
     'laudos-protecao-incendios-ppci', 'servicos/planos-de-emergencia',
     'servicos/plano-de-prevencao-e-protecao-contra-incendios-ppci',
   ],

@@ -103,41 +103,9 @@ export default {
   },
 
   // ---------------------------------------------------------------------- PIE
-  '/pie': {
-    resposta:
-      'O PIE (Plano de Emergência) é o conjunto de medidas e procedimentos a serem seguidos em situações de emergência no ambiente de trabalho, como incêndios, vazamentos químicos ou desastres naturais. Serve para proteger os colaboradores, reduzir danos materiais e humanos e garantir a segurança no local de trabalho.',
-    corpo: `
-      <h2>O que é o PIE</h2>
-      <p>O PIE (Plano de Emergência) é um conjunto de medidas e procedimentos essenciais a serem seguidos em situações de emergência no ambiente de trabalho. Essas emergências podem variar de incêndios e vazamentos químicos a desastres naturais, e o PIE define como agir em cada uma delas para proteger os colaboradores e reduzir danos materiais e humanos.</p>
-
-      <h2>Vantagens de implementar o PIE</h2>
-      <ul>
-        <li>Maior segurança para os funcionários;</li>
-        <li>Conformidade com as normas de segurança do trabalho;</li>
-        <li>Redução de danos materiais e humanos em casos de emergência;</li>
-        <li>Ambiente de trabalho mais preparado para situações de risco;</li>
-        <li>Reconhecimento como empresa preocupada com a segurança de seus colaboradores.</li>
-      </ul>
-
-      <h2>Como a Previsio apoia o PIE</h2>
-      <p>Sediada em São Leopoldo/RS e atuando desde 2016, com mais de mil clientes atendidos, a Previsio oferece serviços especializados para auxiliar na implementação e execução de um Plano de Emergência eficaz, sempre conforme as normas de segurança vigentes e adaptado às necessidades de cada cliente.</p>
-    `,
-    faq: [
-      {
-        q: 'O que significa PIE?',
-        a: 'Nesta página, PIE designa o Plano de Emergência — o conjunto de medidas e procedimentos a serem seguidos em situações de emergência no ambiente de trabalho, como incêndios, vazamentos químicos e desastres naturais.',
-      },
-      {
-        q: 'O PIE é obrigatório?',
-        a: 'A preparação para emergências integra as exigências das normas de segurança do trabalho. Implementar o PIE mantém a empresa em conformidade e protege colaboradores e patrimônio.',
-      },
-      {
-        q: 'A Previsio ajuda a implementar o PIE?',
-        a: 'Sim. Oferecemos serviços especializados para auxiliar na implementação e execução do Plano de Emergência, com equipe qualificada e solução adaptada a cada ambiente.',
-      },
-      FAQ_REGIAO,
-    ],
-  },
+  // /pie foi reclassificado para o cluster NR-10 (Prontuário de Instalações
+  // Elétricas) por confirmação do cliente (PIE = Prontuário; PAE = Plano de Ação
+  // de Emergência). Conteúdo agora em clusters/nr-10-pie.mjs.
 
   // --------------------------------------------------- PLANO DE AÇÃO DE EMERGÊNCIA (PAE)
   '/plano-acao-emergencia-pae': {

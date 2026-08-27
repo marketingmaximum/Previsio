@@ -55,7 +55,7 @@ export default {
       <p>O treinamento conscientiza os colaboradores sobre as formas de assédio moral e sexual que podem ocorrer no ambiente profissional e ensina estratégias de prevenção, identificação e combate. É um passo essencial na prevenção dos riscos psicossociais e na construção de uma cultura organizacional pautada no respeito.</p>
 
       <h2>O que mudou: riscos psicossociais na NR-01</h2>
-      <p>A NR-01 passou a exigir que todas as empresas considerem os riscos psicossociais no ambiente de trabalho — como o assédio moral e sexual — dentro do gerenciamento de riscos ocupacionais. Esses riscos devem estar explicitamente previstos na Análise Ergonômica Preliminar (AEP).</p>
+      <p>Desde <strong>26 de maio de 2026</strong>, a NR-01 exige que todas as empresas considerem os riscos psicossociais no ambiente de trabalho — como o assédio moral e sexual — dentro do gerenciamento de riscos ocupacionais. Esses riscos devem estar explicitamente previstos na Análise Ergonômica Preliminar (AEP).</p>
 
       <h2>A conexão com a NR-17</h2>
       <p>A NR-17 (Ergonomia) reconhece que aspectos organizacionais, relacionais e emocionais impactam diretamente a saúde dos trabalhadores. A partir dessa exigência, os riscos psicossociais passam a integrar explicitamente a avaliação ergonômica da empresa.</p>

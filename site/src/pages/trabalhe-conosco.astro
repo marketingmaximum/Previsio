@@ -106,7 +106,7 @@ const AREAS = [
         await fetch(endpoint, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ ...dados, form_id: 'trabalhe_conosco', canal: 'rh', page_url: location.href }),
+          body: JSON.stringify({ ...dados, form_id: 'trabalhe_conosco', canal: 'rh', destino: 'ianca@previsio.com.br', page_url: location.href }),
           signal: ctrl.signal,
         });
         clearTimeout(t);

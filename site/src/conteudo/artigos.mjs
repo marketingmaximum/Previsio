@@ -244,7 +244,7 @@ export default [
       <p>Riscos psicossociais são fatores do ambiente e da organização do trabalho que afetam a saúde mental e emocional dos trabalhadores — entre eles o assédio moral e sexual, a sobrecarga, os conflitos e a pressão excessiva. Antes tratados de forma difusa, agora precisam ser gerenciados como qualquer outro risco ocupacional.</p>
 
       <h2>O que mudou na NR-01</h2>
-      <p>A NR-01 passou a exigir que todas as empresas considerem os riscos psicossociais no gerenciamento de riscos ocupacionais. Na prática, esses riscos devem ser identificados, avaliados e controlados — e ficar explicitamente previstos na Análise Ergonômica Preliminar (AEP).</p>
+      <p>Desde <strong>26 de maio de 2026</strong>, a NR-01 passou a exigir que todas as empresas considerem os riscos psicossociais no gerenciamento de riscos ocupacionais. Na prática, esses riscos devem ser identificados, avaliados e controlados — e ficar explicitamente previstos na Análise Ergonômica Preliminar (AEP).</p>
 
       <h2>A conexão com a NR-17</h2>
       <p>A NR-17 (Ergonomia) reconhece que aspectos organizacionais, relacionais e emocionais impactam diretamente a saúde dos trabalhadores. Por isso, os riscos psicossociais passam a integrar explicitamente a avaliação ergonômica da empresa, dentro da AEP.</p>
@@ -262,7 +262,7 @@ export default [
     faq: [
       {
         q: 'A partir de quando os riscos psicossociais passam a ser exigidos?',
-        a: 'A exigência entrou em vigor com a atualização da NR-01. Recomendamos alinhar o cronograma de adequação com a nossa equipe para garantir a conformidade dentro do prazo aplicável à sua empresa.',
+        a: 'A exigência entrou em vigor em 26 de maio de 2026, com a atualização da NR-01. Recomendamos alinhar o quanto antes o cronograma de adequação com a nossa equipe para garantir a conformidade.',
       },
       {
         q: 'Onde os riscos psicossociais devem ser registrados?',
