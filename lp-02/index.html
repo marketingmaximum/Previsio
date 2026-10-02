@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Checklist de Risco Iminente NR-12 | Previsio Engenharia</title>
+<meta name="description" content="Máquina fora da NR-12 pode ser interditada e parar a sua produção. Confira 8 pontos da sua operação no Checklist de Risco Iminente NR-12 da Previsio Engenharia, sem custo.">
+<meta name="robots" content="noindex, follow">
+<meta name="theme-color" content="#09253C">
+<meta property="og:title" content="Checklist de Risco Iminente NR-12 | Previsio Engenharia">
+<meta property="og:description" content="8 perguntas para conferir a sua operação. Responda com Sim, Não ou Não sei.">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pt_BR">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+<link rel="preload" href="assets/fonts/roboto-slab-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/roboto-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/style.css?v=20261002">
+
+<!-- ===== CONFIG da LP-02 =====
+     Regra: só entra ID que esteja no card, no plano ou no board Dados.
+     Ver lp-02/LEIA-ME.md, seção "Antes de publicar". -->
+<script>
+  window.PREVISIO_CFG = {
+    GTM_ID: "",          /* TODO(Moisés): confirmar reuso do GTM-TN7JVR7R (compartilhado com a LP-01 e o site) */
+    FORM_ENDPOINT: "",   /* TODO(Moisés/João): webhook do n8n atual ou fluxo novo do autmaximum */
+    WHATSAPP: "555134669601",
+    ORIGEM: "lp-02-checklist-nr12",
+    OFERTA: "checklist-risco-iminente-nr12",
+    VARIACAO: "a",
+    /* Versão de aprovação: nestes hosts o GTM não carrega e o formulário não envia (vai direto ao obrigado, sem lead). */
+    HOSTS_APROVACAO: ["agenciamaximum.com", "clientes.agenciamaximum.com", "localhost", "127.0.0.1", ""]
+  };
+</script>
+<script defer src="assets/js/main.js?v=20261002"></script>
+</head>
+<body data-page="index">
+
+<header class="top">
+  <div class="container top__in">
+    <img class="top__logo" src="assets/img/logo-marca.png" width="350" height="112" alt="Previsio Engenharia · Segurança do Trabalho">
+  </div>
+</header>
+
+<main>
+  <!-- Dobra 1 · Hero com o checklist -->
+  <section class="hero" aria-labelledby="h1">
+    <div class="container hero__grid">
+      <div class="hero__copy">
+        <span class="kicker">Para quem responde por produção e segurança na indústria</span>
+        <h1 id="h1"><span class="h1-1">Máquina fora da NR-12 pode ser interditada e parar a sua produção.</span> <span class="h1-2">Confira 8 pontos da sua operação.</span></h1>
+        <p class="hero__sub">Responda com Sim, Não ou Não sei. A NR-12 vale para máquinas novas e usadas, inclusive as mais antigas da linha.</p>
+      </div>
+
+      <div class="ck" id="checklist" aria-labelledby="ck-title">
+        <div class="ck__head">
+          <h2 class="ck__title" id="ck-title">Checklist de Risco Iminente NR-12</h2>
+          <span class="ck__count" id="ck-count" aria-live="polite">Pergunta 1 de 8</span>
+        </div>
+        <p class="ck__note" id="ck-note">8 perguntas, sem custo. O cadastro fica para o final, para ver o resultado.</p>
+        <div class="ck__bar" aria-hidden="true"><i id="ck-bar"></i></div>
+
+        <!-- Perguntas: renderizadas pelo main.js a partir de PREVISIO_QUESTIONS.
+             A pergunta 1 já vem no HTML para aparecer sem esperar o JS. -->
+        <div class="ck__step" id="ck-quiz">
+          <span class="ck__topic" id="ck-topic">Painéis elétricos</span>
+          <p class="ck__q" id="ck-q" tabindex="-1">Os painéis elétricos das máquinas estão trancados, sinalizados e sem nenhuma “parte viva” (fios descascados/contatos) exposta?</p>
+          <div class="ck__opts" role="group" aria-labelledby="ck-q">
+            <button type="button" class="ck__opt" data-a="sim">Sim</button>
+            <button type="button" class="ck__opt" data-a="nao">Não</button>
+            <button type="button" class="ck__opt" data-a="nao_sei">Não sei</button>
+          </div>
+          <p class="ck__hint" id="ck-hint">Não sabe responder? Marque Não sei.</p>
+          <div class="ck__nav">
+            <button type="button" class="ck__back" id="ck-back" hidden>← Voltar</button>
+          </div>
+        </div>
+
+        <!-- Cadastro: no mesmo cartão, depois da pergunta 8 -->
+        <form class="ck__step lead" id="lead-form" novalidate hidden>
+          <p class="lead__sum" id="lead-sum" tabindex="-1">8 de 8 respondidas.</p>
+          <p class="lead__call">Informe seus dados para ver o resultado, ponto a ponto.</p>
+          <p class="lead__fail" id="lead-fail" role="alert">Não conseguimos enviar agora. Seus dados e respostas continuam aqui. Tente de novo.</p>
+
+          <div class="fld" data-fld="maquinas">
+            <fieldset>
+              <legend>Quantas máquinas tem a sua operação?</legend>
+              <div class="chips">
+                <label class="chip"><input type="radio" name="maquinas" value="1 a 5"><span>1 a 5</span></label>
+                <label class="chip"><input type="radio" name="maquinas" value="6 a 20"><span>6 a 20</span></label>
+                <label class="chip"><input type="radio" name="maquinas" value="21 a 50"><span>21 a 50</span></label>
+                <label class="chip"><input type="radio" name="maquinas" value="Mais de 50"><span>Mais de 50</span></label>
+                <label class="chip"><input type="radio" name="maquinas" value="Não sei"><span>Não sei</span></label>
+              </div>
+            </fieldset>
+            <span class="fld__err">Escolha uma opção.</span>
+          </div>
+          <div class="fld" data-fld="nome">
+            <label for="f-nome">Nome</label>
+            <input type="text" id="f-nome" name="nome" autocomplete="name" required>
+            <span class="fld__err">Digite seu nome.</span>
+          </div>
+          <div class="fld" data-fld="empresa">
+            <label for="f-empresa">Empresa</label>
+            <input type="text" id="f-empresa" name="empresa" autocomplete="organization" required>
+            <span class="fld__err">Digite o nome da empresa.</span>
+          </div>
+          <div class="fld" data-fld="telefone">
+            <label for="f-tel">WhatsApp</label>
+            <input type="tel" id="f-tel" name="telefone" autocomplete="tel-national" inputmode="tel" placeholder="(51) 99999-9999" required>
+            <span class="fld__err">Confira o número, com DDD.</span>
+          </div>
+          <div class="fld" data-fld="email">
+            <label for="f-email">E-mail</label>
+            <input type="email" id="f-email" name="email" autocomplete="email" inputmode="email" required>
+            <span class="fld__err">Confira o e-mail.</span>
+          </div>
+          <!-- campo-isca contra robô: preenchido, o envio é descartado sem contar conversão -->
+          <div class="hp" aria-hidden="true">
+            <label for="f-site">Site</label>
+            <input type="text" id="f-site" name="site" tabindex="-1" autocomplete="off">
+          </div>
+
+          <button type="submit" class="btn btn--green btn--block" id="lead-btn">Ver meu resultado</button>
+          <p class="lead__legal">Ao enviar, você concorda que a Previsio Engenharia use esses dados e as suas respostas para mostrar o resultado e falar com você por WhatsApp e e-mail. <a href="privacidade.html" target="_blank" rel="noopener">Aviso de privacidade</a>.</p>
+          <div class="ck__nav">
+            <button type="button" class="ck__back" id="lead-back">← Voltar</button>
+          </div>
+        </form>
+      </div>
+      <ul class="hero__creds" aria-label="Sobre a Previsio">
+        <li>Desde 2016</li>
+        <li>+1.000 clientes</li>
+        <li>Projeto, execução e laudo com ART</li>
+        <li>Sede em São Leopoldo/RS, atendimento em todo o Brasil</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Dobra 2 · Antes e depois -->
+  <section class="sec" aria-labelledby="h-casos">
+    <div class="container">
+      <h2 id="h-casos">A NR-12 vale para máquina nova e para máquina usada.</h2>
+      <p class="sec__lead">Adequamos as duas, inclusive reconstituindo projetos quando não há documentação.</p>
+      <div class="cases">
+        <figure class="case">
+          <div class="case__pair">
+            <div class="case__ph"><img src="assets/img/painel-antes.webp" width="640" height="480" loading="lazy" decoding="async" alt="Painel elétrico antes da reforma"><span class="case__tag">Antes</span></div>
+            <div class="case__ph"><img src="assets/img/painel-depois.webp" width="640" height="480" loading="lazy" decoding="async" alt="Painel elétrico depois da reforma"><span class="case__tag case__tag--ok">Depois</span></div>
+          </div>
+          <figcaption>Reforma de painel elétrico: NR-10 e NR-12.</figcaption>
+        </figure>
+        <figure class="case">
+          <div class="case__pair">
+            <div class="case__ph"><img src="assets/img/coladeira-antes.webp" width="640" height="480" loading="lazy" decoding="async" alt="Coladeira antes da adequação"><span class="case__tag">Antes</span></div>
+            <div class="case__ph"><img src="assets/img/coladeira-depois.webp" width="640" height="480" loading="lazy" decoding="async" alt="Coladeira depois da adequação"><span class="case__tag case__tag--ok">Depois</span></div>
+          </div>
+          <!-- TODO(cliente): legenda da coladeira a ser escrita pela Previsio (pendência 8 do plano). -->
+          <figcaption>Coladeira: antes e depois.</figcaption>
+        </figure>
+      </div>
+      <div class="sec__cta"><a class="btn btn--green js-go" href="#checklist">Fazer o checklist NR-12</a></div>
+    </div>
+  </section>
+
+  <!-- Dobra 3 · O que está em jogo -->
+  <section class="sec sec--soft" aria-labelledby="h-risco">
+    <div class="container">
+      <h2 id="h-risco">Adiar custa caro, em três frentes.</h2>
+      <p class="sec__lead">A adequação de máquinas à NR-12 é obrigatória, para máquinas novas e usadas. Sem conformidade:</p>
+      <ul class="risks">
+        <li><strong>Risco jurídico</strong><span>Interdição da máquina ou do setor: sua linha para de um dia para o outro.</span></li>
+        <li><strong>Risco financeiro</strong><span>Multas, indenizações, ações regressivas do INSS e perda de contratos.</span></li>
+        <li><strong>Risco humano</strong><span>Cortes, esmagamentos e amputações: acidentes evitáveis.</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Dobra 4 · Como funciona o checklist -->
+  <section class="sec" aria-labelledby="h-como">
+    <div class="container narrow">
+      <h2 id="h-como">Como funciona o checklist</h2>
+      <ol class="how">
+        <li>Você responde 8 perguntas com Sim, Não ou Não sei.</li>
+        <li>Informa nome, empresa, WhatsApp e e-mail.</li>
+        <li>Vê o resultado na hora, ponto a ponto: o que está em ordem, o que está em aberto e o que precisa ser verificado.</li>
+      </ol>
+      <ul class="topics" aria-label="Os 8 pontos do checklist">
+        <li>Painéis elétricos</li><li>Inventário</li><li>Documentação</li><li>Proteções e interfaces</li>
+        <li>Emergência e rearme</li><li>Manuais</li><li>Capacitação</li><li>Procedimentos</li>
+      </ul>
+      <p class="limit">O checklist não substitui a apreciação de risco, que é o diagnóstico técnico de cada máquina e é um serviço contratado. Ele aponta os pontos em aberto.</p>
+      <div class="sec__cta"><a class="btn btn--green js-go" href="#checklist">Fazer o checklist NR-12</a></div>
+    </div>
+  </section>
+
+  <!-- Dobra 5 · Quem está por trás -->
+  <section class="sec sec--navy" aria-labelledby="h-quem">
+    <div class="container narrow">
+      <h2 id="h-quem">Do laudo à obra: projeta, executa e atesta.</h2>
+      <p class="sec__lead">Ciclo completo: apreciação de risco, projeto, execução e laudo com ART, com um só fornecedor.</p>
+      <ol class="flow" aria-label="Etapas">
+        <li>Apreciação de risco</li><li>Inventário de risco</li><li>Projeto executivo</li>
+        <li>Adequação física</li><li>Laudo</li><li>Documentação</li>
+      </ol>
+      <p class="nr10"><strong>Também em NR-10:</strong> prontuário de instalações elétricas (PIE), relatório técnico de inspeção (RTI), projetos elétricos, SPDA, aterramento, adequação de comandos para extra baixa tensão e reforma de painéis e instalações elétricas.</p>
+      <div class="sec__cta"><a class="btn btn--green js-go" href="#checklist">Fazer o checklist NR-12</a></div>
+    </div>
+  </section>
+
+  <!-- Dobra 6 · Perguntas frequentes -->
+  <section class="sec sec--soft" aria-labelledby="h-faq">
+    <div class="container narrow">
+      <h2 id="h-faq">Perguntas frequentes</h2>
+      <div class="faq">
+        <details><summary>Preciso me cadastrar para fazer o checklist?</summary>
+          <p>Para responder, não. Para ver o resultado, sim: no fim das 8 perguntas você informa nome, empresa, WhatsApp e e-mail.</p></details>
+        <details><summary>O checklist tem custo? Ele substitui a apreciação de risco?</summary>
+          <p>Não tem custo e não substitui. O diagnóstico real de cada máquina é dado pela apreciação de risco, e num parque fabril o conjunto das apreciações forma o inventário de risco. Esse trabalho é contratado. O checklist aponta os pontos em aberto.</p></details>
+        <details><summary>Marquei Não sei em várias perguntas. E agora?</summary>
+          <p>Não sei conta como ponto a verificar. O resultado lista esses pontos para você levar a quem responde tecnicamente pela planta: SESMT, técnico de segurança ou gerente de manutenção.</p></details>
+        <details><summary>A adequação vai parar a minha produção?</summary>
+          <p>Nosso foco é minimizar o impacto. Trabalhamos com paradas programadas e estratégicas, 100% alinhadas com o seu cronograma. Assim, realizamos as intervenções necessárias com segurança e eficiência, sem gerar o caos de uma parada não planejada na sua fábrica.</p></details>
+        <details><summary>Máquina antiga ou usada também precisa ser adequada?</summary>
+          <p>Sim. A NR-12 vale para máquinas novas e usadas. Adequamos as duas, inclusive reconstituindo projetos quando não há documentação.</p></details>
+        <details><summary>Vocês só fazem o laudo ou também executam?</summary>
+          <p>Ciclo completo: apreciação de risco, projeto, execução e laudo, com um só fornecedor.</p></details>
+        <details><summary>A Previsio atende a minha região?</summary>
+          <p>Todo o Brasil. Sede em São Leopoldo/RS, com projetos no país e no exterior.</p></details>
+        <details><summary>O que a Previsio faz com os meus dados?</summary>
+          <p>Usa seu nome, empresa, WhatsApp, e-mail e as respostas do checklist para mostrar o resultado e para falar com você sobre a adequação das suas máquinas. Não vende nem cede seus dados. Para corrigir ou apagar, escreva para <a href="mailto:vendas@previsio.com.br" class="js-mail">vendas@previsio.com.br</a>.</p></details>
+        <details><summary>Recebi notificação ou tenho auditoria marcada. Preciso fazer o checklist?</summary>
+          <p>Não. Ligue para <a href="tel:+555134669601" class="js-tel">(51) 3466-9601</a> ou escreva para <a href="mailto:vendas@previsio.com.br" class="js-mail">vendas@previsio.com.br</a>.</p></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- Dobra 7 · Chamada final -->
+  <section class="sec final" aria-labelledby="h-final">
+    <div class="container narrow">
+      <h2 id="h-final">Sua operação passaria em uma fiscalização hoje?</h2>
+      <p class="sec__lead">São 8 perguntas. O resultado aparece assim que você conclui o cadastro.</p>
+      <a class="btn btn--green js-go" href="#checklist">Fazer o checklist NR-12</a>
+    </div>
+  </section>
+</main>
+
+<!-- Dobra 8 · Rodapé -->
+<footer class="ft">
+  <div class="container">
+    <img class="ft__logo" src="assets/img/logo-marca-branca.png" width="350" height="112" loading="lazy" alt="Previsio Engenharia · Segurança do Trabalho">
+    <p><strong>Previsio Engenharia · Segurança do Trabalho</strong></p>
+    <p><a href="tel:+555134669601" class="js-tel">(51) 3466-9601</a> · <a href="mailto:vendas@previsio.com.br" class="js-mail">vendas@previsio.com.br</a></p>
+    <p>Rua Monteiro Lobato, 149 — Rio Branco, São Leopoldo/RS — CEP 93040-350</p>
+    <p>CNPJ 26.244.431/0001-97 · Responsável Técnico: Rodrigo — CREA-RS 113630</p>
+    <p><a href="privacidade.html" target="_blank" rel="noopener">Aviso de privacidade</a></p>
+    <p class="ft__credit">Feito por <a href="https://agenciamaximum.com" target="_blank" rel="noopener">Agência Maximum</a></p>
+  </div>
+</footer>
+
+<!-- Barra fixa no celular: some enquanto o cartão do checklist está na tela -->
+<div class="sticky" id="sticky" aria-hidden="true">
+  <a class="btn btn--green btn--block js-go" href="#checklist" id="sticky-btn" tabindex="-1">Fazer o checklist NR-12</a>
+</div>
+
+<noscript><style>.ck__opts,.ck__hint{display:none}</style><p style="background:#fff4dc;padding:12px;margin:0;text-align:center">Para fazer o checklist, ative o JavaScript ou ligue para (51) 3466-9601.</p></noscript>
+</body>
+</html>
