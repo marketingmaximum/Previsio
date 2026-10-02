@@ -68,8 +68,13 @@ h1,h2,h3,h4{margin:0 0 .4em;font-family:var(--slab);line-height:1.15;color:var(-
 .hero__sub strong{color:#fff}
 .hero__points{list-style:none;padding:0;margin:0 0 26px;display:grid;gap:10px}
 .hero__points li{display:flex;align-items:center;gap:10px;font-weight:500;color:#eaf1f6}
-.hero__cta{display:flex;flex-wrap:wrap;gap:14px;margin-bottom:14px}
+.hero__cta{display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px;margin-bottom:14px}
 .hero__note{font-size:.9rem;color:#aebecb;margin:0}
+/* WhatsApp como ação secundária discreta (link, não botão concorrente) */
+.hero__wa{display:inline-flex;align-items:center;gap:6px;color:#d7e2ea;font-weight:600;font-size:.95rem;border-bottom:1px solid transparent}
+.hero__wa .ico{color:var(--wa)}
+.hero__wa:hover{color:#fff;border-bottom-color:rgba(255,255,255,.4)}
+.hero__wa--inv{color:#cdd9e2}
 
 /* ---- trust ---- */
 .trust{background:var(--navy);color:#fff;border-top:1px solid rgba(255,255,255,.08)}
@@ -180,6 +185,10 @@ h1,h2,h3,h4{margin:0 0 .4em;font-family:var(--slab);line-height:1.15;color:var(-
 .ft__col a:hover{color:var(--green)}
 .ft__bar{border-top:1px solid rgba(255,255,255,.1);padding:16px 0;font-size:.85rem;color:#8aa0ae}
 .ft__bar .container{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.ft__made{display:inline-flex;align-items:center;gap:5px}
+.ft__made a{color:#cdd9e2;font-weight:600}
+.ft__made a:hover{color:var(--green)}
+.ft__heart{width:14px;height:14px;color:#e0556b;vertical-align:middle}
 
 /* flutuantes */
 .wa-float{position:fixed;right:18px;bottom:18px;z-index:45;width:58px;height:58px;border-radius:50%;background:var(--wa);color:#fff;
@@ -219,11 +228,87 @@ h1,h2,h3,h4{margin:0 0 .4em;font-family:var(--slab);line-height:1.15;color:var(-
 .selos .ico{color:var(--green)}
 .form-card__title{font-size:1.16rem;margin:0 0 4px}
 .form-card__rev{margin:0 0 18px;font-size:.92rem;color:var(--green-d);font-weight:700}
-.magnet{margin-top:28px;background:rgba(255,255,255,.05);border:1px dashed rgba(255,255,255,.30);
-  border-radius:var(--r);padding:20px 22px}
-.magnet h3{color:#fff;font-size:1.05rem;margin:0 0 6px}
-.magnet p{color:#c3d2dd;font-size:.94rem;margin:0 0 14px}
+/* oferta secundária discreta (1 linha) */
+.magnet-line{margin:22px 0 0;padding-top:16px;border-top:1px solid rgba(255,255,255,.12);
+  color:#aebecb;font-size:.92rem;display:flex;flex-wrap:wrap;align-items:baseline;gap:6px}
+.magnet-line__btn{background:none;border:0;padding:0;cursor:pointer;color:#bdf0c0;font-weight:700;
+  font-size:.92rem;font-family:inherit;border-bottom:1px solid rgba(68,180,74,.5)}
+.magnet-line__btn:hover{color:#fff;border-bottom-color:#fff}
 .cta-final__in{text-align:center}
+
+/* ======== Checklist de Risco Iminente (modal redesenhado) ======== */
+.modal__box.ck{max-width:600px;text-align:left;padding:0;max-height:92vh;display:flex;flex-direction:column;overflow:hidden}
+.modal__box.ck .modal__x{color:rgba(255,255,255,.85);z-index:2}
+.modal__box.ck .modal__x:hover{color:#fff}
+/* cabeçalho navy com degradê */
+.ck__head{position:relative;padding:26px 30px 20px;color:#fff;
+  background:linear-gradient(135deg,var(--navy) 0%,var(--navy-2) 100%)}
+.ck__head .eyebrow{background:rgba(68,180,74,.22);color:#bdf0c0;margin-bottom:10px}
+.ck__head h3{font-size:1.4rem;margin:0 0 .25em;color:#fff}
+.ck__head p{color:#c4d2dd;margin:0 0 16px;font-size:.94rem;max-width:42em}
+.ck__bar{height:7px;border-radius:999px;background:rgba(255,255,255,.16);overflow:hidden}
+.ck__bar span{display:block;height:100%;width:0;border-radius:999px;
+  background:linear-gradient(90deg,var(--green),#7ed884);transition:width .3s}
+/* lista de perguntas */
+.ck__quiz{overflow-y:auto;padding:20px 26px 24px;background:var(--soft)}
+.ck__list{list-style:none;margin:0;padding:0;display:grid;gap:12px;counter-reset:ck}
+.ck__q{counter-increment:ck;background:#fff;border:1px solid var(--line);border-radius:var(--r);
+  padding:16px 18px 16px 56px;position:relative;box-shadow:0 2px 8px rgba(9,37,60,.05);transition:border-color .15s,box-shadow .15s}
+.ck__q::before{content:counter(ck);position:absolute;left:16px;top:16px;width:28px;height:28px;border-radius:50%;
+  background:var(--navy);color:#fff;font-family:var(--slab);font-weight:700;font-size:.9rem;
+  display:flex;align-items:center;justify-content:center}
+.ck__q.is-done{border-color:rgba(68,180,74,.5)}
+.ck__q.is-done::before{background:var(--green)}
+.ck__q p{margin:0 0 11px;color:var(--ink);font-size:.95rem;line-height:1.4}
+.ck__q p b{color:var(--navy);font-weight:700}
+.ck__opts{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}
+.ck__opts label{position:relative;cursor:pointer}
+.ck__opts input{position:absolute;opacity:0;inset:0;cursor:pointer}
+.ck__opts span{display:flex;align-items:center;justify-content:center;gap:5px;padding:9px 6px;
+  border:1.5px solid var(--line);border-radius:var(--r-sm);font-weight:600;font-size:.85rem;color:var(--muted);
+  transition:all .15s;text-align:center}
+.ck__opts span::before{font-weight:800;font-size:.95em}
+.ck__opts label:hover span{border-color:var(--navy-2);color:var(--navy)}
+/* estados por valor */
+.ck__opts .o-sim span::before{content:"\2713";color:var(--green)}
+.ck__opts .o-nao span::before{content:"\2715";color:#e0556b}
+.ck__opts .o-ns span::before{content:"?";color:var(--muted)}
+.ck__opts .o-sim input:checked+span{border-color:var(--green);background:rgba(68,180,74,.14);color:var(--green-d)}
+.ck__opts .o-nao input:checked+span{border-color:#e0556b;background:rgba(224,85,107,.12);color:#c2384e}
+.ck__opts .o-ns input:checked+span{border-color:var(--navy-2);background:rgba(9,37,60,.07);color:var(--navy)}
+.ck__q--miss{border-color:#e0556b;box-shadow:0 0 0 3px rgba(224,85,107,.12)}
+.ck__submit{margin-top:18px}
+.ck__hint{text-align:center;color:var(--muted);font-size:.82rem;margin:10px 0 0}
+/* resultado */
+.ck__result{padding:34px 30px;text-align:center;overflow-y:auto;background:#fff}
+.ck__rico{display:inline-flex;align-items:center;justify-content:center;width:68px;height:68px;border-radius:50%;margin-bottom:8px}
+.ck__rico .ico{width:34px;height:34px}
+.ck__rico--crit{background:rgba(224,85,107,.14);color:#c2384e}
+.ck__rico--ok{background:rgba(68,180,74,.16);color:var(--green-d)}
+.ck__badge{display:inline-block;font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.74rem;
+  padding:6px 15px;border-radius:999px;margin:6px 0 12px}
+.ck__badge--crit{background:rgba(224,85,107,.14);color:#c2384e}
+.ck__badge--ok{background:rgba(68,180,74,.14);color:var(--green-d)}
+.ck__result h3{font-size:1.5rem;margin:0 0 .35em}
+.ck__result>p{color:var(--muted);margin:0 auto 22px;line-height:1.55;max-width:30em}
+.ck__again{display:block;margin:14px auto 0;background:none;border:0;color:var(--muted);font-weight:600;cursor:pointer;font-size:.9rem;text-decoration:underline}
+@media (max-width:480px){
+  .ck__opts{grid-template-columns:1fr}
+  .ck__head,.ck__quiz,.ck__result{padding-left:18px;padding-right:18px}
+  .ck__q{padding-left:52px}
+}
+
+/* ---- Lead gate (captura antes do WhatsApp) ---- */
+.modal--top{align-items:flex-start;overflow-y:auto}
+.modal--top .modal__box{margin:5vh auto}
+.modal__box.gate{max-width:430px;text-align:left;padding:30px 28px}
+.gate__ic{display:inline-flex;align-items:center;justify-content:center;width:54px;height:54px;border-radius:50%;
+  background:var(--wa);color:#fff;margin-bottom:12px}
+.gate__ic .ico{width:28px;height:28px}
+.modal__box.gate h3{font-size:1.3rem;margin:0 0 .25em}
+.modal__box.gate>p{color:var(--muted);margin:0 0 18px;font-size:.95rem}
+.modal__box.gate .lead-form{gap:12px}
+.modal__box.gate .lead-form__note{margin-top:4px}
 
 /* ============ responsivo ============ */
 @media (max-width:980px){

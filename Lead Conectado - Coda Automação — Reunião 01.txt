@@ -1,0 +1,1044 @@
+[00:00] Desconhecido: Olá Rodrigo, bom dia. Bom dia, tudo bom, João? Tudo bem, você? Tudo, tudo tranquilo, cara.
+[00:21] Rodrigo: Tá na rua? Tem uns ruídos aí? Sim, cara, eu tô chegando na empresa aqui. Eu tava num
+[00:29] Rodrigo: trabalho agora cedinho, acabou demorando um pouquinho mais, mas acho que já podemos
+[00:32] Rodrigo: começar, começar que eu tô conseguindo prestar atenção aqui. Ah, não, tranquilo. Beleza. Cara,
+[00:40] João: eu queria começar entendendo um pouquinho mais da sua empresa. Eu vi que vocês fazem automações e
+[00:47] João: tudo mais, tem foco pra indústria, mas se você puder me dar um contexto geral assim do que que
+[00:52] João: vocês fazem, quanto tempo estão no mercado e até mesmo os desafios que vocês enfrentam
+[00:59] Rodrigo: nessa parte comercial especificamente? Perfeito, vamos lá. O primeiro passo é sempre ali um
+[01:08] Rodrigo: diagnóstico, né, pra entender, até pra pegar o melhor, a melhor solução, né. Então, cara,
+[01:16] Rodrigo: assim, nós temos duas empresas hoje, tá? A Fota Automação, ela tá há 22 anos no mercado e ela
+[01:23] Rodrigo: tem dois focos distintos, tá? Um deles é automação industrial, um pé maior na área de
+[01:30] Rodrigo: software, tá, software pra indústria e, porém, nós temos um setor interno de pesquisa e
+[01:38] Rodrigo: desenvolvimento no qual agora nos últimos tempos ali nós viemos desenvolvendo software de gestão,
+[01:48] Rodrigo: temos um software ali que faz questão de recorrências e organização de equipes,
+[01:56] Rodrigo: temos um software que faz gestão de estoques pra qualquer tipo de empresa e agora nós desenvolvemos
+[02:06] Rodrigo: um software que é um software pra fazer orçamento, então tu entra ali com, entra com alguns inputs
+[02:18] Rodrigo: como custo empresa, como custo fixo, etc. E aí ele calcula ali o valor de hora, faz a, monta a
+[02:24] Rodrigo: proposta comercial inteira. Então, e é um mini CRM ali também. Então, são duas frentes na coisa,
+[02:32] Rodrigo: tá? Uma delas é a questão de software industrial pra indústria, que aí é a solução pra máquina,
+[02:39] Rodrigo: né, pra sistema de rastreadibilidade, sistema de controle de fonte de fábrica, supervisório e o
+[02:46] Rodrigo: outro então, o outro vieram da Coda, são softwares mais comerciais voltados pra um público mais
+[02:52] Rodrigo: empreendedor, independente do segmento. Então, a Coda é isso. Aí, dentro da Coda, em 2010,
+[03:02] Rodrigo: nós começamos a fazer NR12, que é uma adequação de segurança em máquina, sabe? E aí isso virou
+[03:10] Rodrigo: carro-chefe, na época. E aí, pra não destoar a imagem da Coda, né, de automação industrial,
+[03:16] Rodrigo: enfim, e até pra abrir um novo negócio, na época lá tava com uma, em 2014, ali veio uma recessão
+[03:24] Rodrigo: nessa área de automação, nós abrimos a Previso Engenharia, que é uma empresa de segurança do
+[03:31] Rodrigo: trabalho. Então, o foco é projeto, execução e laudo de todos os itens de segurança do trabalho,
+[03:40] Rodrigo: né, com especial atenção na NR12, que é essa parte de máquinas e equipamentos. Hoje, nós
+[03:48] Rodrigo: atendemos o Brasil inteiro, pelas duas empresas, fora do Brasil também, atendemos Klabin, GM,
+[03:57] Rodrigo: Fiat, Honda, enfim, uma série de marcas grandes ali. E o que é o nosso dodói hoje? A gente tem
+[04:09] Rodrigo: um contrato com a Ideal Marketing, que fez a parte do, faz a nossa parte da busca orgânica no Google.
+[04:18] Rodrigo: Então, hoje a gente tá bem com a Coda, nós estamos com 83% das nossas palavras-chave na
+[04:24] Rodrigo: primeira página do Google, e para a Previso, nós estamos em torno de 50% das nossas palavras-chave
+[04:31] João: na primeira página do Google. E pra o quê que, eu não entendi? Essa última parte. A Coda, ela tá com 80 e poucos
+[04:42] Rodrigo: por cento, e a Previso com 50% na primeira página do Google. Ah, outra empresa, né? Isso, outra empresa, a Previso.
+[04:49] Rodrigo: Hoje, me interessa vender software, muito, pela Coda ali, tá? Então, todo aquele portfólio da Coda
+[05:01] Rodrigo: me interessa vender, principalmente os softwares comerciais. Esse eu gostaria de fazer uma campanha
+[05:08] Rodrigo: focada nisso. E a parte de, na Previso, eu gostaria de ter uma campanha focada pra NR12, tá?
+[05:21] Rodrigo: Temos já estudo de naming, estudo de identidade visual, ali, com toda aquela parte de estudo de cores, longo, tudo.
+[05:32] Rodrigo: E hoje, nós temos uma colega interna, ali, que é a Ianca, que tá deslocada da função dela, que faz as nossas postagens,
+[05:40] Rodrigo: tanto da Coda, quanto da Previso, nas redes sociais, que são o LinkedIn e o Facebook.
+[05:53] Rodrigo: As duas empresas têm site, né? A Coda é acodrs.com.br, e a Previso é previzio.com.br.
+[06:06] Rodrigo: Então, as duas empresas têm site. Do ponto de vista comercial, é Previsio. Isso aí, é P de fato, R de ato, E de escola, V de vitória e I de igreja,
+[06:21] Rodrigo: S de saudade e de igreja, O.com.br. A Previso, ela nasceu em Cubata, dentro da Coda, em 2012, 2013, e virou um CNPJ em 2016.
+[06:38] Rodrigo: Então, ela tá com 10 anos de mercado. E a tendência da... Também, a gente tem uma outra empresa, que é essa, que sofre as comerciais
+[06:45] João: que estão vinculadas à Coda, né?
+[06:47] Rodrigo: Certo. É, bastante coisa. Também são 22 anos, né, nessa caminhada.
+[06:56] Rodrigo: Sim. Hoje, a nossa equipe de vendas ali, ela é mais reativa. Eu tenho um vendedor, um orçamentista, eu apoio essa equipe, e aí, praticamente,
+[07:05] Rodrigo: hoje, a gente colhe reativo dos clientes que a gente já atende há muitos anos, e também de... por indicação, né, o que mais vem.
+[07:15] Rodrigo: E agora, recentemente, começou a vir ali, via Google, né, também, algumas demandas.
+[07:21] João: Certo. Essas demandas que vêm no Google seriam desse posicionamento que foi feito, né? Orgânico.
+[07:29] Rodrigo: Isso. Isso mesmo. Não tem nada pago rodando, atualmente.
+[07:32] Rodrigo: Nada pago. Eu tô... Eu tô conversando com a V4 Company, que é uma empresa que a gente conhece, que é parte...
+[07:41] João: Não faz isso, não, velho. Não faz isso, não.
+[07:45] Rodrigo: Eu tô ali, tô conversando com eles, eu tenho duas reuniões com eles, já me apresentaram o orçamento...
+[07:53] João: Olha, você fecha com qualquer... Não precisa nem fechar com a gente, mas não fecha com a V4, faz isso pra você, não.
+[07:57] João: A gente já recebeu vários clientes aqui reclamando, entendeu?
+[08:01] João: Depois dá uma pesquisada, né, no que as pessoas falam, as pessoas que tiveram experiência.
+[08:07] João: Não precisa nem fechar com a gente, mas considera o que eu tô te falando, faz isso pra você, não.
+[08:13] Rodrigo: Eu vou dar uma olhada no reclame aqui, né? Eu sempre falo isso, né? Eu ainda não fiz...
+[08:18] Rodrigo: Então, deixa eu te falar. A V4, ela é muito boa, só que é a empresa-sede.
+[08:24] Rodrigo: As outras empresas que são franquias, são empresas comuns, então só tem um nome ali.
+[08:31] Rodrigo: Mas vai ser atendido por uma pessoa que... Por uma... Profissionais ali que...
+[08:37] Rodrigo: Não tem necessariamente a mesma expertise do fundador, que é o Denner.
+[08:42] Rodrigo: Ele sim, é top. Agora, se você estiver negociando com a matriz, aí sim é um bom negócio.
+[08:48] Rodrigo: Mas se for com uma filial, não recomendo muito, não.
+[08:52] João: É, boa pergunta, cara. Eu não sei se é com a matriz ou com a filial.
+[08:56] João: É uma... É local, assim, da... Porque tem várias, tem V4 em Belo Horizonte, em São Paulo.
+[09:02] João: Tem uma V4 aqui perto da gente, no Rio, também.
+[09:06] Rodrigo: Essa é de... Esse pessoal que eu tô falando, eles estão em Curitiba.
+[09:10] João: Ah, então não é a matriz, não.
+[09:15] João: Mas... Mas, beleza. Então, hoje, assim, seus vendedores, eles só recebem a demanda.
+[09:22] João: E aí, vão lá e fazem o atendimento e tudo mais.
+[09:25] João: Você pode me passar em números, quantos... Quantas demandas, assim, entre indicação, Google,
+[09:31] João: vocês recebem por mês, atualmente?
+[09:33] João: E aí, quantas costumam fechar?
+[09:36] João: Como é que tá essa parte, hoje, assim, em termos de número?
+[09:40] Rodrigo: Cara, eu... Eu não tenho esses números na mão aqui, tá?
+[09:46] Rodrigo: Eu acredito, assim, cara, que...
+[09:51] Rodrigo: Deixa eu até fazer uma coisa.
+[09:52] Desconhecido: Tu te importa de me aceitar aqui na... Pelo outro...
+[09:56] Desconhecido: Eu vou pedir pra entrar aqui, que aí eu...
+[10:00] Desconhecido: Computador?
+[10:04] Desconhecido: Vou dar positivo, acho que não preciso nem aceitar.
+[10:06] Desconhecido: É, foi.
+[10:08] Desconhecido: Ah, show.
+[10:10] Desconhecido: Vou só botar o volume aqui.
+[10:12] Desconhecido: Acho que agora sim.
+[10:14] Desconhecido: Estão me ouvindo? Estou te ouvindo.
+[10:16] Desconhecido: Perfeito, então tá.
+[10:18] Desconhecido: Agora estou no computador aqui, beleza.
+[10:20] Desconhecido: Bom, então...
+[10:22] Rodrigo: Eu tenho alguns indicadores, tá?
+[10:24] Rodrigo: Mas eu acredito que, assim,
+[10:26] Rodrigo: via busca orgânica ali,
+[10:28] Rodrigo: tanto via e-mail quanto via WhatsApp,
+[10:30] Rodrigo: seriam 5, 6 demandas por dia.
+[10:34] Rodrigo: A maioria delas pela previsão, né?
+[10:36] Rodrigo: Porque são serviços mais...
+[10:40] Rodrigo: mais fáceis de vender,
+[10:42] Rodrigo: mas tem uma demanda maior,
+[10:44] Rodrigo: uma aportura maior.
+[10:46] Rodrigo: E...
+[10:50] Rodrigo: Hoje a gente tem uma taxa de conversão,
+[10:52] Rodrigo: de fechamento, bem alta, tá?
+[10:54] Rodrigo: Em torno de 74, 75%,
+[10:56] Rodrigo: justamente porque
+[10:58] Rodrigo: a gente tem essa
+[11:00] Rodrigo: particularidade, né,
+[11:02] Rodrigo: de ter...
+[11:04] Rodrigo: de ter
+[11:06] Rodrigo: o lead já qualificado
+[11:08] Rodrigo: no colo, né? Aquele cara que quer
+[11:10] Rodrigo: o... que quer a demanda, né?
+[11:12] Rodrigo: Então eu não preciso
+[11:16] Rodrigo: provocar o desejo no cliente, né?
+[11:18] Rodrigo: Isso daí mais indicação, né?
+[11:20] Desconhecido: Sim.
+[11:22] Desconhecido: Certo.
+[11:24] Desconhecido: Tá.
+[11:26] Rodrigo: 5, 6 demandas
+[11:28] Rodrigo: por dia nas duas empresas,
+[11:30] Rodrigo: distribuídas aí entre indicações
+[11:32] Rodrigo: e posicionamento no Google, né?
+[11:34] Rodrigo: Eu acredito que
+[11:36] Rodrigo: posicionamento no Google, tá?
+[11:38] Rodrigo: E aí bota mais umas
+[11:40] Rodrigo: duas, três ali por dia
+[11:42] Rodrigo: em indicação ou clientes recorrentes,
+[11:44] Rodrigo: enfim.
+[11:46] João: Caramba, tem bastante até, hein?
+[11:48] João: Eu não, não, não...
+[11:50] João: Nesse aspecto não tá ruim, né?
+[11:52] João: Eu tenho demanda,
+[11:54] João: mas eu tenho dois
+[11:56] João: pontos que eu queria fomentar
+[11:58] João: bastante, né? Um deles é
+[12:00] João: os softwares ali do nosso setor
+[12:02] João: de pesquisa e desenvolvimento
+[12:04] João: e o outro seria
+[12:06] João: a...
+[12:08] João: a NR12 específica, né?
+[12:10] João: Essa ainda tem palavras-chave
+[12:12] João: que eu não tô aparecendo
+[12:14] João: no Google
+[12:16] João: e...
+[12:18] João: gostaria de aparecer.
+[12:20] Desconhecido: Certo. Então, assim, basicamente
+[12:22] Desconhecido: hoje a sua
+[12:24] Desconhecido: necessidade seria
+[12:26] Desconhecido: pra esses outros produtos, porque
+[12:28] Desconhecido: essa demanda que você
+[12:30] Desconhecido: tem atualmente já é boa o suficiente.
+[12:32] Desconhecido: Dá pra escalar, dá pra ter mais,
+[12:34] Desconhecido: só que já tá boa, né?
+[12:36] Desconhecido: Não tá ruim, assim, algo que precisa
+[12:38] Desconhecido: urgentemente melhorar, né?
+[12:40] Desconhecido: Na verdade,
+[12:42] Desconhecido: assim, eu
+[12:44] Desconhecido: tô procurando um parceiro sistêmico,
+[12:46] Desconhecido: né? Então, o que vá, porque
+[12:48] Desconhecido: existe...
+[12:50] Desconhecido: existe variações, né?
+[12:52] Desconhecido: Eu, assim, o planejamento,
+[12:54] Desconhecido: não é mais quando tu fala em plano de negócio,
+[12:56] Desconhecido: né? Na era da informação, na era
+[12:58] Desconhecido: da IATU, isso que leva lápis, né? Porque
+[13:00] Desconhecido: a coisa é muito dinâmica. Então,
+[13:02] Desconhecido: o meu objetivo
+[13:04] Desconhecido: é realmente ter um parceiro que
+[13:06] Desconhecido: atenda as minhas demandas,
+[13:08] Desconhecido: tanto do ponto de vista de
+[13:10] Desconhecido: consultoria, de direcionamento,
+[13:12] Desconhecido: né?
+[13:14] Desconhecido: E aí eu
+[13:16] Desconhecido: tenho que ver, porque eu tô disposto
+[13:18] Desconhecido: ali, eu preciso, por exemplo, hoje de um
+[13:20] Desconhecido: CRM, pra mim tá muito claro,
+[13:22] Desconhecido: eu preciso de uma consultoria presencial
+[13:24] Desconhecido: na empresa, pra questão
+[13:26] Desconhecido: de vendas ali, pra maximizar,
+[13:28] Desconhecido: montar um time comercial,
+[13:30] Desconhecido: estruturar um time comercial,
+[13:32] Desconhecido: e a parte de marketing ampla,
+[13:34] Desconhecido: né? Então, a gente tá engatinhando nesse ponto
+[13:36] Desconhecido: ali, e aí eu imagino que eu vou ter
+[13:38] Desconhecido: que contratar mais de uma empresa,
+[13:40] Desconhecido: né? Claro, aquela que tiver o melhor
+[13:42] Desconhecido: pacote, mais aderente ao que eu
+[13:44] Desconhecido: preciso, que é justamente uma
+[13:46] Desconhecido: questão sistêmica, é a que eu
+[13:48] Desconhecido: vou optar. Então, ali,
+[13:50] Desconhecido: por exemplo, na...
+[13:52] Desconhecido: Hoje eu trabalho com a Ideal, na
+[13:54] Desconhecido: parte de busca orgânica, né?
+[13:56] Desconhecido: E aí a apresentação da
+[13:58] Desconhecido: V4 ali, ela me dá uma série
+[14:00] Desconhecido: de entregáveis ali,
+[14:02] Desconhecido: que tem proposta,
+[14:04] Desconhecido: eu entendi, eu enxerguei
+[14:06] Desconhecido: valor naquilo ali, né?
+[14:08] Desconhecido: Porque são, é claro, a qualidade
+[14:10] Desconhecido: é outros 500, né? Vou fazer
+[14:12] Desconhecido: esse estudo de qualidade,
+[14:14] Desconhecido: porque eu preciso
+[14:16] Desconhecido: entender como é que tá
+[14:18] Desconhecido: o posicionamento do reclame aqui, e também
+[14:20] Desconhecido: qual é o posicionamento, de maneira
+[14:22] Desconhecido: geral, né?
+[14:24] Desconhecido: Referências, eu sempre faço,
+[14:26] Desconhecido: até pra poder avançar. Então,
+[14:28] Desconhecido: pra mim é isso, assim, eu gostaria,
+[14:30] Desconhecido: né? Eu tô respondendo
+[14:32] Desconhecido: um e-mail que tu mandou, né? Então, o teu e-mail,
+[14:34] Desconhecido: ele não abre muito, assim,
+[14:36] Desconhecido: essa... Outro que
+[14:38] Desconhecido: eu tô, que eu fiz uma reunião ontem, foi
+[14:40] Desconhecido: o T-Company também, que aí eles têm
+[14:42] Desconhecido: um CRM, um sistema
+[14:44] Desconhecido: de marketing ali,
+[14:46] Desconhecido: e um...
+[14:48] Desconhecido: e um chatbot.
+[14:50] Desconhecido: É o RDStation, né?
+[14:52] Desconhecido: RDStation.
+[14:54] Desconhecido: Certo. Bom,
+[14:56] Desconhecido: RDStation
+[14:58] Desconhecido: já foi um parceiro nosso aqui,
+[15:00] Desconhecido: mas atualmente
+[15:02] Desconhecido: a gente não utiliza mais, nem aqui
+[15:04] Desconhecido: internamente, nem com os nossos clientes,
+[15:06] Desconhecido: porque existem soluções
+[15:08] Desconhecido: mais baratas e
+[15:10] Desconhecido: que entregam tão bem ou até melhor quanto.
+[15:12] Desconhecido: Uma delas, por exemplo,
+[15:14] Desconhecido: se quiser depois dar uma pesquisada, é o Brevo.
+[15:16] Desconhecido: O Brevo...
+[15:18] Desconhecido: É, o Brevo...
+[15:20] Desconhecido: Ontem eu fiz a reunião com o pessoal
+[15:22] Desconhecido: da V4, né? Eles me passaram
+[15:24] Desconhecido: a mesma coisa que tu falou,
+[15:26] Desconhecido: só que eles passaram outro nome,
+[15:28] Desconhecido: cara, era...
+[15:30] Desconhecido: Como.
+[15:32] Desconhecido: O Como, ele é um CRM mais
+[15:34] Desconhecido: voltado para o WhatsApp.
+[15:36] Desconhecido: E essa é a sua integração direto com o WhatsApp, né?
+[15:38] Desconhecido: É, não sei se seria
+[15:40] Desconhecido: muito viável, assim. Ele é mais
+[15:42] Desconhecido: para, vamos supor,
+[15:44] Desconhecido: até mais um pouco para B2C.
+[15:46] Desconhecido: Empresas que vendem ali para o cliente
+[15:48] Desconhecido: final, usa muito WhatsApp.
+[15:50] Desconhecido: É...
+[15:52] Desconhecido: Cara, não sei se seria tão legal,
+[15:54] Desconhecido: mas ele, se eu uso o WhatsApp interno
+[15:56] Desconhecido: ali, ele é um CRM
+[15:58] Desconhecido: para isso, entendeu?
+[16:00] Desconhecido: Se eu não me engano, a contratação mínima
+[16:02] Desconhecido: deles é de seis meses.
+[16:04] Desconhecido: É...
+[16:06] Desconhecido: Ah, porque assim, na verdade,
+[16:08] Desconhecido: são até ferramentas diferentes.
+[16:10] Desconhecido: O Brevo, ele é uma ferramenta de
+[16:12] Desconhecido: marketing, então é uma ferramenta que vai
+[16:14] Desconhecido: criar para você automações
+[16:16] Desconhecido: de e-mail, você pode
+[16:18] Desconhecido: incluir no fluxo SMS,
+[16:20] Desconhecido: WhatsApp, mas é
+[16:22] Desconhecido: mais voltado ali para a nutrição de leads.
+[16:24] Desconhecido: É, por exemplo,
+[16:26] Desconhecido: topo de funil, até virar um
+[16:28] Desconhecido: fundo de funil.
+[16:30] Desconhecido: Tem ali módulos de construção de
+[16:32] Desconhecido: page,
+[16:34] Desconhecido: mas ele é mais uma ferramenta de marketing mesmo.
+[16:36] Desconhecido: Eles têm um módulo de
+[16:38] Desconhecido: CRM que
+[16:40] Desconhecido: contratando
+[16:42] Desconhecido: é um valor adicional, mas usa
+[16:44] Desconhecido: tudo integrado ali na mesma plataforma.
+[16:46] Desconhecido: E já o
+[16:48] Desconhecido: como é só CRM. O como não
+[16:50] Desconhecido: é uma ferramenta de automação como
+[16:52] Desconhecido: o Brevo é, entendeu?
+[16:54] Desconhecido: É como se fosse ali o RD Station Marketing
+[16:56] Desconhecido: e o RD Station CRM.
+[16:58] Desconhecido: E aí tem o RD
+[17:00] Desconhecido: conversas
+[17:02] Desconhecido: que é super, super caro.
+[17:04] Desconhecido: A mensalidade é mais de
+[17:06] Desconhecido: dois mil e poucos reais.
+[17:08] Desconhecido: Não vale muito a pena,
+[17:10] Desconhecido: tem coisas muito mais baratas aí.
+[17:12] Desconhecido: E aí seria
+[17:14] Desconhecido: como se fosse esse como ali
+[17:16] Desconhecido: que tem dentro
+[17:18] Desconhecido: a parte conversacional também.
+[17:20] Desconhecido: O RD é mais voltado
+[17:22] Desconhecido: para automações, para chatbot.
+[17:24] Desconhecido: Acho que eles devem ter alguma coisa
+[17:26] Desconhecido: hoje para inteligência artificial, mas não vejo
+[17:28] Desconhecido: precisando utilizar isso também nesse momento.
+[17:30] Desconhecido: Porque você tem uma equipe aí que
+[17:32] Desconhecido: faz o atendimento e tudo mais.
+[17:34] Desconhecido: Não vejo necessidade de automatizar
+[17:36] Desconhecido: alguma coisa agora. Talvez
+[17:38] Desconhecido: em um segundo momento, quando você tenha muita
+[17:40] Desconhecido: demanda e
+[17:42] Desconhecido: poucas pessoas para
+[17:44] Desconhecido: de fato atender essa demanda.
+[17:46] Desconhecido: Aí sim seria viável,
+[17:48] Desconhecido: mas mesmo assim tem ferramentas
+[17:50] Desconhecido: mais baratas, por exemplo.
+[17:52] Desconhecido: Vou até falar um pouco
+[17:54] Desconhecido: sobre nós aqui, da agência
+[17:56] Desconhecido: Máximo.
+[17:58] Desconhecido: Nós somos a agência Máximo
+[18:00] Desconhecido: e temos o foco específico de
+[18:02] Desconhecido: atender empresas de software,
+[18:04] Desconhecido: empresas de tecnologia.
+[18:06] Desconhecido: Estamos nesse mercado aí.
+[18:08] Desconhecido: Eu, particularmente, desde
+[18:10] Desconhecido: 2022,
+[18:12] Desconhecido: com a Máximo aqui, com a
+[18:14] Desconhecido: minha entrada na Máximo,
+[18:16] Desconhecido: desde 2023.
+[18:18] Desconhecido: E nesse sentido, já
+[18:20] Desconhecido: atendemos inúmeras empresas de tecnologia
+[18:22] Desconhecido: que tem um RP
+[18:24] Desconhecido: para indústrias, já atendemos algumas
+[18:26] Desconhecido: empresas que vendem para indústrias
+[18:28] Desconhecido: diretamente, e
+[18:30] Desconhecido: diversos segmentos, tanto supermercado,
+[18:32] Desconhecido: oficinas mecânicas,
+[18:34] Desconhecido: varejo,
+[18:36] Desconhecido: RPs
+[18:38] Desconhecido: bem específicos, segmentados,
+[18:40] Desconhecido: contra outros mais generalistas.
+[18:42] Desconhecido: Então, esse é o nosso
+[18:44] Desconhecido: único público, tá? A gente só atende
+[18:46] Desconhecido: empresas de tecnologia,
+[18:48] Desconhecido: empresas que têm um SaaS, que é
+[18:50] Desconhecido: comercializar, mas sempre voltado para
+[18:52] Desconhecido: a área da saúde. Hoje atendemos bastante
+[18:54] Desconhecido: também empresas voltadas para a área da saúde.
+[18:56] Desconhecido: Somos associados
+[18:58] Desconhecido: da ABSS,
+[19:00] Desconhecido: que é uma associação voltada
+[19:02] Desconhecido: para a Health Dex, e
+[19:04] Desconhecido: nós estamos presentes aí nessa, somos
+[19:06] Desconhecido: parceiros dessa associação,
+[19:08] Desconhecido: e elas têm ali mais de mil
+[19:10] Desconhecido: associados, e todas são empresas de
+[19:12] Desconhecido: tecnologia, só que para a área da
+[19:14] Desconhecido: saúde. Nós fazemos parte desse
+[19:16] Desconhecido: ecossistema também.
+[19:18] Desconhecido: Então, assim, isso,
+[19:20] Desconhecido: por uma paixão minha, desde
+[19:22] Desconhecido: sempre, em duas áreas que
+[19:24] Desconhecido: eu sempre fiquei assim, em qual que eu ia
+[19:26] Desconhecido: seguir. Então, já fiz faculdade
+[19:28] Desconhecido: de SI, por exemplo,
+[19:30] Desconhecido: para, com o objetivo de desenvolver
+[19:32] Desconhecido: sistemas, e
+[19:34] Desconhecido: outra coisa que sempre me chamou muita atenção foi
+[19:36] Desconhecido: a área de marketing. Então,
+[19:38] Desconhecido: é,
+[19:40] Desconhecido: unindo esses dois aí,
+[19:42] Desconhecido: para a gente aqui, foi o melhor mundo,
+[19:44] Desconhecido: para mim, principalmente, depois, para toda empresa,
+[19:46] Desconhecido: o melhor mundo.
+[19:48] Desconhecido: Então, a gente entende que
+[19:50] Desconhecido: vender um software,
+[19:52] Desconhecido: ainda mais,
+[19:54] Desconhecido: B2B, a gente atende
+[19:56] Desconhecido: algumas empresas B2C também,
+[19:58] Desconhecido: mas B2B, especificamente,
+[20:00] Desconhecido: realmente é muito mais complexo. Não é uma coisa simples que qualquer empresa que não tenha muita
+[20:09] Desconhecido: experiência, não conheça o mercado assim, vai conseguir atender de fato. Então, a gente entendeu
+[20:17] Desconhecido: isso e resolveu se especializar nisso. Não somos tão grandes quanto uma V4, por exemplo, ou outras
+[20:24] Desconhecido: empresas até, de certa forma, concorrentes assim. Então, de 2023 para cá, a gente atendeu aí, estamos
+[20:32] Desconhecido: chegando em torno de 50 empresas de software. Não é nosso objetivo também atender, sei lá,
+[20:39] Desconhecido: milhares de empresas ao mesmo tempo, crescer assim uma agência a nível... não é nosso objetivo, a
+[20:45] Desconhecido: gente prefere desenvolver outros produtos, outras soluções e ter a nossa vertente de serviços,
+[20:53] Desconhecido: mas naquilo que a gente se dedicar a fazer aqui na parte de serviço, realmente, eu consegui
+[20:59] Desconhecido: participar do projeto, eu consegui... eu tenho toda a equipe aqui, somos em torno de sete pessoas e eu
+[21:07] Desconhecido: quero participar também, né? Eu gosto de participar, então não temos essa visão de ser uma empresa
+[21:13] Desconhecido: que atende milhares de empresas, especificamente falando de serviços. Então, hoje, o que a gente
+[21:22] Desconhecido: faz também, hoje a gente também é uma empresa de tecnologia, com algumas soluções que complementam
+[21:27] Desconhecido: o nosso serviço de marketing para empresas de software. Então, qual que é o nosso objetivo
+[21:33] Desconhecido: quanto uma agência? É criar canais de vendas para empresas de tecnologia. Então, nesse sentido, a
+[21:40] Desconhecido: gente trabalha tráfego pago, então, desenvolvendo ali ou melhorando esse canal para que se torne
+[21:49] Desconhecido: um canal onde recorrentemente receba-se leads, qualificados. Trabalhamos a parte...
+[21:55] Desconhecido: Eu posso te interromper perguntando, ou tu prefere que eu pergunte tudo depois?
+[21:59] Desconhecido: Pode interromper, não tem problema.
+[22:01] Desconhecido: Beleza. Cara, quando tu fala em tráfego pago, tá? Hoje a gente tem um contrato com a Ideal Marketing,
+[22:11] Desconhecido: que é uma empresa que fez os nossos sites, que é o pessoal da busca orgânica. Quando tu fala em
+[22:21] Desconhecido: tráfego pago, vocês vão desenvolver as landing pages ali para... Me corrija se eu tiver errado.
+[22:29] Desconhecido: Desenvolver duas landing pages ali com o foco na conversão. Aí, via a questão paga, né?
+[22:40] Desconhecido: Para eu fazer um tráfego pago. É isso?
+[22:43] Desconhecido: Isso. Anúncios tanto no Google quanto no Meta e LinkedIn, em alguns casos, quando faz sentido.
+[22:52] Desconhecido: Então, assim, a gente cria, assim, uma landing page, uma ou várias, né? Dependendo da nossa
+[22:59] Desconhecido: estratégia. Otimizamos essa página também, mas basicamente a gente monta essa estrutura. Depois eu
+[23:05] Desconhecido: te explico até um pouco do processo, mas a gente monta essa estrutura para trazer e gerar leads
+[23:10] Desconhecido: qualificados ali. A gente trabalha Google, trabalha Meta, LinkedIn, entendeu? Então, a gente faz com
+[23:16] Desconhecido: que o tráfego pago, ele se torne uma fonte de leads qualificados. Então, desenvolvemos também
+[23:25] Desconhecido: um canal orgânico, como essa empresa que você contratou, atuando ali principalmente no SEO e
+[23:30] Desconhecido: atualmente também no GEO, que é o posicionamento dentro das inteligências artificiais. Por exemplo,
+[23:38] Desconhecido: você pode pesquisar ali dentro de um chat GPT, a sua empresa ser citada, ser recomendada ali. E nesse
+[23:44] Desconhecido: sentido, temos hoje uma solução também, chamada Portal Software, e esse portal, ele é um diretório,
+[23:54] Desconhecido: um grande diretório, tem quase 12 mil softwares ali dentro cadastrados, e ele tem uma função
+[24:02] Desconhecido: especial de usuários que buscam por software, se eles conseguem pesquisar, encontrar, e temos
+[24:08] Desconhecido: também o lado da empresa de software que quer estar bem posicionada, aparecer nas categorias quando
+[24:12] Desconhecido: for pesquisada. E uma terceira vertente, que é ajudar empresas de software a serem recomendadas
+[24:21] Desconhecido: por inteligência artificial. E aí, por que isso acontece? Porque a inteligência artificial, ela
+[24:28] Desconhecido: tenta ser imparcial. Então, se você tem ali no seu site, na CODA, artigos falando sobre você,
+[24:36] Desconhecido: sobre o que vocês fazem, tem um peso diferente de ter um outro site, um diretório, um portal,
+[24:42] Desconhecido: falando sobre vocês, recomendando vocês em determinada categoria. Então, isso tem um peso
+[24:48] Desconhecido: diferente. Quando a inteligência artificial varre os sites da internet para indexar os conteúdos,
+[24:54] Desconhecido: o portal software, falando da CODA, por exemplo, vai ter um peso diferente do que a CODA falando
+[24:59] Desconhecido: sobre ela mesma, porque ela tenta ser imparcial ali. Então, hoje a gente ajuda, tem essa vertente
+[25:05] Desconhecido: também, dentro do tráfego orgânico, de posicionar empresas também, tanto construindo backlinks,
+[25:12] Desconhecido: no SEO e no GEO. Então, temos esse outro canal de venda, que a gente atua, desenvolve. Temos as
+[25:20] Desconhecido: redes sociais, então, marketing de conteúdo, basicamente, criando conteúdos ali, Instagram,
+[25:25] Desconhecido: Facebook, LinkedIn também, conteúdos informativos de engajamento e de venda. Então, o objetivo nosso
+[25:32] Desconhecido: na rede social também é gerar leads ali, as pessoas que nos encontrarem dali também, a gente tem um
+[25:38] Desconhecido: perfil estruturado, que vai servir para gerar leads também, leads qualificados. E trabalhamos também
+[25:45] Desconhecido: com o canal da prospecção ativa. E aí, quando eu falei que nós somos também uma empresa de
+[25:50] Desconhecido: tecnologia, no passado, nós tínhamos uma automação, no N8n, não sei se conhece. N8n.
+[26:00] Desconhecido: Ele é um sistema de automação, que você consegue construir fluxos ali, bem personalizado. Ele
+[26:09] Desconhecido: automatiza várias coisas ali, de uma maneira, uma interface mais ou menos amigável, do que você
+[26:14] Desconhecido: consegue construir códigos ali, por exemplo. Então, nós temos uma automação e prestávamos esse
+[26:22] Desconhecido: serviço para a empresa de software, de maneira personalizada. Então, se a CODA quer fazer
+[26:29] Desconhecido: prospecção ativa, beleza, vamos pegar e vamos criar um fluxo, uma automação personalizada para a CODA.
+[26:34] Desconhecido: Mas, atualmente, nós temos o nosso site, isso é com o mesmo objetivo, só que de uma maneira, uma
+[26:41] Desconhecido: interface ali, onde o usuário próprio consegue entrar, configurar e tudo mais. O que esse software
+[26:46] Desconhecido: faz? Ele é, basicamente, um BDR. Um BDR, ele seria o profissional de vendas, que é responsável por ir
+[26:53] Desconhecido: atrás de novas empresas. É aquele profissional que vai pegar e vai, muitas vezes, ligar, vai mandar
+[26:59] Desconhecido: e-mail, mandar WhatsApp. Então, o sistema nosso, que faz isso, ele busca por empresas, a gente define
+[27:08] Desconhecido: qual, ele vai atrás, encontra empresas, através do Google, através da base de CNPJs, qualifica essas
+[27:15] Desconhecido: empresas, nos critérios que a gente selecionou ali, que a gente quer, mais ou menos, encontrar. Os que
+[27:23] Desconhecido: forem qualificados, ele começa a contatar via e-mail, via WhatsApp, que foi até onde a gente te encontrou.
+[27:28] Desconhecido: Ali, através do nosso software, que varre toda a internet, fica procurando por empresas e fazendo
+[27:35] Desconhecido: seleção, e aí nós vendemos esse software específico, que consegue atender um público maior, até não
+[27:41] Desconhecido: necessariamente só empresas de software, mas empresas que vendem de forma B2B, e também utilizamos ele
+[27:48] Desconhecido: para prestar esse serviço para o nosso cliente, que, na parte da prospecção ativa. Então, ele é uma
+[27:53] Desconhecido: automação ali dentro, que vai, junto com inteligência artificial, criar um outro canal de vendas da
+[28:00] Desconhecido: prospecção ativa, e daí, o trabalho também, da mesma forma, é responder as pessoas que se interessarem.
+[28:07] Desconhecido: Então, é ver um e-mail ali, ver um WhatsApp. Trabalhamos também aqui com agente de A, que seria essa
+[28:13] Desconhecido: segunda vertente, por exemplo, no nosso caso aqui, hoje, a demanda que a gente tem gerada pelo nosso software,
+[28:19] Desconhecido: que é o Cadence Flow, ela é muito grande para uma pessoa normal atender. Então, hoje, a gente tem um
+[28:25] Desconhecido: serviço de A implementado ali, que faz toda a parte de pré-qualificação e agendamento de reunião. Então,
+[28:32] Desconhecido: foi até o que eu te falei, que eu acho que o RDConversas, lá que você conversou, não seria tão necessário
+[28:38] Desconhecido: para você nesse primeiro momento, porque você tem 5, 6 demandas por dia, tem mais duas ou três ali de
+[28:45] Desconhecido: indicação, então, não tem tanta necessidade, mas, por exemplo, a gente já tem 50, 100 demandas por dia ali,
+[28:52] Desconhecido: para atender, e aí aquela questão de convencer, não é? Os leads estão prontos para comprar.
+[28:58] Desconhecido: Então, a gente tem essa outra solução aqui também, tá? E, bom, esse é um pouco do que a gente faz. Nós
+[29:07] Desconhecido: estamos no Rio de Janeiro, temos escritório aqui. No passado, nós tínhamos uma outra visão
+[29:17] Desconhecido: de empresa, chegamos a ser em 12 colaboradores, mas, quando entrou a inteligência artificial, a gente
+[29:25] Desconhecido: conseguiu automatizar boa parte dos nossos processos, e aí reduzimos a nossa equipe, na época,
+[29:31] Desconhecido: para três pessoas apenas, atendendo a mesma quantidade de empresas, e foi super positivo, super viável,
+[29:38] Desconhecido: conseguimos entregar ainda mais resultados para essas empresas, porque hoje o nosso trabalho, ele
+[29:42] Desconhecido: vai ser muito mais estratégico do que operacional. Então, vamos supor, para fazer um anúncio, a gente
+[29:48] Desconhecido: vai lá e cria o anúncio manualmente, cria as artes, os vídeos, tudo que for, manualmente, mas hoje nós
+[29:55] Desconhecido: temos aqui automações que vão olhar frequentemente as
+[30:00] Desconhecido: métricas dessa, desses nossos anúncios, e
+[30:03] Desconhecido: nos informar se algo sair do normal ali,
+[30:06] Desconhecido: do padrão esperado. Então, ela nos avisa,
+[30:08] Desconhecido: a gente vai lá e sabe exatamente o que
+[30:10] Desconhecido: corrigir, e no momento certo, que é para
+[30:12] Desconhecido: corrigir. Não precisa hoje ficar tendo um
+[30:15] Desconhecido: trabalho manual ali, a gente ficava olhando
+[30:17] Desconhecido: sempre, né, isso em outras áreas também
+[30:19] Desconhecido: aqui, é, das nossas prestações de
+[30:22] Desconhecido: serviço. Então, é, basicamente,
+[30:27] Desconhecido: acho que expliquei basicamente tudo, né,
+[30:32] Desconhecido: sobre nós. Então, como é que seria o
+[30:35] Desconhecido: nosso trabalho com a CODA? A gente tem
+[30:38] Desconhecido: hoje um CRM também próprio, e não sei se
+[30:43] Desconhecido: vale a pena entrar em detalhes técnicos,
+[30:45] Desconhecido: mas ele tem um diferencial para empresas
+[30:48] Desconhecido: que vendem de forma B2B, precisam ele
+[30:51] Desconhecido: partir para uma demonstração e tudo mais,
+[30:53] Desconhecido: que a conversão, ou seja, o fechamento da
+[30:57] Desconhecido: conversa, ele não é feito no ambiente
+[30:59] Desconhecido: online, ele é feito no ambiente offline.
+[31:01] Desconhecido: Você faz uma reunião, como a gente está
+[31:03] Desconhecido: fazendo aqui, e daí vamos supor parte para
+[31:06] Desconhecido: um, tem interesse, parte para assinatura
+[31:09] Desconhecido: de um contrato e recebe acesso ali, ou
+[31:11] Desconhecido: implantação de um software. Então, hoje, o que
+[31:14] Desconhecido: nosso CRM faz de diferente, além de todos
+[31:17] Desconhecido: os recursos, como esses outros aí tem? Ele
+[31:20] Desconhecido: envia uma conversão ali para o Meta, para o
+[31:22] Desconhecido: Google, dizendo que aquele lead que ele
+[31:24] Desconhecido: trouxe, que foi lá na nossa página
+[31:26] Desconhecido: oficialmente, preencheu ali o formulário,
+[31:28] Desconhecido: virou um lead. No final, aqui, depois de
+[31:31] Desconhecido: vários e vários dias no processo de
+[31:33] Desconhecido: vendas, ele retornou uma venda para a
+[31:35] Desconhecido: gente, qual foi o valor dessa venda, ele
+[31:38] Desconhecido: retorna essa informação ali para o pixel
+[31:40] Desconhecido: dos anúncios, informando uma conversão.
+[31:43] Desconhecido: Então, com isso, a gente consegue também
+[31:45] Desconhecido: otimizar ainda mais os nossos anúncios,
+[31:48] Desconhecido: porque é um erro muito grave de pessoas
+[31:51] Desconhecido: que fazem anúncios de agências, mas não
+[31:55] Desconhecido: é o principal, é justamente porque não
+[31:57] Desconhecido: tem essa conexão. É porque, assim, eu quero
+[32:00] Desconhecido: fazer uma venda, eu não quero um lead, eu
+[32:02] Desconhecido: não quero que o meu anúncio otimize cada
+[32:05] Desconhecido: vez mais para pessoas irem ali no meu
+[32:07] Desconhecido: site e preenchem o formulário. Quanto mais
+[32:08] Desconhecido: preenchimento, melhor. Aí, nesse caminho aí
+[32:11] Desconhecido: vem leads qualificados, desqualificados, mas
+[32:14] Desconhecido: quando eu tenho esse retorno de
+[32:16] Desconhecido: informação, a plataforma de anúncios
+[32:19] Desconhecido: consegue fazer um match ali. Ó, esse
+[32:22] Desconhecido: e-mail aqui, esse telefone que entrou, virou
+[32:24] Desconhecido: e, no final, esse foi o valor da venda.
+[32:26] Desconhecido: Então, eu preciso trazer cada vez mais
+[32:28] Desconhecido: pessoas que se parecem com essa pessoa.
+[32:30] Desconhecido: Entendeu? Então, hoje a gente atua com um
+[32:33] Desconhecido: pouco dessa inteligência também. Temos uma
+[32:35] Desconhecido: vertente de consultoria, mas ela não é
+[32:38] Desconhecido: uma consultoria presencial para ir
+[32:41] Desconhecido: ensinar os vendedores, ela é mais uma
+[32:43] Desconhecido: consultoria onde a gente consegue
+[32:45] Desconhecido: analisar as reuniões que foram feitas, as
+[32:49] Desconhecido: conversas de WhatsApp, as ligações, todo
+[32:52] Desconhecido: o contato do vendedor com o cliente, a
+[32:53] Desconhecido: gente consegue analisar esses dados. A
+[32:57] Desconhecido: gente tem tecnologia para isso também,
+[32:58] Desconhecido: para fornecer ali, por exemplo, esse
+[33:02] Desconhecido: assistente que está gravando aqui na
+[33:03] Desconhecido: reunião é nosso, aqui interno. Então, ele
+[33:06] Desconhecido: me dá ali toda a transcrição e outros
+[33:08] Desconhecido: insights muito importantes. Então, por
+[33:11] Desconhecido: exemplo, ainda mais em vendas de ciclo
+[33:14] Desconhecido: maiores, como, por exemplo, imagino que
+[33:16] Desconhecido: seja para vocês venderem para indústrias.
+[33:18] Desconhecido: Imagino que não seja uma venda rápida,
+[33:20] Desconhecido: mas mais demorada. Aí, vamos supor que
+[33:23] Desconhecido: você tem três, quatro reuniões ao longo
+[33:25] Desconhecido: de três, quatro meses para fazer uma
+[33:27] Desconhecido: venda. Esse nosso agente aqui, ele tem
+[33:30] Desconhecido: todas essas reuniões e você consegue
+[33:31] Desconhecido: juntar todas elas e ter de uma forma
+[33:34] Desconhecido: completa tudo que foi falado, tudo que
+[33:36] Desconhecido: foi negociado, você consegue perguntar
+[33:37] Desconhecido: ali para uma inteligência artificial que
+[33:40] Desconhecido: tem todo esse contexto, extrair
+[33:41] Desconhecido: determinada informação. Então, hoje a
+[33:44] Desconhecido: gente também utiliza ele para essa
+[33:46] Desconhecido: vertente de consultoria, juntamente ali
+[33:49] Desconhecido: com análise no CRM. Então, a gente consegue
+[33:52] Desconhecido: entrar em dados muito específicos, como,
+[33:54] Desconhecido: por exemplo, esse vendedor aqui, ele tá,
+[33:56] Desconhecido: não tá fazendo muito follow-up, como
+[33:59] Desconhecido: poderia. Então, com base nessa, nessa dor
+[34:04] Desconhecido: que a gente identificou ali, analisando
+[34:06] Desconhecido: todos esses dados, a gente vai lá e vai
+[34:08] Desconhecido: aplicar para ele um treinamento ali de
+[34:11] Desconhecido: follow-up, ensinando ele técnicas de
+[34:13] Desconhecido: follow-up, ensinando qual o tempo que ele
+[34:17] Desconhecido: deve fazer. Ah, vamos supor que esse
+[34:19] Desconhecido: vendedor que tá falhando no script ali
+[34:20] Desconhecido: nas primeiras fases, na parte da
+[34:23] Desconhecido: conversão, de gerar interesse. Então, hoje a
+[34:25] Desconhecido: gente consegue entender isso e aplicar
+[34:27] Desconhecido: esses treinamentos pontuais que cada
+[34:30] Desconhecido: vendedor precisa, entendeu? Então, hoje a
+[34:32] Desconhecido: gente tem essa vertente de consultoria
+[34:33] Desconhecido: também. Vamos supor assim, seria uma
+[34:38] Desconhecido: inicial, não seria como talvez você
+[34:40] Desconhecido: esteja pensando, de ir aí, treinar e tudo
+[34:44] Desconhecido: mais, dar um workshop, entendeu? Mas hoje,
+[34:48] Desconhecido: a gente faz essa, essa, a gente tem esse
+[34:51] Desconhecido: produto, esse serviço aqui também.
+[34:55] Desconhecido: Bom, falei bastante, mas deu para
+[34:57] Desconhecido: entender mais ou menos como é que a gente
+[35:00] Desconhecido: atua? Deixa eu te perguntar uma coisa,
+[35:03] Desconhecido: auditoria dos criativos, por exemplo, que
+[35:06] Desconhecido: a gente publica hoje nas redes sociais,
+[35:09] Desconhecido: é, acho que isso tá inclusa, né? Para ver o...
+[35:15] Desconhecido: A auditoria que você diz seria o que?
+[35:17] Desconhecido: A auditoriação?
+[35:19] Desconhecido: Olha, como é que, por exemplo, assim, como é que,
+[35:22] Desconhecido: de repente, assim, continua, vamos ver
+[35:25] Desconhecido: como é que tu quer estruturar alguma
+[35:27] Desconhecido: proposta para ver o que que contempla
+[35:29] Desconhecido: dentro da... Porque eu imagino que tem uma
+[35:31] Desconhecido: etapa de análise, né?
+[35:33] Desconhecido: É, basicamente, eu, a intenção dessa
+[35:37] Desconhecido: reunião aqui é justamente verificar ali
+[35:40] Desconhecido: em qual caminho a gente pode seguir,
+[35:43] Desconhecido: basicamente os nossos planos, eles são
+[35:45] Desconhecido: divididos por canais de venda. Então,
+[35:47] Desconhecido: assim, ó, vamos trabalhar só o tráfego
+[35:49] Desconhecido: pago, que é por onde, geralmente, as
+[35:51] Desconhecido: empresas entram, onde a gente consegue
+[35:53] Desconhecido: trazer um retorno mais rápido, um
+[35:55] Desconhecido: retorno sobre o investimento. Beleza, é um
+[35:58] Desconhecido: caminho. Agora, vamos trabalhar outros,
+[36:01] Desconhecido: outros canais, como rede social, também,
+[36:03] Desconhecido: vamos trabalhar o tráfego orgânico, então, os
+[36:05] Desconhecido: nossos planos, eles são divididos nisso,
+[36:08] Desconhecido: entendeu? Agora, em relação aos
+[36:11] Desconhecido: conteúdos nas redes sociais,
+[36:14] Desconhecido: e não só os conteúdos, mas como toda
+[36:17] Desconhecido: estratégia, a gente faz isso na primeira
+[36:19] Desconhecido: semana, ali, quando a gente fecha o
+[36:21] Desconhecido: contrato. Então, é a etapa onde a gente vai
+[36:23] Desconhecido: analisar a fundo a corda, a gente cria, ali,
+[36:28] Desconhecido: até uma matriz de análise watch, entende?
+[36:31] Desconhecido: Os pontos, aí, fracos, os pontos positivos, a
+[36:34] Desconhecido: gente faz análise de concorrentes. Então, a
+[36:36] Desconhecido: gente vai pesquisar sobre o seu mercado,
+[36:38] Desconhecido: que, por mais que a gente atenda só
+[36:39] Desconhecido: o software, cada empresa vende para um
+[36:41] Desconhecido: mercado diferente, então, a gente vai
+[36:43] Desconhecido: atrás, pesquisar esse mercado, pesquisar
+[36:44] Desconhecido: os concorrentes, ver o que eles estão
+[36:46] Desconhecido: fazendo. Com base em todos esses dados, a
+[36:50] Desconhecido: gente faz as nossas comunicações, as
+[36:51] Desconhecido: nossas campanhas, nossas landing pages,
+[36:53] Desconhecido: nossa estratégia em si, entendeu? Então, a
+[36:56] Desconhecido: rede social também está inclusa nesse, nesse
+[36:58] Desconhecido: meio, assim, por exemplo, hoje eu estou
+[37:00] Desconhecido: olhando sua rede social, ela está muito,
+[37:03] Desconhecido: ela está dentro da identidade visual, mas
+[37:05] Desconhecido: ela não é muito chamativa, muito
+[37:07] Desconhecido: negativa, não tem muitos conteúdos, assim,
+[37:10] Desconhecido: humanizados, não chama muita atenção, a
+[37:13] Desconhecido: pessoa querer seguir aqui, querer, se
+[37:16] Desconhecido: quer ler, de fato, o que que vocês estão
+[37:18] Desconhecido: falando. Então, a gente mudaria isso, com
+[37:20] Desconhecido: certeza, traria conteúdos mais dinâmicos,
+[37:22] Desconhecido: é, traríamos uma identidade visual um
+[37:26] Desconhecido: pouco diferente, sem sair ali do seu
+[37:28] Desconhecido: padrão de cores, né, e tudo mais, assim.
+[37:30] Desconhecido: Então, isso a gente faz na primeira
+[37:33] Desconhecido: campanha.
+[37:48] Desconhecido: E aí, como é que está, assim, no seu, no
+[37:51] Desconhecido: seu momento, em relação a, a contratação
+[37:54] Desconhecido: desse novo parceiro? Você está, assim,
+[37:57] Desconhecido: pesquisando e pensa em contratar alguém
+[38:02] Desconhecido: o quanto antes, ou é um projeto mais para
+[38:05] Desconhecido: frente? Por enquanto, você está só
+[38:07] Desconhecido: pesquisando. Eu penso em contratar o quanto
+[38:09] Desconhecido: antes, tá? Então, o que que a V4 me
+[38:16] Desconhecido: ofereceu, né? Um diagnóstico completo,
+[38:20] Desconhecido: então, o que que ele faz? Auditoria das
+[38:22] Desconhecido: nossas mídias, das nossas mídias pagas,
+[38:25] Desconhecido: que não tem, então não vai aplicar, não
+[38:27] Desconhecido: tem mídia paga hoje. Auditoria dos
+[38:30] Desconhecido: nossos livros. Então, é mais ou menos
+[38:31] Desconhecido: isso que tu acabou de comentar, né?
+[38:33] Desconhecido: Justamente entender como a gente está
+[38:35] Desconhecido: se posicionando nas redes sociais e,
+[38:39] Desconhecido: é,
+[38:43] Desconhecido: pra ver o comportamento, enfim, e tração
+[38:46] Desconhecido: diagnóstico. A mesma coisa dos sites,
+[38:49] Desconhecido: então, vai olhar lá, fazendo aquelas
+[38:51] Desconhecido: análises ali, de quanto tempo ficar na
+[38:53] Desconhecido: página, aquela coisa ali, pra verificar
+[38:55] Desconhecido: os nossos sites. Faz uma auditoria no
+[39:01] Desconhecido: setor comercial, por exemplo, para apontar
+[39:04] Desconhecido: déficits, eles avaliam se a gente tem, não
+[39:06] Desconhecido: tem CRM, entendem o nosso negócio,
+[39:09] Desconhecido: ajudam a definir qual CRM, verificam
+[39:12] Desconhecido: qual é o tempo de atendimento que a
+[39:15] Desconhecido: gente tem hoje, então fazem todo mundo,
+[39:16] Desconhecido: comparam com a concorrência tempo de
+[39:19] Desconhecido: atendimento, então eles chamam concorrente,
+[39:21] Desconhecido: vê qual é o tempo, é, da mesma
+[39:25] Desconhecido: maneira que eles vão fazer isso aqui na
+[39:26] Desconhecido: empresa, é, fazem uma análise
+[39:28] Desconhecido: competitiva, né, que é um comparativo
+[39:31] Desconhecido: entre players ali do mercado, buscando
+[39:34] Desconhecido: verificar como é que tá a nossa posição
+[39:35] Desconhecido: estratégica, definem o público ideal, que
+[39:39] Desconhecido: tu também comentou, e aí eles definem uma
+[39:43] Desconhecido: estratégia de marketing para vendas, né,
+[39:45] Desconhecido: para futuros eventos, criam as landing
+[39:48] Desconhecido: pages, que é as páginas de conversão, é,
+[39:51] Desconhecido: criam um manual, né, de comunicação, que
+[39:56] Desconhecido: é focado mais para vendas aqui, que é
+[39:59] Desconhecido: como...
+[40:00] Desconhecido: como contatar o cliente e tal e criam um manual de identidade visual
+[40:05] Desconhecido: que eu já tenho também, o manual de identidade visual eu já tenho
+[40:08] Desconhecido: mas talvez eles vão complementar com alguma coisa
+[40:10] Desconhecido: então, esse é o escopo deles antes da gente partir efetivamente
+[40:15] Desconhecido: para uma segunda parte que seria
+[40:21] Desconhecido: realmente contratar eles e outras empresas dentro da...
+[40:25] Desconhecido: por exemplo, eles não têm um CRM, né?
+[40:28] Desconhecido: então... mas eles ajudariam na definição, qual é a melhor CRM, enfim
+[40:33] Desconhecido: e aí seria isso, cara
+[40:35] Desconhecido: então eu tô bem no time, assim, para fazer essa contratação
+[40:39] Desconhecido: ó, deixa eu ser sincero com você
+[40:42] Desconhecido: isso daí é uma estratégia de marketing, tá?
+[40:44] Desconhecido: a estratégia do diagnóstico
+[40:47] Desconhecido: e, cara, hoje a gente tem uma filosofia completamente diferente aqui
+[40:51] Desconhecido: a gente não quer ficar convencendo ninguém de trabalhar conosco
+[40:55] Desconhecido: só quem realmente enxerga valor na nossa parceria
+[40:59] Desconhecido: a gente não... nós não somos esse cara que vai prometer moons
+[41:05] Desconhecido: vai prometer números conversões, tá?
+[41:07] Desconhecido: a gente é bem realista, né?
+[41:09] Desconhecido: o que inclusive eu tô prometendo aqui para você
+[41:13] Desconhecido: em toda essa conversa
+[41:15] Desconhecido: é o lead qualificado
+[41:17] Desconhecido: é o lead que tá dentro ali do fit
+[41:19] Desconhecido: que... da empresa que você busca
+[41:21] Desconhecido: que tá procurando pelo que você tá ofertando
+[41:24] Desconhecido: que tem o dinheiro para pagar, né?
+[41:26] Desconhecido: e aí temos outras soluções, claro, que vão ajudar na parte comercial
+[41:29] Desconhecido: mas a nossa promessa, ela é essa
+[41:32] Desconhecido: tudo isso aí que você comentou
+[41:34] Desconhecido: que eles fazem antes, a gente faz depois
+[41:38] Desconhecido: porque, na verdade, isso é uma estratégia de marketing
+[41:40] Desconhecido: então, assim, eu vou entregar um monte de coisa para você e tal
+[41:43] Desconhecido: mas é só para ajudar você a tomar uma decisão de querer
+[41:46] Desconhecido: fechar com eles, por exemplo
+[41:48] Desconhecido: você vai enxergar um monte de coisa e tal
+[41:50] Desconhecido: mas tudo isso a gente faz porque precisa ser feito
+[41:53] Desconhecido: para iniciar qualquer trabalho de marketing
+[41:55] Desconhecido: a diferença é que ali eles não vão ter uma certeza se
+[41:59] Desconhecido: se você vai fechar com eles ou não
+[42:01] Desconhecido: então é um trabalho ali que eles perdem antes, fazendo
+[42:04] Desconhecido: né?
+[42:05] Desconhecido: a gente faz depois
+[42:06] Desconhecido: justamente por essa questão de não perder tempo mesmo
+[42:09] Desconhecido: só que tudo isso é necessário fazer, realmente
+[42:12] Desconhecido: é... bom
+[42:15] Desconhecido: depois dá uma pesquisada nas avaliações e tudo mais, porque
+[42:19] Desconhecido: eu já recebi inúmeros clientes aqui
+[42:21] Desconhecido: dessa agência
+[42:22] Desconhecido: e de outra agência grande
+[42:25] Desconhecido: com reclamação, principalmente a nível de suporte
+[42:27] Desconhecido: que não tem suporte, as pessoas
+[42:30] Desconhecido: é...
+[42:31] Desconhecido: tipo assim, você é meio que só mais um ali dentro
+[42:34] Desconhecido: entendeu?
+[42:35] Desconhecido: porque tem essa visão assim de escala de um monte de clientes
+[42:39] Desconhecido: de...
+[42:40] Desconhecido: a gente não tem essa visão e nem quer ter
+[42:43] Desconhecido: a gente quer ser uma equipe de marketing ali
+[42:46] Desconhecido: eu vou estar presente, eu vou estar falando com você
+[42:48] Desconhecido: eu sou o dono aqui
+[42:50] Desconhecido: da agência e fico nessa parte comercial também
+[42:53] Desconhecido: mas eu vou estar ali presente, eu vou estar ali ajudando nas estratégias
+[42:56] Desconhecido: eu vou estar presente em reuniões também
+[42:59] Desconhecido: entendeu?
+[43:00] Desconhecido: é...
+[43:02] Desconhecido: eu
+[43:03] Desconhecido: eu pediria para você prestar um pouco atenção também nessa questão de
+[43:08] Desconhecido: especialização
+[43:10] Desconhecido: porque a V4 é uma empresa que atende
+[43:12] Desconhecido: todo tipo de empresa
+[43:14] Desconhecido: né?
+[43:15] Desconhecido: desde uma funerária até, sei lá, atende todo tipo de empresa
+[43:19] Desconhecido: só pela recomendação do CRM
+[43:22] Desconhecido: eu já fiquei até um pouco preocupado porque esse CRM
+[43:25] Desconhecido: é...
+[43:27] Desconhecido: ele não é para empresas de software, ele é mais para quem vende
+[43:31] Desconhecido: para o B2C realmente
+[43:33] Desconhecido: para quem trabalha muito com WhatsApp
+[43:35] Desconhecido: por mais que vocês falem para o WhatsApp, vendedor e tal, mas
+[43:38] Desconhecido: não é para isso, depois se você quiser também dar uma pesquisada no como
+[43:42] Desconhecido: CRM
+[43:43] Desconhecido: tá?
+[43:45] Desconhecido: nós temos um CRM aqui e
+[43:48] Desconhecido: assim
+[43:50] Desconhecido: igual a ele, por exemplo, tem vários
+[43:52] Desconhecido: como o Pipedrive, que é um baita CRM
+[43:55] Desconhecido: mas
+[43:55] Desconhecido: para a gente criar o nosso aqui, nós pegamos basicamente os recursos
+[43:58] Desconhecido: de vários CRMs que a gente achava interessante, criou o nosso aqui
+[44:02] Desconhecido: e
+[44:03] Desconhecido: um destaque específico é essa questão do traqueamento, que eu comentei com você
+[44:08] Desconhecido: hoje a gente tem aqui
+[44:09] Desconhecido: de forma nativa, funciona assim ó
+[44:12] Desconhecido: você tem um lead aqui no seu pipeline
+[44:15] Desconhecido: você moveu ele para outra etapa, isso é um gatilho que vai acionar a conversão
+[44:19] Desconhecido: de um lead qualificado, por exemplo
+[44:21] Desconhecido: você deu um lead como ganho, isso é um gatilho que vai levar o lead lá para
+[44:25] Desconhecido: integração
+[44:26] Desconhecido: e vai dizer lá para o meta, para o Google, que foi ganho, qual foi o valor
+[44:30] Desconhecido: de uma maneira bem prática, bem simples, entendeu?
+[44:33] Desconhecido: então
+[44:36] Desconhecido: deixa eu ver se tem mais alguma coisa para falar
+[44:38] Desconhecido: eu queria saber qual é uma meta que você tem, porque assim
+[44:42] Desconhecido: é mais fácil a gente trabalhar com números
+[44:45] Desconhecido: você falou que tem duas, três indicações, cinco, seis demandas
+[44:49] Desconhecido: conversão bem alta, porque são leads mais qualificados
+[44:53] Desconhecido: se fosse assim falar o número ideal
+[44:56] Desconhecido: para a coda hoje, para todas as soluções, o que você gostaria, o que você
+[45:00] Desconhecido: almeja, por exemplo, é chegar a esse
+[45:02] Desconhecido: é que você também não me falou muito sobre fechamento
+[45:05] Desconhecido: quantos leads fecham por mês, né?
+[45:07] Desconhecido: mas seria chegar a esse número de 5, 6 para 10, 15, 20
+[45:13] Desconhecido: porque também tem que tem que considerar a sua mão de obra e hoje
+[45:16] Desconhecido: são os vendedores, o que eles conseguem atender com qualidade
+[45:20] Desconhecido: qual que seria uma meta, entendeu? Eu sei que você quer colocar essas outras
+[45:24] Desconhecido: soluções para rodar, beleza, mas meta comercial, assim, meta de
+[45:28] Desconhecido: faturamento, tem algo já definido?
+[45:31] Desconhecido: Duas metas, tá? Com relação
+[45:37] Desconhecido: a parte da coda, em termos de software, tá?
+[45:40] Desconhecido: São softwares que o cliente, ele não entra em contato conosco
+[45:45] Desconhecido: e ele compra, ele vai no nosso site e compra o produto
+[45:49] Desconhecido: fecha por lá e, tipo, obviamente tem um suporte técnico
+[45:55] Desconhecido: mas não é uma venda que eu faça, é, porque precisa entrar em contato com ele
+[46:01] Desconhecido: então esse é um ponto, eu quero vender essa venda automática
+[46:04] Desconhecido: Na parte da previsa, também, eu tenho um portal de treinamentos, tá?
+[46:07] Desconhecido: online, que também é compra feita direto no cartão de crédito
+[46:11] Desconhecido: então esses produtos aí, eles têm uma entregada diferente, né?
+[46:17] Desconhecido: Então, teoricamente, não vai ocupar tanto, talvez eu tenha que melhorar
+[46:22] Desconhecido: algum, esse canal de venda, ser mais intuitivo, alguma coisa assim
+[46:26] Desconhecido: mas, de qualquer maneira, o cliente vai ali e compra de prateleira, tá?
+[46:30] Desconhecido: Então, e a NR12, que é o que eu quero focar mais
+[46:35] Desconhecido: esse eu queria, mais ou menos, dobrar a minha meta de...
+[46:39] Desconhecido: hoje, o meu faturamento fica em torno de 200 mil por mês, tá?
+[46:46] Desconhecido: 200 mil por mês, no máximo, eu queria vender em torno de 500, 600 mil
+[46:50] Desconhecido: E aí, para isso, eu sei que, por exemplo, a gente está num momento em que
+[46:56] Desconhecido: as indústrias estão sendo muito auditadas, principalmente em São Paulo
+[47:01] Desconhecido: e a ideia é que o nosso nome chegue, então, nesse público lá
+[47:08] Desconhecido: que contrata esse tipo de demanda, quando eles forem fiscalizados
+[47:12] Desconhecido: ou quando eles estiverem pensando na adequação de NR12
+[47:16] Desconhecido: Então, são duas estratégias diferentes, né?
+[47:21] Desconhecido: Certo.
+[47:23] Desconhecido: E eu quero chegar em mil usuários.
+[47:28] Desconhecido: Hoje eu não tenho nenhum, são produtos que eu acabei de lançar
+[47:31] Desconhecido: e eu quero chegar em mil usuários nos produtos de software esses de prateleira
+[47:36] Desconhecido: que são contratos, né? Pagam por mês.
+[47:42] Desconhecido: Beleza. Então, até mesmo com tudo que você me contou aqui
+[47:47] Desconhecido: e tudo que tem no seu site, são muitas vertentes diferentes
+[47:53] Desconhecido: são muitas funcionalidades.
+[47:56] Desconhecido: Isso está até um pouco confuso ali no site, de certa forma
+[48:01] Desconhecido: porque é muito conteúdo ali, tem muita página, muito menu
+[48:06] Desconhecido: isso é muito bom.
+[48:07] Desconhecido: Eu estou falando assim, para o cliente que está chegando aqui agora
+[48:10] Desconhecido: para poder, ele ter um direcionamento de forma mais fácil, tá?
+[48:16] Desconhecido: Então, isso é uma coisa que nós procuraremos melhorar aqui dentro do seu site
+[48:22] Desconhecido: pensando assim na experiência final do usuário, realmente acessando ali.
+[48:27] Desconhecido: Em relação a todos esses softwares, o que a gente gosta de trabalhar aqui
+[48:31] Desconhecido: é de forma individual cada um deles.
+[48:34] Desconhecido: Então, um software que seja para orçamento
+[48:36] Desconhecido: ele vai ter a página dele específica, né?
+[48:39] Desconhecido: Se ele atender vários públicos, nós vamos pelo menos selecionar
+[48:43] Desconhecido: dois ou três ali iniciais e focar nesses públicos.
+[48:47] Desconhecido: Vamos supor que esse software de orçamento
+[48:49] Desconhecido: você queira vender ele para agência de marketing.
+[48:52] Desconhecido: Então, nós criaremos uma página falando software de agendamento
+[48:55] Desconhecido: para agência de marketing, entendeu?
+[48:58] Desconhecido: E a gente rodaria uma campanha especificamente para isso
+[49:01] Desconhecido: porque isso é uma das nossas estratégias
+[49:04] Desconhecido: a nossa metodologia, um pouco, é utilizar o SpinCelling
+[49:10] Desconhecido: que é uma técnica de venda.
+[49:11] Desconhecido: O SpinCelling, basicamente, ele não fala do produto em primeiro lugar
+[49:15] Desconhecido: mas ele fala da empresa, ele fala da dor.
+[49:18] Desconhecido: Então, nós nunca iniciaríamos uma página falando
+[49:23] Desconhecido: o melhor software para indústrias
+[49:26] Desconhecido: ou quantas funcionalidades vocês têm e tudo mais
+[49:28] Desconhecido: a gente falaria sobre os problemas, né?
+[49:31] Desconhecido: Então, para isso a gente também precisa de um público
+[49:34] Desconhecido: até mesmo em indústrias.
+[49:36] Desconhecido: Então, vamos pegar, tem indústrias alimentícias
+[49:38] Desconhecido: indústrias de metal mecânica
+[49:39] Desconhecido: tem vários tipos de indústrias, indústrias químicas.
+[49:42] Desconhecido: Cada uma dessas pode ter uma dor diferente, né?
+[49:46] Desconhecido: Então, necessitaria uma comunicação diferente.
+[49:49] Desconhecido: Eu gosto sempre de dar um exemplo.
+[49:51] Desconhecido: Em 2024, eu contratei um sistema financeiro para agência
+[49:55] Desconhecido: porque eu recebi um anúncio deles falando
+[49:58] Desconhecido: sistema financeiro especialista.
+[50:00] Desconhecido: para agência de marketing. E aí eu entrei lá e eles tinham, além de toda a gestão,
+[50:05] Desconhecido: métricas como MRR, métricas de CAC. Eu falei, poxa, não vi isso em nenhum outro.
+[50:10] Desconhecido: Fui lá e contratei. Só que depois eu fui descobrir que eles eram generalistas também.
+[50:16] Desconhecido: Eles atendiam a vários tipos de empresa, né, diferentes, mas o anúncio era específico para
+[50:21] Desconhecido: cada uma delas. Então, de lá para cá, a gente começou a pensar assim dessa forma também e
+[50:26] Desconhecido: a gente utiliza essa estratégia em nossos clientes de ser o melhor software ou software
+[50:32] Desconhecido: especialista de orçamentos para agência de marketing. E a campanha vai ser para um público
+[50:38] Desconhecido: de agência de marketing poder contratar essa solução. A comunicação, os prints ali que a
+[50:44] Desconhecido: gente vai colocar, exemplificando, se tiver um vídeo de apresentação, entendeu? Então, assim,
+[50:50] Desconhecido: tem um longo caminho pela frente, são muitas soluções, a meta é alta, mas é possível,
+[50:57] Desconhecido: só que no médio e no longo prazo, alcançar esses mil usuários para cada uma dessas soluções,
+[51:01] Desconhecido: mas tem um longo trabalho pela frente, tá? E também eu recomendaria começarmos um trabalho,
+[51:12] Desconhecido: por exemplo, em algumas vertentes que sejam mais fáceis de vocês já verem um retorno imediato,
+[51:20] Desconhecido: soluções mais fáceis de sair. A gente poderia trabalhar com a vertente principal da Coda,
+[51:27] Desconhecido: que seriam para indústrias, acredito eu que seja mais lucrativo para vocês, a venda talvez seja um
+[51:32] Desconhecido: pouco mais complexa, mas talvez seja mais lucrativo. Se eu estiver falando besteira,
+[51:37] Desconhecido: você me corrija. E a gente pegar outras vertentes ali, desses softwares de prateleira,
+[51:41] Desconhecido: começar a trabalhar. Eles vão sair mais fáceis, vão dar um retorno mais rápido,
+[51:46] Desconhecido: a gente depois vai ter que analisar a taxa de retenção também, o que a gente pode fazer como
+[51:51] Desconhecido: equipe de marketing para ajudar a reter mais os usuários, até mesmo automações ali que vão ensinar,
+[51:57] Desconhecido: vão falar sobre funcionalidades específicas, né? Enfim, tem esse trabalho ali também de ajudar na
+[52:03] Desconhecido: retenção, mas recomendaria começarmos por uma vertente que seja mais fácil de você ver resultado,
+[52:09] Desconhecido: que a primeira coisa que a gente quer bater de meta é o dinheiro que você foi investir em agência de
+[52:16] Desconhecido: anúncios retorne para você. Essa é a primeira meta. E daí para frente, quando esse valor retornar,
+[52:23] Desconhecido: aí a gente traça outras metas ali, como diz... Lembrei aqui agora da Dilma. A gente dobra a meta,
+[52:33] Desconhecido: entendeu? Mas basicamente esse é o nosso trabalho, cara. Eu gosto de ser bem sobro,
+[52:41] Desconhecido: a nosso trabalho sempre é pautado em dados, não vou prometer para você nada irreal. Eu conheço o
+[52:48] Desconhecido: mercado, a gente está aí há alguns anos, não é um produto fácil de se vender, não é que seja difícil
+[52:57] Desconhecido: ou impossível, mas ele é diferente e por ser diferente a gente já sabe disso. No primeiro mês
+[53:03] Desconhecido: você vai ter resultado?
+[53:19] Desconhecido: Vou acertar aqui. Opa, voltou. Cortou, cara. Estava falando no primeiro mês vai ter resultado? No
+[53:28] Desconhecido: primeiro mês você vai ter resultado, sim, né? Mas isso porque a gente já conhece boa parte desse
+[53:35] Desconhecido: caminho, já sabe mais ou menos o que é que funciona, o que não funciona. A gente já sabe o anúncio que
+[53:40] Desconhecido: a gente vai colocar lá no Google, que vai trazer retorno para você, que vai excluir boa parte dos
+[53:45] Desconhecido: leads desqualificados que você teria, sem um pouco dessa expertise, porque a gente já fez isso várias
+[53:52] Desconhecido: vezes. A gente já sabe o anúncio no meta que a gente vai rodar, sabe que tipo de criativo vai
+[53:57] Desconhecido: funcionar melhor, só de bater o olho, entendeu? Inclusive foi algo que eu não falei, mas se você
+[54:04] Desconhecido: tiver aí um braço, alguma pessoa que consiga gravar um vídeo para a gente, seria muito importante também.
+[54:10] Desconhecido: A gente mandou roteiro, edito e tudo mais para performar nos anúncios. Se não tiver, não tem
+[54:16] Desconhecido: problema, a gente tenta criar com inteligência artificial, mas o vídeo ele performa muito mais, tá?
+[54:22] Desconhecido: E é isso, cara, você vai ter uma equipe de marketing aqui, em torno de 4 ou 5 pessoas
+[54:29] Desconhecido: envolvidas no projeto, cada um cuidando de uma parte diferente aqui, aqui dentro, e a ideia é a
+[54:37] Desconhecido: gente ter reuniões semanais ou quinzenais com a parte comercial, onde a gente vai analisar ali
+[54:44] Desconhecido: os leads que entraram, os que avançaram no processo, os que foram qualificados ou não, com
+[54:52] Desconhecido: direcionamento prático, entendendo o que a gente precisa mudar nas nossas campanhas, entendeu?
+[54:57] Desconhecido: Basicamente, esse é o trabalho, cara, que a gente tem para oferecer para você.
+[55:02] Desconhecido: Beleza.
+[55:04] Desconhecido: Beleza.
+[55:06] Desconhecido: Cara, eu acho que é isso, cara, eu acho que dá para, até porque assim, uma coisa que eu concordo
+[55:13] Desconhecido: é que os entregáveis, que a V4 promete, são itens plenamente extraíveis ao longo de uma consultoria.
+[55:24] Desconhecido: Então, claro, são coisas que eu acho que, obrigatoriamente, vocês vão ter que fazer para
+[55:35] Desconhecido: poder posicionar a empresa, né? Não adianta para entender. Mas, cara, da minha parte, está entendido
+[55:40] Desconhecido: ali o que vocês fazem.
+[55:42] Desconhecido: Show de bola. Bom, próximos passos, né? A gente tem aqui um modelo de proposta, seria só eu adaptar
+[55:50] Desconhecido: pelo que a gente conversou aqui, mais ou menos, e consigo te enviar ainda hoje, até mais tarde, tá?
+[55:56] Desconhecido: Tá.
+[55:57] Desconhecido: Se você achar necessário, a gente pode até fazer uma outra ligação ali pelo telefone, só para
+[56:03] Desconhecido: conversar sobre um ponto ou outro, mas, basicamente, a proposta vai conter aqui os planos
+[56:09] Desconhecido: divididos em tudo que eu expliquei aqui para você, tá? E aí, eu gostaria de, depois, a gente ver
+[56:19] Desconhecido: como é que a gente compacta esse segundo momento, tanto para ter uma resposta, qualquer coisa assim,
+[56:28] Desconhecido: e a gente continuar conversando.
+[56:31] Desconhecido: Perfeito, cara. Eu vou aguardar ali, quando o ano se acostumar melhor, porque eu vou tomar essa
+[56:39] Desconhecido: decisão essa semana, né? Eu tenho mais... nessa área ali, na verdade, eu caí no teu e-mail ali e
+[56:47] Desconhecido: acabei respondendo, depois entraram outros, eu acabei nem entrando muito no mérito. Eu tenho mais duas
+[56:57] Desconhecido: ligações, mas não são da mesma segmento que vocês, então, essa é a parte de marketing.
+[57:02] Desconhecido: Então, eu vou... enfim, eu quero botar essa roda para girar, cara. Eu preciso, realmente, dessa...
+[57:09] Desconhecido: é um trabalho que eu estou precisando ali, porque eu tenho uma decisão estratégica, né? Que é a
+[57:15] Desconhecido: questão de continuar fazendo esses softwares comerciais ou não, e aí, eu preciso, realmente,
+[57:21] Desconhecido: ter um estudo, um experimento de aderência de mercado, porque, daqui a pouco, por tudo que é
+[57:32] Desconhecido: pesquisa e desenvolvimento, e é o caso, às vezes, tu fracassa na criação do produto e tu só vai
+[57:41] Desconhecido: saber isso se tu tiver divulgação. Hoje, a internet, ela é o caminho, então, eu não tenho dúvida.
+[57:47] Desconhecido: Se eu tiver alguma expectativa de vender esses produtos, essa expectativa, ela é via internet,
+[57:54] Desconhecido: é via... eu preciso divulgar, né? Ainda mais, assim, que eu acabo não tendo fronteira para esse tipo de
+[58:00] Desconhecido: produto, né? Porque é um produto de software, né? Então... mas é isso, cara, eu acho que também...
+[58:06] Desconhecido: Se eu pudesse te dar uma dica, cara, eu não recomendaria você focar em tantas soluções
+[58:14] Desconhecido: porque, assim, cara, não existe solução que você não consiga vender. Talvez você precise... você faça uma,
+[58:21] Desconhecido: ela não... você entenda depois ali que ela não tá tão boa, você pode melhorar alguma coisa ou outra.
+[58:26] Desconhecido: A única coisa que você precisaria considerar é o tamanho do mercado, né? Por exemplo, ele é específico
+[58:33] Desconhecido: para um mercado, qual o tamanho desse mercado, quais as dores desse mercado, quais são os concorrentes,
+[58:38] Desconhecido: mas, basicamente, não tem software, cara, que não dê para vender. Tudo é a questão de quanto
+[58:44] Desconhecido: energia, esforço, você coloca em cima dele para melhorar. Então, eu penso mais que é melhor você
+[58:51] Desconhecido: ter alguns produtos para alguns segmentos ou para o mesmo segmento. Se fosse te dar uma dica, assim,
+[58:58] Desconhecido: do que é a melhor coisa que a gente enxergou ao longo desse tempo, seria você ter a sua esteira
+[59:04] Desconhecido: de produtos. Então, vamos pegar aqui um exemplo de uma indústria. Eu tenho um produto que é o meu
+[59:10] Desconhecido: top aqui, que é o mais alto de receita que me dá, eu tenho outros ali intermediários, iniciantes,
+[59:16] Desconhecido: mas que atendem esse mesmo segmento. Então, eu recomendaria isso, eu recomendaria ter vários
+[59:24] Desconhecido: produtos porque não acho justo, por exemplo, com um produto, testar ele via anúncio ali dois ou
+[59:33] Desconhecido: três meses e, se não performar tão bem, já abandonar e nunca mais mexer com ele, porque tem
+[59:39] Desconhecido: muitas variáveis nisso daí, entendeu? Não que o produto não seja útil ou tenha um potencial de
+[59:45] Desconhecido: venda, de fato, mas agora, assim, a gente tem dois ou três produtos que a gente quer focar e aí a
+[59:51] Desconhecido: gente vai melhorar o produto, vai melhorar a experiência dele, vai melhorar nossa oferta,
+[59:56] Desconhecido: nosso marketing, nosso comercial, não tem como dar errado.
+[60:00] Desconhecido: você vai vender esse produto, você vai escalar esse produto, mas tudo é questão de quanto
+[60:05] Desconhecido: quanto tempo você investiu para fazer esse produto, versus quanto tempo você vai destinar
+[60:10] Desconhecido: tentando vender ele e se fracassar em alguns meses, abandona a ideia. Não sou muito fã desse
+[60:17] Desconhecido: tipo de pensamento, porque eu acho que ele tem potencial sim, entendeu? Então, eu entendo que
+[60:23] Desconhecido: você esteja nessa questão de pesquisa e desenvolvimento, acho muito legal, mas aí cara,
+[60:30] Desconhecido: é porque assim, para você testar um produto, você vai precisar investir ali, vamos pegar três
+[60:37] Desconhecido: meses para testar um produto cara, pelo menos uns 10 mil reais ao longo desses três meses para testar
+[60:45] Desconhecido: um MVP ali e entender se vale a pena ou não. Então, o que eu quero dizer, tudo isso daí é
+[60:53] Desconhecido: dinheiro, investimento e talvez se você pegasse esse mesmo 10 mil reais e colocasse em uma outra
+[60:58] Desconhecido: coisa ali que já funciona melhor, está mais validada, talvez você lucraria mais. Então,
+[61:04] Desconhecido: é essa questão assim de se analisar, mais ou menos, o tempo que eu estou investindo para fazer
+[61:09] Desconhecido: uma pesquisa, quanto que eu vou precisar investir de dinheiro para eu fazer uma validação ou não,
+[61:15] Desconhecido: se eu investisse esse mesmo esforço em outra vertente, com o mesmo tempo, de repente,
+[61:22] Desconhecido: eu não faturaria mais. Então, é mais ou menos isso, entendeu? Que eu recomendaria a minha dica
+[61:29] Desconhecido: assim para você, que você pode pegar, de repente, só o que couber aí, se você não concordar com
+[61:35] Desconhecido: isso, mas eu acho que, sim, todo o software tem potencial para vender, bastante, desde que
+[61:42] Desconhecido: tenha um mercado relativamente grande, não seja muito nichado, entendeu? Na verdade, hoje eu tenho
+[61:51] Desconhecido: três negócios, basicamente, dois dentro da Coro, que é software industrial, software comercial e
+[62:00] Desconhecido: software video, que é a parte de segurança do trabalho, que me interessa mais é vender NR12 mesmo,
+[62:06] Desconhecido: adequação de segurança em máquina. São centros de custos diferentes dentro da empresa, então, hoje eu
+[62:14] Desconhecido: tenho uma equipe de programadores de software, desenvolvendo softwares comerciais, que eu já estou,
+[62:21] Desconhecido: são softwares que ficaram prontos agora, mas eu já estou há um bom tempo investindo no salário deles,
+[62:27] Desconhecido: então, por isso que eu preciso tomar uma decisão, assim, se realmente é caminho para nós, assim, investir
+[62:34] Desconhecido: nesse negócio, né? Por isso que eu preciso tomar uma decisão, a questão não é o produto, ele está pronto,
+[62:42] Desconhecido: ele vai ser vendido como ele está e ele está bem testado aqui, pelo menos, internamente, né? Só que, ao
+[62:49] Desconhecido: menos, se eu não fizer um esforço de vendas, né? Para vender esses produtos, eu não vou alavancar
+[62:58] Desconhecido: nunca esse negócio, eu vou só gastar, gastar, gastar com o salário dos caras ali e não vou ter retorno,
+[63:04] Desconhecido: né? Essa que é a realidade. Então, eu preciso agora fechar o ciclo, né? Que é justamente o meu ponto de
+[63:10] Desconhecido: distribuição do produto. Então, por exemplo, eu tive uma ideia agora de criar um, sei lá, um motor elétrico
+[63:19] Desconhecido: comestível, tá? Então, beleza, eu criei um motor elétrico comestível, tá? Achei-me a primeira ideia genial,
+[63:26] Desconhecido: ela é um produto pequeno, é um doce que tem um formato de motor elétrico. Para quem que eu vou
+[63:32] Desconhecido: vender isso aqui? Quem é o meu público-alvo? Cara, qualquer gordo que nem eu, porque para mim pode ser
+[63:37] Desconhecido: qualquer formato que tiver, eu vou comer. Então, o que que acontece, né? Claro que se eu vejo um formato lá de
+[63:44] Desconhecido: motor elétrico, eu como sou engenheiro eletricista, eu vou comprar um doce com formato de motor elétrico,
+[63:49] Desconhecido: mas a questão é como é que isso vai chegar até mim, né? E eu tô falando de uma coisa idiota, os nossos
+[63:55] Desconhecido: softwares, em geral, eles resolvem o problema, né? Então, por isso que eu tô nessa angústia, porque eu
+[63:59] Desconhecido: contratei uma outra consultoria aqui na empresa, há um tempo atrás, e aí uma das devolutivas foi essa,
+[64:05] Desconhecido: foi, olha, esse negócio, esse business aqui, esse centro de custo, ele sai, sai, sai dinheiro e não te traz retorno,
+[64:11] Desconhecido: não vendeu nada, porque tu não anuncia, e aí tu tem que fazer uma ação de marketing para esse produto, tu tem que vender,
+[64:18] Desconhecido: né? Seja tu ir para uma feira, seja tu contratar uma agência de marketing, eu preciso fazer alguma
+[64:23] Desconhecido: coisa com esses produtos. E aí, claro, se eu comer, e aí quando eu digo vender mil licenças e detalhe, tá?
+[64:29] Desconhecido: Nosso produto, ele tem um preço muito baixo, é 20 pila por mês.
+[64:34] Desconhecido: Esse é um problema também, esse é um problema. Você vai precisar colocar muita gente para dentro para
+[64:40] Desconhecido: fazer alguma coisa, né? Mas, basicamente, o que eu tô querendo te dizer é justamente isso, que o melhor não é ficar
+[64:46] Desconhecido: criando toda hora uma solução, mas pegar as que já foram criadas, investidos tempo, esforço, dinheiro, e colocar para rodar.
+[64:53] Desconhecido: Depois que rodou, depois que tem cliente que tá se pagando, beleza, atingiu ali um break-even, show, pô, tem outra ideia,
+[65:03] Desconhecido: vou colocar para executar. Porque hoje a gente tá vendo o mercado um pouco se prostituindo de software, de SaaS,
+[65:09] Desconhecido: com a inteligência artificial, qualquer um faz um SaaS, de qualquer coisa, a todo momento, a gente recebe aqui
+[65:17] Desconhecido: várias empresas, entre aspas, que fez um SaaS e quer vender. E algumas delas, cara, a gente nem responde.
+[65:25] Desconhecido: Quando a gente vê o que é, a gente nem responde, porque não é o público-alvo que a gente quer atender,
+[65:29] Desconhecido: a gente quer atender empresas sérias, empresas que estão no mercado há mais tempo, que não são ali um
+[65:35] Desconhecido: aventureiro, fez uma solução, quer ver se dá certo, vai ficar com a gente dois, três meses, vai embora, se não der.
+[65:41] Desconhecido: E esse se não der, às vezes, não depende nem da gente, depende muito também do produto, depende da equipe comercial
+[65:48] Desconhecido: que vai atender, entendeu? A gente prefere atender empresas que são mais realistas, sobra, tá no mercado há mais tempo,
+[65:56] Desconhecido: entendeu? Então, é isso que eu ia recomendar, acho que a consultoria falou bem, o que eu quis expressar aqui,
+[66:04] Desconhecido: é pegar e colocar para rodar, colocar para vender, deu certo, ah, não deu, por esse motivo, vou pegar e melhorar
+[66:12] Desconhecido: isso aqui dentro do produto, de repente, entendeu? O objetivo aí é a gente fazer essas vendas automáticas, realmente.
+[66:21] Desconhecido: É, tem que entrar no site, ter toda a estrutura ali funcionando, ter no máximo um suporte ali, que vai tirar dúvidas,
+[66:27] Desconhecido: ter o máximo de material em vídeo que for possível, que também é um esforço, que é preciso fazer, necessário,
+[66:32] Desconhecido: ter vídeo ali explicando, para que seja mais independente, não acione muito suporte, e é todo um trabalho, entendeu?
+[66:38] Desconhecido: Então, acho que é melhor a gente colocar para rodar o que tem, vender, depois que deu certo, deu resultado,
+[66:46] Desconhecido: deu o break-even, aí constrói outro, entendeu?
+[66:50] Desconhecido: Não, perfeito, acho que é isso, na verdade, por isso que eu repito, a ideia é ter um parceiro, um parceiro,
+[66:58] Desconhecido: não é ter um contrato temporário, porque assim, ok, eu não consegui, daqui a pouco a gente tem um produto ali
+[67:05] Desconhecido: que a gente fez, um esforço, e esse esforço, ok, a gente investiu um dinheiro ali, viu que o produto não está
+[67:13] Desconhecido: com uma aderência bacana, acredito que vocês mesmos vão dizer assim, vão chegar num momento, vão dizer,
+[67:18] Desconhecido: cara, eu não investiria mais dinheiro aqui, porque esse produto, a gente não está, existem players concorrentes
+[67:23] Desconhecido: no mercado, enfim, não está tendo engajamento, e todo trabalho tem um limite, eu também, eu chego, às vezes,
+[67:31] Desconhecido: pego uma máquina para consertar, eu chego num ponto que eu olho, olha, cara, não avanço, não gasto mais dinheiro
+[67:36] Desconhecido: nessa máquina aqui, compro uma nova, vamos focar em outro projeto, então é do jogo, e aí eu tenho muitos produtos
+[67:44] Desconhecido: para trabalhar, entende? E aí a gente cria, tipo, um banco de, mas assim, cara, eu, assim, eu acho que está bem,
+[67:53] Desconhecido: tá, eu acho que a gente, eu entendi a pegada de vocês, me interessa muito, realmente, essa questão da continuidade
+[67:59] Desconhecido: de reuniões periódicas aí, discutir estratégia, entender o que a gente quer, entender quais são os limites, jogar limpo,
+[68:08] Desconhecido: e aí, eu vou, cara, eu vou ficar na guarda da tua proposta ali, assim que eu receber, eu já analiso ela, e já, se eu não tiver em cliente,
+[68:18] Desconhecido: enfim, eu analiso ela, mas em seguida eu te dou um retorno, e aí a gente volta a alinhar daí.
+[68:24] Desconhecido: Combinado, então, Rodrigo, fechou? Fechou. Obrigado. Obrigado aí pelo participar. Fechou, tamo junto, a gente vai se falando.
+[68:32] Desconhecido: Valeu, cara. Abraço, bom dia, hein.
